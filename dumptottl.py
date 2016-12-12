@@ -18,7 +18,7 @@ def main():
         item_des=dict()
         item_des={"name":name,"id":id_item,"id_1":m.group(1),"id_2":m.group(2),
                   "name_intern":m.group(3).split("||")[0][2:]}
-        item_dics[id_item]=item_des
+        item_dics[str(m.group(1)+":"+m.group(2))]=item_des
         line=arc_itemname.readline()
     #%%
     str_itemname="vsdump-2015-07-17T143502-oredict.log"
@@ -28,7 +28,7 @@ def main():
     while line != '':
         gr=line.split("!")
         rel=gr[1].split("->")
-#        print(rel[0] + " " + rel[1])
+        print(rel[0] + " " + rel[1])
         ms = rel[1].split(")")
         tl=[]
         for m in ms:
@@ -57,45 +57,65 @@ def main():
 #%%
     tll=open("items.ttl","w")
     tll.write("@prefix foaf: <http://xmlns.com/foaf/0.1/> .\n@prefix : <http://example.com/> .\n\n")
-    for l in line_recipe:
-        p_n_gr=l["result"].split(",")[0][1:]
-        n_gr=p_n_gr.split(":")
-        n_int=int(n_gr[0]+n_gr[1]) 
-        sujeto=":"+str(n_int)
-        tll.write(sujeto +' :amount "'+ l["result"].split(",")[1][:-1]+'"^^xsd:integer . \n')
-        tll.write(sujeto +' :typeCrafting '+l["type_crafting"]+' . \n')
-        tll.write(sujeto +' :id "'+l["result"].split(":")[0][1:]+'"^^xsd:integer . \n')
-        tll.write(sujeto +' :subId "'+l["result"].split(":")[1].split(",")[0]+'"^^xsd:integer . \n')
-        tll.write(sujeto +' foaf:name '+item_dics[n_int]['name'][:-1]+' . \n')
-        
-        for c in l["coordinate"]:
-            if "w=" in c:
-                #print(c)
-                tll.write(sujeto +' :w '+c.split(",")[0].split("=")[1] + ". \n")
-                #print(c.split(",")[0].split("=")[1])
-                tll.write(sujeto +' :h '+c.split("=")[2].split(")")[0] + ". \n")
-            elif "@" in c:
-                #print(c)
-                name=c.split(",")[0][1:]
-                tll.write(sujeto +' :craftwith '+ name + " . \n")
-            elif "None" in c:
-                pass
-            else:
-                print(c)
-                c_p_n_gr=c.split(",")[0][1:]
-                c_n_gr=c_p_n_gr.split(":")
-                c_n_int=int(c_n_gr[0]+c_n_gr[1]) 
-                tll.write(sujeto +' :craftwith '+ str(c_n_int) + " . \n")
-                
+    for key in item_dics:
+        l=item_dics[key]
+        sujeto=":"+str(l['name_intern'])
+        tll.write(sujeto +' :id "'+l["id_1"]+'"^^xsd:integer . \n')
+        tll.write(sujeto +' :subId "'+l["id_2"]+'"^^xsd:integer . \n')
+        tll.write(sujeto +' foaf:name "'+l['name'][:-1]+'" . \n')
+        tll.write(sujeto +' :name_intern "'+l['name_intern']+'" . \n')
+                        
         tll.write("\n")
+    tll.close()
 #%%
     line_recipe =[]
-    log=open("recipes.log","w")
+    log_archive=open("recipes.log","w")
+    m=0
     with open('vsdump-2015-07-17T143500-recipes.log') as f:
         lines = f.readlines()
         for line in lines:
-            pass
-    
+            ln=s1[0]+"!"
+#            re.search("recipedumper:(\d*)!  ((\d+):(\d+)) (.*)", line)
+            s1=line.split("!")
+            s2=s1[1].split("->")
+            s3=s2[1].split(",")
+            n_res=s3[1]
+            n_gr=s3[0][1:].split(":")
+            n_int_res=int(n_gr[0]+n_gr[1])
+            res=s2[0].split(")")
+            lsl=[]
+            for r in res:
+                if "w" in r:
+                    lsl.append([r+")"])
+                elif "@" in r:
+                    lr=[]
+                    s3=r[1:].split(",")
+                    id_n=item_dics_oredictinary[s3[0]]
+                    for valor in item_dics_oredictinary[s3[0]]:
+                        lr.append("("+item_dics[valor]["name_intern"]+","+s3[1]+")")
+                    lsl.append(lr)
+                elif "None" in r:
+                    lsl.append(["(None)"])
+                elif ""==r:
+                    pass
+                else:
+                    s3=r[1:].split(",")
+                    n_gr=s3[0].split(":")
+                    n_int=int(n_gr[0]+n_gr[1])
+                    lsl.append(["("+item_dics[n_int]["name_intern"]+","+s3[1]+")"])
+            
+            logs=[""]
+            for ln in lsl:
+                logs2=logs.copy()
+                for log in logs2:
+                    logs.remove(log)
+                    for l in ln:
+                        log2=log + l
+                        logs.append(log2)
+            for log in logs:
+                log=log+"->("+item_dics[n_int_res]["name_intern"]+","+n_res
+                log="recipedumper:shapedore!"+log
+                log_archive.write(log)
 #%%
 if __name__ == '__main__':
     main()
