@@ -16,7 +16,15 @@ def main():
 			dict_recipie['result'] = line.split('!')[1].split('->')[1][:-1]
 			line_recipe.append(dict_recipie)
 
+def to_turtle(recipies):
+    turtle_list = []
+    for recipe in  recipies:
+        turtle_list.append(":"+str(recipe['coordinate']) +" :"+recipe['type_crafting']+" :"+str(recipe['result'])+ " ." )
+    return turtle_list
+
 if __name__ == '__main__':
-	main()
-	for l in line_recipe:
-		print(l)
+    main()
+    with open('data.txt', 'w') as outfile:
+        for line in to_turtle(line_recipe):
+            outfile.write(line)
+            outfile.write('\n')
