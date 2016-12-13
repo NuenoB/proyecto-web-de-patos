@@ -13,6 +13,7 @@
 
 :Item a rdfs:Class .
 :OreDictionaryEntry a rdfs:Class .
+:oreDictContains
 :IngredientOf owl:equivalentClass [ owl:unionOf ( :Item :OreDictionaryEntry ) ] .
 
 :UpperLeftIngredientOf rdfs:subclassOf :IngredientOf .
@@ -30,3 +31,7 @@
 :productOf a rdf:Property .
 :productOf rdfs:domain :Item .
 :productOf rdfs:range :Recipe .
+
+:oreDictContains a rdf:Property .
+:oreDictContains rdfs:domain :OreDictionaryEntry .
+:oreDictContains rdfs:range :Items .
