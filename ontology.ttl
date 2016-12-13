@@ -16,17 +16,17 @@
 :IngredientOf owl:equivalentClass [ owl:unionOf ( :Item :OreDictionaryEntry ) ] .
 
 
-:UpperLeftIngredientOf rdfs:subclassOf :IngredientOf .
-:UpperMiddleIngredientOf rdfs:subclassOf :IngredientOf .
-:UpperRightIngredientOf rdfs:subclassOf :IngredientOf .
+:UpperLeftIngredientOf rdfs:subPropertyOf :IngredientOf .
+:UpperMiddleIngredientOf rdfs:subPropertyOf :IngredientOf .
+:UpperRightIngredientOf rdfs:subPropertyOf :IngredientOf .
 
-:MiddleLeftIngredientOf rdfs:subclassOf :IngredientOf .
-:MiddleMiddleIngredientOf rdfs:subclassOf :IngredientOf .
-:MiddleRightIngredientOf rdfs:subclassOf :IngredientOf .
+:MiddleLeftIngredientOf rdfs:subPropertyOf :IngredientOf .
+:MiddleMiddleIngredientOf rdfs:subPropertyOf :IngredientOf .
+:MiddleRightIngredientOf rdfs:subPropertyOf :IngredientOf .
 
-:LowLeftIngredientOf rdfs:subclassOf :IngredientOf .
-:LowMiddleIngredientOf rdfs:subclassOf :IngredientOf .
-:LowRightIngredientOf rdfs:subclassOf :IngredientOf .
+:LowLeftIngredientOf rdfs:subPropertyOf :IngredientOf .
+:LowMiddleIngredientOf rdfs:subPropertyOf :IngredientOf .
+:LowRightIngredientOf rdfs:subPropertyOf :IngredientOf .
 
 :productOf a rdf:Property .
 :productOf rdfs:domain :Item .
