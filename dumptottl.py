@@ -36,10 +36,7 @@ def main():
                 n_str=m[1:]
                 n_str2=n_str.split(",")
                 n_gr=n_str2[0].split(":")
-                temp_str=n_gr[0]+n_gr[1]
-                print(temp_str)
-                n_int=int(n_gr[0]+n_gr[1]) 
-                tl.append(n_int)
+                tl.append(n_str2[0])
         item_dics_oredictinary[rel[0]]=tl
         line=arc_itemdict.readline()
         #%%
@@ -68,55 +65,17 @@ def main():
         tll.write("\n")
     tll.close()
 #%%
-    line_recipe =[]
-    log_archive=open("recipes.log","w")
-    m=0
-    with open('vsdump-2015-07-17T143500-recipes.log') as f:
-        lines = f.readlines()
-        for line in lines:
-            ln=s1[0]+"!"
-#            re.search("recipedumper:(\d*)!  ((\d+):(\d+)) (.*)", line)
-            s1=line.split("!")
-            s2=s1[1].split("->")
-            s3=s2[1].split(",")
-            n_res=s3[1]
-            n_gr=s3[0][1:].split(":")
-            n_int_res=int(n_gr[0]+n_gr[1])
-            res=s2[0].split(")")
-            lsl=[]
-            for r in res:
-                if "w" in r:
-                    lsl.append([r+")"])
-                elif "@" in r:
-                    lr=[]
-                    s3=r[1:].split(",")
-                    id_n=item_dics_oredictinary[s3[0]]
-                    for valor in item_dics_oredictinary[s3[0]]:
-                        lr.append("("+item_dics[valor]["name_intern"]+","+s3[1]+")")
-                    lsl.append(lr)
-                elif "None" in r:
-                    lsl.append(["(None)"])
-                elif ""==r:
-                    pass
-                else:
-                    s3=r[1:].split(",")
-                    n_gr=s3[0].split(":")
-                    n_int=int(n_gr[0]+n_gr[1])
-                    lsl.append(["("+item_dics[n_int]["name_intern"]+","+s3[1]+")"])
-            
-            logs=[""]
-            for ln in lsl:
-                logs2=logs.copy()
-                for log in logs2:
-                    logs.remove(log)
-                    for l in ln:
-                        log2=log + l
-                        logs.append(log2)
-            for log in logs:
-                log=log+"->("+item_dics[n_int_res]["name_intern"]+","+n_res
-                log="recipedumper:shapedore!"+log
-                log_archive.write(log)
-#%%
+    tll=open("oredic.ttl","w")
+    tll.write("@prefix foaf: <http://xmlns.com/foaf/0.1/> .\n@prefix : <http://example.com/> .\n@prefix ont: <http://example.com/> .\n\n")
+    for key in item_dics_oredictinary:
+        item_list=item_dics_oredictinary[key]
+        sujeto=":"+key
+        tll.write(sujeto +' a :OreDictionaryEntry . \n')
+        for l in item_list:
+            tll.write(sujeto +' :oreDictContains :'+ item_dics[l]["name_intern"] + ' . \n')
+        tll.write("\n")              
+    tll.close()
+    #%%
 if __name__ == '__main__':
     main()
 #interfase or antologi, external wiki data, rdflib
