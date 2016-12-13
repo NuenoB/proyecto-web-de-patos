@@ -1,0 +1,5144 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix : <http://example.com/> .
+@prefix ont: <http://example.com/> .
+
+:@oreEmerald a :OreDictionaryEntry . 
+:@oreEmerald :oreDictContains :tile.oreEmerald . 
+:@oreEmerald :oreDictContains :railcraft.ore.dark.emerald . 
+
+:@oreHepatizon a :OreDictionaryEntry . 
+
+:@stoneRod a :OreDictionaryEntry . 
+:@stoneRod :oreDictContains :item.tconstruct.ToolRod.Stone . 
+:@stoneRod :oreDictContains :item.microblock:stoneRod . 
+:@stoneRod :oreDictContains :item.stoneStick . 
+
+:@compressedSand2x a :OreDictionaryEntry . 
+:@compressedSand2x :oreDictContains :tile.extrautils:cobblestone_compressed.15 . 
+
+:@dustDiamond a :OreDictionaryEntry . 
+:@dustDiamond :oreDictContains :ic2.itemDustdiamond . 
+:@dustDiamond :oreDictContains :item.item.crafting.1 . 
+
+:@foodPeanuts a :OreDictionaryEntry . 
+:@foodPeanuts :oreDictContains :item.null.agriculturePeanuts . 
+
+:@ingotInvar a :OreDictionaryEntry . 
+:@ingotInvar :oreDictContains :item.thermalexpansion.material.ingotInvar . 
+
+:@blockGlass a :OreDictionaryEntry . 
+:@blockGlass :oreDictContains :tile.glass . 
+:@blockGlass :oreDictContains :tile.glass.soul . 
+:@blockGlass :oreDictContains :tile.glass.heat . 
+
+:@oreSawdust a :OreDictionaryEntry . 
+
+:@ingotAngmallen a :OreDictionaryEntry . 
+
+:@compressedDirt2x a :OreDictionaryEntry . 
+:@compressedDirt2x :oreDictContains :tile.extrautils:cobblestone_compressed.9 . 
+
+:@foodToastedPB&JSandwichApple a :OreDictionaryEntry . 
+:@foodToastedPB&JSandwichApple :oreDictContains :item.null.agricultureToastedPBJSandwichApple . 
+
+:@blockZinc a :OreDictionaryEntry . 
+
+:@foodCaramelApple a :OreDictionaryEntry . 
+:@foodCaramelApple :oreDictContains :item.null.agricultureCaramelApple . 
+
+:@blockHaderoth a :OreDictionaryEntry . 
+
+:@nuggetAluminumBrass a :OreDictionaryEntry . 
+:@nuggetAluminumBrass :oreDictContains :item.tconstruct.Materials.AluBrassNugget . 
+
+:@ingotTinyLithium a :OreDictionaryEntry . 
+
+:@oreNetherGold a :OreDictionaryEntry . 
+:@oreNetherGold :oreDictContains :tile.netherores.ore.gold . 
+
+:@glassBrown a :OreDictionaryEntry . 
+:@glassBrown :oreDictContains :block.stainedglass.brown . 
+:@glassBrown :oreDictContains :tile.mfr.stainedglass.block.brown . 
+
+:@platinumIngot a :OreDictionaryEntry . 
+
+:@dustSphalerite a :OreDictionaryEntry . 
+
+:@orePlatinum a :OreDictionaryEntry . 
+:@orePlatinum :oreDictContains :tile.ElectriOre.5 . 
+
+:@crystalQuartz a :OreDictionaryEntry . 
+:@crystalQuartz :oreDictContains :item.modingots.9 . 
+
+:@ingotUranium a :OreDictionaryEntry . 
+:@ingotUranium :oreDictContains :item.ingotYellorium . 
+:@ingotUranium :oreDictContains :item.Ingots.0 . 
+:@ingotUranium :oreDictContains :item.Ingots.0 . 
+:@ingotUranium :oreDictContains :item.modingots.10 . 
+:@ingotUranium :oreDictContains :item.modingots.49 . 
+:@ingotUranium :oreDictContains :item.modingots.68 . 
+
+:@dyeCeramicGreen a :OreDictionaryEntry . 
+:@dyeCeramicGreen :oreDictContains :item.mfr.ceramicdye.green . 
+
+:@itemWrench a :OreDictionaryEntry . 
+
+:@cropCoffee a :OreDictionaryEntry . 
+:@cropCoffee :oreDictContains :item.food . 
+
+:@waxMagical a :OreDictionaryEntry . 
+:@waxMagical :oreDictContains :item.wax . 
+:@waxMagical :oreDictContains :item.wax . 
+
+:@leavesRubber a :OreDictionaryEntry . 
+:@leavesRubber :oreDictContains :tile.mfr.rubberwood.leaves . 
+
+:@ingotNaturalAluminum a :OreDictionaryEntry . 
+:@ingotNaturalAluminum :oreDictContains :item.materials.ingotAluminum . 
+:@ingotNaturalAluminum :oreDictContains :item.tconstruct.Materials.AluminumIngot . 
+:@ingotNaturalAluminum :oreDictContains :item.compacts.misc.alingot . 
+:@ingotNaturalAluminum :oreDictContains :item.modingots.6 . 
+:@ingotNaturalAluminum :oreDictContains :item.item.electriingots.4 . 
+:@ingotNaturalAluminum :oreDictContains :item.e_ingot.e_ingotAluminium . 
+
+:@ingotInfusedOrder a :OreDictionaryEntry . 
+
+:@ingotImpureIron a :OreDictionaryEntry . 
+
+:@ingotImpureArdite a :OreDictionaryEntry . 
+
+:@rockGranite a :OreDictionaryEntry . 
+:@rockGranite :oreDictContains :tile.SmoothRock.0 . 
+
+:@blockShadow Steel a :OreDictionaryEntry . 
+
+:@dyeCeramicLime a :OreDictionaryEntry . 
+:@dyeCeramicLime :oreDictContains :item.mfr.ceramicdye.lime . 
+
+:@dustQuantum a :OreDictionaryEntry . 
+:@dustQuantum :oreDictContains :item.modingots.69 . 
+
+:@foodRawApplePie a :OreDictionaryEntry . 
+:@foodRawApplePie :oreDictContains :item.null.agricultureRawApplePie . 
+
+:@itemForcicium a :OreDictionaryEntry . 
+
+:@ingotRedstone a :OreDictionaryEntry . 
+
+:@dyeCeramicPink a :OreDictionaryEntry . 
+:@dyeCeramicPink :oreDictContains :item.mfr.ceramicdye.pink . 
+
+:@cropPlantain a :OreDictionaryEntry . 
+:@cropPlantain :oreDictContains :item.food . 
+
+:@foodCarrotCake a :OreDictionaryEntry . 
+:@foodCarrotCake :oreDictContains :item.null.agricultureCarrotCake . 
+
+:@gearStone a :OreDictionaryEntry . 
+:@gearStone :oreDictContains :item.stoneGearItem . 
+:@gearStone :oreDictContains :enderio.basicGear . 
+
+:@crystallineSteel a :OreDictionaryEntry . 
+
+:@gemGold a :OreDictionaryEntry . 
+
+:@taintedSoil a :OreDictionaryEntry . 
+:@taintedSoil :oreDictContains :tile.TaintedSoil . 
+
+:@ingotNetherLapis a :OreDictionaryEntry . 
+
+:@nuggetAluminum a :OreDictionaryEntry . 
+:@nuggetAluminum :oreDictContains :item.tconstruct.Materials.AluminumNugget . 
+:@nuggetAluminum :oreDictContains :item.oreberry.aluminum . 
+
+:@groundCopper a :OreDictionaryEntry . 
+:@groundCopper :oreDictContains :item.e_dusts.e_groundNativeCopper . 
+
+:@foodCaramel a :OreDictionaryEntry . 
+:@foodCaramel :oreDictContains :item.null.agricultureCaramel . 
+
+:@blockCobalt a :OreDictionaryEntry . 
+:@blockCobalt :oreDictContains :StorageMetals.Cobalt . 
+
+:@glassPaneMagenta a :OreDictionaryEntry . 
+:@glassPaneMagenta :oreDictContains :tile.mfr.stainedglass.pane.magenta . 
+
+:@dustAmmonium a :OreDictionaryEntry . 
+:@dustAmmonium :oreDictContains :item.RawMaterials.3 . 
+:@dustAmmonium :oreDictContains :item.modingots.56 . 
+
+:@foodRoastedMarshmellowsBurned a :OreDictionaryEntry . 
+:@foodRoastedMarshmellowsBurned :oreDictContains :item.null.agricultureRoastedMarshmellowsBurned . 
+
+:@compressedDirt1x a :OreDictionaryEntry . 
+:@compressedDirt1x :oreDictContains :tile.extrautils:cobblestone_compressed.8 . 
+
+:@blockQuicksilver a :OreDictionaryEntry . 
+
+:@ingotNetherCinnabar a :OreDictionaryEntry . 
+
+:@dustNickel a :OreDictionaryEntry . 
+:@dustNickel :oreDictContains :item.thermalexpansion.material.dustNickel . 
+:@dustNickel :oreDictContains :item.e_dusts.e_pureNickelDust . 
+
+:@steelIngot a :OreDictionaryEntry . 
+
+:@cropWalnut a :OreDictionaryEntry . 
+:@cropWalnut :oreDictContains :item.fruits . 
+:@cropWalnut :oreDictContains :item.food . 
+
+:@reactorCoolantPort a :OreDictionaryEntry . 
+:@reactorCoolantPort :oreDictContains :tile.blockReactorPart.6 . 
+
+:@cropWildCherry a :OreDictionaryEntry . 
+:@cropWildCherry :oreDictContains :item.food . 
+
+:@blockNickel a :OreDictionaryEntry . 
+:@blockNickel :oreDictContains :tile.thermalexpansion.storage.nickel.name . 
+:@blockNickel :oreDictContains :tile.e_metal.e_blockNickel . 
+
+:@brSmallMachineCyaniteProcessor a :OreDictionaryEntry . 
+:@brSmallMachineCyaniteProcessor :oreDictContains :tile.blockBRSmallMachine.0 . 
+
+:@glassPaneOrange a :OreDictionaryEntry . 
+:@glassPaneOrange :oreDictContains :tile.mfr.stainedglass.pane.orange . 
+
+:@oreFzDarkIron a :OreDictionaryEntry . 
+:@oreFzDarkIron :oreDictContains :tile.factorization:darkIronOre . 
+
+:@ingotNetherAmber a :OreDictionaryEntry . 
+
+:@dyeLightGrayCrystalShard a :OreDictionaryEntry . 
+:@dyeLightGrayCrystalShard :oreDictContains :item.CrystalShard.7 . 
+
+:@plateDenseLapis a :OreDictionaryEntry . 
+:@plateDenseLapis :oreDictContains :ic2.itemDensePlateLapi . 
+
+:@dropHoneydew a :OreDictionaryEntry . 
+:@dropHoneydew :oreDictContains :item.honeydew . 
+
+:@foodPeanutButter a :OreDictionaryEntry . 
+:@foodPeanutButter :oreDictContains :item.null.agriculturePeanutButter . 
+
+:@dustGalena a :OreDictionaryEntry . 
+:@dustGalena :oreDictContains :item.modingots.5 . 
+
+:@cableRedNet a :OreDictionaryEntry . 
+:@cableRedNet :oreDictContains :tile.mfr.cable.redstone . 
+
+:@reactorCasing a :OreDictionaryEntry . 
+:@reactorCasing :oreDictContains :tile.blockReactorPart.0 . 
+
+:@icestone a :OreDictionaryEntry . 
+:@icestone :oreDictContains :tile.extrautils:decorativeBlock1.1 . 
+
+:@orePlastic a :OreDictionaryEntry . 
+
+:@dyeCeramicBlue a :OreDictionaryEntry . 
+:@dyeCeramicBlue :oreDictContains :item.mfr.ceramicdye.blue . 
+
+:@dustNetherRuby a :OreDictionaryEntry . 
+
+:@dyeCeramicWhite a :OreDictionaryEntry . 
+:@dyeCeramicWhite :oreDictContains :item.mfr.ceramicdye.white . 
+
+:@nuggetSteel a :OreDictionaryEntry . 
+:@nuggetSteel :oreDictContains :item.tconstruct.Materials.SteelNugget . 
+:@nuggetSteel :oreDictContains :railcraft.nugget.steel . 
+
+:@dyeCyanCrystalShard a :OreDictionaryEntry . 
+:@dyeCyanCrystalShard :oreDictContains :item.CrystalShard.6 . 
+
+:@crystallineIron a :OreDictionaryEntry . 
+:@crystallineIron :oreDictContains :item.factorization:ore/crystal/IRON . 
+
+:@orePlutonium a :OreDictionaryEntry . 
+
+:@ingotTinyTin a :OreDictionaryEntry . 
+
+:@gemMythril a :OreDictionaryEntry . 
+
+:@dustNetherRedstone a :OreDictionaryEntry . 
+
+:@dustCeruclase a :OreDictionaryEntry . 
+
+:@cropBrazilNut a :OreDictionaryEntry . 
+:@cropBrazilNut :oreDictContains :item.food . 
+
+:@listAllmilk a :OreDictionaryEntry . 
+:@listAllmilk :oreDictContains :item.mfr.milkbottle . 
+
+:@dustTinyLead a :OreDictionaryEntry . 
+:@dustTinyLead :oreDictContains :ic2.itemDustLeadSmall . 
+
+:@oreCertusQuartz a :OreDictionaryEntry . 
+:@oreCertusQuartz :oreDictContains :AppEng.Blocks.OreQuartz . 
+
+:@foodStrawberryIceCreamChocolateSauce a :OreDictionaryEntry . 
+:@foodStrawberryIceCreamChocolateSauce :oreDictContains :item.null.agricultureStrawberryIceCreamChocolateSauce . 
+
+:@blockBlutonium a :OreDictionaryEntry . 
+:@blockBlutonium :oreDictContains :tile.brMetal.3 . 
+
+:@bricksGravel a :OreDictionaryEntry . 
+:@bricksGravel :oreDictContains :tile.extrautils:decorativeBlock1.6 . 
+
+:@cloth a :OreDictionaryEntry . 
+:@cloth :oreDictContains :tile.cloth.black . 
+
+:@coal a :OreDictionaryEntry . 
+:@coal :oreDictContains :item.coal . 
+
+:@foodAppleJelly a :OreDictionaryEntry . 
+:@foodAppleJelly :oreDictContains :item.null.agricultureAppleJelly . 
+
+:@blockNaturalAluminum a :OreDictionaryEntry . 
+:@blockNaturalAluminum :oreDictContains :tile.oreBlocks.aluminumBlock . 
+
+:@ForciciumItem a :OreDictionaryEntry . 
+:@ForciciumItem :oreDictContains :item.modingots.26 . 
+
+:@oreTopaz a :OreDictionaryEntry . 
+:@oreTopaz :oreDictContains :tile.bop.amethystOre.topazore . 
+
+:@oreNetherAluminium a :OreDictionaryEntry . 
+
+:@oreNetherNikolite a :OreDictionaryEntry . 
+
+:@cropSourCherry a :OreDictionaryEntry . 
+:@cropSourCherry :oreDictContains :item.food . 
+
+:@crystallineManyullyn a :OreDictionaryEntry . 
+
+:@foodChickenNuggets a :OreDictionaryEntry . 
+:@foodChickenNuggets :oreDictContains :item.null.agricultureChickenNuggets . 
+
+:@ingotKalendrite a :OreDictionaryEntry . 
+
+:@ingotSunstone a :OreDictionaryEntry . 
+
+:@invarIngot a :OreDictionaryEntry . 
+
+:@foodRawHamburgerPatty a :OreDictionaryEntry . 
+:@foodRawHamburgerPatty :oreDictContains :item.null.agricultureRawHamburgerPatty . 
+
+:@ingotApatite a :OreDictionaryEntry . 
+
+:@blockGlue a :OreDictionaryEntry . 
+
+:@blockEnderium a :OreDictionaryEntry . 
+:@blockEnderium :oreDictContains :tile.thermalexpansion.storage.enderium.name . 
+
+:@stoneOpal a :OreDictionaryEntry . 
+:@stoneOpal :oreDictContains :tile.SmoothRock2.0 . 
+
+:@blockGlowstone a :OreDictionaryEntry . 
+:@blockGlowstone :oreDictContains :tile.lightgem . 
+
+:@crafterWood a :OreDictionaryEntry . 
+:@crafterWood :oreDictContains :tile.workbench . 
+:@crafterWood :oreDictContains :tile.workbench . 
+:@crafterWood :oreDictContains :tile.workbench . 
+:@crafterWood :oreDictContains :tile.workbench . 
+:@crafterWood :oreDictContains :tile.workbench . 
+:@crafterWood :oreDictContains :tile.workbench . 
+:@crafterWood :oreDictContains :tile.workbench . 
+:@crafterWood :oreDictContains :tile.workbench . 
+:@crafterWood :oreDictContains :tile.workbench . 
+:@crafterWood :oreDictContains :tile.workbench . 
+:@crafterWood :oreDictContains :tile.workbench . 
+:@crafterWood :oreDictContains :tile.workbench . 
+:@crafterWood :oreDictContains :tile.workbench . 
+
+:@foodCinnamon a :OreDictionaryEntry . 
+:@foodCinnamon :oreDictContains :item.null.agricultureCinnamon . 
+
+:@foodButterCookieDough a :OreDictionaryEntry . 
+:@foodButterCookieDough :oreDictContains :item.null.agricultureButterCookieDough . 
+
+:@oreDamascus Steel a :OreDictionaryEntry . 
+
+:@foodDoubleBaconCheeseburger a :OreDictionaryEntry . 
+:@foodDoubleBaconCheeseburger :oreDictContains :item.null.agricultureDoubleBaconCheeseburger . 
+
+:@oreAdamantium a :OreDictionaryEntry . 
+
+:@bronzeIngot a :OreDictionaryEntry . 
+
+:@reducedDark Iron a :OreDictionaryEntry . 
+:@reducedDark Iron :oreDictContains :item.factorization:ore/reduced/DARKIRON . 
+
+:@dyeCeramicGray a :OreDictionaryEntry . 
+:@dyeCeramicGray :oreDictContains :item.mfr.ceramicdye.gray . 
+
+:@ingotZinc a :OreDictionaryEntry . 
+:@ingotZinc :oreDictContains :item.modingots.45 . 
+
+:@blockAngmallen a :OreDictionaryEntry . 
+
+:@glassPaneLime a :OreDictionaryEntry . 
+:@glassPaneLime :oreDictContains :tile.mfr.stainedglass.pane.lime . 
+
+:@foodAppleCinnamonCookieDough a :OreDictionaryEntry . 
+:@foodAppleCinnamonCookieDough :oreDictContains :item.null.agricultureAppleCinnamonCookieDough . 
+
+:@ingotHepatizon a :OreDictionaryEntry . 
+
+:@componentMyofiberGel a :OreDictionaryEntry . 
+:@componentMyofiberGel :oreDictContains :item.powerArmorComponent.componentMyofiberGel . 
+
+:@oreAluminumBrass a :OreDictionaryEntry . 
+
+:@dustNetherEssence a :OreDictionaryEntry . 
+
+:@gemMoonstone a :OreDictionaryEntry . 
+:@gemMoonstone :oreDictContains :item.modingots.61 . 
+
+:@ceramicBowl a :OreDictionaryEntry . 
+:@ceramicBowl :oreDictContains :item.null.agricultureCeramicBowl . 
+
+:@foodCrushedPeanuts a :OreDictionaryEntry . 
+:@foodCrushedPeanuts :oreDictContains :item.null.agricultureCrushedPeanuts . 
+
+:@dustInfuscolium a :OreDictionaryEntry . 
+
+:@ingotNetherLead a :OreDictionaryEntry . 
+
+:@oreQuartz a :OreDictionaryEntry . 
+:@oreQuartz :oreDictContains :tile.netherquartz . 
+
+:@ingotNetherSilver a :OreDictionaryEntry . 
+
+:@ingotEmerald a :OreDictionaryEntry . 
+
+:@blockShadow Iron a :OreDictionaryEntry . 
+
+:@cleanGravelAluminum a :OreDictionaryEntry . 
+:@cleanGravelAluminum :oreDictContains :item.factorization:ore/clean/NATURAL_ALUMINUM . 
+
+:@cropBlackberry a :OreDictionaryEntry . 
+:@cropBlackberry :oreDictContains :item.berry.black . 
+
+:@nuggetGold a :OreDictionaryEntry . 
+:@nuggetGold :oreDictContains :item.goldNugget . 
+:@nuggetGold :oreDictContains :item.oreberry.gold . 
+:@nuggetGold :oreDictContains :item.goldNugget . 
+
+:@itemIngotSteel a :OreDictionaryEntry . 
+
+:@gemTitanium a :OreDictionaryEntry . 
+
+:@crystallineTin a :OreDictionaryEntry . 
+:@crystallineTin :oreDictContains :item.factorization:ore/crystal/TIN . 
+
+:@oreImpureIron a :OreDictionaryEntry . 
+
+:@aluminiumIngot a :OreDictionaryEntry . 
+
+:@gemEmery a :OreDictionaryEntry . 
+:@gemEmery :oreDictContains :item.e_gem.e_gemEmery . 
+
+:@oreSunstone a :OreDictionaryEntry . 
+
+:@blockConcrete a :OreDictionaryEntry . 
+:@blockConcrete :oreDictContains :item.tile.concrete.0 . 
+
+:@blockRedstone a :OreDictionaryEntry . 
+:@blockRedstone :oreDictContains :tile.blockRedstone . 
+
+:@foodHamburger a :OreDictionaryEntry . 
+:@foodHamburger :oreDictContains :item.null.agricultureHamburger . 
+
+:@glassPaneLightGray a :OreDictionaryEntry . 
+:@glassPaneLightGray :oreDictContains :tile.mfr.stainedglass.pane.lightgray . 
+
+:@foodDicedPotatoes a :OreDictionaryEntry . 
+:@foodDicedPotatoes :oreDictContains :item.null.agricultureDicedPotatoes . 
+
+:@oreNetherElectrum a :OreDictionaryEntry . 
+
+:@ingotGalena a :OreDictionaryEntry . 
+
+:@foodChocolateIceCream a :OreDictionaryEntry . 
+:@foodChocolateIceCream :oreDictContains :item.null.agricultureChocolateIceCream . 
+
+:@glassGreen a :OreDictionaryEntry . 
+:@glassGreen :oreDictContains :block.stainedglass.green . 
+:@glassGreen :oreDictContains :tile.mfr.stainedglass.block.green . 
+
+:@dyeCeramicBlack a :OreDictionaryEntry . 
+:@dyeCeramicBlack :oreDictContains :item.mfr.ceramicdye.black . 
+
+:@oreGraphite a :OreDictionaryEntry . 
+
+:@oreAsh a :OreDictionaryEntry . 
+
+:@crystallinePigIron a :OreDictionaryEntry . 
+
+:@oreWheat a :OreDictionaryEntry . 
+
+:@projredInsFramedWire a :OreDictionaryEntry . 
+:@projredInsFramedWire :oreDictContains :item.projectred.transmission.framewire|1 . 
+:@projredInsFramedWire :oreDictContains :item.projectred.transmission.framewire|2 . 
+:@projredInsFramedWire :oreDictContains :item.projectred.transmission.framewire|3 . 
+:@projredInsFramedWire :oreDictContains :item.projectred.transmission.framewire|4 . 
+:@projredInsFramedWire :oreDictContains :item.projectred.transmission.framewire|5 . 
+:@projredInsFramedWire :oreDictContains :item.projectred.transmission.framewire|6 . 
+:@projredInsFramedWire :oreDictContains :item.projectred.transmission.framewire|7 . 
+:@projredInsFramedWire :oreDictContains :item.projectred.transmission.framewire|8 . 
+:@projredInsFramedWire :oreDictContains :item.projectred.transmission.framewire|9 . 
+:@projredInsFramedWire :oreDictContains :item.projectred.transmission.framewire|10 . 
+:@projredInsFramedWire :oreDictContains :item.projectred.transmission.framewire|11 . 
+:@projredInsFramedWire :oreDictContains :item.projectred.transmission.framewire|12 . 
+:@projredInsFramedWire :oreDictContains :item.projectred.transmission.framewire|13 . 
+:@projredInsFramedWire :oreDictContains :item.projectred.transmission.framewire|14 . 
+:@projredInsFramedWire :oreDictContains :item.projectred.transmission.framewire|15 . 
+:@projredInsFramedWire :oreDictContains :item.projectred.transmission.framewire|16 . 
+
+:@gearIron a :OreDictionaryEntry . 
+:@gearIron :oreDictContains :item.ironGearItem . 
+
+:@blockEmerald a :OreDictionaryEntry . 
+:@blockEmerald :oreDictContains :tile.blockEmerald . 
+
+:@ingotFirestone a :OreDictionaryEntry . 
+
+:@ingotBauxite a :OreDictionaryEntry . 
+
+:@slimeball a :OreDictionaryEntry . 
+:@slimeball :oreDictContains :item.slimeball . 
+:@slimeball :oreDictContains :item.slimeball . 
+:@slimeball :oreDictContains :item.tconstruct.strangefood.edibleslime . 
+:@slimeball :oreDictContains :item.tconstruct.strangefood.edibleblood . 
+:@slimeball :oreDictContains :item.tconstruct.Materials.GlueBall . 
+:@slimeball :oreDictContains :item.slimeball . 
+:@slimeball :oreDictContains :item.mfr.pinkslimeball . 
+:@slimeball :oreDictContains :item.slimeball . 
+
+:@foodStrawberryGelatin a :OreDictionaryEntry . 
+:@foodStrawberryGelatin :oreDictContains :item.null.agricultureStrawberryGelatin . 
+
+:@ingotShadow Steel a :OreDictionaryEntry . 
+
+:@oreRedstone a :OreDictionaryEntry . 
+:@oreRedstone :oreDictContains :tile.oreRedstone . 
+
+:@foodVanillaIceCreamMix a :OreDictionaryEntry . 
+:@foodVanillaIceCreamMix :oreDictContains :item.null.agricultureVanillaIceCreamMix . 
+
+:@alumiteRod a :OreDictionaryEntry . 
+:@alumiteRod :oreDictContains :item.tconstruct.ToolRod.Alumite . 
+
+:@dyePinkCrystal a :OreDictionaryEntry . 
+:@dyePinkCrystal :oreDictContains :tile.CaveCrystal.9 . 
+
+:@ingotInfusedWater a :OreDictionaryEntry . 
+
+:@oreNetherSalt a :OreDictionaryEntry . 
+:@oreNetherSalt :oreDictContains :tile.netherores.ore.salt . 
+
+:@dustIndium a :OreDictionaryEntry . 
+
+:@oreLithium a :OreDictionaryEntry . 
+
+:@componentPlatingBasic a :OreDictionaryEntry . 
+:@componentPlatingBasic :oreDictContains :item.powerArmorComponent.componentPlatingBasic . 
+
+:@ingotRutile a :OreDictionaryEntry . 
+:@ingotRutile :oreDictContains :item.materials.ingotRutile . 
+
+:@cropCherry a :OreDictionaryEntry . 
+:@cropCherry :oreDictContains :item.fruits . 
+:@cropCherry :oreDictContains :item.food . 
+:@cropCherry :oreDictContains :item.food . 
+:@cropCherry :oreDictContains :item.food . 
+
+:@ingotPitchblende a :OreDictionaryEntry . 
+
+:@crushedPurifiedAluminium a :OreDictionaryEntry . 
+:@crushedPurifiedAluminium :oreDictContains :item.aobd.dustsItem12 . 
+
+:@oreMoonstone a :OreDictionaryEntry . 
+
+:@shardFire a :OreDictionaryEntry . 
+:@shardFire :oreDictContains :item.ItemShard.1 . 
+:@shardFire :oreDictContains :item.modingots.14 . 
+:@shardFire :oreDictContains :item.ItemShard.1 . 
+
+:@dustIron a :OreDictionaryEntry . 
+:@dustIron :oreDictContains :ic2.itemDustIron . 
+:@dustIron :oreDictContains :enderio.powderIron . 
+:@dustIron :oreDictContains :item.thermalexpansion.material.dustIron . 
+:@dustIron :oreDictContains :AppEng.Materials.IronDust . 
+:@dustIron :oreDictContains :item.e_dusts.e_pureIronDust . 
+
+:@dustVyroxeres a :OreDictionaryEntry . 
+
+:@oreAmber a :OreDictionaryEntry . 
+:@oreAmber :oreDictContains :tile.blockCustomOre.7 . 
+:@oreAmber :oreDictContains :tile.blockCustomOre.7 . 
+
+:@oreImpureLead a :OreDictionaryEntry . 
+
+:@oreVyroxeres a :OreDictionaryEntry . 
+
+:@rockSlate a :OreDictionaryEntry . 
+:@rockSlate :oreDictContains :tile.SmoothRock.7 . 
+
+:@foodBeefJerkeyBurned a :OreDictionaryEntry . 
+:@foodBeefJerkeyBurned :oreDictContains :item.null.agricultureBeefJerkeyBurned . 
+
+:@itemPollen a :OreDictionaryEntry . 
+:@itemPollen :oreDictContains :item.pollen . 
+
+:@cropOrange a :OreDictionaryEntry . 
+:@cropOrange :oreDictContains :item.food . 
+:@cropOrange :oreDictContains :item.food . 
+:@cropOrange :oreDictContains :item.food . 
+:@cropOrange :oreDictContains :item.food . 
+
+:@oreBlutonium a :OreDictionaryEntry . 
+
+:@ingotNetherInvar a :OreDictionaryEntry . 
+
+:@rockSchist a :OreDictionaryEntry . 
+:@rockSchist :oreDictContains :tile.SmoothRock.14 . 
+
+:@clusterCopper a :OreDictionaryEntry . 
+:@clusterCopper :oreDictContains :item.ItemNugget.17 . 
+
+:@leadOre a :OreDictionaryEntry . 
+
+:@ingotNetherNickel a :OreDictionaryEntry . 
+
+:@copperCableBlock a :OreDictionaryEntry . 
+
+:@oreImpureTin a :OreDictionaryEntry . 
+
+:@dustCalcite a :OreDictionaryEntry . 
+
+:@dustNetherrack a :OreDictionaryEntry . 
+:@dustNetherrack :oreDictContains :item.powder.misc.netherdust . 
+
+:@ingotIgnatius a :OreDictionaryEntry . 
+
+:@oreTinyLithium a :OreDictionaryEntry . 
+
+:@foodCarrotCakeBurned a :OreDictionaryEntry . 
+:@foodCarrotCakeBurned :oreDictContains :item.null.agricultureCarrotCakeBurned . 
+
+:@dustDirtyAluminium a :OreDictionaryEntry . 
+:@dustDirtyAluminium :oreDictContains :item.aobd.dustsItem19 . 
+
+:@nuggetAluminiumBrass a :OreDictionaryEntry . 
+:@nuggetAluminiumBrass :oreDictContains :item.tconstruct.Materials.AluBrassNugget . 
+
+:@dustBrass a :OreDictionaryEntry . 
+
+:@clumpArdite a :OreDictionaryEntry . 
+:@clumpArdite :oreDictContains :item.aobd.dustsItem14 . 
+
+:@gemNickel a :OreDictionaryEntry . 
+
+:@oreNetherInvar a :OreDictionaryEntry . 
+
+:@dustAluminum a :OreDictionaryEntry . 
+:@dustAluminum :oreDictContains :item.tconstruct.Materials.AluminumDust . 
+:@dustAluminum :oreDictContains :item.e_dusts.e_pureAluminiumDust . 
+
+:@cleanGravelTin a :OreDictionaryEntry . 
+:@cleanGravelTin :oreDictContains :item.factorization:ore/clean/TIN . 
+
+:@oreNetherGreenSapphire a :OreDictionaryEntry . 
+
+:@blockOureclase a :OreDictionaryEntry . 
+
+:@dyePinkCrystalShard a :OreDictionaryEntry . 
+:@dyePinkCrystalShard :oreDictContains :item.CrystalShard.9 . 
+
+:@oreAmethyst a :OreDictionaryEntry . 
+
+:@stoneGranulite a :OreDictionaryEntry . 
+:@stoneGranulite :oreDictContains :tile.SmoothRock.11 . 
+
+:@dustInfusedEntropy a :OreDictionaryEntry . 
+
+:@dustTinyIron a :OreDictionaryEntry . 
+:@dustTinyIron :oreDictContains :ic2.itemDustIronSmall . 
+
+:@foodStrawberryPie a :OreDictionaryEntry . 
+:@foodStrawberryPie :oreDictContains :item.null.agricultureStrawberryPie . 
+
+:@oreKalendrite a :OreDictionaryEntry . 
+
+:@ingotMalachite a :OreDictionaryEntry . 
+
+:@dyeMagenta a :OreDictionaryEntry . 
+:@dyeMagenta :oreDictContains :item.dyePowder.magenta . 
+:@dyeMagenta :oreDictContains :item.TreeDye . 
+:@dyeMagenta :oreDictContains :tile.projectred.exploration.dyesapling|2 . 
+
+:@sulfuricAcid a :OreDictionaryEntry . 
+:@sulfuricAcid :oreDictContains :item.factorization:acid . 
+
+:@dyeBlackCrystal a :OreDictionaryEntry . 
+:@dyeBlackCrystal :oreDictContains :tile.CaveCrystal.0 . 
+
+:@cropNectarine a :OreDictionaryEntry . 
+:@cropNectarine :oreDictContains :item.food . 
+
+:@ingotCassiterite a :OreDictionaryEntry . 
+
+:@dustNetherAluminumBrass a :OreDictionaryEntry . 
+
+:@dustWheat a :OreDictionaryEntry . 
+:@dustWheat :oreDictContains :AppEng.Materials.Flour . 
+
+:@blockCelenegil a :OreDictionaryEntry . 
+
+:@oreTartarite a :OreDictionaryEntry . 
+
+:@dustYellorite a :OreDictionaryEntry . 
+
+:@dustPlutonium a :OreDictionaryEntry . 
+:@dustPlutonium :oreDictContains :item.dustBlutonium . 
+
+:@blockFzDarkIron a :OreDictionaryEntry . 
+:@blockFzDarkIron :oreDictContains :tile.factorization.ResourceBlock.DARKIRONBLOCK . 
+
+:@cinnabar a :OreDictionaryEntry . 
+
+:@foodGrilledCheese a :OreDictionaryEntry . 
+:@foodGrilledCheese :oreDictContains :item.null.agricultureGrilledCheese . 
+
+:@nuggetThaumium a :OreDictionaryEntry . 
+:@nuggetThaumium :oreDictContains :item.ItemNugget.6 . 
+
+:@oreSteel a :OreDictionaryEntry . 
+
+:@cropCrabapple a :OreDictionaryEntry . 
+:@cropCrabapple :oreDictContains :item.food . 
+
+:@blockAluminum a :OreDictionaryEntry . 
+:@blockAluminum :oreDictContains :StorageMetals.Aluminum . 
+:@blockAluminum :oreDictContains :tile.oreBlocks.aluminumBlock . 
+:@blockAluminum :oreDictContains :tile.e_metal.e_blockAluminium . 
+
+:@cropSkyberry a :OreDictionaryEntry . 
+:@cropSkyberry :oreDictContains :item.berry.sky . 
+
+:@dustInfusedAir a :OreDictionaryEntry . 
+
+:@dustNetherNickel a :OreDictionaryEntry . 
+
+:@oreIron a :OreDictionaryEntry . 
+:@oreIron :oreDictContains :tile.oreIron . 
+:@oreIron :oreDictContains :block.ore.gravel.iron . 
+
+:@dustNetherSulfur a :OreDictionaryEntry . 
+
+:@dustAmordrine a :OreDictionaryEntry . 
+
+:@glassPaneWhite a :OreDictionaryEntry . 
+:@glassPaneWhite :oreDictContains :tile.mfr.stainedglass.pane.white . 
+
+:@compressedCobblestone1x a :OreDictionaryEntry . 
+:@compressedCobblestone1x :oreDictContains :tile.extrautils:cobblestone_compressed.0 . 
+
+:@transdimBlock a :OreDictionaryEntry . 
+:@transdimBlock :oreDictContains :tile.enderChest . 
+
+:@dustSunstone a :OreDictionaryEntry . 
+
+:@clusterIron a :OreDictionaryEntry . 
+:@clusterIron :oreDictContains :item.ItemNugget.16 . 
+
+:@ingotDesh a :OreDictionaryEntry . 
+
+:@blockCoal a :OreDictionaryEntry . 
+:@blockCoal :oreDictContains :tile.blockCoal . 
+
+:@oreSalt a :OreDictionaryEntry . 
+:@oreSalt :oreDictContains :tile.agriculture:salt . 
+
+:@gemTin a :OreDictionaryEntry . 
+
+:@obsidian a :OreDictionaryEntry . 
+:@obsidian :oreDictContains :tile.obsidian . 
+
+:@oreNetherNickel a :OreDictionaryEntry . 
+:@oreNetherNickel :oreDictContains :tile.netherores.ore.nickel . 
+
+:@dirtyGravelAluminum a :OreDictionaryEntry . 
+:@dirtyGravelAluminum :oreDictContains :item.factorization:ore/gravel/NATURAL_ALUMINUM . 
+
+:@dustChromite a :OreDictionaryEntry . 
+
+:@ingotOrichalcum a :OreDictionaryEntry . 
+
+:@dustCadmium a :OreDictionaryEntry . 
+
+:@cropChestnut a :OreDictionaryEntry . 
+:@cropChestnut :oreDictContains :item.fruits . 
+
+:@stoneQuartz a :OreDictionaryEntry . 
+:@stoneQuartz :oreDictContains :tile.SmoothRock.10 . 
+
+:@ingotAmber a :OreDictionaryEntry . 
+
+:@nugetGold a :OreDictionaryEntry . 
+
+:@ingotClay a :OreDictionaryEntry . 
+
+:@foodShortcake a :OreDictionaryEntry . 
+:@foodShortcake :oreDictContains :item.null.agricultureShortcake . 
+
+:@dyeGreenCrystal a :OreDictionaryEntry . 
+:@dyeGreenCrystal :oreDictContains :tile.CaveCrystal.2 . 
+
+:@oreNetherSulfur a :OreDictionaryEntry . 
+:@oreNetherSulfur :oreDictContains :tile.netherores.ore.sulfur . 
+
+:@dustNetherCobalt a :OreDictionaryEntry . 
+
+:@ingotSapphire a :OreDictionaryEntry . 
+
+:@ingotEmery a :OreDictionaryEntry . 
+
+:@oreCoal a :OreDictionaryEntry . 
+:@oreCoal :oreDictContains :tile.oreCoal . 
+
+:@groundSilver a :OreDictionaryEntry . 
+:@groundSilver :oreDictContains :item.e_dusts.e_groundSilver . 
+
+:@ingotInfusedEntropy a :OreDictionaryEntry . 
+
+:@blockUnstable a :OreDictionaryEntry . 
+:@blockUnstable :oreDictContains :tile.extrautils:decorativeBlock1.1 . 
+
+:@blockAtlarus a :OreDictionaryEntry . 
+
+:@ingotAdamantium a :OreDictionaryEntry . 
+
+:@orePitchblende a :OreDictionaryEntry . 
+:@orePitchblende :oreDictContains :tile.Ore.1 . 
+:@orePitchblende :oreDictContains :tile.Ore.5 . 
+
+:@oreStone a :OreDictionaryEntry . 
+
+:@oreMonazit a :OreDictionaryEntry . 
+
+:@dustImpureLead a :OreDictionaryEntry . 
+:@dustImpureLead :oreDictContains :item.e_dusts.e_impureLeadDust . 
+
+:@dustSapphire a :OreDictionaryEntry . 
+
+:@oreRutile a :OreDictionaryEntry . 
+:@oreRutile :oreDictContains :tile.oreBlocks.rutileOre . 
+
+:@foodChocolateIceCreamChocolateSauce a :OreDictionaryEntry . 
+:@foodChocolateIceCreamChocolateSauce :oreDictContains :item.null.agricultureChocolateIceCreamChocolateSauce . 
+
+:@gemSulfur a :OreDictionaryEntry . 
+
+:@foodButter a :OreDictionaryEntry . 
+:@foodButter :oreDictContains :item.null.agricultureButter . 
+
+:@foodStrawberryJellyCookie a :OreDictionaryEntry . 
+:@foodStrawberryJellyCookie :oreDictContains :item.null.agricultureStrawberryJellyCookie . 
+
+:@dustNetherCoal a :OreDictionaryEntry . 
+
+:@foodMashedPotatos a :OreDictionaryEntry . 
+:@foodMashedPotatos :oreDictContains :item.null.agricultureMashedPotatos . 
+
+:@ingotDeep Iron a :OreDictionaryEntry . 
+
+:@shardWater a :OreDictionaryEntry . 
+:@shardWater :oreDictContains :item.ItemShard.2 . 
+:@shardWater :oreDictContains :item.modingots.15 . 
+:@shardWater :oreDictContains :item.ItemShard.2 . 
+
+:@dustTinySilver a :OreDictionaryEntry . 
+:@dustTinySilver :oreDictContains :ic2.itemDustSilverSmall . 
+
+:@reducedGold a :OreDictionaryEntry . 
+:@reducedGold :oreDictContains :item.factorization:ore/reduced/GOLD . 
+
+:@crushedSilver a :OreDictionaryEntry . 
+:@crushedSilver :oreDictContains :ic2.itemCrushedSilverOre . 
+
+:@ingotYellorium a :OreDictionaryEntry . 
+:@ingotYellorium :oreDictContains :item.ingotYellorium . 
+
+:@dustSanguinite a :OreDictionaryEntry . 
+
+:@crushedIron a :OreDictionaryEntry . 
+:@crushedIron :oreDictContains :ic2.itemCrushedIronOre . 
+
+:@oreSaltpeter a :OreDictionaryEntry . 
+:@oreSaltpeter :oreDictContains :railcraft.ore.saltpeter . 
+
+:@glassPaneBlue a :OreDictionaryEntry . 
+:@glassPaneBlue :oreDictContains :tile.mfr.stainedglass.pane.blue . 
+
+:@itemQuicksilver a :OreDictionaryEntry . 
+:@itemQuicksilver :oreDictContains :item.modingots.11 . 
+:@itemQuicksilver :oreDictContains :item.ItemResource.3 . 
+
+:@cropAcorn a :OreDictionaryEntry . 
+:@cropAcorn :oreDictContains :item.food . 
+
+:@oreMalachite a :OreDictionaryEntry . 
+:@oreMalachite :oreDictContains :tile.bop.amethystOre.malachiteore . 
+
+:@dustWood a :OreDictionaryEntry . 
+:@dustWood :oreDictContains :item.powder.misc.sawdust . 
+
+:@dyeCeramicRed a :OreDictionaryEntry . 
+:@dyeCeramicRed :oreDictContains :item.mfr.ceramicdye.red . 
+
+:@reducedAluminum a :OreDictionaryEntry . 
+:@reducedAluminum :oreDictContains :item.factorization:ore/reduced/NATURAL_ALUMINUM . 
+
+:@crystallineNickel a :OreDictionaryEntry . 
+
+:@oreNetherQuartz a :OreDictionaryEntry . 
+
+:@foodStrawberry a :OreDictionaryEntry . 
+:@foodStrawberry :oreDictContains :item.null.agricultureStrawberry . 
+
+:@dustInfusedWater a :OreDictionaryEntry . 
+
+:@cobaltOre a :OreDictionaryEntry . 
+
+:@plateIron a :OreDictionaryEntry . 
+:@plateIron :oreDictContains :ic2.itemPlateIron . 
+:@plateIron :oreDictContains :item.calclavia:plateIron . 
+
+:@blockPlatinum a :OreDictionaryEntry . 
+:@blockPlatinum :oreDictContains :tile.thermalexpansion.storage.platinum.name . 
+:@blockPlatinum :oreDictContains :tile.e_metal.e_blockPlatinum . 
+
+:@ingotQuicklime a :OreDictionaryEntry . 
+
+:@oreAluminium a :OreDictionaryEntry . 
+:@oreAluminium :oreDictContains :MetalOre.Aluminum . 
+:@oreAluminium :oreDictContains :block.ore.gravel.aluminum . 
+:@oreAluminium :oreDictContains :tile.oreBlocks.bauxiteOre . 
+
+:@rockOnyx a :OreDictionaryEntry . 
+:@rockOnyx :oreDictContains :tile.SmoothRock.15 . 
+
+:@stoneLimestone a :OreDictionaryEntry . 
+:@stoneLimestone :oreDictContains :tile.SmoothRock.3 . 
+
+:@nuggetCopper a :OreDictionaryEntry . 
+:@nuggetCopper :oreDictContains :item.tconstruct.Materials.CopperNugget . 
+:@nuggetCopper :oreDictContains :item.oreberry.copper . 
+:@nuggetCopper :oreDictContains :item.ItemNugget.1 . 
+:@nuggetCopper :oreDictContains :item.beeNugget . 
+:@nuggetCopper :oreDictContains :item.thermalexpansion.material.nuggetCopper . 
+
+:@foodCheese a :OreDictionaryEntry . 
+:@foodCheese :oreDictContains :item.null.agricultureCheese . 
+
+:@cropKumquat a :OreDictionaryEntry . 
+:@cropKumquat :oreDictContains :item.food . 
+
+:@counter a :OreDictionaryEntry . 
+:@counter :oreDictContains :tile.agriculture:counter . 
+
+:@dustFzDarkIron a :OreDictionaryEntry . 
+
+:@blockLemurite a :OreDictionaryEntry . 
+
+:@gemCopper a :OreDictionaryEntry . 
+
+:@foodCaramelBurned a :OreDictionaryEntry . 
+:@foodCaramelBurned :oreDictContains :item.null.agricultureCaramelBurned . 
+
+:@foodBacon a :OreDictionaryEntry . 
+:@foodBacon :oreDictContains :item.null.agricultureBacon . 
+
+:@oreTinyIron a :OreDictionaryEntry . 
+
+:@foodToast a :OreDictionaryEntry . 
+:@foodToast :oreDictContains :item.null.agricultureToast . 
+
+:@oreNetherSteel a :OreDictionaryEntry . 
+:@oreNetherSteel :oreDictContains :tile.netherores.ore.steel . 
+
+:@itemRawRubber a :OreDictionaryEntry . 
+:@itemRawRubber :oreDictContains :item.tconstruct.Materials.GlueBall . 
+:@itemRawRubber :oreDictContains :item.mfr.rubber.raw . 
+
+:@charcoal a :OreDictionaryEntry . 
+:@charcoal :oreDictContains :item.charcoal . 
+
+:@rockLimestone a :OreDictionaryEntry . 
+:@rockLimestone :oreDictContains :tile.SmoothRock.3 . 
+
+:@mb.magnet.level0 a :OreDictionaryEntry . 
+:@mb.magnet.level0 :oreDictContains :item.magicbees:mysteriousMagnet . 
+:@mb.magnet.level0 :oreDictContains :item.magicbees:mysteriousMagnet . 
+
+:@ingotNetherSapphire a :OreDictionaryEntry . 
+
+:@ingotNetherAluminumBrass a :OreDictionaryEntry . 
+
+:@compressedCobblestone6x a :OreDictionaryEntry . 
+:@compressedCobblestone6x :oreDictContains :tile.extrautils:cobblestone_compressed.5 . 
+
+:@ingotNetherNaturalAluminum a :OreDictionaryEntry . 
+
+:@foodPeanutButterCookie a :OreDictionaryEntry . 
+:@foodPeanutButterCookie :oreDictContains :item.null.agriculturePeanutButterCookie . 
+
+:@copperWire a :OreDictionaryEntry . 
+
+:@dustNetherSaltpeter a :OreDictionaryEntry . 
+
+:@dustImpureSilver a :OreDictionaryEntry . 
+:@dustImpureSilver :oreDictContains :item.e_dusts.e_impureSilverDust . 
+
+:@oreObsidian a :OreDictionaryEntry . 
+
+:@oreLapis a :OreDictionaryEntry . 
+:@oreLapis :oreDictContains :tile.oreLapis . 
+:@oreLapis :oreDictContains :railcraft.ore.dark.lapis . 
+
+:@oreInfusedEntropy a :OreDictionaryEntry . 
+:@oreInfusedEntropy :oreDictContains :tile.blockCustomOre.6 . 
+:@oreInfusedEntropy :oreDictContains :tile.blockCustomOre.6 . 
+
+:@ingotTungstate a :OreDictionaryEntry . 
+
+:@slabWood a :OreDictionaryEntry . 
+:@slabWood :oreDictContains :tile.woodSlab.oak . 
+:@slabWood :oreDictContains :block.wood.silverbell.slab . 
+:@slabWood :oreDictContains :block.wood..slab . 
+:@slabWood :oreDictContains :tile.bop.woodenSingleSlab1.palmSlab . 
+:@slabWood :oreDictContains :tile.bop.woodenSingleSlab2.acaciaSlab . 
+:@slabWood :oreDictContains :tile.for.slabs1.32767 . 
+:@slabWood :oreDictContains :tile.for.slabs2.32767 . 
+:@slabWood :oreDictContains :tile.for.slabs3.32767 . 
+
+:@dyePurple a :OreDictionaryEntry . 
+:@dyePurple :oreDictContains :item.dyePowder.purple . 
+:@dyePurple :oreDictContains :item.TreeDye . 
+:@dyePurple :oreDictContains :tile.projectred.exploration.dyesapling|10 . 
+
+:@dirtyGravelSilver a :OreDictionaryEntry . 
+:@dirtyGravelSilver :oreDictContains :item.factorization:ore/gravel/SILVER . 
+
+:@ingotImpureNickel a :OreDictionaryEntry . 
+
+:@stoneMarble a :OreDictionaryEntry . 
+:@stoneMarble :oreDictContains :tile.SmoothRock.2 . 
+
+:@dyePurpleCrystal a :OreDictionaryEntry . 
+:@dyePurpleCrystal :oreDictContains :tile.CaveCrystal.5 . 
+
+:@certusQuartz a :OreDictionaryEntry . 
+
+:@foodBatter a :OreDictionaryEntry . 
+:@foodBatter :oreDictContains :item.null.agricultureBatter . 
+
+:@foodButterCookie a :OreDictionaryEntry . 
+:@foodButterCookie :oreDictContains :item.null.agricultureButterCookie . 
+
+:@cropClove a :OreDictionaryEntry . 
+:@cropClove :oreDictContains :item.food . 
+
+:@oreMagmanite a :OreDictionaryEntry . 
+
+:@blockKalendrite a :OreDictionaryEntry . 
+
+:@oreMythril a :OreDictionaryEntry . 
+
+:@oreInfusedAir a :OreDictionaryEntry . 
+:@oreInfusedAir :oreDictContains :tile.blockCustomOre.1 . 
+:@oreInfusedAir :oreDictContains :tile.blockCustomOre.1 . 
+
+:@foodWhippedCream a :OreDictionaryEntry . 
+:@foodWhippedCream :oreDictContains :item.null.agricultureWhippedCream . 
+
+:@foodSnickerdoodle a :OreDictionaryEntry . 
+:@foodSnickerdoodle :oreDictContains :item.null.agricultureSnickerDoodle . 
+
+:@blockYellorium a :OreDictionaryEntry . 
+:@blockYellorium :oreDictContains :tile.brMetal.0 . 
+
+:@dyeRedCrystalShard a :OreDictionaryEntry . 
+:@dyeRedCrystalShard :oreDictContains :item.CrystalShard.1 . 
+
+:@oreNetherLead a :OreDictionaryEntry . 
+:@oreNetherLead :oreDictContains :tile.netherores.ore.lead . 
+
+:@ingotNetherCertusQuartz a :OreDictionaryEntry . 
+
+:@foodShortcakeBurned a :OreDictionaryEntry . 
+:@foodShortcakeBurned :oreDictContains :item.null.agricultureShortcakeBurned . 
+
+:@cropLime a :OreDictionaryEntry . 
+:@cropLime :oreDictContains :item.food . 
+:@cropLime :oreDictContains :item.food . 
+:@cropLime :oreDictContains :item.food . 
+
+:@cropApple a :OreDictionaryEntry . 
+:@cropApple :oreDictContains :item.food . 
+:@cropApple :oreDictContains :item.apple . 
+
+:@oreOrichalcum a :OreDictionaryEntry . 
+
+:@dustSteel a :OreDictionaryEntry . 
+:@dustSteel :oreDictContains :item.calclavia:dustSteel . 
+
+:@plantKelp a :OreDictionaryEntry . 
+:@plantKelp :oreDictContains :item.coral.kelp . 
+:@plantKelp :oreDictContains :tile.bop.coral.kelpsingle . 
+
+:@nuggetPlatinum a :OreDictionaryEntry . 
+:@nuggetPlatinum :oreDictContains :item.thermalexpansion.material.nuggetPlatinum . 
+
+:@hambone a :OreDictionaryEntry . 
+:@hambone :oreDictContains :tile.tconstruct.meatblock . 
+
+:@oreCinnabar a :OreDictionaryEntry . 
+:@oreCinnabar :oreDictContains :tile.blockCustomOre.0 . 
+:@oreCinnabar :oreDictContains :tile.blockCustomOre.0 . 
+
+:@foodSliceofCheese a :OreDictionaryEntry . 
+:@foodSliceofCheese :oreDictContains :item.null.agricultureSliceOfCheese . 
+
+:@oreEssence a :OreDictionaryEntry . 
+:@oreEssence :oreDictContains :tile.BlockOreEssence . 
+
+:@foodToastedPB&JSandwichStrawberry a :OreDictionaryEntry . 
+:@foodToastedPB&JSandwichStrawberry :oreDictContains :item.null.agricultureToastedPBJSandwichStrawberry . 
+
+:@reactorController a :OreDictionaryEntry . 
+:@reactorController :oreDictContains :tile.blockReactorPart.1 . 
+
+:@oreInfuscolium a :OreDictionaryEntry . 
+
+:@foodCinnamonandSugar a :OreDictionaryEntry . 
+:@foodCinnamonandSugar :oreDictContains :item.null.agricultureCinnamonAndSugar . 
+
+:@oreNetherManyullyn a :OreDictionaryEntry . 
+
+:@ingotQuartz a :OreDictionaryEntry . 
+
+:@coralPink a :OreDictionaryEntry . 
+:@coralPink :oreDictContains :item.coral.pink . 
+:@coralPink :oreDictContains :tile.bop.coral.pinkcoral . 
+
+:@dyeLight Blue a :OreDictionaryEntry . 
+
+:@dustHydratedCoal a :OreDictionaryEntry . 
+:@dustHydratedCoal :oreDictContains :ic2.itemFuelCoalDust . 
+
+:@ingotImpureAluminum a :OreDictionaryEntry . 
+
+:@foodGroundChicken a :OreDictionaryEntry . 
+:@foodGroundChicken :oreDictContains :item.null.agricultureGroundChicken . 
+
+:@foodGrilledCheeseBurned a :OreDictionaryEntry . 
+:@foodGrilledCheeseBurned :oreDictContains :item.null.agricultureGrilledCheeseBurned . 
+
+:@foodLoafofBreadBurned a :OreDictionaryEntry . 
+:@foodLoafofBreadBurned :oreDictContains :item.null.agricultureLoafOfBreadBurned . 
+
+:@oreArdite a :OreDictionaryEntry . 
+:@oreArdite :oreDictContains :MetalOre.Ardite . 
+
+:@nuggetTitanium a :OreDictionaryEntry . 
+
+:@glassPaneBlack a :OreDictionaryEntry . 
+:@glassPaneBlack :oreDictContains :tile.mfr.stainedglass.pane.black . 
+
+:@dustNetherInvar a :OreDictionaryEntry . 
+
+:@dustCelenegil a :OreDictionaryEntry . 
+
+:@dirtyGravelTin a :OreDictionaryEntry . 
+:@dirtyGravelTin :oreDictContains :item.factorization:ore/gravel/TIN . 
+
+:@coralRed a :OreDictionaryEntry . 
+:@coralRed :oreDictContains :item.coral.red . 
+
+:@monazitItem a :OreDictionaryEntry . 
+
+:@foodChocolate-CoveredStrawberries a :OreDictionaryEntry . 
+:@foodChocolate-CoveredStrawberries :oreDictContains :item.null.agricultureChocolateCoveredStrawberries . 
+
+:@cropRedBanana a :OreDictionaryEntry . 
+:@cropRedBanana :oreDictContains :item.food . 
+
+:@oreInfusedOrder a :OreDictionaryEntry . 
+:@oreInfusedOrder :oreDictContains :tile.blockCustomOre.5 . 
+:@oreInfusedOrder :oreDictContains :tile.blockCustomOre.5 . 
+
+:@cropPapaya a :OreDictionaryEntry . 
+:@cropPapaya :oreDictContains :item.fruits . 
+
+:@dyeBlueCrystal a :OreDictionaryEntry . 
+:@dyeBlueCrystal :oreDictContains :tile.CaveCrystal.4 . 
+
+:@cropGingkoNut a :OreDictionaryEntry . 
+:@cropGingkoNut :oreDictContains :item.food . 
+
+:@cleanGravelCopper a :OreDictionaryEntry . 
+:@cleanGravelCopper :oreDictContains :item.factorization:ore/clean/COPPER . 
+
+:@oreNetherCertusQuartz a :OreDictionaryEntry . 
+
+:@coralBrown a :OreDictionaryEntry . 
+:@coralBrown :oreDictContains :item.coral.brown . 
+
+:@oreElectrumFlux a :OreDictionaryEntry . 
+
+:@foodGroundBeef a :OreDictionaryEntry . 
+:@foodGroundBeef :oreDictContains :item.null.agricultureGroundBeef . 
+
+:@oreSulfur a :OreDictionaryEntry . 
+:@oreSulfur :oreDictContains :railcraft.ore.sulfur . 
+
+:@ingotNetherIron a :OreDictionaryEntry . 
+
+:@oreRubracium a :OreDictionaryEntry . 
+
+:@crushedPurifiedGold a :OreDictionaryEntry . 
+:@crushedPurifiedGold :oreDictContains :ic2.itemPurifiedCrushedGoldOre . 
+
+:@cropSatsuma a :OreDictionaryEntry . 
+:@cropSatsuma :oreDictContains :item.food . 
+
+:@copperRod a :OreDictionaryEntry . 
+:@copperRod :oreDictContains :item.tconstruct.ToolRod.Copper . 
+
+:@turbineHousing a :OreDictionaryEntry . 
+:@turbineHousing :oreDictContains :tile.blockTurbinePart.0 . 
+
+:@ingotSanguinite a :OreDictionaryEntry . 
+
+:@rockPumice a :OreDictionaryEntry . 
+:@rockPumice :oreDictContains :tile.SmoothRock.6 . 
+
+:@dustAluminium a :OreDictionaryEntry . 
+:@dustAluminium :oreDictContains :item.tconstruct.Materials.AluminumDust . 
+
+:@oreTungstate a :OreDictionaryEntry . 
+
+:@nuggetUnstable a :OreDictionaryEntry . 
+:@nuggetUnstable :oreDictContains :item.extrautils:unstableingot.1 . 
+
+:@aluminumIngot a :OreDictionaryEntry . 
+
+:@cropVanilla a :OreDictionaryEntry . 
+:@cropVanilla :oreDictContains :tile.agriculture:vanilla . 
+
+:@foodCaramelApplewithNuts a :OreDictionaryEntry . 
+:@foodCaramelApplewithNuts :oreDictContains :item.null.agricultureCaramelAppleWithNuts . 
+
+:@dustImpureCobalt a :OreDictionaryEntry . 
+:@dustImpureCobalt :oreDictContains :item.e_dusts.e_impureCobaltDust . 
+
+:@dustGlowstone a :OreDictionaryEntry . 
+:@dustGlowstone :oreDictContains :item.yellowDust . 
+:@dustGlowstone :oreDictContains :item.yellowDust . 
+
+:@dirtyGravelCopper a :OreDictionaryEntry . 
+:@dirtyGravelCopper :oreDictContains :item.factorization:ore/gravel/COPPER . 
+
+:@foodAppleGelatin a :OreDictionaryEntry . 
+:@foodAppleGelatin :oreDictContains :item.null.agricultureAppleGelatin . 
+
+:@ingotPulsatingIron a :OreDictionaryEntry . 
+:@ingotPulsatingIron :oreDictContains :enderio.phasedIron . 
+
+:@ingotTetrahedrite a :OreDictionaryEntry . 
+
+:@oreNetherSilver a :OreDictionaryEntry . 
+:@oreNetherSilver :oreDictContains :tile.netherores.ore.silver . 
+
+:@rockOpal a :OreDictionaryEntry . 
+:@rockOpal :oreDictContains :tile.SmoothRock2.0 . 
+
+:@dustInvar a :OreDictionaryEntry . 
+:@dustInvar :oreDictContains :item.thermalexpansion.material.dustInvar . 
+
+:@foodFrenchToastBurned a :OreDictionaryEntry . 
+:@foodFrenchToastBurned :oreDictContains :item.null.agricultureFrenchToastBurned . 
+
+:@dustAluminiumBrass a :OreDictionaryEntry . 
+:@dustAluminiumBrass :oreDictContains :item.tconstruct.Materials.AluBrassDust . 
+
+:@cleanGravelGold a :OreDictionaryEntry . 
+:@cleanGravelGold :oreDictContains :item.factorization:ore/clean/GOLD . 
+
+:@glassLightGray a :OreDictionaryEntry . 
+:@glassLightGray :oreDictContains :block.stainedglass.lightgray . 
+:@glassLightGray :oreDictContains :tile.mfr.stainedglass.block.lightgray . 
+
+:@ingotGold a :OreDictionaryEntry . 
+:@ingotGold :oreDictContains :item.ingotGold . 
+:@ingotGold :oreDictContains :item.ingotGold . 
+:@ingotGold :oreDictContains :item.ingotGold . 
+:@ingotGold :oreDictContains :item.ingotGold . 
+:@ingotGold :oreDictContains :item.modingots.30 . 
+:@ingotGold :oreDictContains :item.ingotGold . 
+
+:@dustFluorite a :OreDictionaryEntry . 
+
+:@oreNetherBronze a :OreDictionaryEntry . 
+
+:@onyx a :OreDictionaryEntry . 
+:@onyx :oreDictContains :tile.SmoothRock.15 . 
+
+:@reactorRedstonePort a :OreDictionaryEntry . 
+:@reactorRedstonePort :oreDictContains :tile.blockReactorRedstonePort . 
+
+:@nuggetBronze a :OreDictionaryEntry . 
+:@nuggetBronze :oreDictContains :item.tconstruct.Materials.BronzeNugget . 
+:@nuggetBronze :oreDictContains :item.thermalexpansion.material.nuggetBronze . 
+
+:@dustTinyAluminium a :OreDictionaryEntry . 
+:@dustTinyAluminium :oreDictContains :item.aobd.dustsItem13 . 
+
+:@dustGreenSapphire a :OreDictionaryEntry . 
+
+:@glassWhite a :OreDictionaryEntry . 
+:@glassWhite :oreDictContains :block.stainedglass.white . 
+:@glassWhite :oreDictContains :tile.mfr.stainedglass.block.white . 
+
+:@ingotFluorite a :OreDictionaryEntry . 
+
+:@oreTinyCobalt a :OreDictionaryEntry . 
+
+:@blockDiamond a :OreDictionaryEntry . 
+:@blockDiamond :oreDictContains :tile.blockDiamond . 
+
+:@crystallineLead a :OreDictionaryEntry . 
+:@crystallineLead :oreDictContains :item.factorization:ore/crystal/LEAD . 
+
+:@ingotAluminum a :OreDictionaryEntry . 
+:@ingotAluminum :oreDictContains :item.tconstruct.Materials.AluminumIngot . 
+:@ingotAluminum :oreDictContains :item.materials.ingotAluminum . 
+:@ingotAluminum :oreDictContains :item.compacts.misc.alingot . 
+:@ingotAluminum :oreDictContains :item.modingots.6 . 
+:@ingotAluminum :oreDictContains :item.item.electriingots.4 . 
+:@ingotAluminum :oreDictContains :item.e_ingot.e_ingotAluminium . 
+
+:@ingotVulcanite a :OreDictionaryEntry . 
+
+:@dustAmethyst a :OreDictionaryEntry . 
+
+:@glassMagenta a :OreDictionaryEntry . 
+:@glassMagenta :oreDictContains :block.stainedglass.magenta . 
+:@glassMagenta :oreDictContains :tile.mfr.stainedglass.block.magenta . 
+
+:@componentMVCapacitor a :OreDictionaryEntry . 
+:@componentMVCapacitor :oreDictContains :item.powerArmorComponent.componentMVCapacitor . 
+
+:@dyeCeramicCyan a :OreDictionaryEntry . 
+:@dyeCeramicCyan :oreDictContains :item.mfr.ceramicdye.cyan . 
+
+:@ingotNetherBronze a :OreDictionaryEntry . 
+
+:@dustGraphite a :OreDictionaryEntry . 
+:@dustGraphite :oreDictContains :item.dustGraphite . 
+
+:@dustNetherManyullyn a :OreDictionaryEntry . 
+
+:@dustTinyLithium a :OreDictionaryEntry . 
+:@dustTinyLithium :oreDictContains :ic2.itemDustLithiumSmall . 
+
+:@dustEmerald a :OreDictionaryEntry . 
+
+:@MonazitOre a :OreDictionaryEntry . 
+
+:@dustNetherSteel a :OreDictionaryEntry . 
+
+:@gemSteel a :OreDictionaryEntry . 
+
+:@foodRoastedMarshmellows a :OreDictionaryEntry . 
+:@foodRoastedMarshmellows :oreDictContains :item.null.agricultureRoastedMarshmellows . 
+
+:@crushedPurifiedIron a :OreDictionaryEntry . 
+:@crushedPurifiedIron :oreDictContains :ic2.itemPurifiedCrushedIronOre . 
+
+:@glassOrange a :OreDictionaryEntry . 
+:@glassOrange :oreDictContains :block.stainedglass.orange . 
+:@glassOrange :oreDictContains :tile.mfr.stainedglass.block.orange . 
+
+:@oreGreenSapphire a :OreDictionaryEntry . 
+
+:@record a :OreDictionaryEntry . 
+:@record :oreDictContains :item.record . 
+:@record :oreDictContains :item.record . 
+:@record :oreDictContains :item.record . 
+:@record :oreDictContains :item.record . 
+:@record :oreDictContains :item.record . 
+:@record :oreDictContains :item.record . 
+:@record :oreDictContains :item.record . 
+:@record :oreDictContains :item.record . 
+:@record :oreDictContains :item.record . 
+:@record :oreDictContains :item.record . 
+:@record :oreDictContains :item.record . 
+:@record :oreDictContains :item.record . 
+
+:@dyeRed a :OreDictionaryEntry . 
+:@dyeRed :oreDictContains :item.dyePowder.red . 
+:@dyeRed :oreDictContains :item.materials.dyeRed . 
+:@dyeRed :oreDictContains :item.misc . 
+:@dyeRed :oreDictContains :item.TreeDye . 
+:@dyeRed :oreDictContains :tile.projectred.exploration.dyesapling|14 . 
+
+:@turbineController a :OreDictionaryEntry . 
+:@turbineController :oreDictContains :tile.blockTurbinePart.1 . 
+
+:@oreImpureGold a :OreDictionaryEntry . 
+
+:@dyeLimeCrystal a :OreDictionaryEntry . 
+:@dyeLimeCrystal :oreDictContains :tile.CaveCrystal.10 . 
+
+:@ingotTitanium a :OreDictionaryEntry . 
+:@ingotTitanium :oreDictContains :item.materials.ingotTitanium . 
+:@ingotTitanium :oreDictContains :item.modingots.63 . 
+
+:@ingotNetherDiamond a :OreDictionaryEntry . 
+
+:@blockLimestone a :OreDictionaryEntry . 
+:@blockLimestone :oreDictContains :tile.oreBlocks.limestone . 
+:@blockLimestone :oreDictContains :item.tile.limestone.0 . 
+
+:@foodSugarCookie a :OreDictionaryEntry . 
+:@foodSugarCookie :oreDictContains :item.null.agricultureSugarCookie . 
+
+:@dustLemurite a :OreDictionaryEntry . 
+
+:@dustPureArdite a :OreDictionaryEntry . 
+:@dustPureArdite :oreDictContains :item.e_dusts.e_pureArditeDust . 
+
+:@ingotSoulSand a :OreDictionaryEntry . 
+
+:@foodAppleCinnamonCookeBurned a :OreDictionaryEntry . 
+:@foodAppleCinnamonCookeBurned :oreDictContains :item.null.agricultureAppleCinnamonCookieBurned . 
+
+:@dustZinc a :OreDictionaryEntry . 
+
+:@cropDuskberry a :OreDictionaryEntry . 
+:@cropDuskberry :oreDictContains :item.berry.dusk . 
+
+:@clusterCinnabar a :OreDictionaryEntry . 
+:@clusterCinnabar :oreDictContains :item.ItemNugget.21 . 
+
+:@oreNetherCobalt a :OreDictionaryEntry . 
+
+:@ingotTinyGold a :OreDictionaryEntry . 
+
+:@compressedSand1x a :OreDictionaryEntry . 
+:@compressedSand1x :oreDictContains :tile.extrautils:cobblestone_compressed.14 . 
+
+:@dustNetherAluminum a :OreDictionaryEntry . 
+
+:@foodPB&JSandwichApple a :OreDictionaryEntry . 
+:@foodPB&JSandwichApple :oreDictContains :item.null.agriculturePBJSandwichApple . 
+
+:@dustEnderium a :OreDictionaryEntry . 
+:@dustEnderium :oreDictContains :item.thermalexpansion.material.dustEnderium . 
+
+:@oreMagnesium a :OreDictionaryEntry . 
+
+:@crystallineGalena a :OreDictionaryEntry . 
+:@crystallineGalena :oreDictContains :item.factorization:ore/crystal/GALENA . 
+
+:@oreUranium a :OreDictionaryEntry . 
+:@oreUranium :oreDictContains :blockOreUran . 
+
+:@ingotDirtyCobalt a :OreDictionaryEntry . 
+
+:@groundIron a :OreDictionaryEntry . 
+:@groundIron :oreDictContains :item.e_dusts.e_groundIron . 
+
+:@aluminiumOre a :OreDictionaryEntry . 
+
+:@nuggetMeatRaw a :OreDictionaryEntry . 
+:@nuggetMeatRaw :oreDictContains :item.mfr.meat.nugget.raw . 
+
+:@ingotNetherTanzanite a :OreDictionaryEntry . 
+
+:@dustImpureTin a :OreDictionaryEntry . 
+:@dustImpureTin :oreDictContains :item.e_dusts.e_impureTinDust . 
+
+:@foodCandiedApple a :OreDictionaryEntry . 
+:@foodCandiedApple :oreDictContains :item.null.agricultureCandiedApple . 
+
+:@rockGneiss a :OreDictionaryEntry . 
+:@rockGneiss :oreDictContains :tile.SmoothRock.8 . 
+
+:@glassGray a :OreDictionaryEntry . 
+:@glassGray :oreDictContains :block.stainedglass.gray . 
+:@glassGray :oreDictContains :tile.mfr.stainedglass.block.gray . 
+
+:@tinIngot a :OreDictionaryEntry . 
+
+:@oreNikolite a :OreDictionaryEntry . 
+
+:@clusterGold a :OreDictionaryEntry . 
+:@clusterGold :oreDictContains :item.ItemNugget.31 . 
+
+:@dirtyGravelDark Iron a :OreDictionaryEntry . 
+:@dirtyGravelDark Iron :oreDictContains :item.factorization:ore/gravel/DARKIRON . 
+
+:@reducedLead a :OreDictionaryEntry . 
+:@reducedLead :oreDictContains :item.factorization:ore/reduced/LEAD . 
+
+:@oreMimichite a :OreDictionaryEntry . 
+:@oreMimichite :oreDictContains :tile.Mimichite Ore . 
+:@oreMimichite :oreDictContains :tile.Mimichite Ore . 
+:@oreMimichite :oreDictContains :tile.Mimichite Ore . 
+
+:@foodFrenchFries a :OreDictionaryEntry . 
+:@foodFrenchFries :oreDictContains :item.null.agricultureFrenchFries . 
+
+:@ingotMeat a :OreDictionaryEntry . 
+:@ingotMeat :oreDictContains :item.mfr.meat.ingot.cooked . 
+
+:@gemTungsten a :OreDictionaryEntry . 
+
+:@foodPastaBurned a :OreDictionaryEntry . 
+:@foodPastaBurned :oreDictContains :item.null.agriculturePastaBurned . 
+
+:@ingotDamascus Steel a :OreDictionaryEntry . 
+
+:@blockOrichalcum a :OreDictionaryEntry . 
+
+:@dyeCyan a :OreDictionaryEntry . 
+:@dyeCyan :oreDictContains :item.dyePowder.cyan . 
+:@dyeCyan :oreDictContains :item.TreeDye . 
+:@dyeCyan :oreDictContains :tile.projectred.exploration.dyesapling|9 . 
+
+:@componentFieldEmitter a :OreDictionaryEntry . 
+:@componentFieldEmitter :oreDictContains :item.powerArmorComponent.componentFieldEmitter . 
+
+:@componentServo a :OreDictionaryEntry . 
+:@componentServo :oreDictContains :item.powerArmorComponent.componentServo . 
+
+:@ingotEnderPearl a :OreDictionaryEntry . 
+
+:@dustNetherCopper a :OreDictionaryEntry . 
+
+:@ingotNetherApatite a :OreDictionaryEntry . 
+
+:@oreImpureNickel a :OreDictionaryEntry . 
+
+:@reactorPowerTap a :OreDictionaryEntry . 
+:@reactorPowerTap :oreDictContains :tile.blockReactorPart.2 . 
+
+:@dirtyGravelIron a :OreDictionaryEntry . 
+:@dirtyGravelIron :oreDictContains :item.factorization:ore/gravel/IRON . 
+
+:@oreCooperite a :OreDictionaryEntry . 
+
+:@ingotBlack Steel a :OreDictionaryEntry . 
+
+:@dustNetherLapis a :OreDictionaryEntry . 
+
+:@turbineRotorBlade a :OreDictionaryEntry . 
+:@turbineRotorBlade :oreDictContains :tile.blockTurbineRotorPart.1 . 
+
+:@ingotInfuscolium a :OreDictionaryEntry . 
+
+:@dustElectrumFlux a :OreDictionaryEntry . 
+:@dustElectrumFlux :oreDictContains :item.redstonearsenal.material.dustElectrumFlux . 
+
+:@cropOlive a :OreDictionaryEntry . 
+:@cropOlive :oreDictContains :item.food . 
+
+:@dustCyanite a :OreDictionaryEntry . 
+:@dustCyanite :oreDictContains :item.dustCyanite . 
+
+:@cropStrawberry a :OreDictionaryEntry . 
+:@cropStrawberry :oreDictContains :tile.agriculture:strawberry . 
+
+:@nuggetQuicksilver a :OreDictionaryEntry . 
+:@nuggetQuicksilver :oreDictContains :item.ItemResource.3 . 
+
+:@nuggetGlue a :OreDictionaryEntry . 
+
+:@crushedAluminium a :OreDictionaryEntry . 
+:@crushedAluminium :oreDictContains :item.aobd.dustsItem11 . 
+
+:@gearWood a :OreDictionaryEntry . 
+:@gearWood :oreDictContains :item.woodenGearItem . 
+
+:@coralLightBlue a :OreDictionaryEntry . 
+:@coralLightBlue :oreDictContains :item.coral.blue . 
+:@coralLightBlue :oreDictContains :tile.bop.coral.bluecoral . 
+
+:@cropCranberry a :OreDictionaryEntry . 
+
+:@foodLoafofBread a :OreDictionaryEntry . 
+:@foodLoafofBread :oreDictContains :item.null.agricultureLoafOfBread . 
+
+:@ingotNikolite a :OreDictionaryEntry . 
+
+:@foodStrawberryPieBurned a :OreDictionaryEntry . 
+:@foodStrawberryPieBurned :oreDictContains :item.null.agricultureStrawberryPieBurned . 
+
+:@blockSilver a :OreDictionaryEntry . 
+:@blockSilver :oreDictContains :tile.factorization.ResourceBlock.SILVERBLOCK . 
+:@blockSilver :oreDictContains :tile.thermalexpansion.storage.silver.name . 
+:@blockSilver :oreDictContains :tile.e_metal.e_blockSilver . 
+
+:@blockCopper a :OreDictionaryEntry . 
+:@blockCopper :oreDictContains :blockMetalCopper . 
+:@blockCopper :oreDictContains :StorageMetals.Copper . 
+:@blockCopper :oreDictContains :tile.oreBlocks.copperBlock . 
+:@blockCopper :oreDictContains :tile.thermalexpansion.storage.copper.name . 
+:@blockCopper :oreDictContains :tile.e_metal.e_blockCopper . 
+
+:@oreDirtyCobalt a :OreDictionaryEntry . 
+
+:@dyeLightGray a :OreDictionaryEntry . 
+:@dyeLightGray :oreDictContains :item.dyePowder.silver . 
+:@dyeLightGray :oreDictContains :item.TreeDye . 
+:@dyeLightGray :oreDictContains :tile.projectred.exploration.dyesapling|8 . 
+
+:@ingotCobalt a :OreDictionaryEntry . 
+:@ingotCobalt :oreDictContains :item.tconstruct.Materials.CobaltIngot . 
+:@ingotCobalt :oreDictContains :item.modingots.41 . 
+
+:@dustTungstate a :OreDictionaryEntry . 
+
+:@glassBlack a :OreDictionaryEntry . 
+:@glassBlack :oreDictContains :block.stainedglass.black . 
+:@glassBlack :oreDictContains :tile.mfr.stainedglass.block.black . 
+
+:@oreShadow Steel a :OreDictionaryEntry . 
+
+:@dyeBlueCrystalShard a :OreDictionaryEntry . 
+:@dyeBlueCrystalShard :oreDictContains :item.CrystalShard.4 . 
+
+:@nuggetMagnesium a :OreDictionaryEntry . 
+
+:@nuggetObsidian a :OreDictionaryEntry . 
+:@nuggetObsidian :oreDictContains :item.tconstruct.Materials.ObsidianNugget . 
+
+:@dustSawdust a :OreDictionaryEntry . 
+
+:@oreDirtyAluminium a :OreDictionaryEntry . 
+
+:@ingotImpureGold a :OreDictionaryEntry . 
+
+:@dyeMagentaCrystalShard a :OreDictionaryEntry . 
+:@dyeMagentaCrystalShard :oreDictContains :item.CrystalShard.13 . 
+
+:@dustNetherOsmium a :OreDictionaryEntry . 
+
+:@wrench a :OreDictionaryEntry . 
+:@wrench :oreDictContains :item.calclavia:multitool . 
+
+:@peridotite a :OreDictionaryEntry . 
+:@peridotite :oreDictContains :tile.SmoothRock.9 . 
+
+:@oreChimerite a :OreDictionaryEntry . 
+
+:@dirtyGravelArdite a :OreDictionaryEntry . 
+:@dirtyGravelArdite :oreDictContains :item.factorization:ore/gravel/ARDITE . 
+
+:@dustNetherPigIron a :OreDictionaryEntry . 
+
+:@dustOrichalcum a :OreDictionaryEntry . 
+
+:@ingotAdamantine a :OreDictionaryEntry . 
+
+:@ovenRack a :OreDictionaryEntry . 
+:@ovenRack :oreDictContains :item.null.agricultureOvenRack . 
+
+:@oreGlue a :OreDictionaryEntry . 
+
+:@dustAdamantium a :OreDictionaryEntry . 
+
+:@groundCobalt a :OreDictionaryEntry . 
+:@groundCobalt :oreDictContains :item.e_dusts.e_groundCobalt . 
+
+:@coralLightGray a :OreDictionaryEntry . 
+:@coralLightGray :oreDictContains :item.coral.lightgrey . 
+
+:@foodToastedPB&JSabdwichStrawberryBurned a :OreDictionaryEntry . 
+:@foodToastedPB&JSabdwichStrawberryBurned :oreDictContains :item.null.agricultureToastedPBJSandwichStrawberryBurned . 
+
+:@ingotHSLA a :OreDictionaryEntry . 
+:@ingotHSLA :oreDictContains :item.shaftcraft.crafting.ingot . 
+
+:@foodPumpkinCookie a :OreDictionaryEntry . 
+:@foodPumpkinCookie :oreDictContains :item.null.agriculturePumpkinCookie . 
+
+:@seedBarley a :OreDictionaryEntry . 
+:@seedBarley :oreDictContains :item.misc . 
+
+:@shardAir a :OreDictionaryEntry . 
+:@shardAir :oreDictContains :item.ItemShard.0 . 
+:@shardAir :oreDictContains :item.modingots.13 . 
+:@shardAir :oreDictContains :item.ItemShard.0 . 
+
+:@dustNetherAluminium a :OreDictionaryEntry . 
+
+:@RotaryCraft:dustBedrock a :OreDictionaryEntry . 
+:@RotaryCraft:dustBedrock :oreDictContains :item.powder.misc.beddust . 
+
+:@glassLightBlue a :OreDictionaryEntry . 
+:@glassLightBlue :oreDictContains :block.stainedglass.lightblue . 
+:@glassLightBlue :oreDictContains :tile.mfr.stainedglass.block.lightblue . 
+
+:@foodBeer a :OreDictionaryEntry . 
+:@foodBeer :oreDictContains :item.null.agricultureBeer . 
+
+:@ingotNetherPigIron a :OreDictionaryEntry . 
+
+:@plateDenseBronze a :OreDictionaryEntry . 
+:@plateDenseBronze :oreDictContains :ic2.itemDensePlateBronze . 
+
+:@ingotTopaz a :OreDictionaryEntry . 
+
+:@gemRuby a :OreDictionaryEntry . 
+:@gemRuby :oreDictContains :item.bop.gems.ruby . 
+:@gemRuby :oreDictContains :item.modingots.24 . 
+:@gemRuby :oreDictContains :item.e_gem.e_gemRuby . 
+:@gemRuby :oreDictContains :item.projectred.core.part.gemruby . 
+
+:@dustNetherForce a :OreDictionaryEntry . 
+
+:@ingotImpureCopper a :OreDictionaryEntry . 
+
+:@oreNetherEmerald a :OreDictionaryEntry . 
+:@oreNetherEmerald :oreDictContains :tile.netherores.ore.emerald . 
+
+:@dustHepatizon a :OreDictionaryEntry . 
+
+:@ingotGreenSapphire a :OreDictionaryEntry . 
+
+:@turbineBearing a :OreDictionaryEntry . 
+:@turbineBearing :oreDictContains :tile.blockTurbinePart.4 . 
+
+:@rockQuartz a :OreDictionaryEntry . 
+:@rockQuartz :oreDictContains :tile.SmoothRock.10 . 
+
+:@ingotAlumite a :OreDictionaryEntry . 
+:@ingotAlumite :oreDictContains :item.tconstruct.Materials.AlumiteIngot . 
+
+:@granulite a :OreDictionaryEntry . 
+:@granulite :oreDictContains :tile.SmoothRock.11 . 
+
+:@gemCalcite a :OreDictionaryEntry . 
+:@gemCalcite :oreDictContains :item.RawMaterials.5 . 
+:@gemCalcite :oreDictContains :item.modingots.57 . 
+
+:@itemDustSteel a :OreDictionaryEntry . 
+
+:@glassYellow a :OreDictionaryEntry . 
+:@glassYellow :oreDictContains :block.stainedglass.yellow . 
+:@glassYellow :oreDictContains :tile.mfr.stainedglass.block.yellow . 
+
+:@ingotCinnabar a :OreDictionaryEntry . 
+
+:@itemCircuitAdvanced a :OreDictionaryEntry . 
+
+:@stickObsidian a :OreDictionaryEntry . 
+:@stickObsidian :oreDictContains :item.itemCrafting . 
+
+:@titaniumIngot a :OreDictionaryEntry . 
+
+:@gemAmethyst a :OreDictionaryEntry . 
+
+:@oreCalcite a :OreDictionaryEntry . 
+:@oreCalcite :oreDictContains :tile.Ore.7 . 
+
+:@slate a :OreDictionaryEntry . 
+:@slate :oreDictContains :tile.SmoothRock.7 . 
+
+:@silverIngot a :OreDictionaryEntry . 
+
+:@marble a :OreDictionaryEntry . 
+:@marble :oreDictContains :tile.SmoothRock.2 . 
+
+:@reactorRedNetPort a :OreDictionaryEntry . 
+:@reactorRedNetPort :oreDictContains :tile.blockReactorPart.4 . 
+
+:@glassPaneLightBlue a :OreDictionaryEntry . 
+:@glassPaneLightBlue :oreDictContains :tile.mfr.stainedglass.pane.lightblue . 
+
+:@ingotImpureTin a :OreDictionaryEntry . 
+
+:@ceramicCup a :OreDictionaryEntry . 
+:@ceramicCup :oreDictContains :item.null.agricultureCeramicCup . 
+
+:@dustUranium a :OreDictionaryEntry . 
+:@dustUranium :oreDictContains :item.dustYellorium . 
+
+:@compressedDirt3x a :OreDictionaryEntry . 
+:@compressedDirt3x :oreDictContains :tile.extrautils:cobblestone_compressed.10 . 
+
+:@dustTopaz a :OreDictionaryEntry . 
+
+:@blockManyullyn a :OreDictionaryEntry . 
+:@blockManyullyn :oreDictContains :StorageMetals.Manyullyn . 
+
+:@dustInfusedFire a :OreDictionaryEntry . 
+
+:@oreCopper a :OreDictionaryEntry . 
+:@oreCopper :oreDictContains :MetalOre.Copper . 
+:@oreCopper :oreDictContains :block.ore.gravel.copper . 
+:@oreCopper :oreDictContains :tile.resources.1 . 
+:@oreCopper :oreDictContains :tile.oreBlocks.copperOre . 
+:@oreCopper :oreDictContains :tile.thermalexpansion.ore.copper.name . 
+:@oreCopper :oreDictContains :tile.calclavia:oreCopper . 
+:@oreCopper :oreDictContains :tile.calclavia:oreCopper . 
+:@oreCopper :oreDictContains :tile.ElectriOre.0 . 
+:@oreCopper :oreDictContains :tile.e_ore.e_oreNativeCopper . 
+
+:@dustNaturalAluminum a :OreDictionaryEntry . 
+
+:@orePureArdite a :OreDictionaryEntry . 
+
+:@ingotArdite a :OreDictionaryEntry . 
+:@ingotArdite :oreDictContains :item.tconstruct.Materials.ArditeIngot . 
+:@ingotArdite :oreDictContains :item.modingots.42 . 
+
+:@fertilizerOrganic a :OreDictionaryEntry . 
+:@fertilizerOrganic :oreDictContains :item.mfr.fertilizer . 
+
+:@dustCheese a :OreDictionaryEntry . 
+
+:@dustImpureGold a :OreDictionaryEntry . 
+:@dustImpureGold :oreDictContains :item.e_dusts.e_impureGoldDust . 
+
+:@cropFingerLime a :OreDictionaryEntry . 
+:@cropFingerLime :oreDictContains :item.food . 
+
+:@componentParachute a :OreDictionaryEntry . 
+:@componentParachute :oreDictContains :item.powerArmorComponent.componentParachute . 
+
+:@gemForce a :OreDictionaryEntry . 
+:@gemForce :oreDictContains :item.modingots.27 . 
+
+:@oreNetherEssence a :OreDictionaryEntry . 
+:@oreNetherEssence :oreDictContains :tile.BlockOreEssenceNether . 
+
+:@blockObsidian a :OreDictionaryEntry . 
+
+:@seedWheat a :OreDictionaryEntry . 
+:@seedWheat :oreDictContains :item.seeds . 
+:@seedWheat :oreDictContains :item.misc . 
+
+:@ingotNetherSaltpeter a :OreDictionaryEntry . 
+
+:@gemTanzanite a :OreDictionaryEntry . 
+:@gemTanzanite :oreDictContains :item.bop.gems.tanzanite . 
+
+:@dustPlatinum a :OreDictionaryEntry . 
+:@dustPlatinum :oreDictContains :item.thermalexpansion.material.dustPlatinum . 
+:@dustPlatinum :oreDictContains :item.e_dusts.e_purePlatinumDust . 
+
+:@stoneShale a :OreDictionaryEntry . 
+:@stoneShale :oreDictContains :tile.SmoothRock.4 . 
+
+:@oreNetherSapphire a :OreDictionaryEntry . 
+
+:@ingotTungsten a :OreDictionaryEntry . 
+:@ingotTungsten :oreDictContains :item.modingots.21 . 
+
+:@dustNetherLead a :OreDictionaryEntry . 
+
+:@greggy_greg_do_please_kindly_stuff_a_sock_in_it a :OreDictionaryEntry . 
+:@greggy_greg_do_please_kindly_stuff_a_sock_in_it :oreDictContains :item.bootsCloth . 
+
+:@treeLeaves a :OreDictionaryEntry . 
+:@treeLeaves :oreDictContains :tile.leaves.oak . 
+:@treeLeaves :oreDictContains :blockRubLeaves . 
+:@treeLeaves :oreDictContains :tile.bop.leavesColorized1.redwood . 
+:@treeLeaves :oreDictContains :tile.bop.leavesColorized2.acacia . 
+:@treeLeaves :oreDictContains :tile.bop.leaves1.dark . 
+:@treeLeaves :oreDictContains :tile.bop.leaves2.orangeautumn . 
+:@treeLeaves :oreDictContains :tile.bop.leaves3.whitecherry . 
+:@treeLeaves :oreDictContains :tile.bop.leaves4.yellowautumn . 
+:@treeLeaves :oreDictContains :tile.bop.leavesFruit . 
+:@treeLeaves :oreDictContains :tile.bop.leavesFruit2 . 
+:@treeLeaves :oreDictContains :tile.TFLeaves.32767 . 
+:@treeLeaves :oreDictContains :tile.TFMagicLeaves.32767 . 
+
+:@ingotQuantum a :OreDictionaryEntry . 
+
+:@uraniumOre a :OreDictionaryEntry . 
+
+:@ingotMagnesium a :OreDictionaryEntry . 
+:@ingotMagnesium :oreDictContains :item.materials.ingotMagnesium . 
+
+:@dustPlastic a :OreDictionaryEntry . 
+:@dustPlastic :oreDictContains :item.mfr.plastic.raw . 
+
+:@dustNetherObsidian a :OreDictionaryEntry . 
+
+:@oreCadmium a :OreDictionaryEntry . 
+:@oreCadmium :oreDictContains :tile.Ore.2 . 
+
+:@cleanGravelDark Iron a :OreDictionaryEntry . 
+:@cleanGravelDark Iron :oreDictContains :item.factorization:ore/clean/DARKIRON . 
+
+:@dustRuby a :OreDictionaryEntry . 
+
+:@crystallineInvar a :OreDictionaryEntry . 
+
+:@ingotNetherCoal a :OreDictionaryEntry . 
+
+:@ingotHaderoth a :OreDictionaryEntry . 
+
+:@itemIngotBronze a :OreDictionaryEntry . 
+
+:@itemPlateBronze a :OreDictionaryEntry . 
+
+:@ingotElectrum a :OreDictionaryEntry . 
+:@ingotElectrum :oreDictContains :item.thermalexpansion.material.ingotElectrum . 
+
+:@cropTangerine a :OreDictionaryEntry . 
+:@cropTangerine :oreDictContains :item.food . 
+
+:@rockMarble a :OreDictionaryEntry . 
+:@rockMarble :oreDictContains :tile.SmoothRock.2 . 
+
+:@stoneMigmatite a :OreDictionaryEntry . 
+:@stoneMigmatite :oreDictContains :tile.SmoothRock.13 . 
+
+:@coralPurple a :OreDictionaryEntry . 
+:@coralPurple :oreDictContains :item.coral.purple . 
+:@coralPurple :oreDictContains :tile.bop.coral.glowcoral . 
+
+:@cropStingberry a :OreDictionaryEntry . 
+:@cropStingberry :oreDictContains :item.berry.sting . 
+
+:@ingotAluminiumBrass a :OreDictionaryEntry . 
+:@ingotAluminiumBrass :oreDictContains :item.tconstruct.Materials.AluBrassIngot . 
+
+:@blockVyroxeres a :OreDictionaryEntry . 
+
+:@glassTurbine a :OreDictionaryEntry . 
+:@glassTurbine :oreDictContains :tile.multiblockGlass.1 . 
+
+:@blockMithril a :OreDictionaryEntry . 
+
+:@componentIonThruster a :OreDictionaryEntry . 
+:@componentIonThruster :oreDictContains :item.powerArmorComponent.componentIonThruster . 
+
+:@componentCarbonMyofiber a :OreDictionaryEntry . 
+:@componentCarbonMyofiber :oreDictContains :item.powerArmorComponent.componentCarbonMyofiber . 
+
+:@ironWire a :OreDictionaryEntry . 
+
+:@crushedTin a :OreDictionaryEntry . 
+:@crushedTin :oreDictContains :ic2.itemCrushedTinOre . 
+
+:@oreNetherTanzanite a :OreDictionaryEntry . 
+
+:@dyeOrange a :OreDictionaryEntry . 
+:@dyeOrange :oreDictContains :item.dyePowder.orange . 
+:@dyeOrange :oreDictContains :item.TreeDye . 
+:@dyeOrange :oreDictContains :tile.projectred.exploration.dyesapling|1 . 
+
+:@oreAluminiumBrass a :OreDictionaryEntry . 
+
+:@ingotEnderium a :OreDictionaryEntry . 
+:@ingotEnderium :oreDictContains :item.thermalexpansion.material.ingotEnderium . 
+
+:@foodDough a :OreDictionaryEntry . 
+:@foodDough :oreDictContains :item.null.agricultureDough . 
+
+:@foodCheeseburger a :OreDictionaryEntry . 
+:@foodCheeseburger :oreDictContains :item.null.agricultureCheeseburger . 
+
+:@dirtyGravelGalena a :OreDictionaryEntry . 
+:@dirtyGravelGalena :oreDictContains :item.factorization:ore/gravel/GALENA . 
+
+:@dyeOrangeCrystal a :OreDictionaryEntry . 
+:@dyeOrangeCrystal :oreDictContains :tile.CaveCrystal.14 . 
+
+:@groundTin a :OreDictionaryEntry . 
+:@groundTin :oreDictContains :item.e_dusts.e_groundCassiterite . 
+
+:@dustNetherCertusQuartz a :OreDictionaryEntry . 
+
+:@circuitAdvanced a :OreDictionaryEntry . 
+:@circuitAdvanced :oreDictContains :ic2.itemPartCircuitAdv . 
+:@circuitAdvanced :oreDictContains :item.calclavia:circuitAdvanced . 
+
+:@oreElectrum a :OreDictionaryEntry . 
+
+:@ingotNetherNikolite a :OreDictionaryEntry . 
+
+:@dustSilicon a :OreDictionaryEntry . 
+
+:@dustTanzanite a :OreDictionaryEntry . 
+
+:@brewer a :OreDictionaryEntry . 
+:@brewer :oreDictContains :tile.agriculture:brewer . 
+
+:@dustNetherIron a :OreDictionaryEntry . 
+
+:@nuggetLead a :OreDictionaryEntry . 
+:@nuggetLead :oreDictContains :item.ItemNugget.4 . 
+:@nuggetLead :oreDictContains :item.beeNugget . 
+:@nuggetLead :oreDictContains :item.thermalexpansion.material.nuggetLead . 
+
+:@foodBaconBurned a :OreDictionaryEntry . 
+:@foodBaconBurned :oreDictContains :item.null.agricultureBaconBurned . 
+
+:@dustNikolite a :OreDictionaryEntry . 
+:@dustNikolite :oreDictContains :item.modingots.22 . 
+:@dustNikolite :oreDictContains :item.modingots.40 . 
+
+:@foodVanillaIceCreamChocolateSauce a :OreDictionaryEntry . 
+:@foodVanillaIceCreamChocolateSauce :oreDictContains :item.null.agricultureVanillaIceCreamChocolateSauce . 
+
+:@dropIridium a :OreDictionaryEntry . 
+
+:@gearBronze a :OreDictionaryEntry . 
+:@gearBronze :oreDictContains :item.gearBronze . 
+:@gearBronze :oreDictContains :item.thermalexpansion.material.gearBronze . 
+
+:@dustChimerite a :OreDictionaryEntry . 
+
+:@ingotRefinedIron a :OreDictionaryEntry . 
+:@ingotRefinedIron :oreDictContains :item.ingotIron . 
+
+:@oreImpureCobalt a :OreDictionaryEntry . 
+
+:@ingotNetherEssence a :OreDictionaryEntry . 
+
+:@cropApricot a :OreDictionaryEntry . 
+:@cropApricot :oreDictContains :item.food . 
+
+:@saplingTree a :OreDictionaryEntry . 
+:@saplingTree :oreDictContains :None . 
+:@saplingTree :oreDictContains :block.sapling.willow . 
+
+:@dustOsmium a :OreDictionaryEntry . 
+
+:@oreBauxite a :OreDictionaryEntry . 
+
+:@ingotChromite a :OreDictionaryEntry . 
+
+:@arditeRod a :OreDictionaryEntry . 
+:@arditeRod :oreDictContains :item.tconstruct.ToolRod.Ardite . 
+
+:@blockOreTin a :OreDictionaryEntry . 
+
+:@slabCloth a :OreDictionaryEntry . 
+:@slabCloth :oreDictContains :tile.cloth.gray.slab . 
+:@slabCloth :oreDictContains :tile.cloth.black.slab . 
+
+:@itemEssence a :OreDictionaryEntry . 
+:@itemEssence :oreDictContains :item.modingots.66 . 
+
+:@dustStone a :OreDictionaryEntry . 
+:@dustStone :oreDictContains :ic2.itemDustStone . 
+
+:@compressedCobblestone2x a :OreDictionaryEntry . 
+:@compressedCobblestone2x :oreDictContains :tile.extrautils:cobblestone_compressed.1 . 
+
+:@ingotConductiveIron a :OreDictionaryEntry . 
+:@ingotConductiveIron :oreDictContains :enderio.conductiveIron . 
+
+:@treeSapling a :OreDictionaryEntry . 
+:@treeSapling :oreDictContains :tile.sapling.oak . 
+:@treeSapling :oreDictContains :blockRubSapling . 
+:@treeSapling :oreDictContains :tile.bop.saplings.appleSapling . 
+:@treeSapling :oreDictContains :tile.bop.colorizedSaplings.acaciaSapling . 
+:@treeSapling :oreDictContains :item.sapling . 
+:@treeSapling :oreDictContains :tile.Sapling . 
+:@treeSapling :oreDictContains :tile.Sapling . 
+:@treeSapling :oreDictContains :tile.Sapling . 
+:@treeSapling :oreDictContains :tile.Sapling . 
+:@treeSapling :oreDictContains :tile.Sapling . 
+:@treeSapling :oreDictContains :tile.Sapling . 
+:@treeSapling :oreDictContains :tile.Sapling . 
+:@treeSapling :oreDictContains :tile.Sapling . 
+:@treeSapling :oreDictContains :tile.Sapling . 
+:@treeSapling :oreDictContains :tile.Sapling . 
+:@treeSapling :oreDictContains :tile.Sapling . 
+:@treeSapling :oreDictContains :tile.Sapling . 
+:@treeSapling :oreDictContains :tile.Sapling . 
+:@treeSapling :oreDictContains :tile.Sapling . 
+:@treeSapling :oreDictContains :tile.Sapling . 
+:@treeSapling :oreDictContains :tile.Sapling . 
+:@treeSapling :oreDictContains :tile.TFSapling.32767 . 
+
+:@ingotNetherArdite a :OreDictionaryEntry . 
+
+:@ingotPureCobalt a :OreDictionaryEntry . 
+
+:@gemEmerald a :OreDictionaryEntry . 
+:@gemEmerald :oreDictContains :item.emerald . 
+:@gemEmerald :oreDictContains :item.emerald . 
+:@gemEmerald :oreDictContains :item.modingots.34 . 
+:@gemEmerald :oreDictContains :item.emerald . 
+
+:@plateDenseTin a :OreDictionaryEntry . 
+:@plateDenseTin :oreDictContains :ic2.itemDensePlateTin . 
+
+:@certusQuartzOre a :OreDictionaryEntry . 
+
+:@orePeridot a :OreDictionaryEntry . 
+:@orePeridot :oreDictContains :tile.bop.amethystOre.peridotore . 
+:@orePeridot :oreDictContains :tile.projectred.exploration.ore.oreperidot . 
+
+:@orePureCobalt a :OreDictionaryEntry . 
+
+:@mb.magnet.level2 a :OreDictionaryEntry . 
+:@mb.magnet.level2 :oreDictContains :item.magicbees:mysteriousMagnet . 
+:@mb.magnet.level2 :oreDictContains :item.magicbees:mysteriousMagnet . 
+
+:@oreInolashite a :OreDictionaryEntry . 
+
+:@dustLapis a :OreDictionaryEntry . 
+:@dustLapis :oreDictContains :ic2.itemDustLapi . 
+:@dustLapis :oreDictContains :item.item.crafting.0 . 
+
+:@gemApatite a :OreDictionaryEntry . 
+:@gemApatite :oreDictContains :item.apatite . 
+:@gemApatite :oreDictContains :item.modingots.19 . 
+
+:@oreNetherRuby a :OreDictionaryEntry . 
+
+:@ingotTinyCopper a :OreDictionaryEntry . 
+
+:@clayCup a :OreDictionaryEntry . 
+:@clayCup :oreDictContains :item.null.agricultureClayCup . 
+
+:@stoneBowl a :OreDictionaryEntry . 
+:@stoneBowl :oreDictContains :item.wrcbe_core:stoneBowl . 
+
+:@coralGray a :OreDictionaryEntry . 
+:@coralGray :oreDictContains :item.coral.grey . 
+
+:@dyeOrangeCrystalShard a :OreDictionaryEntry . 
+:@dyeOrangeCrystalShard :oreDictContains :item.CrystalShard.14 . 
+
+:@glassReactor a :OreDictionaryEntry . 
+:@glassReactor :oreDictContains :tile.multiblockGlass.0 . 
+
+:@componentSolarPanel a :OreDictionaryEntry . 
+:@componentSolarPanel :oreDictContains :item.powerArmorComponent.componentSolarPanel . 
+
+:@oreManyullyn a :OreDictionaryEntry . 
+
+:@cropBlueberry a :OreDictionaryEntry . 
+:@cropBlueberry :oreDictContains :item.berry.blue . 
+
+:@reducedCopper a :OreDictionaryEntry . 
+:@reducedCopper :oreDictContains :item.factorization:ore/reduced/COPPER . 
+
+:@dustTinyCopper a :OreDictionaryEntry . 
+:@dustTinyCopper :oreDictContains :ic2.itemDustCopperSmall . 
+
+:@ingotOsmium a :OreDictionaryEntry . 
+:@ingotOsmium :oreDictContains :item.modingots.46 . 
+
+:@foodAppleMush a :OreDictionaryEntry . 
+:@foodAppleMush :oreDictContains :item.null.agricultureAppleMush . 
+
+:@dyeBlue a :OreDictionaryEntry . 
+:@dyeBlue :oreDictContains :item.dyePowder.blue . 
+:@dyeBlue :oreDictContains :item.dye.blue . 
+:@dyeBlue :oreDictContains :item.bop.miscItems.bluedye . 
+:@dyeBlue :oreDictContains :item.misc . 
+:@dyeBlue :oreDictContains :item.TreeDye . 
+:@dyeBlue :oreDictContains :item.modingots.32 . 
+:@dyeBlue :oreDictContains :item.modingots.54 . 
+:@dyeBlue :oreDictContains :tile.projectred.exploration.dyesapling|11 . 
+
+:@ingotPureArdite a :OreDictionaryEntry . 
+
+:@ingotAtlarus a :OreDictionaryEntry . 
+
+:@oreCelenegil a :OreDictionaryEntry . 
+
+:@apatiteGem a :OreDictionaryEntry . 
+
+:@quartz a :OreDictionaryEntry . 
+:@quartz :oreDictContains :tile.SmoothRock.10 . 
+
+:@cleanGravelCobalt a :OreDictionaryEntry . 
+:@cleanGravelCobalt :oreDictContains :item.factorization:ore/clean/COBALT . 
+
+:@oreClay a :OreDictionaryEntry . 
+
+:@copperOre a :OreDictionaryEntry . 
+
+:@dustEnderPearl a :OreDictionaryEntry . 
+:@dustEnderPearl :oreDictContains :enderio.powderEnder . 
+:@dustEnderPearl :oreDictContains :AppEng.Materials.EnderPearlDust . 
+
+:@blockOreCopper a :OreDictionaryEntry . 
+
+:@migmatite a :OreDictionaryEntry . 
+:@migmatite :oreDictContains :tile.SmoothRock.13 . 
+
+:@nuggetEnderium a :OreDictionaryEntry . 
+:@nuggetEnderium :oreDictContains :item.thermalexpansion.material.nuggetEnderium . 
+
+:@dustGold a :OreDictionaryEntry . 
+:@dustGold :oreDictContains :ic2.itemDustGold . 
+:@dustGold :oreDictContains :enderio.powderGold . 
+:@dustGold :oreDictContains :item.thermalexpansion.material.dustGold . 
+:@dustGold :oreDictContains :AppEng.Materials.GoldDust . 
+:@dustGold :oreDictContains :item.e_dusts.e_pureGoldDust . 
+
+:@ingotTinySulfur a :OreDictionaryEntry . 
+
+:@wire a :OreDictionaryEntry . 
+
+:@oreNetherYellorite a :OreDictionaryEntry . 
+
+:@dustNetherSapphire a :OreDictionaryEntry . 
+
+:@gemFluorite a :OreDictionaryEntry . 
+:@gemFluorite :oreDictContains :item.Fluorite.0 . 
+:@gemFluorite :oreDictContains :item.Fluorite.1 . 
+:@gemFluorite :oreDictContains :item.Fluorite.2 . 
+:@gemFluorite :oreDictContains :item.Fluorite.3 . 
+:@gemFluorite :oreDictContains :item.Fluorite.4 . 
+:@gemFluorite :oreDictContains :item.Fluorite.5 . 
+:@gemFluorite :oreDictContains :item.Fluorite.6 . 
+:@gemFluorite :oreDictContains :item.Fluorite.7 . 
+:@gemFluorite :oreDictContains :item.modingots.52 . 
+
+:@ingotCharcoal a :OreDictionaryEntry . 
+
+:@ingotNetherrack a :OreDictionaryEntry . 
+
+:@crushedLead a :OreDictionaryEntry . 
+:@crushedLead :oreDictContains :ic2.itemCrushedLeadOre . 
+
+:@foodCarrotCakeBatter a :OreDictionaryEntry . 
+:@foodCarrotCakeBatter :oreDictContains :item.null.agricultureCarrotCakeBatter . 
+
+:@crystalCertusQuartz a :OreDictionaryEntry . 
+:@crystalCertusQuartz :oreDictContains :AppEng.Materials.QuartzCrystal . 
+
+:@ingotNetherAluminium a :OreDictionaryEntry . 
+
+:@uraniumIngot a :OreDictionaryEntry . 
+
+:@torchStone a :OreDictionaryEntry . 
+:@torchStone :oreDictContains :tile.decoration.stonetorch . 
+
+:@ingotMonazit a :OreDictionaryEntry . 
+
+:@ingotTinySilver a :OreDictionaryEntry . 
+
+:@foodSnickerdoodleDough a :OreDictionaryEntry . 
+:@foodSnickerdoodleDough :oreDictContains :item.null.agricultureSnickerDoodleDough . 
+
+:@ingotYellorite a :OreDictionaryEntry . 
+
+:@componentComputerChip a :OreDictionaryEntry . 
+:@componentComputerChip :oreDictContains :item.powerArmorComponent.componentComputerChip . 
+
+:@cropOsangeOrange a :OreDictionaryEntry . 
+:@cropOsangeOrange :oreDictContains :item.food . 
+
+:@componentControlCircuit a :OreDictionaryEntry . 
+:@componentControlCircuit :oreDictContains :item.powerArmorComponent.componentControlCircuit . 
+
+:@cropLemon a :OreDictionaryEntry . 
+:@cropLemon :oreDictContains :item.fruits . 
+
+:@dustNetherTanzanite a :OreDictionaryEntry . 
+
+:@gemRedstone a :OreDictionaryEntry . 
+
+:@blockBronze a :OreDictionaryEntry . 
+:@blockBronze :oreDictContains :blockMetalBronze . 
+:@blockBronze :oreDictContains :StorageMetals.Bronze . 
+:@blockBronze :oreDictContains :tile.thermalexpansion.storage.bronze.name . 
+:@blockBronze :oreDictContains :tile.e_metal.e_blockBronze . 
+
+:@foodSaltedPork a :OreDictionaryEntry . 
+:@foodSaltedPork :oreDictContains :item.null.agricultureSaltedPork . 
+
+:@cropPlum a :OreDictionaryEntry . 
+:@cropPlum :oreDictContains :item.fruits . 
+:@cropPlum :oreDictContains :item.food . 
+
+:@plateTin a :OreDictionaryEntry . 
+:@plateTin :oreDictContains :ic2.itemPlateTin . 
+:@plateTin :oreDictContains :item.calclavia:plateTin . 
+
+:@blockLapis a :OreDictionaryEntry . 
+:@blockLapis :oreDictContains :tile.blockLapis . 
+
+:@mb.magnet.level5 a :OreDictionaryEntry . 
+:@mb.magnet.level5 :oreDictContains :item.magicbees:mysteriousMagnet . 
+:@mb.magnet.level5 :oreDictContains :item.magicbees:mysteriousMagnet . 
+
+:@dustAngmallen a :OreDictionaryEntry . 
+
+:@oreLemurite a :OreDictionaryEntry . 
+
+:@blockAmordrine a :OreDictionaryEntry . 
+
+:@bottleSulfuricAcid a :OreDictionaryEntry . 
+:@bottleSulfuricAcid :oreDictContains :item.factorization:acid . 
+
+:@foodCheesyBaconPotatoes a :OreDictionaryEntry . 
+:@foodCheesyBaconPotatoes :oreDictContains :item.null.agricultureBaconCheesyPotatoes . 
+
+:@manyullynRod a :OreDictionaryEntry . 
+:@manyullynRod :oreDictContains :item.tconstruct.ToolRod.Manyullyn . 
+
+:@pulpWood a :OreDictionaryEntry . 
+:@pulpWood :oreDictContains :item.woodPulp . 
+:@pulpWood :oreDictContains :item.misc . 
+
+:@gemTopaz a :OreDictionaryEntry . 
+:@gemTopaz :oreDictContains :item.bop.gems.topaz . 
+
+:@crystalCinnabar a :OreDictionaryEntry . 
+:@crystalCinnabar :oreDictContains :item.thermalexpansion.material.crystalCinnabar . 
+
+:@groundArdite a :OreDictionaryEntry . 
+:@groundArdite :oreDictContains :item.e_dusts.e_groundArdite . 
+
+:@itemRubber a :OreDictionaryEntry . 
+:@itemRubber :oreDictContains :ic2.itemRubber . 
+:@itemRubber :oreDictContains :item.mfr.rubber.bar . 
+
+:@foodPBSandwich a :OreDictionaryEntry . 
+:@foodPBSandwich :oreDictContains :item.null.agriculturePBSandwich . 
+
+:@oreNetherOsmium a :OreDictionaryEntry . 
+
+:@ingotForce a :OreDictionaryEntry . 
+
+:@itemBeeswax a :OreDictionaryEntry . 
+:@itemBeeswax :oreDictContains :item.beeswax . 
+
+:@dustVulcanite a :OreDictionaryEntry . 
+
+:@itemPlateTin a :OreDictionaryEntry . 
+
+:@crystallineAlumite a :OreDictionaryEntry . 
+
+:@dustManganese a :OreDictionaryEntry . 
+
+:@dustNetherArdite a :OreDictionaryEntry . 
+
+:@shardFirestone a :OreDictionaryEntry . 
+:@shardFirestone :oreDictContains :item.modingots.8 . 
+
+:@dustVinteum a :OreDictionaryEntry . 
+:@dustVinteum :oreDictContains :item.modingots.59 . 
+
+:@componentSolenoid a :OreDictionaryEntry . 
+:@componentSolenoid :oreDictContains :item.powerArmorComponent.componentSolenoid . 
+
+:@forciciumItem a :OreDictionaryEntry . 
+
+:@crushedPurifiedArdite a :OreDictionaryEntry . 
+:@crushedPurifiedArdite :oreDictContains :item.aobd.dustsItem8 . 
+
+:@ingotMidasium a :OreDictionaryEntry . 
+
+:@ingotElectricalSteel a :OreDictionaryEntry . 
+:@ingotElectricalSteel :oreDictContains :enderio.electricalSteel . 
+
+:@dustBlack Steel a :OreDictionaryEntry . 
+
+:@glassPaneCyan a :OreDictionaryEntry . 
+:@glassPaneCyan :oreDictContains :tile.mfr.stainedglass.pane.cyan . 
+
+:@cleanGravelIron a :OreDictionaryEntry . 
+:@cleanGravelIron :oreDictContains :item.factorization:ore/clean/IRON . 
+
+:@oreCheese a :OreDictionaryEntry . 
+
+:@itemPlateCopper a :OreDictionaryEntry . 
+
+:@leadIngot a :OreDictionaryEntry . 
+
+:@dustLead a :OreDictionaryEntry . 
+:@dustLead :oreDictContains :ic2.itemDustLead . 
+:@dustLead :oreDictContains :item.thermalexpansion.material.dustLead . 
+:@dustLead :oreDictContains :item.e_dusts.e_pureLeadDust . 
+
+:@dustNetherSalt a :OreDictionaryEntry . 
+
+:@ingotIridium a :OreDictionaryEntry . 
+:@ingotIridium :oreDictContains :item.modingots.7 . 
+:@ingotIridium :oreDictContains :item.modingots.70 . 
+
+:@nuggetInvar a :OreDictionaryEntry . 
+:@nuggetInvar :oreDictContains :item.thermalexpansion.material.nuggetInvar . 
+
+:@dyeGrayCrystal a :OreDictionaryEntry . 
+:@dyeGrayCrystal :oreDictContains :tile.CaveCrystal.8 . 
+
+:@foodCinnamonToast a :OreDictionaryEntry . 
+:@foodCinnamonToast :oreDictContains :item.null.agricultureCinnamonToast . 
+
+:@ingotWheat a :OreDictionaryEntry . 
+
+:@nuggetTin a :OreDictionaryEntry . 
+:@nuggetTin :oreDictContains :item.tconstruct.Materials.TinNugget . 
+:@nuggetTin :oreDictContains :item.oreberry.tin . 
+:@nuggetTin :oreDictContains :item.ItemNugget.2 . 
+:@nuggetTin :oreDictContains :item.beeNugget . 
+:@nuggetTin :oreDictContains :item.thermalexpansion.material.nuggetTin . 
+
+:@foodBreadCrumbs a :OreDictionaryEntry . 
+:@foodBreadCrumbs :oreDictContains :item.null.agricultureBreadCrumbs . 
+
+:@oreAmmonium a :OreDictionaryEntry . 
+:@oreAmmonium :oreDictContains :tile.Ore.6 . 
+
+:@foodGelatin a :OreDictionaryEntry . 
+:@foodGelatin :oreDictContains :item.null.agriculturegelatin . 
+
+:@cropManderin a :OreDictionaryEntry . 
+:@cropManderin :oreDictContains :item.food . 
+
+:@oreNetherForce a :OreDictionaryEntry . 
+
+:@glassPaneGray a :OreDictionaryEntry . 
+:@glassPaneGray :oreDictContains :tile.mfr.stainedglass.pane.gray . 
+
+:@blockCarmot a :OreDictionaryEntry . 
+
+:@foodChocolateIceCreamMix a :OreDictionaryEntry . 
+:@foodChocolateIceCreamMix :oreDictContains :item.null.agricultureChocolateIceCreamMix . 
+
+:@itemCharcoalSugar a :OreDictionaryEntry . 
+:@itemCharcoalSugar :oreDictContains :item.mfr.sugarcharcoal . 
+
+:@nuggetAluminium a :OreDictionaryEntry . 
+:@nuggetAluminium :oreDictContains :item.tconstruct.Materials.AluminumNugget . 
+:@nuggetAluminium :oreDictContains :item.oreberry.aluminum . 
+
+:@dyeLimeCrystalShard a :OreDictionaryEntry . 
+:@dyeLimeCrystalShard :oreDictContains :item.CrystalShard.10 . 
+
+:@foodHambuergerPattyBurned a :OreDictionaryEntry . 
+:@foodHambuergerPattyBurned :oreDictContains :item.null.agricultureHamburgerPattyBurned . 
+
+:@cropBlackthorn a :OreDictionaryEntry . 
+:@cropBlackthorn :oreDictContains :item.food . 
+
+:@blockVulcanite a :OreDictionaryEntry . 
+
+:@dyeCeramicLightGray a :OreDictionaryEntry . 
+:@dyeCeramicLightGray :oreDictContains :item.mfr.ceramicdye.lightgray . 
+
+:@plateRefinedIron a :OreDictionaryEntry . 
+
+:@blockIron a :OreDictionaryEntry . 
+:@blockIron :oreDictContains :tile.blockIron . 
+
+:@ingotLithium a :OreDictionaryEntry . 
+
+:@cobblestone a :OreDictionaryEntry . 
+:@cobblestone :oreDictContains :tile.stonebrick . 
+:@cobblestone :oreDictContains :tile.RockCobble.0 . 
+:@cobblestone :oreDictContains :tile.RockCobble.1 . 
+:@cobblestone :oreDictContains :tile.RockCobble.2 . 
+:@cobblestone :oreDictContains :tile.RockCobble.3 . 
+:@cobblestone :oreDictContains :tile.RockCobble.4 . 
+:@cobblestone :oreDictContains :tile.RockCobble.5 . 
+:@cobblestone :oreDictContains :tile.RockCobble.6 . 
+:@cobblestone :oreDictContains :tile.RockCobble.7 . 
+:@cobblestone :oreDictContains :tile.RockCobble.8 . 
+:@cobblestone :oreDictContains :tile.RockCobble.9 . 
+:@cobblestone :oreDictContains :tile.RockCobble.10 . 
+:@cobblestone :oreDictContains :tile.RockCobble.11 . 
+:@cobblestone :oreDictContains :tile.RockCobble.12 . 
+:@cobblestone :oreDictContains :tile.RockCobble.13 . 
+:@cobblestone :oreDictContains :tile.RockCobble.14 . 
+:@cobblestone :oreDictContains :tile.RockCobble.15 . 
+:@cobblestone :oreDictContains :tile.RockCobble2.0 . 
+:@cobblestone :oreDictContains :tile.mfr.decorativestone.black.cobble . 
+:@cobblestone :oreDictContains :tile.mfr.decorativestone.white.cobble . 
+
+:@stonePeridotite a :OreDictionaryEntry . 
+:@stonePeridotite :oreDictContains :tile.SmoothRock.9 . 
+
+:@oreTinyGold a :OreDictionaryEntry . 
+
+:@dustNetherNaturalAluminum a :OreDictionaryEntry . 
+
+:@blockElectrumFlux a :OreDictionaryEntry . 
+:@blockElectrumFlux :oreDictContains :tile.redstonearsenal.storage.electrumFlux.name . 
+
+:@dustFirestone a :OreDictionaryEntry . 
+
+:@ingotQuicksilver a :OreDictionaryEntry . 
+
+:@dyeCeramicYellow a :OreDictionaryEntry . 
+:@dyeCeramicYellow :oreDictContains :item.mfr.ceramicdye.yellow . 
+
+:@itemCircuitBasic a :OreDictionaryEntry . 
+
+:@dustLithium a :OreDictionaryEntry . 
+:@dustLithium :oreDictContains :ic2.itemDustLithium . 
+
+:@dustInfusedEarth a :OreDictionaryEntry . 
+
+:@foodChocolateChipCookie a :OreDictionaryEntry . 
+:@foodChocolateChipCookie :oreDictContains :item.null.agricultureChocolateChipCookie . 
+
+:@nuggetArdite a :OreDictionaryEntry . 
+:@nuggetArdite :oreDictContains :item.tconstruct.Materials.ArditeNugget . 
+
+:@clusterSilver a :OreDictionaryEntry . 
+:@clusterSilver :oreDictContains :item.ItemNugget.19 . 
+
+:@woodRod a :OreDictionaryEntry . 
+:@woodRod :oreDictContains :item.tconstruct.ToolRod.Wood . 
+
+:@crushedPurifiedSilver a :OreDictionaryEntry . 
+:@crushedPurifiedSilver :oreDictContains :ic2.itemPurifiedCrushedSilverOre . 
+
+:@dustHaderoth a :OreDictionaryEntry . 
+
+:@gemNikolite a :OreDictionaryEntry . 
+
+:@oreRuby a :OreDictionaryEntry . 
+:@oreRuby :oreDictContains :tile.bop.amethystOre.rubyore . 
+:@oreRuby :oreDictContains :tile.e_ore.e_oreRuby . 
+:@oreRuby :oreDictContains :tile.projectred.exploration.ore.oreruby . 
+
+:@foodToastedPB&JSandwichAppleBurned a :OreDictionaryEntry . 
+:@foodToastedPB&JSandwichAppleBurned :oreDictContains :item.null.agricultureToastedPBJSandwichAppleBurned . 
+
+:@foodStrawberryJellyCookieDough a :OreDictionaryEntry . 
+:@foodStrawberryJellyCookieDough :oreDictContains :item.null.agricultureStrawberryJellyCookieDough . 
+
+:@oreTinyCopper a :OreDictionaryEntry . 
+
+:@dyeBlack a :OreDictionaryEntry . 
+:@dyeBlack :oreDictContains :item.dyePowder.black . 
+:@dyeBlack :oreDictContains :item.bop.miscItems.blackdye . 
+:@dyeBlack :oreDictContains :item.misc . 
+:@dyeBlack :oreDictContains :item.TreeDye . 
+:@dyeBlack :oreDictContains :tile.projectred.exploration.dyesapling|15 . 
+
+:@foodCheeseSandwich a :OreDictionaryEntry . 
+:@foodCheeseSandwich :oreDictContains :item.null.agricultureCheeseSandwich . 
+
+:@nuggetElectrum a :OreDictionaryEntry . 
+:@nuggetElectrum :oreDictContains :item.thermalexpansion.material.nuggetElectrum . 
+
+:@reducedCobalt a :OreDictionaryEntry . 
+:@reducedCobalt :oreDictContains :item.factorization:ore/reduced/COBALT . 
+
+:@gearCopper a :OreDictionaryEntry . 
+:@gearCopper :oreDictContains :item.gearCopper . 
+:@gearCopper :oreDictContains :item.thermalexpansion.material.gearCopper . 
+
+:@oreAtlarus a :OreDictionaryEntry . 
+
+:@dustMidasium a :OreDictionaryEntry . 
+
+:@dustTinySulfur a :OreDictionaryEntry . 
+:@dustTinySulfur :oreDictContains :ic2.itemDustSulfurSmall . 
+
+:@paperRod a :OreDictionaryEntry . 
+:@paperRod :oreDictContains :item.tconstruct.ToolRod.Paper . 
+
+:@slimeRod a :OreDictionaryEntry . 
+:@slimeRod :oreDictContains :item.tconstruct.ToolRod.Slime . 
+
+:@ingotNetherMalachite a :OreDictionaryEntry . 
+
+:@ingotPlutonium a :OreDictionaryEntry . 
+:@ingotPlutonium :oreDictContains :item.ingotBlutonium . 
+
+:@dustCarmot a :OreDictionaryEntry . 
+
+:@blockDirt a :OreDictionaryEntry . 
+:@blockDirt :oreDictContains :item.tile.blockDirt.0 . 
+
+:@dustNetherGalena a :OreDictionaryEntry . 
+
+:@dirtyGravelCobalt a :OreDictionaryEntry . 
+:@dirtyGravelCobalt :oreDictContains :item.factorization:ore/gravel/COBALT . 
+
+:@pumice a :OreDictionaryEntry . 
+:@pumice :oreDictContains :tile.SmoothRock.6 . 
+
+:@oreOsmium a :OreDictionaryEntry . 
+
+:@ingotDirtyArdite a :OreDictionaryEntry . 
+
+:@foodGroundCinnamon a :OreDictionaryEntry . 
+:@foodGroundCinnamon :oreDictContains :item.null.agricultureGroundCinnamon . 
+
+:@nuggetAlumite a :OreDictionaryEntry . 
+:@nuggetAlumite :oreDictContains :item.tconstruct.Materials.AlumiteNugget . 
+
+:@oreEnderPearl a :OreDictionaryEntry . 
+
+:@ingotTinyLead a :OreDictionaryEntry . 
+
+:@oreSoulSand a :OreDictionaryEntry . 
+
+:@dyeGray a :OreDictionaryEntry . 
+:@dyeGray :oreDictContains :item.dyePowder.gray . 
+:@dyeGray :oreDictContains :item.TreeDye . 
+:@dyeGray :oreDictContains :tile.projectred.exploration.dyesapling|7 . 
+
+:@cropBanana a :OreDictionaryEntry . 
+:@cropBanana :oreDictContains :item.food . 
+:@cropBanana :oreDictContains :item.food . 
+
+:@oreDirtyArdite a :OreDictionaryEntry . 
+
+:@dustPitchblende a :OreDictionaryEntry . 
+
+:@ingotPlatinum a :OreDictionaryEntry . 
+:@ingotPlatinum :oreDictContains :item.thermalexpansion.material.ingotPlatinum . 
+:@ingotPlatinum :oreDictContains :item.modingots.43 . 
+:@ingotPlatinum :oreDictContains :item.modingots.44 . 
+:@ingotPlatinum :oreDictContains :item.item.electriingots.5 . 
+:@ingotPlatinum :oreDictContains :item.e_ingot.e_ingotPlatinum . 
+
+:@ingotSilicon a :OreDictionaryEntry . 
+
+:@dustNetherTin a :OreDictionaryEntry . 
+
+:@blockArdite a :OreDictionaryEntry . 
+:@blockArdite :oreDictContains :StorageMetals.Ardite . 
+
+:@hornfel a :OreDictionaryEntry . 
+:@hornfel :oreDictContains :tile.SmoothRock.12 . 
+
+:@cropHazelnut a :OreDictionaryEntry . 
+:@cropHazelnut :oreDictContains :item.food . 
+
+:@crystallineObsidian a :OreDictionaryEntry . 
+
+:@dustAstral Silver a :OreDictionaryEntry . 
+
+:@blockSteel a :OreDictionaryEntry . 
+:@blockSteel :oreDictContains :StorageMetals.Steel . 
+:@blockSteel :oreDictContains :railcraft.cube.steel . 
+:@blockSteel :oreDictContains :tile.e_metal.e_blockSteel . 
+
+:@nuggetElectrumFlux a :OreDictionaryEntry . 
+:@nuggetElectrumFlux :oreDictContains :item.redstonearsenal.material.nuggetElectrumFlux . 
+
+:@oreFirestone a :OreDictionaryEntry . 
+:@oreFirestone :oreDictContains :railcraft.ore.firestone . 
+
+:@gearInvar a :OreDictionaryEntry . 
+:@gearInvar :oreDictContains :item.thermalexpansion.material.gearInvar . 
+
+:@blockRubber a :OreDictionaryEntry . 
+:@blockRubber :oreDictContains :tile.GlueBlock . 
+
+:@dustTennantite a :OreDictionaryEntry . 
+
+:@shardApatite a :OreDictionaryEntry . 
+:@shardApatite :oreDictContains :item.beeNugget . 
+
+:@ingotHydratedCoal a :OreDictionaryEntry . 
+
+:@oreInfusedWater a :OreDictionaryEntry . 
+:@oreInfusedWater :oreDictContains :tile.blockCustomOre.3 . 
+:@oreInfusedWater :oreDictContains :tile.blockCustomOre.3 . 
+
+:@nickelIngot a :OreDictionaryEntry . 
+
+:@dustNetherSilver a :OreDictionaryEntry . 
+
+:@itemCircuitElite a :OreDictionaryEntry . 
+
+:@ingotNetherSteel a :OreDictionaryEntry . 
+
+:@RotaryCraft:ingotBedrock a :OreDictionaryEntry . 
+:@RotaryCraft:ingotBedrock :oreDictContains :item.compacts.misc.bedingot . 
+
+:@dyeYellowCrystal a :OreDictionaryEntry . 
+:@dyeYellowCrystal :oreDictContains :tile.CaveCrystal.11 . 
+
+:@stoneSchist a :OreDictionaryEntry . 
+:@stoneSchist :oreDictContains :tile.SmoothRock.14 . 
+
+:@oreGalena a :OreDictionaryEntry . 
+
+:@leavesTree a :OreDictionaryEntry . 
+:@leavesTree :oreDictContains :None . 
+:@leavesTree :oreDictContains :None . 
+:@leavesTree :oreDictContains :block.leaves.tiger . 
+:@leavesTree :oreDictContains :None . 
+
+:@plateDenseCopper a :OreDictionaryEntry . 
+:@plateDenseCopper :oreDictContains :ic2.itemDensePlateCopper . 
+
+:@oreImpureAluminum a :OreDictionaryEntry . 
+
+:@sawdust a :OreDictionaryEntry . 
+
+:@motor a :OreDictionaryEntry . 
+:@motor :oreDictContains :item.calclavia:motor . 
+
+:@oreTanzanite a :OreDictionaryEntry . 
+:@oreTanzanite :oreDictContains :tile.bop.amethystOre.tanzaniteore . 
+
+:@gear a :OreDictionaryEntry . 
+
+:@oreCeruclase a :OreDictionaryEntry . 
+
+:@ingotCadmium a :OreDictionaryEntry . 
+:@ingotCadmium :oreDictContains :item.Ingots.1 . 
+:@ingotCadmium :oreDictContains :item.modingots.50 . 
+
+:@reducedIron a :OreDictionaryEntry . 
+:@reducedIron :oreDictContains :item.factorization:ore/reduced/IRON . 
+
+:@foodHamburgerPatty a :OreDictionaryEntry . 
+:@foodHamburgerPatty :oreDictContains :item.null.agricultureHamburgerPatty . 
+
+:@nuggetEmerald a :OreDictionaryEntry . 
+
+:@ingotNetherRuby a :OreDictionaryEntry . 
+
+:@ingotImpureLead a :OreDictionaryEntry . 
+
+:@glassPaneYellow a :OreDictionaryEntry . 
+:@glassPaneYellow :oreDictContains :tile.mfr.stainedglass.pane.yellow . 
+
+:@ingotBronze a :OreDictionaryEntry . 
+:@ingotBronze :oreDictContains :ic2.itemIngotBronze . 
+:@ingotBronze :oreDictContains :item.tconstruct.Materials.BronzeIngot . 
+:@ingotBronze :oreDictContains :item.ingotBronze . 
+:@ingotBronze :oreDictContains :item.thermalexpansion.material.ingotBronze . 
+:@ingotBronze :oreDictContains :item.calclavia:ingotBronze . 
+:@ingotBronze :oreDictContains :item.calclavia:ingotBronze . 
+:@ingotBronze :oreDictContains :item.e_ingot.e_ingotBronze . 
+
+:@beeComb a :OreDictionaryEntry . 
+:@beeComb :oreDictContains :item.beeCombs . 
+:@beeComb :oreDictContains :item.comb . 
+:@beeComb :oreDictContains :item.honeyComb . 
+
+:@ingotIron a :OreDictionaryEntry . 
+:@ingotIron :oreDictContains :item.ingotIron . 
+:@ingotIron :oreDictContains :item.ingotIron . 
+:@ingotIron :oreDictContains :item.ingotIron . 
+:@ingotIron :oreDictContains :item.modingots.29 . 
+:@ingotIron :oreDictContains :item.ingotIron . 
+
+:@blockIgnatius a :OreDictionaryEntry . 
+
+:@itemDustBronze a :OreDictionaryEntry . 
+
+:@shardDiamond a :OreDictionaryEntry . 
+:@shardDiamond :oreDictContains :item.beeNugget . 
+
+:@rockShale a :OreDictionaryEntry . 
+:@rockShale :oreDictContains :tile.SmoothRock.4 . 
+
+:@dyeGreenCrystalShard a :OreDictionaryEntry . 
+:@dyeGreenCrystalShard :oreDictContains :item.CrystalShard.2 . 
+
+:@compressedDirt4x a :OreDictionaryEntry . 
+:@compressedDirt4x :oreDictContains :tile.extrautils:cobblestone_compressed.11 . 
+
+:@glassPaneRed a :OreDictionaryEntry . 
+:@glassPaneRed :oreDictContains :tile.mfr.stainedglass.pane.red . 
+
+:@foodButteredToast a :OreDictionaryEntry . 
+:@foodButteredToast :oreDictContains :item.null.agricultureButteredToast . 
+
+:@ProjRed|Exploration:bag a :OreDictionaryEntry . 
+:@ProjRed|Exploration:bag :oreDictContains :item.projectred.exploration.backpack.bpwhite . 
+:@ProjRed|Exploration:bag :oreDictContains :item.projectred.exploration.backpack.bporange . 
+:@ProjRed|Exploration:bag :oreDictContains :item.projectred.exploration.backpack.bpmagenta . 
+:@ProjRed|Exploration:bag :oreDictContains :item.projectred.exploration.backpack.bplightblue . 
+:@ProjRed|Exploration:bag :oreDictContains :item.projectred.exploration.backpack.bpyellow . 
+:@ProjRed|Exploration:bag :oreDictContains :item.projectred.exploration.backpack.bplime . 
+:@ProjRed|Exploration:bag :oreDictContains :item.projectred.exploration.backpack.bppink . 
+:@ProjRed|Exploration:bag :oreDictContains :item.projectred.exploration.backpack.bpgrey . 
+:@ProjRed|Exploration:bag :oreDictContains :item.projectred.exploration.backpack.bplightgrey . 
+:@ProjRed|Exploration:bag :oreDictContains :item.projectred.exploration.backpack.bpcyan . 
+:@ProjRed|Exploration:bag :oreDictContains :item.projectred.exploration.backpack.bppurple . 
+:@ProjRed|Exploration:bag :oreDictContains :item.projectred.exploration.backpack.bpblue . 
+:@ProjRed|Exploration:bag :oreDictContains :item.projectred.exploration.backpack.bpbrown . 
+:@ProjRed|Exploration:bag :oreDictContains :item.projectred.exploration.backpack.bpgreen . 
+:@ProjRed|Exploration:bag :oreDictContains :item.projectred.exploration.backpack.bpred . 
+:@ProjRed|Exploration:bag :oreDictContains :item.projectred.exploration.backpack.bpblack . 
+
+:@projredPart a :OreDictionaryEntry . 
+
+:@dustEssence a :OreDictionaryEntry . 
+
+:@burntquartz a :OreDictionaryEntry . 
+:@burntquartz :oreDictContains :tile.extrautils:decorativeBlock1.1 . 
+
+:@ingotNetherSulfur a :OreDictionaryEntry . 
+
+:@blockBlack Steel a :OreDictionaryEntry . 
+
+:@blockMidasium a :OreDictionaryEntry . 
+
+:@nuggetNaturalAluminum a :OreDictionaryEntry . 
+
+:@crystallineCobalt a :OreDictionaryEntry . 
+:@crystallineCobalt :oreDictContains :item.factorization:ore/crystal/COBALT . 
+
+:@foodRawStrawberryPie a :OreDictionaryEntry . 
+:@foodRawStrawberryPie :oreDictContains :item.null.agricultureRawStrawberryPie . 
+
+:@foodPumpkinCookieBurned a :OreDictionaryEntry . 
+:@foodPumpkinCookieBurned :oreDictContains :item.null.agriculturePumpkinCookieBurned . 
+
+:@stickWood a :OreDictionaryEntry . 
+:@stickWood :oreDictContains :item.stick . 
+:@stickWood :oreDictContains :item.natura.stick . 
+:@stickWood :oreDictContains :item.natura.stick . 
+:@stickWood :oreDictContains :item.natura.stick . 
+:@stickWood :oreDictContains :item.natura.stick . 
+:@stickWood :oreDictContains :item.natura.stick . 
+:@stickWood :oreDictContains :item.natura.stick . 
+:@stickWood :oreDictContains :item.natura.stick . 
+:@stickWood :oreDictContains :item.natura.stick . 
+:@stickWood :oreDictContains :item.natura.stick . 
+:@stickWood :oreDictContains :item.natura.stick . 
+:@stickWood :oreDictContains :item.natura.stick . 
+:@stickWood :oreDictContains :item.natura.stick . 
+:@stickWood :oreDictContains :tile.bop.bamboo . 
+:@stickWood :oreDictContains :tile.bop.plants.rivercane . 
+:@stickWood :oreDictContains :item.stick . 
+
+:@oreInfusedEarth a :OreDictionaryEntry . 
+:@oreInfusedEarth :oreDictContains :tile.blockCustomOre.4 . 
+:@oreInfusedEarth :oreDictContains :tile.blockCustomOre.4 . 
+
+:@oreNetherTopaz a :OreDictionaryEntry . 
+
+:@oreNetherRedstone a :OreDictionaryEntry . 
+:@oreNetherRedstone :oreDictContains :tile.netherores.ore.redstone . 
+
+:@ingotUnstable a :OreDictionaryEntry . 
+:@ingotUnstable :oreDictContains :item.extrautils:unstableingot.0 . 
+
+:@sand a :OreDictionaryEntry . 
+
+:@compressedCobblestone3x a :OreDictionaryEntry . 
+:@compressedCobblestone3x :oreDictContains :tile.extrautils:cobblestone_compressed.2 . 
+
+:@rockBasalt a :OreDictionaryEntry . 
+:@rockBasalt :oreDictContains :tile.SmoothRock.1 . 
+
+:@foodRoastedPeanutsBurned a :OreDictionaryEntry . 
+:@foodRoastedPeanutsBurned :oreDictContains :item.null.agricultureRoastedPeanutsBurned . 
+
+:@gemLapis a :OreDictionaryEntry . 
+:@gemLapis :oreDictContains :item.dyePowder.blue . 
+
+:@blockMeat a :OreDictionaryEntry . 
+:@blockMeat :oreDictContains :tile.mfr.decorativebrick.meat.cooked . 
+
+:@dustNetherElectrum a :OreDictionaryEntry . 
+
+:@ingotTin a :OreDictionaryEntry . 
+:@ingotTin :oreDictContains :ic2.itemIngotTin . 
+:@ingotTin :oreDictContains :item.tconstruct.Materials.TinIngot . 
+:@ingotTin :oreDictContains :item.ingotTin . 
+:@ingotTin :oreDictContains :item.thermalexpansion.material.ingotTin . 
+:@ingotTin :oreDictContains :item.calclavia:ingotTin . 
+:@ingotTin :oreDictContains :item.calclavia:ingotTin . 
+:@ingotTin :oreDictContains :item.modingots.0 . 
+:@ingotTin :oreDictContains :item.modingots.35 . 
+:@ingotTin :oreDictContains :item.item.electriingots.1 . 
+:@ingotTin :oreDictContains :item.e_ingot.e_ingotTin . 
+
+:@arditeIngot a :OreDictionaryEntry . 
+
+:@oreSilicon a :OreDictionaryEntry . 
+
+:@blockCrystalFlux a :OreDictionaryEntry . 
+:@blockCrystalFlux :oreDictContains :tile.redstonearsenal.storage.crystalFlux.name . 
+
+:@quicksilver a :OreDictionaryEntry . 
+:@quicksilver :oreDictContains :item.ItemResource.3 . 
+
+:@cobaltRod a :OreDictionaryEntry . 
+:@cobaltRod :oreDictContains :item.tconstruct.ToolRod.Cobalt . 
+
+:@dustDamascus Steel a :OreDictionaryEntry . 
+
+:@dustBlutonium a :OreDictionaryEntry . 
+:@dustBlutonium :oreDictContains :item.dustBlutonium . 
+
+:@plateDenseLead a :OreDictionaryEntry . 
+:@plateDenseLead :oreDictContains :ic2.itemDensePlateLead . 
+
+:@dustAdamantine a :OreDictionaryEntry . 
+
+:@ingotAluminium a :OreDictionaryEntry . 
+:@ingotAluminium :oreDictContains :item.tconstruct.Materials.AluminumIngot . 
+:@ingotAluminium :oreDictContains :item.materials.ingotAluminum . 
+:@ingotAluminium :oreDictContains :item.compacts.misc.alingot . 
+:@ingotAluminium :oreDictContains :item.modingots.6 . 
+:@ingotAluminium :oreDictContains :item.item.electriingots.4 . 
+:@ingotAluminium :oreDictContains :item.e_ingot.e_ingotAluminium . 
+
+:@blockRubracium a :OreDictionaryEntry . 
+
+:@foodCupofMilk a :OreDictionaryEntry . 
+:@foodCupofMilk :oreDictContains :item.null.agricultureMilk . 
+
+:@oreCarmot a :OreDictionaryEntry . 
+
+:@ingotTinyArdite a :OreDictionaryEntry . 
+
+:@foodPumpkinCookieDough a :OreDictionaryEntry . 
+:@foodPumpkinCookieDough :oreDictContains :item.null.agriculturePumpkinCookieDough . 
+
+:@oreSiliconDioxide a :OreDictionaryEntry . 
+
+:@glassPanePurple a :OreDictionaryEntry . 
+:@glassPanePurple :oreDictContains :tile.mfr.stainedglass.pane.purple . 
+
+:@glassBlue a :OreDictionaryEntry . 
+:@glassBlue :oreDictContains :block.stainedglass.blue . 
+:@glassBlue :oreDictContains :tile.mfr.stainedglass.block.blue . 
+
+:@blockMarble a :OreDictionaryEntry . 
+:@blockMarble :oreDictContains :item.tile.marble.0 . 
+
+:@dustSaltpeter a :OreDictionaryEntry . 
+:@dustSaltpeter :oreDictContains :railcraft.dust.saltpeter . 
+:@dustSaltpeter :oreDictContains :item.thermalexpansion.material.dustNiter . 
+:@dustSaltpeter :oreDictContains :item.modingots.20 . 
+
+:@dustImpureArdite a :OreDictionaryEntry . 
+:@dustImpureArdite :oreDictContains :item.e_dusts.e_impureArditeDust . 
+
+:@mb.magnet.level8 a :OreDictionaryEntry . 
+:@mb.magnet.level8 :oreDictContains :item.magicbees:mysteriousMagnet . 
+:@mb.magnet.level8 :oreDictContains :item.magicbees:mysteriousMagnet . 
+
+:@crystallineGlue a :OreDictionaryEntry . 
+
+:@dustPureCobalt a :OreDictionaryEntry . 
+:@dustPureCobalt :oreDictContains :item.e_dusts.e_pureCobaltDust . 
+
+:@orePigIron a :OreDictionaryEntry . 
+
+:@oreNetherGlue a :OreDictionaryEntry . 
+
+:@ingotWood a :OreDictionaryEntry . 
+
+:@oreSilver a :OreDictionaryEntry . 
+:@oreSilver :oreDictContains :tile.factorization.ResourceBlock.SILVERORE . 
+:@oreSilver :oreDictContains :tile.Ore.4 . 
+:@oreSilver :oreDictContains :tile.thermalexpansion.ore.silver.name . 
+:@oreSilver :oreDictContains :tile.ElectriOre.2 . 
+
+:@oreSapphire a :OreDictionaryEntry . 
+:@oreSapphire :oreDictContains :tile.bop.amethystOre.sapphireore . 
+:@oreSapphire :oreDictContains :tile.e_ore.e_oreSapphire . 
+:@oreSapphire :oreDictContains :tile.projectred.exploration.ore.oresapphire . 
+
+:@glassRed a :OreDictionaryEntry . 
+:@glassRed :oreDictContains :block.stainedglass.red . 
+:@glassRed :oreDictContains :tile.mfr.stainedglass.block.red . 
+
+:@oreBronze a :OreDictionaryEntry . 
+
+:@woodStick a :OreDictionaryEntry . 
+
+:@ingotCalcite a :OreDictionaryEntry . 
+
+:@bricksStone a :OreDictionaryEntry . 
+:@bricksStone :oreDictContains :tile.extrautils:colorStoneBrick.0 . 
+:@bricksStone :oreDictContains :tile.extrautils:colorStoneBrick.1 . 
+:@bricksStone :oreDictContains :tile.extrautils:colorStoneBrick.2 . 
+:@bricksStone :oreDictContains :tile.extrautils:colorStoneBrick.3 . 
+:@bricksStone :oreDictContains :tile.extrautils:colorStoneBrick.4 . 
+:@bricksStone :oreDictContains :tile.extrautils:colorStoneBrick.5 . 
+:@bricksStone :oreDictContains :tile.extrautils:colorStoneBrick.6 . 
+:@bricksStone :oreDictContains :tile.extrautils:colorStoneBrick.7 . 
+:@bricksStone :oreDictContains :tile.extrautils:colorStoneBrick.8 . 
+:@bricksStone :oreDictContains :tile.extrautils:colorStoneBrick.9 . 
+:@bricksStone :oreDictContains :tile.extrautils:colorStoneBrick.10 . 
+:@bricksStone :oreDictContains :tile.extrautils:colorStoneBrick.11 . 
+:@bricksStone :oreDictContains :tile.extrautils:colorStoneBrick.12 . 
+:@bricksStone :oreDictContains :tile.extrautils:colorStoneBrick.13 . 
+:@bricksStone :oreDictContains :tile.extrautils:colorStoneBrick.14 . 
+:@bricksStone :oreDictContains :tile.extrautils:colorStoneBrick.15 . 
+
+:@dustNetherGold a :OreDictionaryEntry . 
+
+:@sheetCardboard a :OreDictionaryEntry . 
+:@sheetCardboard :oreDictContains :item.betterstorage.cardboardSheet . 
+
+:@processor a :OreDictionaryEntry . 
+:@processor :oreDictContains :tile.agriculture:processor . 
+
+:@ingotNetherAlumite a :OreDictionaryEntry . 
+
+:@dustImpureNickel a :OreDictionaryEntry . 
+:@dustImpureNickel :oreDictContains :item.e_dusts.e_impureNickelDust . 
+
+:@oreAmordrine a :OreDictionaryEntry . 
+
+:@componentHVCapacitor a :OreDictionaryEntry . 
+:@componentHVCapacitor :oreDictContains :item.powerArmorComponent.componentHVCapacitor . 
+
+:@crushedPurifiedTin a :OreDictionaryEntry . 
+:@crushedPurifiedTin :oreDictContains :ic2.itemPurifiedCrushedTinOre . 
+
+:@ingotManyullyn a :OreDictionaryEntry . 
+:@ingotManyullyn :oreDictContains :item.tconstruct.Materials.ManyullynIngot . 
+
+:@foodStrawberryIceCream a :OreDictionaryEntry . 
+:@foodStrawberryIceCream :oreDictContains :item.null.agricultureStrawberryIceCream . 
+
+:@dustNetherTopaz a :OreDictionaryEntry . 
+
+:@dustBronze a :OreDictionaryEntry . 
+:@dustBronze :oreDictContains :ic2.itemDustBronze . 
+:@dustBronze :oreDictContains :item.thermalexpansion.material.dustBronze . 
+:@dustBronze :oreDictContains :item.calclavia:dustBronze . 
+
+:@cropGrapefruit a :OreDictionaryEntry . 
+:@cropGrapefruit :oreDictContains :item.food . 
+
+:@ingotCoal a :OreDictionaryEntry . 
+
+:@dustTin a :OreDictionaryEntry . 
+:@dustTin :oreDictContains :ic2.itemDustTin . 
+:@dustTin :oreDictContains :enderio.powderTin . 
+:@dustTin :oreDictContains :item.thermalexpansion.material.dustTin . 
+:@dustTin :oreDictContains :item.e_dusts.e_pureTinDust . 
+
+:@stone a :OreDictionaryEntry . 
+:@stone :oreDictContains :tile.stone . 
+:@stone :oreDictContains :tile.SmoothRock.0 . 
+:@stone :oreDictContains :tile.SmoothRock.1 . 
+:@stone :oreDictContains :tile.SmoothRock.2 . 
+:@stone :oreDictContains :tile.SmoothRock.3 . 
+:@stone :oreDictContains :tile.SmoothRock.4 . 
+:@stone :oreDictContains :tile.SmoothRock.5 . 
+:@stone :oreDictContains :tile.SmoothRock.6 . 
+:@stone :oreDictContains :tile.SmoothRock.7 . 
+:@stone :oreDictContains :tile.SmoothRock.8 . 
+:@stone :oreDictContains :tile.SmoothRock.9 . 
+:@stone :oreDictContains :tile.SmoothRock.10 . 
+:@stone :oreDictContains :tile.SmoothRock.11 . 
+:@stone :oreDictContains :tile.SmoothRock.12 . 
+:@stone :oreDictContains :tile.SmoothRock.13 . 
+:@stone :oreDictContains :tile.SmoothRock.14 . 
+:@stone :oreDictContains :tile.SmoothRock.15 . 
+:@stone :oreDictContains :tile.SmoothRock2.0 . 
+:@stone :oreDictContains :tile.mfr.decorativestone.black.smooth . 
+:@stone :oreDictContains :tile.mfr.decorativestone.white.smooth . 
+
+:@enderobsidian a :OreDictionaryEntry . 
+:@enderobsidian :oreDictContains :tile.extrautils:decorativeBlock1.1 . 
+
+:@oreDeep Iron a :OreDictionaryEntry . 
+
+:@foodBaconCheeseFries a :OreDictionaryEntry . 
+:@foodBaconCheeseFries :oreDictContains :item.null.agricultureBaconCheeseFries . 
+
+:@dustShadow Iron a :OreDictionaryEntry . 
+
+:@ingotNetherManyullyn a :OreDictionaryEntry . 
+
+:@oreSodalite a :OreDictionaryEntry . 
+
+:@nuggetMeat a :OreDictionaryEntry . 
+:@nuggetMeat :oreDictContains :item.mfr.meat.nugget.cooked . 
+
+:@dustSulfur a :OreDictionaryEntry . 
+:@dustSulfur :oreDictContains :ic2.itemDustSulfur . 
+:@dustSulfur :oreDictContains :railcraft.dust.sulfur . 
+:@dustSulfur :oreDictContains :item.thermalexpansion.material.dustSulfur . 
+:@dustSulfur :oreDictContains :item.modingots.48 . 
+
+:@blockElectrum a :OreDictionaryEntry . 
+:@blockElectrum :oreDictContains :tile.thermalexpansion.storage.electrum.name . 
+
+:@crystallineElectrum a :OreDictionaryEntry . 
+
+:@cropCinnamon a :OreDictionaryEntry . 
+:@cropCinnamon :oreDictContains :item.null.agricultureCinnamon . 
+:@cropCinnamon :oreDictContains :tile.agriculture:cinnamon . 
+
+:@itemPlateIron a :OreDictionaryEntry . 
+
+:@ingotNetherGalena a :OreDictionaryEntry . 
+
+:@ingotGlowstone a :OreDictionaryEntry . 
+
+:@monazitOre a :OreDictionaryEntry . 
+
+:@blockHolystone a :OreDictionaryEntry . 
+:@blockHolystone :oreDictContains :item.tile.blockHolystone.0 . 
+
+:@glassHardened a :OreDictionaryEntry . 
+:@glassHardened :oreDictContains :enderio.blockFusedQuartz.fusedQuartz . 
+:@glassHardened :oreDictContains :tile.thermalexpansion.glass.name . 
+
+:@dustIgnatius a :OreDictionaryEntry . 
+
+:@blockCyanite a :OreDictionaryEntry . 
+:@blockCyanite :oreDictContains :tile.brMetal.1 . 
+
+:@dustAlumite a :OreDictionaryEntry . 
+
+:@crushedCopper a :OreDictionaryEntry . 
+:@crushedCopper :oreDictContains :ic2.itemCrushedCopperOre . 
+
+:@ingotSiliconDioxide a :OreDictionaryEntry . 
+
+:@ingotTinyAluminium a :OreDictionaryEntry . 
+
+:@ingotVyroxeres a :OreDictionaryEntry . 
+
+:@rockPeridotite a :OreDictionaryEntry . 
+:@rockPeridotite :oreDictContains :tile.SmoothRock.9 . 
+
+:@ingotNetherGlue a :OreDictionaryEntry . 
+
+:@blockLavastone a :OreDictionaryEntry . 
+:@blockLavastone :oreDictContains :item.tile.blockLavastone.0 . 
+
+:@componentGliderWing a :OreDictionaryEntry . 
+:@componentGliderWing :oreDictContains :item.powerArmorComponent.componentGliderWing . 
+
+:@oreManganese a :OreDictionaryEntry . 
+
+:@oreNetherGalena a :OreDictionaryEntry . 
+
+:@dustMonazit a :OreDictionaryEntry . 
+
+:@circuitBasic a :OreDictionaryEntry . 
+:@circuitBasic :oreDictContains :ic2.itemPartCircuit . 
+:@circuitBasic :oreDictContains :item.calclavia:circuitBasic . 
+
+:@ingotSodalite a :OreDictionaryEntry . 
+
+:@cropFig a :OreDictionaryEntry . 
+:@cropFig :oreDictContains :item.food . 
+
+:@itemMotor a :OreDictionaryEntry . 
+
+:@oreNetherSaltpeter a :OreDictionaryEntry . 
+:@oreNetherSaltpeter :oreDictContains :tile.netherores.ore.saltpeter . 
+
+:@gemMalachite a :OreDictionaryEntry . 
+:@gemMalachite :oreDictContains :item.bop.gems.malachite . 
+
+:@ingotMeatRaw a :OreDictionaryEntry . 
+:@ingotMeatRaw :oreDictContains :item.mfr.meat.ingot.raw . 
+
+:@oreNetherrack a :OreDictionaryEntry . 
+
+:@oreTin a :OreDictionaryEntry . 
+:@oreTin :oreDictContains :MetalOre.Tin . 
+:@oreTin :oreDictContains :block.ore.gravel.tin . 
+:@oreTin :oreDictContains :tile.resources.2 . 
+:@oreTin :oreDictContains :tile.thermalexpansion.ore.tin.name . 
+:@oreTin :oreDictContains :tile.calclavia:oreTin . 
+:@oreTin :oreDictContains :tile.calclavia:oreTin . 
+:@oreTin :oreDictContains :tile.ElectriOre.1 . 
+:@oreTin :oreDictContains :tile.e_ore.e_oreCassiterite . 
+
+:@cropRaspberry a :OreDictionaryEntry . 
+:@cropRaspberry :oreDictContains :item.berry.rasp . 
+
+:@oreImpureCopper a :OreDictionaryEntry . 
+
+:@ingotNetherGold a :OreDictionaryEntry . 
+
+:@dustObsidian a :OreDictionaryEntry . 
+:@dustObsidian :oreDictContains :ic2.itemDustObsidian . 
+:@dustObsidian :oreDictContains :railcraft.dust.obsidian . 
+:@dustObsidian :oreDictContains :item.thermalexpansion.material.dustObsidian . 
+
+:@clayPlate a :OreDictionaryEntry . 
+:@clayPlate :oreDictContains :item.null.agricultureClayPlate . 
+
+:@shardEarth a :OreDictionaryEntry . 
+:@shardEarth :oreDictContains :item.ItemShard.3 . 
+:@shardEarth :oreDictContains :item.modingots.16 . 
+:@shardEarth :oreDictContains :item.ItemShard.3 . 
+
+:@dustCoal a :OreDictionaryEntry . 
+:@dustCoal :oreDictContains :ic2.itemDustCoal . 
+:@dustCoal :oreDictContains :enderio.powderCoal . 
+:@dustCoal :oreDictContains :item.thermalexpansion.material.dustCoal . 
+:@dustCoal :oreDictContains :item.powder.misc.coaldust . 
+
+:@opal a :OreDictionaryEntry . 
+:@opal :oreDictContains :tile.SmoothRock2.0 . 
+
+:@itemPlateGold a :OreDictionaryEntry . 
+
+:@dustNetherNikolite a :OreDictionaryEntry . 
+
+:@dyeLightGrayCrystal a :OreDictionaryEntry . 
+:@dyeLightGrayCrystal :oreDictContains :tile.CaveCrystal.7 . 
+
+:@oreShadow Iron a :OreDictionaryEntry . 
+
+:@foodStrawberryMush a :OreDictionaryEntry . 
+:@foodStrawberryMush :oreDictContains :item.null.agricultureStrawberryMush . 
+
+:@craftingToolWireCutter a :OreDictionaryEntry . 
+:@craftingToolWireCutter :oreDictContains :ic2.itemToolCutter . 
+
+:@oreQuantum a :OreDictionaryEntry . 
+:@oreQuantum :oreDictContains :tile.orequantum . 
+:@oreQuantum :oreDictContains :tile.orequantum . 
+
+:@coralOrange a :OreDictionaryEntry . 
+:@coralOrange :oreDictContains :item.coral.orange . 
+:@coralOrange :oreDictContains :tile.bop.coral.orangecoral . 
+
+:@stoneSlate a :OreDictionaryEntry . 
+:@stoneSlate :oreDictContains :tile.SmoothRock.7 . 
+
+:@rockGranulite a :OreDictionaryEntry . 
+:@rockGranulite :oreDictContains :tile.SmoothRock.11 . 
+
+:@ingotThaumium a :OreDictionaryEntry . 
+:@ingotThaumium :oreDictContains :item.ItemResource.2 . 
+
+:@oreEmery a :OreDictionaryEntry . 
+:@oreEmery :oreDictContains :tile.e_ore.e_oreEmery . 
+
+:@dropMagma a :OreDictionaryEntry . 
+:@dropMagma :oreDictContains :item.modingots.64 . 
+
+:@oreNetherFzDarkIron a :OreDictionaryEntry . 
+
+:@gemLead a :OreDictionaryEntry . 
+
+:@foodChocolateChipCookieBurned a :OreDictionaryEntry . 
+:@foodChocolateChipCookieBurned :oreDictContains :item.null.agricultureChocolateChipCookieBurned . 
+
+:@crushedPurifiedLead a :OreDictionaryEntry . 
+:@crushedPurifiedLead :oreDictContains :ic2.itemPurifiedCrushedLeadOre . 
+
+:@blockCarpet a :OreDictionaryEntry . 
+:@blockCarpet :oreDictContains :item.tile.blockCarpet.0 . 
+
+:@cropPeanut a :OreDictionaryEntry . 
+:@cropPeanut :oreDictContains :tile.agriculture:peanut . 
+
+:@coralMagenta a :OreDictionaryEntry . 
+:@coralMagenta :oreDictContains :item.coral.magenta . 
+
+:@dustPeridot a :OreDictionaryEntry . 
+
+:@dyeLight Gray a :OreDictionaryEntry . 
+
+:@stonePumice a :OreDictionaryEntry . 
+:@stonePumice :oreDictContains :tile.SmoothRock.6 . 
+
+:@oreTinyArdite a :OreDictionaryEntry . 
+
+:@dustCertusQuartz a :OreDictionaryEntry . 
+:@dustCertusQuartz :oreDictContains :AppEng.Materials.QuartzDust . 
+
+:@dustTinyGold a :OreDictionaryEntry . 
+:@dustTinyGold :oreDictContains :ic2.itemDustGoldSmall . 
+
+:@dustEmery a :OreDictionaryEntry . 
+
+:@ingotSulfur a :OreDictionaryEntry . 
+
+:@dustBauxite a :OreDictionaryEntry . 
+:@dustBauxite :oreDictContains :item.modingots.53 . 
+
+:@oreNetherLapis a :OreDictionaryEntry . 
+:@oreNetherLapis :oreDictContains :tile.netherores.ore.lapis . 
+
+:@forceOre a :OreDictionaryEntry . 
+
+:@itemCoal a :OreDictionaryEntry . 
+:@itemCoal :oreDictContains :item.modingots.28 . 
+
+:@glassLime a :OreDictionaryEntry . 
+:@glassLime :oreDictContains :block.stainedglass.lime . 
+:@glassLime :oreDictContains :tile.mfr.stainedglass.block.lime . 
+
+:@ingotNetherEmerald a :OreDictionaryEntry . 
+
+:@dustForce a :OreDictionaryEntry . 
+
+:@blockAlumite a :OreDictionaryEntry . 
+:@blockAlumite :oreDictContains :StorageMetals.Alumite . 
+
+:@ingotMithril a :OreDictionaryEntry . 
+
+:@ingotNetherFzDarkIron a :OreDictionaryEntry . 
+
+:@gemBlueTopaz a :OreDictionaryEntry . 
+:@gemBlueTopaz :oreDictContains :item.modingots.60 . 
+
+:@copperIngot a :OreDictionaryEntry . 
+
+:@platinumOre a :OreDictionaryEntry . 
+
+:@thaumiumRod a :OreDictionaryEntry . 
+:@thaumiumRod :oreDictContains :item.tconstruct.ToolRod.Thaumium . 
+
+:@rockSandstone a :OreDictionaryEntry . 
+:@rockSandstone :oreDictContains :tile.SmoothRock.5 . 
+
+:@foodPB&JSandwichStrawberry a :OreDictionaryEntry . 
+:@foodPB&JSandwichStrawberry :oreDictContains :item.null.agriculturePBJSandwichStrawberry . 
+
+:@ingotElectrumFlux a :OreDictionaryEntry . 
+:@ingotElectrumFlux :oreDictContains :item.redstonearsenal.material.ingotElectrumFlux . 
+
+:@blockSanguinite a :OreDictionaryEntry . 
+
+:@oreNetherIron a :OreDictionaryEntry . 
+
+:@oreDesh a :OreDictionaryEntry . 
+
+:@fz.waterBucketLike a :OreDictionaryEntry . 
+:@fz.waterBucketLike :oreDictContains :ic2.itemCellWater . 
+:@fz.waterBucketLike :oreDictContains :item.potion . 
+:@fz.waterBucketLike :oreDictContains :item.waterCan . 
+:@fz.waterBucketLike :oreDictContains :item.waxCapsuleWater . 
+:@fz.waterBucketLike :oreDictContains :item.bucketWater . 
+:@fz.waterBucketLike :oreDictContains :item.refractoryWater . 
+
+:@clumpCobalt a :OreDictionaryEntry . 
+:@clumpCobalt :oreDictContains :item.aobd.dustsItem15 . 
+
+:@dustTitanium a :OreDictionaryEntry . 
+
+:@ingotLead a :OreDictionaryEntry . 
+:@ingotLead :oreDictContains :ic2.itemIngotLead . 
+:@ingotLead :oreDictContains :item.factorization:lead_ingot . 
+:@ingotLead :oreDictContains :item.thermalexpansion.material.ingotLead . 
+:@ingotLead :oreDictContains :item.modingots.2 . 
+:@ingotLead :oreDictContains :item.modingots.37 . 
+:@ingotLead :oreDictContains :item.e_ingot.e_ingotLead . 
+
+:@oreInfusedFire a :OreDictionaryEntry . 
+:@oreInfusedFire :oreDictContains :tile.blockCustomOre.2 . 
+:@oreInfusedFire :oreDictContains :tile.blockCustomOre.2 . 
+
+:@blockTyrian a :OreDictionaryEntry . 
+:@blockTyrian :oreDictContains :item.tile.blockTyrian.0 . 
+
+:@cropVine a :OreDictionaryEntry . 
+:@cropVine :oreDictContains :tile.Thornvines . 
+
+:@mimichite a :OreDictionaryEntry . 
+
+:@dyeGreen a :OreDictionaryEntry . 
+:@dyeGreen :oreDictContains :item.dyePowder.green . 
+:@dyeGreen :oreDictContains :item.bop.miscItems.greendye . 
+:@dyeGreen :oreDictContains :item.materials.dyeGreen . 
+:@dyeGreen :oreDictContains :item.misc . 
+:@dyeGreen :oreDictContains :item.TreeDye . 
+:@dyeGreen :oreDictContains :tile.projectred.exploration.dyesapling|13 . 
+
+:@aluminumOre a :OreDictionaryEntry . 
+
+:@fuelCoke a :OreDictionaryEntry . 
+:@fuelCoke :oreDictContains :item.railcraft.fuel.coke . 
+
+:@mb.magnet.level7 a :OreDictionaryEntry . 
+:@mb.magnet.level7 :oreDictContains :item.magicbees:mysteriousMagnet . 
+:@mb.magnet.level7 :oreDictContains :item.magicbees:mysteriousMagnet . 
+
+:@foodSaltedBeef a :OreDictionaryEntry . 
+:@foodSaltedBeef :oreDictContains :item.null.agricultureSaltedBeef . 
+
+:@dyeRedCrystal a :OreDictionaryEntry . 
+:@dyeRedCrystal :oreDictContains :tile.CaveCrystal.1 . 
+
+:@plateLead a :OreDictionaryEntry . 
+:@plateLead :oreDictContains :ic2.itemPlateLead . 
+
+:@foodSalt a :OreDictionaryEntry . 
+:@foodSalt :oreDictContains :item.materials.foodSalt . 
+:@foodSalt :oreDictContains :item.null.agricultureSalt . 
+
+:@oreTungsten a :OreDictionaryEntry . 
+
+:@nuggetManyullyn a :OreDictionaryEntry . 
+:@nuggetManyullyn :oreDictContains :item.tconstruct.Materials.ManyullynNugget . 
+
+:@cropBeechnut a :OreDictionaryEntry . 
+:@cropBeechnut :oreDictContains :item.food . 
+
+:@ingotBlutonium a :OreDictionaryEntry . 
+:@ingotBlutonium :oreDictContains :item.ingotBlutonium . 
+
+:@oreCharcoal a :OreDictionaryEntry . 
+
+:@crushedPurifiedUranium a :OreDictionaryEntry . 
+:@crushedPurifiedUranium :oreDictContains :ic2.itemPurifiedCrushedUranOre . 
+
+:@compressedCobblestone7x a :OreDictionaryEntry . 
+:@compressedCobblestone7x :oreDictContains :tile.extrautils:cobblestone_compressed.6 . 
+
+:@dustOureclase a :OreDictionaryEntry . 
+
+:@ingotEssence a :OreDictionaryEntry . 
+
+:@ingotChrome a :OreDictionaryEntry . 
+:@ingotChrome :oreDictContains :item.modingots.72 . 
+
+:@plateObsidian a :OreDictionaryEntry . 
+:@plateObsidian :oreDictContains :ic2.itemPlateObsidian . 
+
+:@stoneBasalt a :OreDictionaryEntry . 
+:@stoneBasalt :oreDictContains :tile.SmoothRock.1 . 
+
+:@glassPaneBrown a :OreDictionaryEntry . 
+:@glassPaneBrown :oreDictContains :tile.mfr.stainedglass.pane.brown . 
+
+:@ingotLapis a :OreDictionaryEntry . 
+
+:@ingotTartarite a :OreDictionaryEntry . 
+
+:@dirtyGravelGold a :OreDictionaryEntry . 
+:@dirtyGravelGold :oreDictContains :item.factorization:ore/gravel/GOLD . 
+
+:@granite a :OreDictionaryEntry . 
+:@granite :oreDictContains :tile.SmoothRock.0 . 
+
+:@blockTitanium a :OreDictionaryEntry . 
+:@blockTitanium :oreDictContains :tile.oreBlocks.titaniumBlock . 
+
+:@stoneHornfel a :OreDictionaryEntry . 
+:@stoneHornfel :oreDictContains :tile.SmoothRock.12 . 
+
+:@cropPecan a :OreDictionaryEntry . 
+:@cropPecan :oreDictContains :item.food . 
+
+:@nuggetIron a :OreDictionaryEntry . 
+:@nuggetIron :oreDictContains :item.tconstruct.Materials.IronNugget . 
+:@nuggetIron :oreDictContains :item.oreberry.iron . 
+:@nuggetIron :oreDictContains :item.ItemNugget.0 . 
+:@nuggetIron :oreDictContains :railcraft.nugget.iron . 
+:@nuggetIron :oreDictContains :item.beeNugget . 
+
+:@oreAstral Silver a :OreDictionaryEntry . 
+
+:@dustNetherIridium a :OreDictionaryEntry . 
+
+:@ingotPrometheum a :OreDictionaryEntry . 
+
+:@dustInfusedOrder a :OreDictionaryEntry . 
+
+:@ingotChimerite a :OreDictionaryEntry . 
+
+:@sheetPlastic a :OreDictionaryEntry . 
+:@sheetPlastic :oreDictContains :item.mfr.plastic.sheet . 
+
+:@foodCheesyPotatoes a :OreDictionaryEntry . 
+:@foodCheesyPotatoes :oreDictContains :item.null.agricultureCheesyPotatoes . 
+
+:@oreNetherRutile a :OreDictionaryEntry . 
+:@oreNetherRutile :oreDictContains :tile.netherores.ore.rutile . 
+
+:@dustSilver a :OreDictionaryEntry . 
+:@dustSilver :oreDictContains :ic2.itemDustSilver . 
+:@dustSilver :oreDictContains :item.thermalexpansion.material.dustSilver . 
+:@dustSilver :oreDictContains :item.e_dusts.e_pureSilverDust . 
+
+:@dustMalachite a :OreDictionaryEntry . 
+
+:@cleanGravelArdite a :OreDictionaryEntry . 
+:@cleanGravelArdite :oreDictContains :item.factorization:ore/clean/ARDITE . 
+
+:@dyeYellow a :OreDictionaryEntry . 
+:@dyeYellow :oreDictContains :item.dyePowder.yellow . 
+:@dyeYellow :oreDictContains :item.materials.dyeYellow . 
+:@dyeYellow :oreDictContains :item.misc . 
+:@dyeYellow :oreDictContains :item.TreeDye . 
+:@dyeYellow :oreDictContains :tile.projectred.exploration.dyesapling|4 . 
+
+:@chestWood a :OreDictionaryEntry . 
+:@chestWood :oreDictContains :tile.chest . 
+:@chestWood :oreDictContains :tile.chest . 
+
+:@ingotMimichite a :OreDictionaryEntry . 
+
+:@oreVinteum a :OreDictionaryEntry . 
+
+:@dyeBlackCrystalShard a :OreDictionaryEntry . 
+:@dyeBlackCrystalShard :oreDictContains :item.CrystalShard.0 . 
+
+:@ingotFzDarkIron a :OreDictionaryEntry . 
+:@ingotFzDarkIron :oreDictContains :item.factorization:dark_iron_ingot . 
+:@ingotFzDarkIron :oreDictContains :item.modingots.71 . 
+
+:@plateBronze a :OreDictionaryEntry . 
+:@plateBronze :oreDictContains :ic2.itemPlateBronze . 
+:@plateBronze :oreDictContains :item.calclavia:plateBronze . 
+
+:@foodChocolateSauce a :OreDictionaryEntry . 
+:@foodChocolateSauce :oreDictContains :item.null.agricultureChocolateSauce . 
+
+:@groundAluminum a :OreDictionaryEntry . 
+:@groundAluminum :oreDictContains :item.e_dusts.e_groundBauxite . 
+
+:@crushedCobalt a :OreDictionaryEntry . 
+:@crushedCobalt :oreDictContains :item.aobd.dustsItem5 . 
+
+:@cropPomelo a :OreDictionaryEntry . 
+:@cropPomelo :oreDictContains :item.food . 
+
+:@ingotMoonstone a :OreDictionaryEntry . 
+
+:@ingotNetherIridium a :OreDictionaryEntry . 
+
+:@obsidianRod a :OreDictionaryEntry . 
+:@obsidianRod :oreDictContains :item.tconstruct.ToolRod.Obsidian . 
+:@obsidianRod :oreDictContains :item.itemCrafting . 
+:@obsidianRod :oreDictContains :item.wrcbe_core:obsidianStick . 
+
+:@oreTinyLead a :OreDictionaryEntry . 
+
+:@ingotRuby a :OreDictionaryEntry . 
+
+:@reducedSilver a :OreDictionaryEntry . 
+:@reducedSilver :oreDictContains :item.factorization:ore/reduced/SILVER . 
+
+:@oreCyanite a :OreDictionaryEntry . 
+
+:@oreNetherAluminum a :OreDictionaryEntry . 
+
+:@blockUranium a :OreDictionaryEntry . 
+:@blockUranium :oreDictContains :blockMetalUranium . 
+
+:@gemTennantite a :OreDictionaryEntry . 
+
+:@crystallineArdite a :OreDictionaryEntry . 
+:@crystallineArdite :oreDictContains :item.factorization:ore/crystal/ARDITE . 
+
+:@ingotNetherOsmium a :OreDictionaryEntry . 
+
+:@blockAluminiumBrass a :OreDictionaryEntry . 
+:@blockAluminiumBrass :oreDictContains :StorageMetals.AlBrass . 
+
+:@ingotGraphite a :OreDictionaryEntry . 
+:@ingotGraphite :oreDictContains :item.ingotGraphite . 
+
+:@dustNetherFzDarkIron a :OreDictionaryEntry . 
+
+:@foodFrenchToast a :OreDictionaryEntry . 
+:@foodFrenchToast :oreDictContains :item.null.agricultureFrenchToast . 
+
+:@dustCharcoal a :OreDictionaryEntry . 
+:@dustCharcoal :oreDictContains :railcraft.dust.charcoal . 
+
+:@ingotCertusQuartz a :OreDictionaryEntry . 
+
+:@dustSalt a :OreDictionaryEntry . 
+:@dustSalt :oreDictContains :item.materials.foodSalt . 
+
+:@dustNetherUranium a :OreDictionaryEntry . 
+
+:@compressedGravel1x a :OreDictionaryEntry . 
+:@compressedGravel1x :oreDictContains :tile.extrautils:cobblestone_compressed.12 . 
+
+:@dustDeep Iron a :OreDictionaryEntry . 
+
+:@crystallineSilver a :OreDictionaryEntry . 
+:@crystallineSilver :oreDictContains :item.factorization:ore/crystal/SILVER . 
+
+:@foodCookingOil a :OreDictionaryEntry . 
+:@foodCookingOil :oreDictContains :item.null.agricultureCookingOil . 
+
+:@ingotNetherPeridot a :OreDictionaryEntry . 
+
+:@dustCobalt a :OreDictionaryEntry . 
+:@dustCobalt :oreDictContains :item.tconstruct.Materials.CobaltDust . 
+
+:@glassPaneGreen a :OreDictionaryEntry . 
+:@glassPaneGreen :oreDictContains :tile.mfr.stainedglass.pane.green . 
+
+:@blockAluminium a :OreDictionaryEntry . 
+:@blockAluminium :oreDictContains :StorageMetals.Aluminum . 
+:@blockAluminium :oreDictContains :tile.oreBlocks.aluminumBlock . 
+
+:@oreTinyTin a :OreDictionaryEntry . 
+
+:@arditeOre a :OreDictionaryEntry . 
+
+:@oreWood a :OreDictionaryEntry . 
+
+:@mb.magnet.level1 a :OreDictionaryEntry . 
+:@mb.magnet.level1 :oreDictContains :item.magicbees:mysteriousMagnet . 
+:@mb.magnet.level1 :oreDictContains :item.magicbees:mysteriousMagnet . 
+
+:@oven a :OreDictionaryEntry . 
+:@oven :oreDictContains :tile.agriculture:oven . 
+
+:@oreAdamantine a :OreDictionaryEntry . 
+
+:@dyePink a :OreDictionaryEntry . 
+:@dyePink :oreDictContains :item.dyePowder.pink . 
+:@dyePink :oreDictContains :item.TreeDye . 
+:@dyePink :oreDictContains :tile.projectred.exploration.dyesapling|6 . 
+
+:@ingotCarmot a :OreDictionaryEntry . 
+
+:@oreYellorite a :OreDictionaryEntry . 
+:@oreYellorite :oreDictContains :tile.brOre.0 . 
+
+:@dustDesh a :OreDictionaryEntry . 
+
+:@oreTitanium a :OreDictionaryEntry . 
+
+:@ingotNetherAluminum a :OreDictionaryEntry . 
+
+:@ingotNetherSalt a :OreDictionaryEntry . 
+
+:@dustElectrum a :OreDictionaryEntry . 
+:@dustElectrum :oreDictContains :item.thermalexpansion.material.dustElectrum . 
+
+:@blockCloud a :OreDictionaryEntry . 
+:@blockCloud :oreDictContains :item.tile.blockCloud.0 . 
+
+:@nuggetCobalt a :OreDictionaryEntry . 
+:@nuggetCobalt :oreDictContains :item.tconstruct.Materials.CobaltNugget . 
+
+:@gemCrystalFlux a :OreDictionaryEntry . 
+:@gemCrystalFlux :oreDictContains :item.redstonearsenal.material.gemCrystalFlux . 
+
+:@oreBrass a :OreDictionaryEntry . 
+
+:@dustTinyTin a :OreDictionaryEntry . 
+:@dustTinyTin :oreDictContains :ic2.itemDustTinSmall . 
+
+:@flintRod a :OreDictionaryEntry . 
+:@flintRod :oreDictContains :item.tconstruct.ToolRod.Flint . 
+
+:@oreNetherDiamond a :OreDictionaryEntry . 
+:@oreNetherDiamond :oreDictContains :tile.netherores.ore.diamond . 
+
+:@cropElderberry a :OreDictionaryEntry . 
+:@cropElderberry :oreDictContains :item.food . 
+
+:@foodPastaDough a :OreDictionaryEntry . 
+:@foodPastaDough :oreDictContains :item.null.agriculturePastaDough . 
+
+:@cropCitron a :OreDictionaryEntry . 
+:@cropCitron :oreDictContains :item.food . 
+:@cropCitron :oreDictContains :item.food . 
+
+:@plateDenseObsidian a :OreDictionaryEntry . 
+:@plateDenseObsidian :oreDictContains :ic2.itemDensePlateObsidian . 
+
+:@oreOureclase a :OreDictionaryEntry . 
+
+:@dyeCeramicMagenta a :OreDictionaryEntry . 
+:@dyeCeramicMagenta :oreDictContains :item.mfr.ceramicdye.magenta . 
+
+:@oreMagnetite a :OreDictionaryEntry . 
+:@oreMagnetite :oreDictContains :tile.Ore.8 . 
+
+:@seedCorn a :OreDictionaryEntry . 
+:@seedCorn :oreDictContains :item.misc . 
+
+:@dustPyrite a :OreDictionaryEntry . 
+:@dustPyrite :oreDictContains :item.modingots.55 . 
+
+:@dustCooperite a :OreDictionaryEntry . 
+
+:@ingotNickel a :OreDictionaryEntry . 
+:@ingotNickel :oreDictContains :item.thermalexpansion.material.ingotNickel . 
+:@ingotNickel :oreDictContains :item.modingots.3 . 
+:@ingotNickel :oreDictContains :item.modingots.38 . 
+:@ingotNickel :oreDictContains :item.item.electriingots.3 . 
+:@ingotNickel :oreDictContains :item.e_ingot.e_ingotNickel . 
+
+:@frier a :OreDictionaryEntry . 
+:@frier :oreDictContains :tile.agriculture:frier . 
+
+:@oreAluminum a :OreDictionaryEntry . 
+:@oreAluminum :oreDictContains :MetalOre.Aluminum . 
+:@oreAluminum :oreDictContains :block.ore.gravel.aluminum . 
+:@oreAluminum :oreDictContains :tile.oreBlocks.bauxiteOre . 
+:@oreAluminum :oreDictContains :tile.ElectriOre.4 . 
+:@oreAluminum :oreDictContains :tile.e_ore.e_oreBauxite . 
+
+:@stoneGneiss a :OreDictionaryEntry . 
+:@stoneGneiss :oreDictContains :tile.SmoothRock.8 . 
+
+:@cleanGravelSilver a :OreDictionaryEntry . 
+:@cleanGravelSilver :oreDictContains :item.factorization:ore/clean/SILVER . 
+
+:@stairsWood a :OreDictionaryEntry . 
+
+:@blockLead a :OreDictionaryEntry . 
+:@blockLead :oreDictContains :blockMetalLead . 
+:@blockLead :oreDictContains :tile.factorization.ResourceBlock.LEADBLOCK . 
+:@blockLead :oreDictContains :tile.thermalexpansion.storage.lead.name . 
+:@blockLead :oreDictContains :tile.e_metal.e_blockLead . 
+
+:@cropAlmond a :OreDictionaryEntry . 
+:@cropAlmond :oreDictContains :item.food . 
+
+:@gemOsmium a :OreDictionaryEntry . 
+
+:@oreSphalerite a :OreDictionaryEntry . 
+
+:@cropKeyLime a :OreDictionaryEntry . 
+:@cropKeyLime :oreDictContains :item.food . 
+
+:@oreGold a :OreDictionaryEntry . 
+:@oreGold :oreDictContains :tile.oreGold . 
+:@oreGold :oreDictContains :block.ore.gravel.gold . 
+
+:@foodApplePieBurned a :OreDictionaryEntry . 
+:@foodApplePieBurned :oreDictContains :item.null.agricultureApplePieBurned . 
+
+:@mb.magnet.level4 a :OreDictionaryEntry . 
+:@mb.magnet.level4 :oreDictContains :item.magicbees:mysteriousMagnet . 
+:@mb.magnet.level4 :oreDictContains :item.magicbees:mysteriousMagnet . 
+
+:@crushedGold a :OreDictionaryEntry . 
+:@crushedGold :oreDictContains :ic2.itemCrushedGoldOre . 
+
+:@ingotTanzanite a :OreDictionaryEntry . 
+
+:@dyeMagentaCrystal a :OreDictionaryEntry . 
+:@dyeMagentaCrystal :oreDictContains :tile.CaveCrystal.13 . 
+
+:@dyeBrownCrystalShard a :OreDictionaryEntry . 
+:@dyeBrownCrystalShard :oreDictContains :item.CrystalShard.3 . 
+
+:@ingotNetherTin a :OreDictionaryEntry . 
+
+:@nickelOre a :OreDictionaryEntry . 
+
+:@oreMithril a :OreDictionaryEntry . 
+
+:@foodBaconCheeseburger a :OreDictionaryEntry . 
+:@foodBaconCheeseburger :oreDictContains :item.null.agricultureBaconCheeseburger . 
+
+:@dustMimichite a :OreDictionaryEntry . 
+
+:@dustQuicklime a :OreDictionaryEntry . 
+:@dustQuicklime :oreDictContains :item.RawMaterials.4 . 
+:@dustQuicklime :oreDictContains :item.e_dusts.e_lime . 
+
+:@foodCheeseFries a :OreDictionaryEntry . 
+:@foodCheeseFries :oreDictContains :item.null.agricultureCheeseFries . 
+
+:@foodBeefJerkey a :OreDictionaryEntry . 
+:@foodBeefJerkey :oreDictContains :item.null.agricultureBeefJerkey . 
+
+:@itemMonazit a :OreDictionaryEntry . 
+
+:@cropButternut a :OreDictionaryEntry . 
+:@cropButternut :oreDictContains :item.food . 
+
+:@dustTungsten a :OreDictionaryEntry . 
+
+:@dyeGrayCrystalShard a :OreDictionaryEntry . 
+:@dyeGrayCrystalShard :oreDictContains :item.CrystalShard.8 . 
+
+:@oreHaderoth a :OreDictionaryEntry . 
+
+:@ingotIndium a :OreDictionaryEntry . 
+:@ingotIndium :oreDictContains :item.Ingots.2 . 
+:@ingotIndium :oreDictContains :item.modingots.51 . 
+
+:@dustMithril a :OreDictionaryEntry . 
+
+:@ingotImpureCobalt a :OreDictionaryEntry . 
+
+:@ingotLemurite a :OreDictionaryEntry . 
+
+:@brickPeat a :OreDictionaryEntry . 
+:@brickPeat :oreDictContains :item.peat . 
+
+:@componentArtificialMuscle a :OreDictionaryEntry . 
+:@componentArtificialMuscle :oreDictContains :item.powerArmorComponent.componentArtificialMuscle . 
+
+:@groundNickel a :OreDictionaryEntry . 
+:@groundNickel :oreDictContains :item.e_dusts.e_groundPentlandite . 
+
+:@dustNetherGreenSapphire a :OreDictionaryEntry . 
+
+:@dropHoney a :OreDictionaryEntry . 
+:@dropHoney :oreDictContains :item.honeyDrop . 
+
+:@whiteStone a :OreDictionaryEntry . 
+:@whiteStone :oreDictContains :tile.whiteStone . 
+
+:@foodPeanutButterCookieBurned a :OreDictionaryEntry . 
+:@foodPeanutButterCookieBurned :oreDictContains :item.null.agriculturePeanutButterCookieBurned . 
+
+:@foodButterCookieBurned a :OreDictionaryEntry . 
+:@foodButterCookieBurned :oreDictContains :item.null.agricultureButterCookieBurned . 
+
+:@dustMagmanite a :OreDictionaryEntry . 
+
+:@ingotNetherGreenSapphire a :OreDictionaryEntry . 
+
+:@mb.magnet.level6 a :OreDictionaryEntry . 
+:@mb.magnet.level6 :oreDictContains :item.magicbees:mysteriousMagnet . 
+:@mb.magnet.level6 :oreDictContains :item.magicbees:mysteriousMagnet . 
+
+:@componentLVCapacitor a :OreDictionaryEntry . 
+:@componentLVCapacitor :oreDictContains :item.powerArmorComponent.componentLVCapacitor . 
+
+:@oreNetherTin a :OreDictionaryEntry . 
+:@oreNetherTin :oreDictContains :tile.netherores.ore.tin . 
+
+:@gemPeridot a :OreDictionaryEntry . 
+:@gemPeridot :oreDictContains :item.bop.gems.peridot . 
+:@gemPeridot :oreDictContains :item.projectred.core.part.gemperidot . 
+
+:@dustGlue a :OreDictionaryEntry . 
+
+:@componentLaserEmitter a :OreDictionaryEntry . 
+:@componentLaserEmitter :oreDictContains :item.powerArmorComponent.componentLaserEmitter . 
+
+:@oreSanguinite a :OreDictionaryEntry . 
+
+:@foodBowlofRawPasta a :OreDictionaryEntry . 
+:@foodBowlofRawPasta :oreDictContains :item.null.agricultureBowlOfRawPasta . 
+
+:@dustPigIron a :OreDictionaryEntry . 
+
+:@ingotCopper a :OreDictionaryEntry . 
+:@ingotCopper :oreDictContains :ic2.itemIngotCopper . 
+:@ingotCopper :oreDictContains :item.tconstruct.Materials.CopperIngot . 
+:@ingotCopper :oreDictContains :item.ingotCopper . 
+:@ingotCopper :oreDictContains :item.materials.ingotCopper . 
+:@ingotCopper :oreDictContains :item.thermalexpansion.material.ingotCopper . 
+:@ingotCopper :oreDictContains :item.calclavia:ingotCopper . 
+:@ingotCopper :oreDictContains :item.calclavia:ingotCopper . 
+:@ingotCopper :oreDictContains :item.modingots.1 . 
+:@ingotCopper :oreDictContains :item.modingots.36 . 
+:@ingotCopper :oreDictContains :item.item.electriingots.0 . 
+:@ingotCopper :oreDictContains :item.e_ingot.e_ingotCopper . 
+
+:@dustNetherDiamond a :OreDictionaryEntry . 
+
+:@crushedPurifiedCopper a :OreDictionaryEntry . 
+:@crushedPurifiedCopper :oreDictContains :ic2.itemPurifiedCrushedCopperOre . 
+
+:@shardOrder a :OreDictionaryEntry . 
+:@shardOrder :oreDictContains :item.ItemShard.4 . 
+:@shardOrder :oreDictContains :item.modingots.18 . 
+:@shardOrder :oreDictContains :item.ItemShard.4 . 
+
+:@coralWhite a :OreDictionaryEntry . 
+:@coralWhite :oreDictContains :item.coral.white . 
+
+:@foodAppleCinnamonCookie a :OreDictionaryEntry . 
+:@foodAppleCinnamonCookie :oreDictContains :item.null.agricultureAppleCinnamonCookie . 
+
+:@dustMoonstone a :OreDictionaryEntry . 
+
+:@ingotObsidian a :OreDictionaryEntry . 
+:@ingotObsidian :oreDictContains :item.tconstruct.Materials.ObsidianIngot . 
+
+:@oreIndium a :OreDictionaryEntry . 
+:@oreIndium :oreDictContains :tile.Ore.3 . 
+
+:@ingotNetherCopper a :OreDictionaryEntry . 
+
+:@mb.magnet.level3 a :OreDictionaryEntry . 
+:@mb.magnet.level3 :oreDictContains :item.magicbees:mysteriousMagnet . 
+:@mb.magnet.level3 :oreDictContains :item.magicbees:mysteriousMagnet . 
+
+:@crushedArdite a :OreDictionaryEntry . 
+:@crushedArdite :oreDictContains :item.aobd.dustsItem6 . 
+
+:@ingotInfusedEarth a :OreDictionaryEntry . 
+
+:@clayBowl a :OreDictionaryEntry . 
+:@clayBowl :oreDictContains :item.null.agricultureClayBowl . 
+
+:@reducedArdite a :OreDictionaryEntry . 
+:@reducedArdite :oreDictContains :item.factorization:ore/reduced/ARDITE . 
+
+:@oreNetherCinnabar a :OreDictionaryEntry . 
+
+:@foodSliceofBread a :OreDictionaryEntry . 
+:@foodSliceofBread :oreDictContains :item.null.agricultureSliceOfBread . 
+
+:@blockInvar a :OreDictionaryEntry . 
+:@blockInvar :oreDictContains :tile.thermalexpansion.storage.invar.name . 
+
+:@stairWood a :OreDictionaryEntry . 
+:@stairWood :oreDictContains :tile.stairsWood . 
+:@stairWood :oreDictContains :tile.stairsWoodBirch . 
+:@stairWood :oreDictContains :tile.stairsWoodJungle . 
+:@stairWood :oreDictContains :tile.stairsWoodSpruce . 
+:@stairWood :oreDictContains :tile.bop.redwoodStairs . 
+:@stairWood :oreDictContains :tile.bop.willowStairs . 
+:@stairWood :oreDictContains :tile.bop.acaciaStairs . 
+:@stairWood :oreDictContains :tile.bop.firStairs . 
+:@stairWood :oreDictContains :tile.bop.cherryStairs . 
+:@stairWood :oreDictContains :tile.bop.darkStairs . 
+:@stairWood :oreDictContains :tile.bop.magicStairs . 
+:@stairWood :oreDictContains :tile.bop.palmStairs . 
+:@stairWood :oreDictContains :tile.bop.mangroveStairs . 
+:@stairWood :oreDictContains :tile.bop.holyStairs . 
+:@stairWood :oreDictContains :tile.bop.pineStairs . 
+:@stairWood :oreDictContains :tile.bop.hellBarkStairs . 
+:@stairWood :oreDictContains :tile.bop.jacarandaStairs . 
+
+:@foodRawChickenNuggets a :OreDictionaryEntry . 
+:@foodRawChickenNuggets :oreDictContains :item.null.agricultureRawChickenNuggets . 
+
+:@oreChromite a :OreDictionaryEntry . 
+
+:@oreHydratedCoal a :OreDictionaryEntry . 
+
+:@dustManyullyn a :OreDictionaryEntry . 
+:@dustManyullyn :oreDictContains :item.tconstruct.Materials.ManyullynDust . 
+
+:@crystallineAluminum a :OreDictionaryEntry . 
+:@crystallineAluminum :oreDictContains :item.factorization:ore/crystal/NATURAL_ALUMINUM . 
+
+:@blockHepatizon a :OreDictionaryEntry . 
+
+:@dyeCeramicOrange a :OreDictionaryEntry . 
+:@dyeCeramicOrange :oreDictContains :item.mfr.ceramicdye.orange . 
+
+:@oreIridium a :OreDictionaryEntry . 
+
+:@foodFriedChicken a :OreDictionaryEntry . 
+:@foodFriedChicken :oreDictContains :item.null.agricultureFriedChicken . 
+
+:@dustInolashite a :OreDictionaryEntry . 
+
+:@nuggetPigIron a :OreDictionaryEntry . 
+:@nuggetPigIron :oreDictContains :item.tconstruct.Materials.PigIronNugget . 
+
+:@gemDiamond a :OreDictionaryEntry . 
+:@gemDiamond :oreDictContains :ic2.itemPartIndustrialDiamond . 
+:@gemDiamond :oreDictContains :item.diamond . 
+:@gemDiamond :oreDictContains :item.diamond . 
+:@gemDiamond :oreDictContains :item.diamond . 
+:@gemDiamond :oreDictContains :item.diamond . 
+:@gemDiamond :oreDictContains :item.modingots.33 . 
+:@gemDiamond :oreDictContains :item.diamond . 
+
+:@cropCherryPlum a :OreDictionaryEntry . 
+:@cropCherryPlum :oreDictContains :item.food . 
+
+:@oreTennantite a :OreDictionaryEntry . 
+
+:@gemMagnetite a :OreDictionaryEntry . 
+:@gemMagnetite :oreDictContains :item.modingots.65 . 
+
+:@oreCobalt a :OreDictionaryEntry . 
+:@oreCobalt :oreDictContains :MetalOre.Cobalt . 
+:@oreCobalt :oreDictContains :block.ore.gravel.cobalt . 
+
+:@blockAluminumBrass a :OreDictionaryEntry . 
+:@blockAluminumBrass :oreDictContains :StorageMetals.AlBrass . 
+
+:@gemPlatinum a :OreDictionaryEntry . 
+
+:@foodStrawberryShortcake a :OreDictionaryEntry . 
+:@foodStrawberryShortcake :oreDictContains :item.null.agricultureStrawberryShortcake . 
+
+:@ingotNetherForce a :OreDictionaryEntry . 
+
+:@logWood a :OreDictionaryEntry . 
+:@logWood :oreDictContains :tile.log.oak . 
+:@logWood :oreDictContains :eucalyptusLog . 
+:@logWood :oreDictContains :sakuraLog . 
+:@logWood :oreDictContains :ghostLog . 
+:@logWood :oreDictContains :hopseedLog . 
+:@logWood :oreDictContains :heartRedwood . 
+:@logWood :oreDictContains :block.log.maple . 
+:@logWood :oreDictContains :block.log.silverbell . 
+:@logWood :oreDictContains :block.log.purpleheart . 
+:@logWood :oreDictContains :block.log.tiger . 
+:@logWood :oreDictContains :block.log.willow . 
+:@logWood :oreDictContains :block.log.darkwood . 
+:@logWood :oreDictContains :block.log.fusewood . 
+:@logWood :oreDictContains :tile.bop.wood1.acaciaWood . 
+:@logWood :oreDictContains :tile.bop.wood2.holyWood . 
+:@logWood :oreDictContains :tile.bop.wood3.redwoodWood . 
+:@logWood :oreDictContains :tile.bop.wood4.pineWood . 
+:@logWood :oreDictContains :tile.bop.wood1.cherryWood . 
+:@logWood :oreDictContains :tile.bop.wood2.magicWood . 
+:@logWood :oreDictContains :tile.bop.wood3.willowWood . 
+:@logWood :oreDictContains :tile.bop.wood4.hellbarkWood . 
+:@logWood :oreDictContains :tile.bop.wood1.darkWood . 
+:@logWood :oreDictContains :tile.bop.wood2.mangroveWood . 
+:@logWood :oreDictContains :tile.bop.wood3.deadWood . 
+:@logWood :oreDictContains :tile.bop.wood4.jacarandaWood . 
+:@logWood :oreDictContains :tile.bop.wood1.firWood . 
+:@logWood :oreDictContains :tile.bop.wood2.palmWood . 
+:@logWood :oreDictContains :tile.bop.wood3.bigflowerstemWood . 
+:@logWood :oreDictContains :tile.for.log1.32767 . 
+:@logWood :oreDictContains :tile.for.log2.32767 . 
+:@logWood :oreDictContains :tile.for.log3.32767 . 
+:@logWood :oreDictContains :tile.for.log4.32767 . 
+:@logWood :oreDictContains :tile.for.log5.32767 . 
+:@logWood :oreDictContains :tile.for.log6.32767 . 
+:@logWood :oreDictContains :tile.for.log7.32767 . 
+:@logWood :oreDictContains :tile.blockMagicalLog.greatwood . 
+:@logWood :oreDictContains :tile.blockMagicalLog.silverwood . 
+:@logWood :oreDictContains :tile.log . 
+:@logWood :oreDictContains :tile.log . 
+:@logWood :oreDictContains :tile.log . 
+:@logWood :oreDictContains :tile.log . 
+:@logWood :oreDictContains :tile.log . 
+:@logWood :oreDictContains :tile.log . 
+:@logWood :oreDictContains :tile.log . 
+:@logWood :oreDictContains :tile.log . 
+:@logWood :oreDictContains :tile.log . 
+:@logWood :oreDictContains :tile.log . 
+:@logWood :oreDictContains :tile.log . 
+:@logWood :oreDictContains :tile.log . 
+:@logWood :oreDictContains :tile.log . 
+:@logWood :oreDictContains :tile.log . 
+:@logWood :oreDictContains :tile.log . 
+:@logWood :oreDictContains :tile.log . 
+:@logWood :oreDictContains :tile.log . 
+:@logWood :oreDictContains :tile.log . 
+:@logWood :oreDictContains :tile.log . 
+:@logWood :oreDictContains :tile.log . 
+:@logWood :oreDictContains :tile.log . 
+:@logWood :oreDictContains :tile.log . 
+:@logWood :oreDictContains :tile.log . 
+:@logWood :oreDictContains :tile.log . 
+:@logWood :oreDictContains :tile.log . 
+:@logWood :oreDictContains :tile.log . 
+:@logWood :oreDictContains :tile.log . 
+:@logWood :oreDictContains :tile.log . 
+:@logWood :oreDictContains :tile.log . 
+:@logWood :oreDictContains :tile.log . 
+:@logWood :oreDictContains :tile.log . 
+:@logWood :oreDictContains :tile.log . 
+:@logWood :oreDictContains :tile.log . 
+:@logWood :oreDictContains :tile.log . 
+:@logWood :oreDictContains :tile.log . 
+:@logWood :oreDictContains :tile.log . 
+:@logWood :oreDictContains :tile.log . 
+:@logWood :oreDictContains :tile.log . 
+:@logWood :oreDictContains :tile.log . 
+:@logWood :oreDictContains :tile.log . 
+:@logWood :oreDictContains :tile.hl_firWood . 
+:@logWood :oreDictContains :tile.hl_acaciaWood . 
+:@logWood :oreDictContains :tile.hl_poplarWood . 
+:@logWood :oreDictContains :tile.hl_redwoodWood . 
+:@logWood :oreDictContains :tile.hl_canopyWood . 
+:@logWood :oreDictContains :tile.hl_mangroveWood . 
+:@logWood :oreDictContains :tile.hl_ashWood . 
+:@logWood :oreDictContains :tile.hl_palmWood . 
+:@logWood :oreDictContains :tile.hl_ironwoodWood . 
+:@logWood :oreDictContains :tile.TFLog.32767 . 
+:@logWood :oreDictContains :tile.TFMagicLog.32767 . 
+
+:@seedRoasted a :OreDictionaryEntry . 
+:@seedRoasted :oreDictContains :item.misc . 
+
+:@itemPlateSteel a :OreDictionaryEntry . 
+
+:@stoneOnyx a :OreDictionaryEntry . 
+:@stoneOnyx :oreDictContains :tile.SmoothRock.15 . 
+
+:@foodPeanutButterCookeDough a :OreDictionaryEntry . 
+:@foodPeanutButterCookeDough :oreDictContains :item.null.agriculturePeanutButterCookieDough . 
+
+:@oreNetherUranium a :OreDictionaryEntry . 
+:@oreNetherUranium :oreDictContains :tile.netherores.ore.uranium . 
+
+:@glass a :OreDictionaryEntry . 
+:@glass :oreDictContains :tile.glass . 
+:@glass :oreDictContains :block.glass.pure . 
+:@glass :oreDictContains :tile.glass . 
+:@glass :oreDictContains :enderio.blockFusedQuartz.fusedGlass . 
+:@glass :oreDictContains :tile.glass . 
+:@glass :oreDictContains :tile.glass . 
+:@glass :oreDictContains :tile.glass . 
+:@glass :oreDictContains :tile.glass . 
+:@glass :oreDictContains :tile.glass . 
+:@glass :oreDictContains :tile.glass . 
+:@glass :oreDictContains :tile.glass . 
+:@glass :oreDictContains :tile.glass . 
+:@glass :oreDictContains :tile.glass . 
+:@glass :oreDictContains :tile.glass . 
+:@glass :oreDictContains :tile.glass . 
+:@glass :oreDictContains :tile.glass . 
+:@glass :oreDictContains :tile.glass . 
+:@glass :oreDictContains :tile.glass . 
+:@glass :oreDictContains :tile.glass . 
+:@glass :oreDictContains :tile.glass . 
+:@glass :oreDictContains :tile.glass . 
+:@glass :oreDictContains :tile.glass . 
+:@glass :oreDictContains :tile.extrautils:decorativeBlock2.0 . 
+:@glass :oreDictContains :tile.extrautils:decorativeBlock2.1 . 
+:@glass :oreDictContains :tile.extrautils:decorativeBlock2.2 . 
+:@glass :oreDictContains :tile.extrautils:decorativeBlock2.3 . 
+:@glass :oreDictContains :tile.extrautils:decorativeBlock2.6 . 
+:@glass :oreDictContains :tile.extrautils:decorativeBlock2.9 . 
+
+:@oreEnderium a :OreDictionaryEntry . 
+
+:@dustQuartz a :OreDictionaryEntry . 
+
+:@blockAstral Silver a :OreDictionaryEntry . 
+
+:@ingotPigIron a :OreDictionaryEntry . 
+:@ingotPigIron :oreDictContains :item.tconstruct.Materials.PigIronIngot . 
+
+:@blockMeatRaw a :OreDictionaryEntry . 
+:@blockMeatRaw :oreDictContains :tile.mfr.decorativebrick.meat.raw . 
+
+:@componentWiring a :OreDictionaryEntry . 
+:@componentWiring :oreDictContains :item.powerArmorComponent.componentWiring . 
+
+:@oreNetherNaturalAluminum a :OreDictionaryEntry . 
+
+:@blockFft a :OreDictionaryEntry . 
+:@blockFft :oreDictContains :item.tile.blockFft.0 . 
+
+:@ingotAsh a :OreDictionaryEntry . 
+
+:@shardEmerald a :OreDictionaryEntry . 
+:@shardEmerald :oreDictContains :item.beeNugget . 
+
+:@foodBreadedChicken a :OreDictionaryEntry . 
+:@foodBreadedChicken :oreDictContains :item.null.agricultureBreadedChicken . 
+
+:@ingotNetherUranium a :OreDictionaryEntry . 
+
+:@clumpAluminium a :OreDictionaryEntry . 
+:@clumpAluminium :oreDictContains :item.aobd.dustsItem16 . 
+
+:@ingotSalt a :OreDictionaryEntry . 
+
+:@dustNetherRutile a :OreDictionaryEntry . 
+
+:@dustBlueTopaz a :OreDictionaryEntry . 
+
+:@oreQuicksilver a :OreDictionaryEntry . 
+
+:@blockTin a :OreDictionaryEntry . 
+:@blockTin :oreDictContains :blockMetalTin . 
+:@blockTin :oreDictContains :StorageMetals.Tin . 
+:@blockTin :oreDictContains :tile.thermalexpansion.storage.tin.name . 
+:@blockTin :oreDictContains :tile.e_metal.e_blockTin . 
+
+:@turbineRotorShaft a :OreDictionaryEntry . 
+:@turbineRotorShaft :oreDictContains :tile.blockTurbineRotorPart.0 . 
+
+:@dustQuicksilver a :OreDictionaryEntry . 
+
+:@crystallinePlatinum a :OreDictionaryEntry . 
+
+:@foodVanillaIceCream a :OreDictionaryEntry . 
+:@foodVanillaIceCream :oreDictContains :item.null.agricultureVanillaIceCream . 
+
+:@dustNetherMalachite a :OreDictionaryEntry . 
+
+:@ingotAstral Silver a :OreDictionaryEntry . 
+
+:@ingotRubracium a :OreDictionaryEntry . 
+
+:@turbineFluidPort a :OreDictionaryEntry . 
+:@turbineFluidPort :oreDictContains :tile.blockTurbinePart.3 . 
+
+:@dustMagnetite a :OreDictionaryEntry . 
+
+:@oreNetherArdite a :OreDictionaryEntry . 
+
+:@dustClay a :OreDictionaryEntry . 
+:@dustClay :oreDictContains :ic2.itemDustClay . 
+
+:@cropHops a :OreDictionaryEntry . 
+:@cropHops :oreDictContains :item.misc . 
+
+:@craftingToolForgeHammer a :OreDictionaryEntry . 
+:@craftingToolForgeHammer :oreDictContains :ic2.itemToolForgeHammer . 
+
+:@oreYellorium a :OreDictionaryEntry . 
+
+:@foodToastedPBSandwich a :OreDictionaryEntry . 
+:@foodToastedPBSandwich :oreDictContains :item.null.agricultureToastedPBSandwich . 
+
+:@oreNetherPeridot a :OreDictionaryEntry . 
+
+:@dustMagnesium a :OreDictionaryEntry . 
+
+:@gemGreenSapphire a :OreDictionaryEntry . 
+:@gemGreenSapphire :oreDictContains :item.modingots.23 . 
+:@gemGreenSapphire :oreDictContains :item.modingots.74 . 
+
+:@oreTinyAluminium a :OreDictionaryEntry . 
+
+:@compressedGravel2x a :OreDictionaryEntry . 
+:@compressedGravel2x :oreDictContains :tile.extrautils:cobblestone_compressed.13 . 
+
+:@oreNetherApatite a :OreDictionaryEntry . 
+
+:@shale a :OreDictionaryEntry . 
+:@shale :oreDictContains :tile.SmoothRock.4 . 
+
+:@dustCinnabar a :OreDictionaryEntry . 
+
+:@cropDate a :OreDictionaryEntry . 
+:@cropDate :oreDictContains :item.fruits . 
+
+:@foodStrawberryJellyToast a :OreDictionaryEntry . 
+:@foodStrawberryJellyToast :oreDictContains :item.null.agricultureStrawberryJellyToast . 
+
+:@foodToastedPBSandwichBurned a :OreDictionaryEntry . 
+:@foodToastedPBSandwichBurned :oreDictContains :item.null.agricultureToastedPBSandwichBurned . 
+
+:@dustTinyArdite a :OreDictionaryEntry . 
+:@dustTinyArdite :oreDictContains :item.aobd.dustsItem10 . 
+
+:@ingotSaltpeter a :OreDictionaryEntry . 
+
+:@foodChocolate a :OreDictionaryEntry . 
+:@foodChocolate :oreDictContains :item.null.agricultureChocolate . 
+
+:@craftingTableWood a :OreDictionaryEntry . 
+:@craftingTableWood :oreDictContains :tile.workbench . 
+:@craftingTableWood :oreDictContains :tile.workbench . 
+:@craftingTableWood :oreDictContains :tile.workbench . 
+:@craftingTableWood :oreDictContains :tile.workbench . 
+:@craftingTableWood :oreDictContains :tile.workbench . 
+:@craftingTableWood :oreDictContains :tile.workbench . 
+:@craftingTableWood :oreDictContains :tile.workbench . 
+:@craftingTableWood :oreDictContains :tile.workbench . 
+:@craftingTableWood :oreDictContains :tile.workbench . 
+:@craftingTableWood :oreDictContains :tile.workbench . 
+:@craftingTableWood :oreDictContains :tile.workbench . 
+:@craftingTableWood :oreDictContains :tile.workbench . 
+:@craftingTableWood :oreDictContains :tile.workbench . 
+
+:@dustSoulSand a :OreDictionaryEntry . 
+:@dustSoulSand :oreDictContains :item.powder.misc.tar . 
+
+:@glassPurple a :OreDictionaryEntry . 
+:@glassPurple :oreDictContains :block.stainedglass.purple . 
+:@glassPurple :oreDictContains :tile.mfr.stainedglass.block.purple . 
+
+:@ingotEnergeticAlloy a :OreDictionaryEntry . 
+:@ingotEnergeticAlloy :oreDictContains :enderio.energeticAlloy . 
+
+:@blockBrass a :OreDictionaryEntry . 
+
+:@stoneMossy a :OreDictionaryEntry . 
+:@stoneMossy :oreDictContains :tile.stonebricksmooth.mossy . 
+:@stoneMossy :oreDictContains :tile.stoneMoss . 
+
+:@ingotInfusedAir a :OreDictionaryEntry . 
+
+:@cropBlackCherry a :OreDictionaryEntry . 
+:@cropBlackCherry :oreDictContains :item.food . 
+
+:@oreNaturalAluminum a :OreDictionaryEntry . 
+:@oreNaturalAluminum :oreDictContains :tile.oreBlocks.bauxiteOre . 
+
+:@blockOsmium a :OreDictionaryEntry . 
+
+:@dustApatite a :OreDictionaryEntry . 
+
+:@foodChocolateSauceBurned a :OreDictionaryEntry . 
+:@foodChocolateSauceBurned :oreDictContains :item.null.agricultureChocolateSauceBurned . 
+
+:@ingotSphalerite a :OreDictionaryEntry . 
+
+:@dustShadow Steel a :OreDictionaryEntry . 
+
+:@foodMacaroniandCheese a :OreDictionaryEntry . 
+:@foodMacaroniandCheese :oreDictContains :item.null.agricultureMacaroniAndCheese . 
+
+:@reducedTin a :OreDictionaryEntry . 
+:@reducedTin :oreDictContains :item.factorization:ore/reduced/TIN . 
+
+:@dustAluminumBrass a :OreDictionaryEntry . 
+:@dustAluminumBrass :oreDictContains :item.tconstruct.Materials.AluBrassDust . 
+
+:@blockPrometheum a :OreDictionaryEntry . 
+
+:@dirtyGravelLead a :OreDictionaryEntry . 
+:@dirtyGravelLead :oreDictContains :item.factorization:ore/gravel/LEAD . 
+
+:@foodSugarCookieBurned a :OreDictionaryEntry . 
+:@foodSugarCookieBurned :oreDictContains :item.null.agricultureSugarCookieBurned . 
+
+:@dustNetherQuartz a :OreDictionaryEntry . 
+:@dustNetherQuartz :oreDictContains :AppEng.Materials.QuartzDustNether . 
+:@dustNetherQuartz :oreDictContains :item.item.crafting.2 . 
+
+:@dyeCeramicBrown a :OreDictionaryEntry . 
+:@dyeCeramicBrown :oreDictContains :item.mfr.ceramicdye.brown . 
+
+:@crystallineNaturalAluminum a :OreDictionaryEntry . 
+
+:@battery a :OreDictionaryEntry . 
+
+:@oreBlueTopaz a :OreDictionaryEntry . 
+
+:@reactorComputerPort a :OreDictionaryEntry . 
+:@reactorComputerPort :oreDictContains :tile.blockReactorPart.5 . 
+
+:@plateDenseGold a :OreDictionaryEntry . 
+:@plateDenseGold :oreDictContains :ic2.itemDensePlateGold . 
+
+:@blockDeep Iron a :OreDictionaryEntry . 
+
+:@dustNetherPeridot a :OreDictionaryEntry . 
+
+:@dustTartarite a :OreDictionaryEntry . 
+
+:@gemSunstone a :OreDictionaryEntry . 
+:@gemSunstone :oreDictContains :item.modingots.62 . 
+
+:@oreApatite a :OreDictionaryEntry . 
+:@oreApatite :oreDictContains :tile.resources.0 . 
+
+:@ingotTennantite a :OreDictionaryEntry . 
+
+:@ingotVibrantAlloy a :OreDictionaryEntry . 
+:@ingotVibrantAlloy :oreDictContains :enderio.phasedGold . 
+
+:@sludge a :OreDictionaryEntry . 
+:@sludge :oreDictContains :item.factorization:sludge . 
+
+:@foodAppleJellyToast a :OreDictionaryEntry . 
+:@foodAppleJellyToast :oreDictContains :item.null.agricultureAppleJellyToast . 
+
+:@oreGlowstone a :OreDictionaryEntry . 
+
+:@groundGold a :OreDictionaryEntry . 
+:@groundGold :oreDictContains :item.e_dusts.e_groundGold . 
+
+:@dyeLightBlue a :OreDictionaryEntry . 
+:@dyeLightBlue :oreDictContains :item.dyePowder.lightBlue . 
+:@dyeLightBlue :oreDictContains :item.TreeDye . 
+:@dyeLightBlue :oreDictContains :tile.projectred.exploration.dyesapling|3 . 
+
+:@blockInolashite a :OreDictionaryEntry . 
+
+:@plateGold a :OreDictionaryEntry . 
+:@plateGold :oreDictContains :ic2.itemPlateGold . 
+:@plateGold :oreDictContains :item.calclavia:plateGold . 
+
+:@plateSteel a :OreDictionaryEntry . 
+:@plateSteel :oreDictContains :item.calclavia:plateSteel . 
+
+:@dustImpureCopper a :OreDictionaryEntry . 
+:@dustImpureCopper :oreDictContains :item.e_dusts.e_impureCopperDust . 
+
+:@dustDirtyArdite a :OreDictionaryEntry . 
+:@dustDirtyArdite :oreDictContains :item.aobd.dustsItem17 . 
+
+:@woodRubber a :OreDictionaryEntry . 
+:@woodRubber :oreDictContains :blockRubWood . 
+:@woodRubber :oreDictContains :tile.mfr.rubberwood.log . 
+
+:@cropSandPear a :OreDictionaryEntry . 
+:@cropSandPear :oreDictContains :item.food . 
+
+:@ironRod a :OreDictionaryEntry . 
+:@ironRod :oreDictContains :item.tconstruct.ToolRod.Iron . 
+
+:@plateDenseIron a :OreDictionaryEntry . 
+:@plateDenseIron :oreDictContains :ic2.itemDensePlateIron . 
+
+:@limestone a :OreDictionaryEntry . 
+:@limestone :oreDictContains :tile.oreBlocks.limestone . 
+:@limestone :oreDictContains :tile.limestone . 
+:@limestone :oreDictContains :tile.SmoothRock.3 . 
+
+:@gemAdamantium a :OreDictionaryEntry . 
+
+:@ingotVinteum a :OreDictionaryEntry . 
+
+:@oreNetherCopper a :OreDictionaryEntry . 
+:@oreNetherCopper :oreDictContains :tile.netherores.ore.copper . 
+
+:@blockPigIron a :OreDictionaryEntry . 
+
+:@gearElectrum a :OreDictionaryEntry . 
+:@gearElectrum :oreDictContains :item.thermalexpansion.material.gearElectrum . 
+
+:@itemSilicon a :OreDictionaryEntry . 
+:@itemSilicon :oreDictContains :enderio.silicon . 
+:@itemSilicon :oreDictContains :AppEng.Materials.Silicon . 
+
+:@forceGem a :OreDictionaryEntry . 
+
+:@netherrackRod a :OreDictionaryEntry . 
+:@netherrackRod :oreDictContains :item.tconstruct.ToolRod.Netherrack . 
+
+:@dropRoyalJelly a :OreDictionaryEntry . 
+:@dropRoyalJelly :oreDictContains :item.royalJelly . 
+
+:@clusterTin a :OreDictionaryEntry . 
+:@clusterTin :oreDictContains :item.ItemNugget.18 . 
+
+:@dustNetherApatite a :OreDictionaryEntry . 
+
+:@crystallineEmerald a :OreDictionaryEntry . 
+
+:@blockMagnesium a :OreDictionaryEntry . 
+:@blockMagnesium :oreDictContains :tile.oreBlocks.magnesiumBlock . 
+
+:@oreNetherPigIron a :OreDictionaryEntry . 
+
+:@coralYellow a :OreDictionaryEntry . 
+:@coralYellow :oreDictContains :item.coral.yellow . 
+
+:@dyeLime a :OreDictionaryEntry . 
+:@dyeLime :oreDictContains :item.dyePowder.lime . 
+:@dyeLime :oreDictContains :item.TreeDye . 
+:@dyeLime :oreDictContains :tile.projectred.exploration.dyesapling|5 . 
+
+:@ingotNetherElectrum a :OreDictionaryEntry . 
+
+:@reducedGalena a :OreDictionaryEntry . 
+:@reducedGalena :oreDictContains :item.factorization:ore/reduced/GALENA . 
+
+:@foodMarshmellows a :OreDictionaryEntry . 
+:@foodMarshmellows :oreDictContains :item.null.agricultureMarshmellows . 
+
+:@oreNetherAlumite a :OreDictionaryEntry . 
+
+:@ingotImpureSilver a :OreDictionaryEntry . 
+
+:@dustNetherEmerald a :OreDictionaryEntry . 
+
+:@ingotShadow Iron a :OreDictionaryEntry . 
+
+:@dustIridium a :OreDictionaryEntry . 
+
+:@oreMidasium a :OreDictionaryEntry . 
+
+:@dustCassiterite a :OreDictionaryEntry . 
+
+:@ingotTinyCobalt a :OreDictionaryEntry . 
+
+:@oreNetherObsidian a :OreDictionaryEntry . 
+
+:@oreFluorite a :OreDictionaryEntry . 
+:@oreFluorite :oreDictContains :tile.FluoriteOre . 
+:@oreFluorite :oreDictContains :tile.FluoriteOre . 
+:@oreFluorite :oreDictContains :tile.FluoriteOre . 
+:@oreFluorite :oreDictContains :tile.FluoriteOre . 
+:@oreFluorite :oreDictContains :tile.FluoriteOre . 
+:@oreFluorite :oreDictContains :tile.FluoriteOre . 
+:@oreFluorite :oreDictContains :tile.FluoriteOre . 
+:@oreFluorite :oreDictContains :tile.FluoriteOre . 
+
+:@clusterLead a :OreDictionaryEntry . 
+:@clusterLead :oreDictContains :item.ItemNugget.20 . 
+
+:@foodRawFrenchToast a :OreDictionaryEntry . 
+:@foodRawFrenchToast :oreDictContains :item.null.agricultureRawFrenchToast . 
+
+:@ingotStone a :OreDictionaryEntry . 
+
+:@oreNickel a :OreDictionaryEntry . 
+:@oreNickel :oreDictContains :tile.thermalexpansion.ore.nickel.name . 
+:@oreNickel :oreDictContains :tile.ElectriOre.3 . 
+:@oreNickel :oreDictContains :tile.e_ore.e_orePentlandite . 
+
+:@dustNetherAlumite a :OreDictionaryEntry . 
+
+:@ingotNetherTopaz a :OreDictionaryEntry . 
+
+:@tinOre a :OreDictionaryEntry . 
+
+:@oreTinySulfur a :OreDictionaryEntry . 
+
+:@oreIgnatius a :OreDictionaryEntry . 
+
+:@basalt a :OreDictionaryEntry . 
+:@basalt :oreDictContains :tile.SmoothRock.1 . 
+
+:@oreBlack Steel a :OreDictionaryEntry . 
+
+:@foodChocolateChipCookieDough a :OreDictionaryEntry . 
+:@foodChocolateChipCookieDough :oreDictContains :item.null.agricultureChocolateChipCookieDough . 
+
+:@foodIceCreamMix a :OreDictionaryEntry . 
+:@foodIceCreamMix :oreDictContains :item.null.agricultureIceCreamMix . 
+
+:@oreNetherPlatinum a :OreDictionaryEntry . 
+:@oreNetherPlatinum :oreDictContains :tile.netherores.ore.platinum . 
+
+:@dyeBrown a :OreDictionaryEntry . 
+:@dyeBrown :oreDictContains :item.dyePowder.brown . 
+:@dyeBrown :oreDictContains :item.bop.miscItems.browndye . 
+:@dyeBrown :oreDictContains :item.materials.dyeBrown . 
+:@dyeBrown :oreDictContains :item.mfr.fertilizer . 
+:@dyeBrown :oreDictContains :item.misc . 
+:@dyeBrown :oreDictContains :item.TreeDye . 
+:@dyeBrown :oreDictContains :tile.projectred.exploration.dyesapling|12 . 
+
+:@dustRutile a :OreDictionaryEntry . 
+
+:@dustRedstone a :OreDictionaryEntry . 
+:@dustRedstone :oreDictContains :item.redstone . 
+:@dustRedstone :oreDictContains :item.modingots.31 . 
+
+:@ingotNetherPlatinum a :OreDictionaryEntry . 
+
+:@dyeWhiteCrystalShard a :OreDictionaryEntry . 
+:@dyeWhiteCrystalShard :oreDictContains :item.CrystalShard.15 . 
+
+:@crushedPurifiedCobalt a :OreDictionaryEntry . 
+:@crushedPurifiedCobalt :oreDictContains :item.aobd.dustsItem7 . 
+
+:@naturalAluminum a :OreDictionaryEntry . 
+
+:@gemRutile a :OreDictionaryEntry . 
+
+:@gemSapphire a :OreDictionaryEntry . 
+:@gemSapphire :oreDictContains :item.bop.gems.sapphire . 
+:@gemSapphire :oreDictContains :item.modingots.25 . 
+:@gemSapphire :oreDictContains :item.modingots.73 . 
+:@gemSapphire :oreDictContains :item.e_gem.e_gemSapphire . 
+:@gemSapphire :oreDictContains :item.projectred.core.part.gemsapphire . 
+
+:@dustMythril a :OreDictionaryEntry . 
+
+:@stoneGranite a :OreDictionaryEntry . 
+:@stoneGranite :oreDictContains :tile.SmoothRock.0 . 
+
+:@dyeCeramicLightBlue a :OreDictionaryEntry . 
+:@dyeCeramicLightBlue :oreDictContains :item.mfr.ceramicdye.lightblue . 
+
+:@silverOre a :OreDictionaryEntry . 
+
+:@dustImpureAluminum a :OreDictionaryEntry . 
+:@dustImpureAluminum :oreDictContains :item.e_dusts.e_impureAluminiumDust . 
+
+:@gemMimichite a :OreDictionaryEntry . 
+:@gemMimichite :oreDictContains :item.modingots.67 . 
+:@gemMimichite :oreDictContains :item.Mimichite . 
+
+:@orePrometheum a :OreDictionaryEntry . 
+
+:@wireExplosive a :OreDictionaryEntry . 
+:@wireExplosive :oreDictContains :tile.mfr.detcord . 
+
+:@circuitElite a :OreDictionaryEntry . 
+:@circuitElite :oreDictContains :item.calclavia:circuitElite . 
+
+:@foodDeluxeHotCocoa a :OreDictionaryEntry . 
+:@foodDeluxeHotCocoa :oreDictContains :item.null.agricultureDeluxeHotCocoa . 
+
+:@dustAsh a :OreDictionaryEntry . 
+:@dustAsh :oreDictContains :item.ash . 
+:@dustAsh :oreDictContains :item.ash . 
+
+:@crushedUranium a :OreDictionaryEntry . 
+:@crushedUranium :oreDictContains :ic2.itemCrushedUranOre . 
+
+:@foodApplePie a :OreDictionaryEntry . 
+:@foodApplePie :oreDictContains :item.null.agricultureApplePie . 
+
+:@oreInvar a :OreDictionaryEntry . 
+
+:@schist a :OreDictionaryEntry . 
+:@schist :oreDictContains :tile.SmoothRock.14 . 
+
+:@gemChimerite a :OreDictionaryEntry . 
+:@gemChimerite :oreDictContains :item.modingots.58 . 
+
+:@blockTartarite a :OreDictionaryEntry . 
+
+:@sandstone a :OreDictionaryEntry . 
+:@sandstone :oreDictContains :tile.sandStone.default . 
+:@sandstone :oreDictContains :tile.SmoothRock.5 . 
+:@sandstone :oreDictContains :tile.SmoothRock.5 . 
+:@sandstone :oreDictContains :tile.sandStone.default . 
+
+:@oreAlumite a :OreDictionaryEntry . 
+
+:@foodVanilla a :OreDictionaryEntry . 
+:@foodVanilla :oreDictContains :item.null.agricultureVanilla . 
+
+:@dustImpureIron a :OreDictionaryEntry . 
+:@dustImpureIron :oreDictContains :item.e_dusts.e_impureIronDust . 
+
+:@ingotDiamond a :OreDictionaryEntry . 
+
+:@dustNetherGlue a :OreDictionaryEntry . 
+
+:@oreLead a :OreDictionaryEntry . 
+:@oreLead :oreDictContains :tile.thermalexpansion.ore.lead.name . 
+:@oreLead :oreDictContains :tile.e_ore.e_oreGalena . 
+
+:@oreZinc a :OreDictionaryEntry . 
+
+:@compressedCobblestone4x a :OreDictionaryEntry . 
+:@compressedCobblestone4x :oreDictContains :tile.extrautils:cobblestone_compressed.3 . 
+
+:@icebox a :OreDictionaryEntry . 
+:@icebox :oreDictContains :tile.agriculture:icebox . 
+
+:@oreTetrahedrite a :OreDictionaryEntry . 
+
+:@ingotGlue a :OreDictionaryEntry . 
+
+:@plateCopper a :OreDictionaryEntry . 
+:@plateCopper :oreDictContains :ic2.itemPlateCopper . 
+:@plateCopper :oreDictContains :item.calclavia:plateCopper . 
+
+:@electrumIngot a :OreDictionaryEntry . 
+
+:@oreNetherAmber a :OreDictionaryEntry . 
+
+:@gemSaltpeter a :OreDictionaryEntry . 
+
+:@dustKalendrite a :OreDictionaryEntry . 
+
+:@foodGroundPork a :OreDictionaryEntry . 
+:@foodGroundPork :oreDictContains :item.null.agricultureGroundPork . 
+
+:@ingotNetherRedstone a :OreDictionaryEntry . 
+
+:@oreImpureSilver a :OreDictionaryEntry . 
+
+:@oreNetherIridium a :OreDictionaryEntry . 
+:@oreNetherIridium :oreDictContains :tile.netherores.ore.iridium . 
+
+:@blockGold a :OreDictionaryEntry . 
+:@blockGold :oreDictContains :tile.blockGold . 
+
+:@ingotSilver a :OreDictionaryEntry . 
+:@ingotSilver :oreDictContains :ic2.itemIngotSilver . 
+:@ingotSilver :oreDictContains :item.factorization:silver_ingot . 
+:@ingotSilver :oreDictContains :item.Ingots.3 . 
+:@ingotSilver :oreDictContains :item.thermalexpansion.material.ingotSilver . 
+:@ingotSilver :oreDictContains :item.compacts.misc.agingot . 
+:@ingotSilver :oreDictContains :item.modingots.4 . 
+:@ingotSilver :oreDictContains :item.modingots.39 . 
+:@ingotSilver :oreDictContains :item.item.electriingots.2 . 
+:@ingotSilver :oreDictContains :item.e_ingot.e_ingotSilver . 
+
+:@stoneSandstone a :OreDictionaryEntry . 
+:@stoneSandstone :oreDictContains :tile.SmoothRock.5 . 
+
+:@dustNetherYellorite a :OreDictionaryEntry . 
+
+:@gearTin a :OreDictionaryEntry . 
+:@gearTin :oreDictContains :item.gearTin . 
+:@gearTin :oreDictContains :item.thermalexpansion.material.gearTin . 
+
+:@glassPanePink a :OreDictionaryEntry . 
+:@glassPanePink :oreDictContains :tile.mfr.stainedglass.pane.pink . 
+
+:@ingotManganese a :OreDictionaryEntry . 
+
+:@crystallineBronze a :OreDictionaryEntry . 
+
+:@projredBundledCable a :OreDictionaryEntry . 
+:@projredBundledCable :oreDictContains :item.projectred.transmission.wire|17 . 
+:@projredBundledCable :oreDictContains :item.projectred.transmission.wire|18 . 
+:@projredBundledCable :oreDictContains :item.projectred.transmission.wire|19 . 
+:@projredBundledCable :oreDictContains :item.projectred.transmission.wire|20 . 
+:@projredBundledCable :oreDictContains :item.projectred.transmission.wire|21 . 
+:@projredBundledCable :oreDictContains :item.projectred.transmission.wire|22 . 
+:@projredBundledCable :oreDictContains :item.projectred.transmission.wire|23 . 
+:@projredBundledCable :oreDictContains :item.projectred.transmission.wire|24 . 
+:@projredBundledCable :oreDictContains :item.projectred.transmission.wire|25 . 
+:@projredBundledCable :oreDictContains :item.projectred.transmission.wire|26 . 
+:@projredBundledCable :oreDictContains :item.projectred.transmission.wire|27 . 
+:@projredBundledCable :oreDictContains :item.projectred.transmission.wire|28 . 
+:@projredBundledCable :oreDictContains :item.projectred.transmission.wire|29 . 
+:@projredBundledCable :oreDictContains :item.projectred.transmission.wire|30 . 
+:@projredBundledCable :oreDictContains :item.projectred.transmission.wire|31 . 
+:@projredBundledCable :oreDictContains :item.projectred.transmission.wire|32 . 
+:@projredBundledCable :oreDictContains :item.projectred.transmission.wire|33 . 
+
+:@ingotInfusedFire a :OreDictionaryEntry . 
+
+:@ingotSteel a :OreDictionaryEntry . 
+:@ingotSteel :oreDictContains :item.tconstruct.Materials.SteelIngot . 
+:@ingotSteel :oreDictContains :railcraft.ingot.steel . 
+:@ingotSteel :oreDictContains :item.calclavia:ingotSteel . 
+:@ingotSteel :oreDictContains :item.calclavia:ingotSteel . 
+:@ingotSteel :oreDictContains :item.shaftcraft.crafting.ingot . 
+:@ingotSteel :oreDictContains :item.modingots.47 . 
+:@ingotSteel :oreDictContains :item.e_ingot.e_ingotSteel . 
+
+:@ingotCyanite a :OreDictionaryEntry . 
+:@ingotCyanite :oreDictContains :item.ingotCyanite . 
+
+:@seedRye a :OreDictionaryEntry . 
+:@seedRye :oreDictContains :item.misc . 
+
+:@cropPeach a :OreDictionaryEntry . 
+:@cropPeach :oreDictContains :item.food . 
+:@cropPeach :oreDictContains :item.food . 
+
+:@shardEntropy a :OreDictionaryEntry . 
+:@shardEntropy :oreDictContains :item.ItemShard.5 . 
+:@shardEntropy :oreDictContains :item.modingots.17 . 
+:@shardEntropy :oreDictContains :item.ItemShard.5 . 
+
+:@ingotAmmonium a :OreDictionaryEntry . 
+
+:@ingotInolashite a :OreDictionaryEntry . 
+
+:@cleanGravelLead a :OreDictionaryEntry . 
+:@cleanGravelLead :oreDictContains :item.factorization:ore/clean/LEAD . 
+
+:@projredInsulatedWire a :OreDictionaryEntry . 
+:@projredInsulatedWire :oreDictContains :item.projectred.transmission.wire|1 . 
+:@projredInsulatedWire :oreDictContains :item.projectred.transmission.wire|2 . 
+:@projredInsulatedWire :oreDictContains :item.projectred.transmission.wire|3 . 
+:@projredInsulatedWire :oreDictContains :item.projectred.transmission.wire|4 . 
+:@projredInsulatedWire :oreDictContains :item.projectred.transmission.wire|5 . 
+:@projredInsulatedWire :oreDictContains :item.projectred.transmission.wire|6 . 
+:@projredInsulatedWire :oreDictContains :item.projectred.transmission.wire|7 . 
+:@projredInsulatedWire :oreDictContains :item.projectred.transmission.wire|8 . 
+:@projredInsulatedWire :oreDictContains :item.projectred.transmission.wire|9 . 
+:@projredInsulatedWire :oreDictContains :item.projectred.transmission.wire|10 . 
+:@projredInsulatedWire :oreDictContains :item.projectred.transmission.wire|11 . 
+:@projredInsulatedWire :oreDictContains :item.projectred.transmission.wire|12 . 
+:@projredInsulatedWire :oreDictContains :item.projectred.transmission.wire|13 . 
+:@projredInsulatedWire :oreDictContains :item.projectred.transmission.wire|14 . 
+:@projredInsulatedWire :oreDictContains :item.projectred.transmission.wire|15 . 
+:@projredInsulatedWire :oreDictContains :item.projectred.transmission.wire|16 . 
+
+:@foodSugarCookieDough a :OreDictionaryEntry . 
+:@foodSugarCookieDough :oreDictContains :item.null.agricultureSugarCookieDough . 
+
+:@steelRod a :OreDictionaryEntry . 
+:@steelRod :oreDictContains :item.tconstruct.ToolRod.Steel . 
+
+:@ingotAmethyst a :OreDictionaryEntry . 
+
+:@foodCupofWater a :OreDictionaryEntry . 
+:@foodCupofWater :oreDictContains :item.null.agricultureWater . 
+
+:@dyeBrownCrystal a :OreDictionaryEntry . 
+:@dyeBrownCrystal :oreDictContains :tile.CaveCrystal.3 . 
+
+:@crystallineAluminumBrass a :OreDictionaryEntry . 
+
+:@gemCoal a :OreDictionaryEntry . 
+
+:@gemSilver a :OreDictionaryEntry . 
+
+:@boneRod a :OreDictionaryEntry . 
+:@boneRod :oreDictContains :item.tconstruct.ToolRod.Bone . 
+
+:@gearGold a :OreDictionaryEntry . 
+:@gearGold :oreDictContains :item.goldGearItem . 
+
+:@plankWood a :OreDictionaryEntry . 
+:@plankWood :oreDictContains :tile.wood.oak . 
+:@plankWood :oreDictContains :eucalyptusNPlanks . 
+:@plankWood :oreDictContains :sakuraNPlanks . 
+:@plankWood :oreDictContains :ghostNPlanks . 
+:@plankWood :oreDictContains :redwoodNPlanks . 
+:@plankWood :oreDictContains :bushNPlanks . 
+:@plankWood :oreDictContains :mapleNPlanks . 
+:@plankWood :oreDictContains :silverbellNPlanks . 
+:@plankWood :oreDictContains :purpleheartNPlanks . 
+:@plankWood :oreDictContains :tigerNPlanks . 
+:@plankWood :oreDictContains :willowNPlanks . 
+:@plankWood :oreDictContains :darkwoodNPlanks . 
+:@plankWood :oreDictContains :NPlanks . 
+:@plankWood :oreDictContains :tile.bop.planks.acaciaPlank . 
+:@plankWood :oreDictContains :tile.for.planks.32767 . 
+:@plankWood :oreDictContains :tile.for.planks2.32767 . 
+:@plankWood :oreDictContains :tile.blockWoodenDevice.6 . 
+:@plankWood :oreDictContains :tile.blockWoodenDevice.7 . 
+:@plankWood :oreDictContains :tile.planks . 
+:@plankWood :oreDictContains :tile.planks . 
+:@plankWood :oreDictContains :tile.planks . 
+:@plankWood :oreDictContains :tile.planks . 
+:@plankWood :oreDictContains :tile.planks . 
+:@plankWood :oreDictContains :tile.planks . 
+:@plankWood :oreDictContains :tile.planks . 
+:@plankWood :oreDictContains :tile.planks . 
+:@plankWood :oreDictContains :tile.planks . 
+:@plankWood :oreDictContains :tile.planks . 
+:@plankWood :oreDictContains :tile.planks . 
+:@plankWood :oreDictContains :tile.planks . 
+:@plankWood :oreDictContains :tile.planks . 
+:@plankWood :oreDictContains :tile.planks . 
+:@plankWood :oreDictContains :tile.planks . 
+:@plankWood :oreDictContains :tile.planks . 
+:@plankWood :oreDictContains :tile.planks . 
+:@plankWood :oreDictContains :tile.planks . 
+:@plankWood :oreDictContains :tile.planks . 
+:@plankWood :oreDictContains :tile.planks . 
+:@plankWood :oreDictContains :tile.planks . 
+:@plankWood :oreDictContains :tile.planks . 
+:@plankWood :oreDictContains :tile.planks . 
+:@plankWood :oreDictContains :tile.planks . 
+:@plankWood :oreDictContains :tile.planks . 
+:@plankWood :oreDictContains :tile.planks . 
+:@plankWood :oreDictContains :tile.planks . 
+:@plankWood :oreDictContains :tile.planks . 
+:@plankWood :oreDictContains :tile.planks . 
+:@plankWood :oreDictContains :tile.planks . 
+:@plankWood :oreDictContains :tile.planks . 
+:@plankWood :oreDictContains :tile.planks . 
+:@plankWood :oreDictContains :tile.planks . 
+:@plankWood :oreDictContains :tile.planks . 
+:@plankWood :oreDictContains :tile.planks . 
+:@plankWood :oreDictContains :tile.hl_woodPlanks_32767 . 
+:@plankWood :oreDictContains :tile.paintedPlanks.blackPlanks . 
+:@plankWood :oreDictContains :tile.paintedPlanks.redPlanks . 
+:@plankWood :oreDictContains :tile.paintedPlanks.greenPlanks . 
+:@plankWood :oreDictContains :tile.paintedPlanks.brownPlanks . 
+:@plankWood :oreDictContains :tile.paintedPlanks.bluePlanks . 
+:@plankWood :oreDictContains :tile.paintedPlanks.purplePlanks . 
+:@plankWood :oreDictContains :tile.paintedPlanks.cyanPlanks . 
+:@plankWood :oreDictContains :tile.paintedPlanks.lightGrayPlanks . 
+:@plankWood :oreDictContains :tile.paintedPlanks.grayPlanks . 
+:@plankWood :oreDictContains :tile.paintedPlanks.pinkPlanks . 
+:@plankWood :oreDictContains :tile.paintedPlanks.limePlanks . 
+:@plankWood :oreDictContains :tile.paintedPlanks.yellowPlanks . 
+:@plankWood :oreDictContains :tile.paintedPlanks.lightBluePlanks . 
+:@plankWood :oreDictContains :tile.paintedPlanks.magentaPlanks . 
+:@plankWood :oreDictContains :tile.paintedPlanks.orangePlanks . 
+:@plankWood :oreDictContains :tile.paintedPlanks.whitePlanks . 
+:@plankWood :oreDictContains :tile.extrautils:colorWoodPlanks.0 . 
+:@plankWood :oreDictContains :tile.extrautils:colorWoodPlanks.1 . 
+:@plankWood :oreDictContains :tile.extrautils:colorWoodPlanks.2 . 
+:@plankWood :oreDictContains :tile.extrautils:colorWoodPlanks.3 . 
+:@plankWood :oreDictContains :tile.extrautils:colorWoodPlanks.4 . 
+:@plankWood :oreDictContains :tile.extrautils:colorWoodPlanks.5 . 
+:@plankWood :oreDictContains :tile.extrautils:colorWoodPlanks.6 . 
+:@plankWood :oreDictContains :tile.extrautils:colorWoodPlanks.7 . 
+:@plankWood :oreDictContains :tile.extrautils:colorWoodPlanks.8 . 
+:@plankWood :oreDictContains :tile.extrautils:colorWoodPlanks.9 . 
+:@plankWood :oreDictContains :tile.extrautils:colorWoodPlanks.10 . 
+:@plankWood :oreDictContains :tile.extrautils:colorWoodPlanks.11 . 
+:@plankWood :oreDictContains :tile.extrautils:colorWoodPlanks.12 . 
+:@plankWood :oreDictContains :tile.extrautils:colorWoodPlanks.13 . 
+:@plankWood :oreDictContains :tile.extrautils:colorWoodPlanks.14 . 
+:@plankWood :oreDictContains :tile.extrautils:colorWoodPlanks.15 . 
+:@plankWood :oreDictContains :tile.TFTowerStone.32767 . 
+
+:@apatiteOre a :OreDictionaryEntry . 
+
+:@ingotNetherQuartz a :OreDictionaryEntry . 
+
+:@compressedCobblestone8x a :OreDictionaryEntry . 
+:@compressedCobblestone8x :oreDictContains :tile.extrautils:cobblestone_compressed.7 . 
+
+:@foodSnickerdoodleBurned a :OreDictionaryEntry . 
+:@foodSnickerdoodleBurned :oreDictContains :item.null.agricultureSnickerDoodleBurned . 
+
+:@ingotMythril a :OreDictionaryEntry . 
+
+:@ingotCelenegil a :OreDictionaryEntry . 
+
+:@itemIngotTin a :OreDictionaryEntry . 
+
+:@crystallineDark Iron a :OreDictionaryEntry . 
+:@crystallineDark Iron :oreDictContains :item.factorization:ore/crystal/DARKIRON . 
+
+:@oreDiamond a :OreDictionaryEntry . 
+:@oreDiamond :oreDictContains :tile.oreDiamond . 
+:@oreDiamond :oreDictContains :railcraft.ore.dark.diamond . 
+
+:@blockAdamantine a :OreDictionaryEntry . 
+
+:@groundLead a :OreDictionaryEntry . 
+:@groundLead :oreDictContains :item.e_dusts.e_groundGalena . 
+
+:@dustYellorium a :OreDictionaryEntry . 
+:@dustYellorium :oreDictContains :item.dustYellorium . 
+
+:@plateLapis a :OreDictionaryEntry . 
+:@plateLapis :oreDictContains :ic2.itemPlateLapi . 
+
+:@dustDirtyCobalt a :OreDictionaryEntry . 
+:@dustDirtyCobalt :oreDictContains :item.aobd.dustsItem18 . 
+
+:@foodStrawberryIceCreamMix a :OreDictionaryEntry . 
+:@foodStrawberryIceCreamMix :oreDictContains :item.null.agricultureStrawberryIceCreamMix . 
+
+:@ingotBlueTopaz a :OreDictionaryEntry . 
+
+:@dustNetherPlatinum a :OreDictionaryEntry . 
+
+:@cobaltIngot a :OreDictionaryEntry . 
+
+:@ingotNetherObsidian a :OreDictionaryEntry . 
+
+:@oreNetherAluminumBrass a :OreDictionaryEntry . 
+
+:@oreTinySilver a :OreDictionaryEntry . 
+
+:@gearDiamond a :OreDictionaryEntry . 
+:@gearDiamond :oreDictContains :item.diamondGearItem . 
+
+:@gemAmber a :OreDictionaryEntry . 
+:@gemAmber :oreDictContains :item.ItemResource.6 . 
+:@gemAmber :oreDictContains :item.modingots.12 . 
+:@gemAmber :oreDictContains :item.ItemResource.6 . 
+
+:@compressedCobblestone5x a :OreDictionaryEntry . 
+:@compressedCobblestone5x :oreDictContains :tile.extrautils:cobblestone_compressed.4 . 
+
+:@ceramicPlate a :OreDictionaryEntry . 
+:@ceramicPlate :oreDictContains :item.null.agricultureCeramicPlate . 
+
+:@foodStrawberryJelly a :OreDictionaryEntry . 
+:@foodStrawberryJelly :oreDictContains :item.null.agricultureStrawberryJelly . 
+
+:@cleanGravelGalena a :OreDictionaryEntry . 
+:@cleanGravelGalena :oreDictContains :item.factorization:ore/clean/GALENA . 
+
+:@oreAngmallen a :OreDictionaryEntry . 
+
+:@dyeWhite a :OreDictionaryEntry . 
+:@dyeWhite :oreDictContains :item.dyePowder.white . 
+:@dyeWhite :oreDictContains :item.bop.miscItems.whitedye . 
+:@dyeWhite :oreDictContains :item.materials.dyeWhite . 
+:@dyeWhite :oreDictContains :item.misc . 
+:@dyeWhite :oreDictContains :item.TreeDye . 
+:@dyeWhite :oreDictContains :tile.projectred.exploration.dyesapling|0 . 
+
+:@ingotCeruclase a :OreDictionaryEntry . 
+
+:@foodToastBurned a :OreDictionaryEntry . 
+:@foodToastBurned :oreDictContains :item.null.agricultureToastBurned . 
+
+:@cactusRod a :OreDictionaryEntry . 
+:@cactusRod :oreDictContains :item.tconstruct.ToolRod.Cactus . 
+
+:@dustAmber a :OreDictionaryEntry . 
+
+:@foodFlour a :OreDictionaryEntry . 
+:@foodFlour :oreDictContains :item.null.agricultureFlour . 
+
+:@crystallineGold a :OreDictionaryEntry . 
+:@crystallineGold :oreDictContains :item.factorization:ore/crystal/GOLD . 
+
+:@blockGraphite a :OreDictionaryEntry . 
+:@blockGraphite :oreDictContains :tile.brMetal.2 . 
+
+:@componentPlatingAdvanced a :OreDictionaryEntry . 
+:@componentPlatingAdvanced :oreDictContains :item.powerArmorComponent.componentPlatingAdvanced . 
+
+:@ingotDirtyAluminium a :OreDictionaryEntry . 
+
+:@ingotPyrite a :OreDictionaryEntry . 
+
+:@glassCyan a :OreDictionaryEntry . 
+:@glassCyan :oreDictContains :block.stainedglass.cyan . 
+:@glassCyan :oreDictContains :tile.mfr.stainedglass.block.cyan . 
+
+:@ingotPeridot a :OreDictionaryEntry . 
+
+:@ingotPlastic a :OreDictionaryEntry . 
+
+:@dustSiliconDioxide a :OreDictionaryEntry . 
+:@dustSiliconDioxide :oreDictContains :ic2.itemDustsilicondioxide . 
+
+:@oreQuicklime a :OreDictionaryEntry . 
+
+:@cropMaloberry a :OreDictionaryEntry . 
+:@cropMaloberry :oreDictContains :item.berry.geo . 
+
+:@ingotAmordrine a :OreDictionaryEntry . 
+
+:@dustSodalite a :OreDictionaryEntry . 
+
+:@glassPink a :OreDictionaryEntry . 
+:@glassPink :oreDictContains :block.stainedglass.pink . 
+:@glassPink :oreDictContains :tile.mfr.stainedglass.block.pink . 
+
+:@ingotAluminumBrass a :OreDictionaryEntry . 
+:@ingotAluminumBrass :oreDictContains :item.tconstruct.Materials.AluBrassIngot . 
+
+:@rockHornfel a :OreDictionaryEntry . 
+:@rockHornfel :oreDictContains :tile.SmoothRock.12 . 
+
+:@ingotBrass a :OreDictionaryEntry . 
+
+:@blockDamascus Steel a :OreDictionaryEntry . 
+
+:@ingotCooperite a :OreDictionaryEntry . 
+
+:@ingotNetherRutile a :OreDictionaryEntry . 
+
+:@blueslimeRod a :OreDictionaryEntry . 
+:@blueslimeRod :oreDictContains :item.tconstruct.ToolRod.Blue Slime . 
+
+:@dustTetrahedrite a :OreDictionaryEntry . 
+
+:@oreNetherCoal a :OreDictionaryEntry . 
+:@oreNetherCoal :oreDictContains :tile.netherores.ore.coal . 
+
+:@dustPrometheum a :OreDictionaryEntry . 
+
+:@dyeCeramicPurple a :OreDictionaryEntry . 
+:@dyeCeramicPurple :oreDictContains :item.mfr.ceramicdye.purple . 
+
+:@oreImpureArdite a :OreDictionaryEntry . 
+
+:@crystallineCopper a :OreDictionaryEntry . 
+:@crystallineCopper :oreDictContains :item.factorization:ore/crystal/COPPER . 
+
+:@aquaRegia a :OreDictionaryEntry . 
+:@aquaRegia :oreDictContains :item.factorization:acid_regia . 
+
+:@blockManganese a :OreDictionaryEntry . 
+
+:@turbinePowerTap a :OreDictionaryEntry . 
+:@turbinePowerTap :oreDictContains :tile.blockTurbinePart.2 . 
+
+:@dustArdite a :OreDictionaryEntry . 
+:@dustArdite :oreDictContains :item.tconstruct.Materials.ArditeDust . 
+
+:@dustNetherAmber a :OreDictionaryEntry . 
+
+:@foodVinegar a :OreDictionaryEntry . 
+:@foodVinegar :oreDictContains :item.null.agricultureVinegar . 
+
+:@componentMagnet a :OreDictionaryEntry . 
+:@componentMagnet :oreDictContains :item.powerArmorComponent.componentMagnet . 
+
+:@amberGem a :OreDictionaryEntry . 
+
+:@dustRubracium a :OreDictionaryEntry . 
+
+:@itemIngotCopper a :OreDictionaryEntry . 
+
+:@orePyrite a :OreDictionaryEntry . 
+
+:@ingotSawdust a :OreDictionaryEntry . 
+
+:@ingotMagnetite a :OreDictionaryEntry . 
+:@ingotMagnetite :oreDictContains :item.RawMaterials.6 . 
+
+:@dustTinyCobalt a :OreDictionaryEntry . 
+:@dustTinyCobalt :oreDictContains :item.aobd.dustsItem9 . 
+
+:@ingotOureclase a :OreDictionaryEntry . 
+
+:@ingotCheese a :OreDictionaryEntry . 
+
+:@foodHotCocoa a :OreDictionaryEntry . 
+:@foodHotCocoa :oreDictContains :item.null.agricultureHotCocoa . 
+
+:@oreForce a :OreDictionaryEntry . 
+
+:@dyeLightBlueCrystalShard a :OreDictionaryEntry . 
+:@dyeLightBlueCrystalShard :oreDictContains :item.CrystalShard.12 . 
+
+:@dustNetherCinnabar a :OreDictionaryEntry . 
+
+:@foodStrawberryJellyCookieBurned a :OreDictionaryEntry . 
+:@foodStrawberryJellyCookieBurned :oreDictContains :item.null.agricultureStrawberryJellyCookieBurned . 
+
+:@nuggetSilver a :OreDictionaryEntry . 
+:@nuggetSilver :oreDictContains :item.ItemNugget.3 . 
+:@nuggetSilver :oreDictContains :item.beeNugget . 
+:@nuggetSilver :oreDictContains :item.thermalexpansion.material.nuggetSilver . 
+
+:@cropBuddhaHand a :OreDictionaryEntry . 
+:@cropBuddhaHand :oreDictContains :item.food . 
+
+:@oreCassiterite a :OreDictionaryEntry . 
+
+:@glassSoul a :OreDictionaryEntry . 
+:@glassSoul :oreDictContains :tile.glass.soul . 
+
+:@ingotNetherCobalt a :OreDictionaryEntry . 
+
+:@dustAtlarus a :OreDictionaryEntry . 
+
+:@foodPasta a :OreDictionaryEntry . 
+:@foodPasta :oreDictContains :item.null.agriculturePasta . 
+
+:@ingotTinyIron a :OreDictionaryEntry . 
+
+:@blockCeruclase a :OreDictionaryEntry . 
+
+:@gneiss a :OreDictionaryEntry . 
+:@gneiss :oreDictContains :tile.SmoothRock.8 . 
+
+:@dyeLightBlueCrystal a :OreDictionaryEntry . 
+:@dyeLightBlueCrystal :oreDictContains :tile.CaveCrystal.12 . 
+
+:@rockMigmatite a :OreDictionaryEntry . 
+:@rockMigmatite :oreDictContains :tile.SmoothRock.13 . 
+
+:@dyePurpleCrystalShard a :OreDictionaryEntry . 
+:@dyePurpleCrystalShard :oreDictContains :item.CrystalShard.5 . 
+
+:@dyeWhiteCrystal a :OreDictionaryEntry . 
+:@dyeWhiteCrystal :oreDictContains :tile.CaveCrystal.15 . 
+
+:@oreVulcanite a :OreDictionaryEntry . 
+
+:@foodRoastedPeanuts a :OreDictionaryEntry . 
+:@foodRoastedPeanuts :oreDictContains :item.null.agricultureRoastedPeanuts . 
+
+:@dustCopper a :OreDictionaryEntry . 
+:@dustCopper :oreDictContains :ic2.itemDustCopper . 
+:@dustCopper :oreDictContains :enderio.powderCopper . 
+:@dustCopper :oreDictContains :item.thermalexpansion.material.dustCopper . 
+:@dustCopper :oreDictContains :item.e_dusts.e_pureCopperDust . 
+
+:@ingotMagmanite a :OreDictionaryEntry . 
+
+:@ingotNetherYellorite a :OreDictionaryEntry . 
+
+:@blockInfuscolium a :OreDictionaryEntry . 
+
+:@oreNetherMalachite a :OreDictionaryEntry . 
+
+:@cropBlightberry a :OreDictionaryEntry . 
+:@cropBlightberry :oreDictContains :item.berry.blight . 
+
+:@bronzeRod a :OreDictionaryEntry . 
+:@bronzeRod :oreDictContains :item.tconstruct.ToolRod.Bronze . 
+
+:@dustNetherBronze a :OreDictionaryEntry . 
+
+:@nuggetNickel a :OreDictionaryEntry . 
+:@nuggetNickel :oreDictContains :item.thermalexpansion.material.nuggetNickel . 
+
+:@cropPear a :OreDictionaryEntry . 
+:@cropPear :oreDictContains :item.food . 
+
+:@rodIron a :OreDictionaryEntry . 
+:@rodIron :oreDictContains :item.component.ironRod . 
+
+:@dyeCyanCrystal a :OreDictionaryEntry . 
+:@dyeCyanCrystal :oreDictContains :tile.CaveCrystal.6 . 
+
+:@gemIron a :OreDictionaryEntry . 
+
+:@dyeYellowCrystalShard a :OreDictionaryEntry . 
+:@dyeYellowCrystalShard :oreDictContains :item.CrystalShard.11 . 
+
