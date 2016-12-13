@@ -14,20 +14,23 @@
 
 :Item a rdfs:Class .
 :OreDictionaryEntry a rdfs:Class .
-:IngredientOf owl:equivalentClass [ owl:unionOf ( :Item :OreDictionaryEntry ) ] .
+:Ingredient owl:equivalentClass [ owl:unionOf ( :Item :OreDictionaryEntry ) ] .
 
+:ingredientOf a rdfs:Property .
+:ingredientOf rdfs:domain :Ingredient .
+:ingredientOf rdfs:range :Recipe
 
-:UpperLeftIngredientOf rdfs:subPropertyOf :IngredientOf .
-:UpperMiddleIngredientOf rdfs:subPropertyOf :IngredientOf .
-:UpperRightIngredientOf rdfs:subPropertyOf :IngredientOf .
+:upperLeftIngredientOf rdfs:subpropertyOf :ingredientOf .
+:upperMiddleIngredientOf rdfs:subpropertyOf :ingredientOf .
+:upperRightIngredientOf rdfs:subpropertyOf :ingredientOf .
 
-:MiddleLeftIngredientOf rdfs:subPropertyOf :IngredientOf .
-:MiddleMiddleIngredientOf rdfs:subPropertyOf :IngredientOf .
-:MiddleRightIngredientOf rdfs:subPropertyOf :IngredientOf .
+:middleLeftIngredientOf rdfs:subpropertyOf :ingredientOf .
+:middleMiddleIngredientOf rdfs:subpropertyOf :ingredientOf .
+:middleRightIngredientOf rdfs:subpropertyOf :ingredientOf .
 
-:LowLeftIngredientOf rdfs:subPropertyOf :IngredientOf .
-:LowMiddleIngredientOf rdfs:subPropertyOf :IngredientOf .
-:LowRightIngredientOf rdfs:subPropertyOf :IngredientOf .
+:lowLeftIngredientOf rdfs:subpropertyOf :ingredientOf .
+:lowMiddleIngredientOf rdfs:subpropertyOf :ingredientOf .
+:lowRightIngredientOf rdfs:subpropertyOf :ingredientOf .
 
 :productOf a rdf:Property .
 :productOf rdfs:domain :Item .
