@@ -18,7 +18,7 @@
 
 :ingredientOf a rdfs:Property .
 :ingredientOf rdfs:domain :Ingredient .
-:ingredientOf rdfs:range :Recipe
+:ingredientOf rdfs:range :Recipe .
 
 :upperLeftIngredientOf rdfs:subpropertyOf :ingredientOf .
 :upperMiddleIngredientOf rdfs:subpropertyOf :ingredientOf .

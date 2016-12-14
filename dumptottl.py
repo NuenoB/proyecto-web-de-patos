@@ -53,10 +53,10 @@ def main():
 			line_recipe.append(dict_recipie)
 #%%
     tll=open("items.ttl","w")
-    tll.write("@prefix foaf: <http://xmlns.com/foaf/0.1/> .\n@prefix : <http://example.com/> .\n\n")
+    tll.write("@prefix foaf: <http://xmlns.com/foaf/0.1/> .\n@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .\n@prefix : <http://example.com/> .\n\n")
     for key in item_dics:
         l=item_dics[key]
-        sujeto=":"+str(l['name_intern'])
+        sujeto=":"+str(l['name_intern']).replace(".","_").replace(":","__")
         tll.write(sujeto +' :id "'+l["id_1"]+'"^^xsd:integer . \n')
         tll.write(sujeto +' :subId "'+l["id_2"]+'"^^xsd:integer . \n')
         tll.write(sujeto +' foaf:name "'+l['name'][:-1]+'" . \n')
@@ -72,7 +72,7 @@ def main():
         sujeto=":"+key
         tll.write(sujeto +' a :OreDictionaryEntry . \n')
         for l in item_list:
-            tll.write(sujeto +' :oreDictContains :'+ item_dics[l]["name_intern"] + ' . \n')
+            tll.write(sujeto +' :oreDictContains :'+ item_dics[l]["name_intern"].replace(".","_").replace(":","__") + ' . \n')
         tll.write("\n")              
     tll.close()
     #%%
