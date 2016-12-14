@@ -441,10 +441,10 @@ recipedumper:item!118:0 U=tile.cauldron||L=Cauldron
 recipedumper:item!116:32767 U=tile.enchantmentTable||L=Enchantment Table
 recipedumper:item!116:0 U=tile.enchantmentTable||L=Enchantment Table
 recipedumper:item!4420:0 U=item.EssenceCoal.dust||L=Infused Coal
-recipedumper:item!4420:1 U=item.EssenceCoal.weak||L=§2Infused Coal
-recipedumper:item!4420:2 U=item.EssenceCoal.regular||L=§1Infused Coal
-recipedumper:item!4420:3 U=item.EssenceCoal.strong||L=§5Infused Coal
-recipedumper:item!4420:4 U=item.EssenceCoal.extreme||L=§6Infused Coal
+recipedumper:item!4420:1 U=item.EssenceCoal.weak||L=2Infused Coal
+recipedumper:item!4420:2 U=item.EssenceCoal.regular||L=1Infused Coal
+recipedumper:item!4420:3 U=item.EssenceCoal.strong||L=5Infused Coal
+recipedumper:item!4420:4 U=item.EssenceCoal.extreme||L=6Infused Coal
 recipedumper:item!114:0 U=tile.stairsNetherBrick||L=Nether Brick Stairs
 recipedumper:item!113:0 U=tile.netherFence||L=Nether Brick Fence
 recipedumper:item!112:0 U=tile.netherBrick||L=Nether Brick
@@ -2261,29 +2261,29 @@ recipedumper:item!8517:0 U=item.magicStoneHealth||L=Health Orb
 recipedumper:item!8518:0 U=item.MagicFertilizer||L=Magic Fertilizer
 recipedumper:item!8519:0 U=item.magicStoneObsidian||L=Obsidian Defender
 recipedumper:item!8525:0 U=item.MagicEssence.dust||L=Essence Dust
-recipedumper:item!8525:1 U=item.MagicEssence.ess||L=§2Weak Essence
-recipedumper:item!8525:2 U=item.MagicEssence.small||L=§1Regular Essence
-recipedumper:item!8525:3 U=item.MagicEssence.med||L=§5Strong Essence
-recipedumper:item!8525:4 U=item.MagicEssence.large||L=§6Extreme Essence
+recipedumper:item!8525:1 U=item.MagicEssence.ess||L=2Weak Essence
+recipedumper:item!8525:2 U=item.MagicEssence.small||L=1Regular Essence
+recipedumper:item!8525:3 U=item.MagicEssence.med||L=5Strong Essence
+recipedumper:item!8525:4 U=item.MagicEssence.large||L=6Extreme Essence
 recipedumper:item!8526:0 U=item.mSeedsBlaze||L=Blaze Seeds
 recipedumper:item!8527:0 U=item.mSeedsCoal||L=Coal Seeds
 recipedumper:item!8520:0 U=item.magicStoneWater||L=Water Orb
 recipedumper:item!8521:0 U=item.magicStoneXP||L=Experience Orb
-recipedumper:item!8523:0 U=item.CropEssence.nature||L=§2Nature Essence
-recipedumper:item!8523:1 U=item.CropEssence.redstone||L=§4Redstone Essence
-recipedumper:item!8523:2 U=item.CropEssence.glowstone||L=§EGlowstone Essence
-recipedumper:item!8523:3 U=item.CropEssence.diamond||L=§9Diamond Essence
-recipedumper:item!8523:4 U=item.CropEssence.iron||L=§8Iron Essence
-recipedumper:item!8523:5 U=item.CropEssence.gold||L=§6Gold Essence
-recipedumper:item!8523:6 U=item.CropEssence.lapis||L=§1Lapis Lazuli Essence
-recipedumper:item!8523:7 U=item.CropEssence.blaze||L=§EBlaze Essence
-recipedumper:item!8523:8 U=item.CropEssence.em||L=§AEmerald Essence
-recipedumper:item!8523:9 U=item.CropEssence.ender||L=§AEnder Essence
-recipedumper:item!8523:10 U=item.CropEssence.obs||L=§5Obsidian Essence
-recipedumper:item!8523:11 U=item.CropEssence.coal||L=§8Coal Essence
-recipedumper:item!8523:12 U=item.CropEssence.xp||L=§2EXP Essence
-recipedumper:item!8523:13 U=item.CropEssence.dye||L=§4Dye §AEssence
-recipedumper:item!8523:14 U=item.CropEssence.nether||L=§4Nether Essence
+recipedumper:item!8523:0 U=item.CropEssence.nature||L=2Nature Essence
+recipedumper:item!8523:1 U=item.CropEssence.redstone||L=4Redstone Essence
+recipedumper:item!8523:2 U=item.CropEssence.glowstone||L=EGlowstone Essence
+recipedumper:item!8523:3 U=item.CropEssence.diamond||L=9Diamond Essence
+recipedumper:item!8523:4 U=item.CropEssence.iron||L=8Iron Essence
+recipedumper:item!8523:5 U=item.CropEssence.gold||L=6Gold Essence
+recipedumper:item!8523:6 U=item.CropEssence.lapis||L=1Lapis Lazuli Essence
+recipedumper:item!8523:7 U=item.CropEssence.blaze||L=EBlaze Essence
+recipedumper:item!8523:8 U=item.CropEssence.em||L=AEmerald Essence
+recipedumper:item!8523:9 U=item.CropEssence.ender||L=AEnder Essence
+recipedumper:item!8523:10 U=item.CropEssence.obs||L=5Obsidian Essence
+recipedumper:item!8523:11 U=item.CropEssence.coal||L=8Coal Essence
+recipedumper:item!8523:12 U=item.CropEssence.xp||L=2EXP Essence
+recipedumper:item!8523:13 U=item.CropEssence.dye||L=4Dye AEssence
+recipedumper:item!8523:14 U=item.CropEssence.nether||L=4Nether Essence
 recipedumper:item!8567:0 U=item.mSeedsSilver||L=Silver Seeds
 recipedumper:item!8566:0 U=item.mSeedsLead||L=Lead Seeds
 recipedumper:item!8565:0 U=item.mSeedsCopper||L=Copper Seeds
@@ -2294,10 +2294,10 @@ recipedumper:item!8573:0 U=item.eSeedsWater||L=Water Seeds
 recipedumper:item!8572:0 U=item.eSeedsFire||L=Fire Seeds
 recipedumper:item!8571:0 U=item.eSeedsEarth||L=Earth Seeds
 recipedumper:item!8570:0 U=item.eSeedsAir||L=Air Seeds
-recipedumper:item!8569:0 U=item.ElementEssence.water||L=§1Water Essence
-recipedumper:item!8569:1 U=item.ElementEssence.fire||L=§EFire Essence
-recipedumper:item!8569:2 U=item.ElementEssence.earth||L=§2Earth Essence
-recipedumper:item!8569:3 U=item.ElementEssence.air||L=§5Air Essence
+recipedumper:item!8569:0 U=item.ElementEssence.water||L=1Water Essence
+recipedumper:item!8569:1 U=item.ElementEssence.fire||L=EFire Essence
+recipedumper:item!8569:2 U=item.ElementEssence.earth||L=2Earth Essence
+recipedumper:item!8569:3 U=item.ElementEssence.air||L=5Air Essence
 recipedumper:item!8568:0 U=item.mSeedsTin||L=Tin Seeds
 recipedumper:item!8550:0 U=item.mSeedsArdite||L=Ardite Seeds
 recipedumper:item!774:0 U=tile.RockBrick.0||L=Granite Bricks
@@ -2643,10 +2643,10 @@ recipedumper:item!1021:10 U=item.coral.grey||L=Partially Bleached Coral
 recipedumper:item!1021:11 U=item.coral.lightgrey||L=Semi-Bleached Coral
 recipedumper:item!1021:12 U=item.coral.white||L=Bleached Coral
 recipedumper:item!8605:0 U=item.magicInfusionStone.weak||L=Weak Infusion Stone
-recipedumper:item!8605:1 U=item.magicInfusionStone.regular||L=§2Regular Infusion Stone
-recipedumper:item!8605:2 U=item.magicInfusionStone.strong||L=§1Strong Infusion Stone
-recipedumper:item!8605:3 U=item.magicInfusionStone.extreme||L=§5Extreme Infusion Stone
-recipedumper:item!8605:4 U=item.magicInfusionStone.master||L=§6Master Infusion Stone
+recipedumper:item!8605:1 U=item.magicInfusionStone.regular||L=2Regular Infusion Stone
+recipedumper:item!8605:2 U=item.magicInfusionStone.strong||L=1Strong Infusion Stone
+recipedumper:item!8605:3 U=item.magicInfusionStone.extreme||L=5Extreme Infusion Stone
+recipedumper:item!8605:4 U=item.magicInfusionStone.master||L=6Master Infusion Stone
 recipedumper:item!8607:0 U=item.mSeedsThaumcraftShard||L=Infused Shard Seeds
 recipedumper:item!1008:0 U=tile.dnaTransmutator||L=DNA Transmutator
 recipedumper:item!1010:0 U=tile.dnaAutoSplitter||L=DNA Auto Splitter
@@ -2656,7 +2656,7 @@ recipedumper:item!8595:1 U=item.FoodRaw.rawSquid||L=Squid Meat
 recipedumper:item!1012:0 U=tile.combustionGeneratorIdle||L=Combustion Generator
 recipedumper:item!8596:0 U=item.FoodMobMeat.cookedLamb||L=Cooked Mutton
 recipedumper:item!8596:1 U=item.FoodMobMeat.cookedSquid||L=Calamari
-recipedumper:item!8596:2 U=item.FoodMobMeat.fruitBlast||L=§5Berry Blast
+recipedumper:item!8596:2 U=item.FoodMobMeat.fruitBlast||L=5Berry Blast
 recipedumper:item!8597:0 U=item.FoodDried.egg||L=Boiled Egg
 recipedumper:item!8597:1 U=item.FoodDried.redMushroom||L=Dried Red Mushroom
 recipedumper:item!8597:2 U=item.FoodDried.brownMushroom||L=Dried Brown Mushroom
@@ -2883,7 +2883,7 @@ recipedumper:item!1080:0 U=tile.woodBlocks.baseWood||L=Wooden Construction Block
 recipedumper:item!1080:1 U=tile.woodBlocks.polishedPlank||L=Polished Planks
 recipedumper:item!1080:2 U=tile.woodBlocks.polishedLog||L=Polished Logs
 recipedumper:item!1079:0 U=tile.transparentBlocks.plastic||L=Transparent Plastic
-recipedumper:item!1078:0 U=tile.tankBlocks.normal||L=§6Fluid Tank
+recipedumper:item!1078:0 U=tile.tankBlocks.normal||L=6Fluid Tank
 recipedumper:item!1078:1 U=tile.tankBlocks.fish||L=Fish Tank
 recipedumper:item!1222:9 U=tile.stair.tiger||L=Tigerwood Stairs
 recipedumper:item!1229:0 U=item.cccable||L=Networking Cable
@@ -3696,7 +3696,7 @@ recipedumper:item!1440:13 U=tile.netherores.ore.ruby||L=Nether Ruby Ore
 recipedumper:item!1440:14 U=tile.netherores.ore.peridot||L=Nether Peridot Ore
 recipedumper:item!1440:15 U=tile.netherores.ore.sapphire||L=Nether Sapphire Ore
 recipedumper:item!20561:0 U=item.filter||L=Item Filter
-recipedumper:item!20562:0 U=item.ladle||L=§6Ladle
+recipedumper:item!20562:0 U=item.ladle||L=6Ladle
 recipedumper:item!1442:0 U=tile.netherores.ore.platinum||L=Nether Platinum Ore
 recipedumper:item!1442:1 U=tile.netherores.ore.nickel||L=Nether Ferrous Ore
 recipedumper:item!1442:2 U=tile.netherores.ore.steel||L=Nether Pig Iron Ore
@@ -3713,7 +3713,7 @@ recipedumper:item!20566:0 U=item.turbineCopper||L=Copper Rotor
 recipedumper:item!20567:0 U=item.turbineTitanium||L=Titanium Rotor
 recipedumper:item!5273:0 U=item.peat||L=Peat
 recipedumper:item!20568:0 U=item.snorkel||L=Snorkel
-recipedumper:item!20569:0 U=item.titaniumBucket||L=§6Titanium Bucket
+recipedumper:item!20569:0 U=item.titaniumBucket||L=6Titanium Bucket
 recipedumper:item!5275:0 U=item.gearCopper||L=Copper Gear
 recipedumper:item!20570:414 U=item.worked||L=Mariculture Jewelry
 recipedumper:item!20570:415 U=item.worked||L=Mariculture Jewelry
@@ -4574,7 +4574,7 @@ recipedumper:item!28946:0 U=item.magicMapFocus||L=Magic Map Focus
 recipedumper:item!28947:32767 U=item.mazeMap||L=Maze Map #32767
 recipedumper:item!28956:0 U=item.nagaScale||L=Naga Scale
 recipedumper:item!28952:0 U=item.meefSteak||L=Meef Steak
-recipedumper:item!16968:0 U=dynamictanks.items.Basic Upgrade§c (Unusable)§r||L=Basic Upgrade§c (Unusable)§r
+recipedumper:item!16968:0 U=dynamictanks.items.Basic Upgradec (Unusable)r||L=Basic Upgradec (Unusable)r
 recipedumper:item!16968:1 U=dynamictanks.items.Storage Upgrade||L=Storage Upgrade
 recipedumper:item!16969:0 U=dynamictanks.items.hammer||L=Hammer
 recipedumper:item!16969:32767 U=dynamictanks.items.hammer||L=Hammer
@@ -5141,7 +5141,7 @@ recipedumper:item!15232:0 U=item.openblocks.gliderwing||L=Glider Wing
 recipedumper:item!15232:1 U=item.openblocks.beam||L=Beam
 recipedumper:item!15232:2 U=item.openblocks.crane_engine||L=Crane Engine
 recipedumper:item!15232:3 U=item.openblocks.crane_magnet||L=Crane Magnet
-recipedumper:item!15232:4 U=item.openblocks.miracle_magnet||L=§5Miracle Magnet§r
+recipedumper:item!15232:4 U=item.openblocks.miracle_magnet||L=5Miracle Magnetr
 recipedumper:item!15232:5 U=item.openblocks.line||L=Line
 recipedumper:item!15232:6 U=item.openblocks.map_controller||L=Map Controller Module
 recipedumper:item!15232:7 U=item.openblocks.map_memory||L=Map Memory Module
@@ -5483,12 +5483,12 @@ recipedumper:item!15161:2 U=item.item.electricrystal.2||L=Azulant Energy Crystal
 recipedumper:item!15161:3 U=item.item.electricrystal.3||L=Procyon Energy Crystal
 recipedumper:item!15161:4 U=item.item.electricrystal.4||L=Graphene Energy Crystal
 recipedumper:item!15161:5 U=item.item.electricrystal.5||L=Auroral Energy Crystal
-recipedumper:item!2433:0 U=tile.Mimikinetic Upheaver||L=§9Mimikinetic Upheaver
-recipedumper:item!2433:1 U=tile.Mimikinetic Upheaver||L=§9Mimikinetic Upheaver
-recipedumper:item!2433:2 U=tile.Mimikinetic Upheaver||L=§9Mimikinetic Upheaver
-recipedumper:item!2433:3 U=tile.Mimikinetic Upheaver||L=§9Mimikinetic Upheaver
-recipedumper:item!2432:0 U=tile.Mimic Block||L=§9Mimic Block
-recipedumper:item!2432:32767 U=tile.Mimic Block||L=§9Mimic Block
+recipedumper:item!2433:0 U=tile.Mimikinetic Upheaver||L=9Mimikinetic Upheaver
+recipedumper:item!2433:1 U=tile.Mimikinetic Upheaver||L=9Mimikinetic Upheaver
+recipedumper:item!2433:2 U=tile.Mimikinetic Upheaver||L=9Mimikinetic Upheaver
+recipedumper:item!2433:3 U=tile.Mimikinetic Upheaver||L=9Mimikinetic Upheaver
+recipedumper:item!2432:0 U=tile.Mimic Block||L=9Mimic Block
+recipedumper:item!2432:32767 U=tile.Mimic Block||L=9Mimic Block
 recipedumper:item!19807:0 U=item.compactsolars:solarHatLV||L=Low Voltage Solar Hat
 recipedumper:item!2477:0 U=tile.tinkerTable||L=Power Armor Tinker Table
 recipedumper:item!19808:0 U=item.compactsolars:solarHatMV||L=Medium Voltage Solar Hat
@@ -6982,8 +6982,8 @@ recipedumper:item!20259:2 U=item.thermalexpansion.bucket.bucketEnder||L=Resonant
 recipedumper:item!20259:3 U=item.thermalexpansion.bucket.bucketPyrotheum||L=Blazing Pyrotheum Bucket
 recipedumper:item!20259:4 U=item.thermalexpansion.bucket.bucketCryotheum||L=Gelid Cryotheum Bucket
 recipedumper:item!20259:6 U=item.thermalexpansion.bucket.bucketCoal||L=Liquifacted Coal Bucket
-recipedumper:item!20260:0 U=item.thermalexpansion.florb.florb||L=Florb (Empty§r)
-recipedumper:item!20260:1 U=item.thermalexpansion.florb.florbMagmatic||L=Magmatic Florb (Empty§r)
+recipedumper:item!20260:0 U=item.thermalexpansion.florb.florb||L=Florb (Emptyr)
+recipedumper:item!20260:1 U=item.thermalexpansion.florb.florbMagmatic||L=Magmatic Florb (Emptyr)
 recipedumper:item!20261:1 U=item.thermalexpansion.capacitor.capacitorPotato||L=Tuberous Flux Capacitor
 recipedumper:item!20261:2 U=item.thermalexpansion.capacitor.capacitorBasic||L=Leadstone Flux Capacitor
 recipedumper:item!20261:3 U=item.thermalexpansion.capacitor.capacitorHardened||L=Hardened Flux Capacitor
@@ -8122,8 +8122,8 @@ recipedumper:item!27423:0 U=item.betterstorage.cardboardHoe||L=Cardboard Hoe
 recipedumper:item!12254:0 U=item.mfr.bucket.essence||L=Mob Essence Bucket
 recipedumper:item!27422:0 U=item.betterstorage.cardboardHelmet||L=Cardboard Helmet
 recipedumper:item!12255:0 U=item.mfr.syringe.empty||L=Empty Syringe
-recipedumper:item!27622:0 U=item.Mimic Orb||L=§9Mimic Orb
-recipedumper:item!27621:0 U=item.Mimichite||L=§9Mimichite
+recipedumper:item!27622:0 U=item.Mimic Orb||L=9Mimic Orb
+recipedumper:item!27621:0 U=item.Mimichite||L=9Mimichite
 recipedumper:item!3338:8 U=tile.button.amaranth||L=Amaranth Button
 recipedumper:item!3339:9 U=tile.button.tiger||L=Tigerwood Button
 recipedumper:item!3336:6 U=tile.button.maple||L=Maple Button

@@ -1,6 +1,5 @@
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
 @prefix : <http://example.com/> .
-@prefix ont: <http://example.com/> .
 
 :@oreEmerald a :OreDictionaryEntry . 
 :@oreEmerald :oreDictContains :tile_oreEmerald . 
@@ -33,7 +32,8 @@
 
 :@oreSawdust a :OreDictionaryEntry . 
 
-:@ingotAngmallen a :OreDictionaryEntry . 
+:@plateDenseLapis a :OreDictionaryEntry . 
+:@plateDenseLapis :oreDictContains :ic2_itemDensePlateLapi . 
 
 :@compressedDirt2x a :OreDictionaryEntry . 
 :@compressedDirt2x :oreDictContains :tile_extrautils__cobblestone_compressed_9 . 
@@ -50,6 +50,9 @@
 
 :@nuggetAluminumBrass a :OreDictionaryEntry . 
 :@nuggetAluminumBrass :oreDictContains :item_tconstruct_Materials_AluBrassNugget . 
+
+:@rockSandstone a :OreDictionaryEntry . 
+:@rockSandstone :oreDictContains :tile_SmoothRock_5 . 
 
 :@ingotTinyLithium a :OreDictionaryEntry . 
 
@@ -211,8 +214,7 @@
 :@dyeLightGrayCrystalShard a :OreDictionaryEntry . 
 :@dyeLightGrayCrystalShard :oreDictContains :item_CrystalShard_7 . 
 
-:@plateDenseLapis a :OreDictionaryEntry . 
-:@plateDenseLapis :oreDictContains :ic2_itemDensePlateLapi . 
+:@ingotAngmallen a :OreDictionaryEntry . 
 
 :@dropHoneydew a :OreDictionaryEntry . 
 :@dropHoneydew :oreDictContains :item_honeydew . 
@@ -229,8 +231,8 @@
 :@reactorCasing a :OreDictionaryEntry . 
 :@reactorCasing :oreDictContains :tile_blockReactorPart_0 . 
 
-:@icestone a :OreDictionaryEntry . 
-:@icestone :oreDictContains :tile_extrautils__decorativeBlock1_1 . 
+:@dyeBlackCrystalShard a :OreDictionaryEntry . 
+:@dyeBlackCrystalShard :oreDictContains :item_CrystalShard_0 . 
 
 :@orePlastic a :OreDictionaryEntry . 
 
@@ -295,8 +297,9 @@
 :@blockNaturalAluminum a :OreDictionaryEntry . 
 :@blockNaturalAluminum :oreDictContains :tile_oreBlocks_aluminumBlock . 
 
-:@ForciciumItem a :OreDictionaryEntry . 
-:@ForciciumItem :oreDictContains :item_modingots_26 . 
+:@ingotCobalt a :OreDictionaryEntry . 
+:@ingotCobalt :oreDictContains :item_tconstruct_Materials_CobaltIngot . 
+:@ingotCobalt :oreDictContains :item_modingots_41 . 
 
 :@oreTopaz a :OreDictionaryEntry . 
 :@oreTopaz :oreDictContains :tile_bop_amethystOre_topazore . 
@@ -308,7 +311,8 @@
 :@cropSourCherry a :OreDictionaryEntry . 
 :@cropSourCherry :oreDictContains :item_food . 
 
-:@crystallineManyullyn a :OreDictionaryEntry . 
+:@oreNetherEmerald a :OreDictionaryEntry . 
+:@oreNetherEmerald :oreDictContains :tile_netherores_ore_emerald . 
 
 :@foodChickenNuggets a :OreDictionaryEntry . 
 :@foodChickenNuggets :oreDictContains :item_null_agricultureChickenNuggets . 
@@ -588,8 +592,94 @@
 :@foodBeefJerkeyBurned a :OreDictionaryEntry . 
 :@foodBeefJerkeyBurned :oreDictContains :item_null_agricultureBeefJerkeyBurned . 
 
-:@itemPollen a :OreDictionaryEntry . 
-:@itemPollen :oreDictContains :item_pollen . 
+:@plankWood a :OreDictionaryEntry . 
+:@plankWood :oreDictContains :tile_wood_oak . 
+:@plankWood :oreDictContains :eucalyptusNPlanks . 
+:@plankWood :oreDictContains :sakuraNPlanks . 
+:@plankWood :oreDictContains :ghostNPlanks . 
+:@plankWood :oreDictContains :redwoodNPlanks . 
+:@plankWood :oreDictContains :bushNPlanks . 
+:@plankWood :oreDictContains :mapleNPlanks . 
+:@plankWood :oreDictContains :silverbellNPlanks . 
+:@plankWood :oreDictContains :purpleheartNPlanks . 
+:@plankWood :oreDictContains :tigerNPlanks . 
+:@plankWood :oreDictContains :willowNPlanks . 
+:@plankWood :oreDictContains :darkwoodNPlanks . 
+:@plankWood :oreDictContains :NPlanks . 
+:@plankWood :oreDictContains :tile_bop_planks_acaciaPlank . 
+:@plankWood :oreDictContains :tile_for_planks_32767 . 
+:@plankWood :oreDictContains :tile_for_planks2_32767 . 
+:@plankWood :oreDictContains :tile_blockWoodenDevice_6 . 
+:@plankWood :oreDictContains :tile_blockWoodenDevice_7 . 
+:@plankWood :oreDictContains :tile_planks . 
+:@plankWood :oreDictContains :tile_planks . 
+:@plankWood :oreDictContains :tile_planks . 
+:@plankWood :oreDictContains :tile_planks . 
+:@plankWood :oreDictContains :tile_planks . 
+:@plankWood :oreDictContains :tile_planks . 
+:@plankWood :oreDictContains :tile_planks . 
+:@plankWood :oreDictContains :tile_planks . 
+:@plankWood :oreDictContains :tile_planks . 
+:@plankWood :oreDictContains :tile_planks . 
+:@plankWood :oreDictContains :tile_planks . 
+:@plankWood :oreDictContains :tile_planks . 
+:@plankWood :oreDictContains :tile_planks . 
+:@plankWood :oreDictContains :tile_planks . 
+:@plankWood :oreDictContains :tile_planks . 
+:@plankWood :oreDictContains :tile_planks . 
+:@plankWood :oreDictContains :tile_planks . 
+:@plankWood :oreDictContains :tile_planks . 
+:@plankWood :oreDictContains :tile_planks . 
+:@plankWood :oreDictContains :tile_planks . 
+:@plankWood :oreDictContains :tile_planks . 
+:@plankWood :oreDictContains :tile_planks . 
+:@plankWood :oreDictContains :tile_planks . 
+:@plankWood :oreDictContains :tile_planks . 
+:@plankWood :oreDictContains :tile_planks . 
+:@plankWood :oreDictContains :tile_planks . 
+:@plankWood :oreDictContains :tile_planks . 
+:@plankWood :oreDictContains :tile_planks . 
+:@plankWood :oreDictContains :tile_planks . 
+:@plankWood :oreDictContains :tile_planks . 
+:@plankWood :oreDictContains :tile_planks . 
+:@plankWood :oreDictContains :tile_planks . 
+:@plankWood :oreDictContains :tile_planks . 
+:@plankWood :oreDictContains :tile_planks . 
+:@plankWood :oreDictContains :tile_planks . 
+:@plankWood :oreDictContains :tile_hl_woodPlanks_32767 . 
+:@plankWood :oreDictContains :tile_paintedPlanks_blackPlanks . 
+:@plankWood :oreDictContains :tile_paintedPlanks_redPlanks . 
+:@plankWood :oreDictContains :tile_paintedPlanks_greenPlanks . 
+:@plankWood :oreDictContains :tile_paintedPlanks_brownPlanks . 
+:@plankWood :oreDictContains :tile_paintedPlanks_bluePlanks . 
+:@plankWood :oreDictContains :tile_paintedPlanks_purplePlanks . 
+:@plankWood :oreDictContains :tile_paintedPlanks_cyanPlanks . 
+:@plankWood :oreDictContains :tile_paintedPlanks_lightGrayPlanks . 
+:@plankWood :oreDictContains :tile_paintedPlanks_grayPlanks . 
+:@plankWood :oreDictContains :tile_paintedPlanks_pinkPlanks . 
+:@plankWood :oreDictContains :tile_paintedPlanks_limePlanks . 
+:@plankWood :oreDictContains :tile_paintedPlanks_yellowPlanks . 
+:@plankWood :oreDictContains :tile_paintedPlanks_lightBluePlanks . 
+:@plankWood :oreDictContains :tile_paintedPlanks_magentaPlanks . 
+:@plankWood :oreDictContains :tile_paintedPlanks_orangePlanks . 
+:@plankWood :oreDictContains :tile_paintedPlanks_whitePlanks . 
+:@plankWood :oreDictContains :tile_extrautils__colorWoodPlanks_0 . 
+:@plankWood :oreDictContains :tile_extrautils__colorWoodPlanks_1 . 
+:@plankWood :oreDictContains :tile_extrautils__colorWoodPlanks_2 . 
+:@plankWood :oreDictContains :tile_extrautils__colorWoodPlanks_3 . 
+:@plankWood :oreDictContains :tile_extrautils__colorWoodPlanks_4 . 
+:@plankWood :oreDictContains :tile_extrautils__colorWoodPlanks_5 . 
+:@plankWood :oreDictContains :tile_extrautils__colorWoodPlanks_6 . 
+:@plankWood :oreDictContains :tile_extrautils__colorWoodPlanks_7 . 
+:@plankWood :oreDictContains :tile_extrautils__colorWoodPlanks_8 . 
+:@plankWood :oreDictContains :tile_extrautils__colorWoodPlanks_9 . 
+:@plankWood :oreDictContains :tile_extrautils__colorWoodPlanks_10 . 
+:@plankWood :oreDictContains :tile_extrautils__colorWoodPlanks_11 . 
+:@plankWood :oreDictContains :tile_extrautils__colorWoodPlanks_12 . 
+:@plankWood :oreDictContains :tile_extrautils__colorWoodPlanks_13 . 
+:@plankWood :oreDictContains :tile_extrautils__colorWoodPlanks_14 . 
+:@plankWood :oreDictContains :tile_extrautils__colorWoodPlanks_15 . 
+:@plankWood :oreDictContains :tile_TFTowerStone_32767 . 
 
 :@cropOrange a :OreDictionaryEntry . 
 :@cropOrange :oreDictContains :item_food . 
@@ -776,8 +866,6 @@
 
 :@ingotOrichalcum a :OreDictionaryEntry . 
 
-:@dustCadmium a :OreDictionaryEntry . 
-
 :@cropChestnut a :OreDictionaryEntry . 
 :@cropChestnut :oreDictContains :item_fruits . 
 
@@ -818,7 +906,8 @@
 
 :@blockAtlarus a :OreDictionaryEntry . 
 
-:@ingotAdamantium a :OreDictionaryEntry . 
+:@foodVinegar a :OreDictionaryEntry . 
+:@foodVinegar :oreDictContains :item_null_agricultureVinegar . 
 
 :@orePitchblende a :OreDictionaryEntry . 
 :@orePitchblende :oreDictContains :tile_Ore_1 . 
@@ -828,8 +917,8 @@
 
 :@oreMonazit a :OreDictionaryEntry . 
 
-:@dustImpureLead a :OreDictionaryEntry . 
-:@dustImpureLead :oreDictContains :item_e_dusts_e_impureLeadDust . 
+:@dustTinySulfur a :OreDictionaryEntry . 
+:@dustTinySulfur :oreDictContains :ic2_itemDustSulfurSmall . 
 
 :@dustSapphire a :OreDictionaryEntry . 
 
@@ -865,8 +954,7 @@
 :@reducedGold a :OreDictionaryEntry . 
 :@reducedGold :oreDictContains :item_factorization__ore/reduced/GOLD . 
 
-:@crushedSilver a :OreDictionaryEntry . 
-:@crushedSilver :oreDictContains :ic2_itemCrushedSilverOre . 
+:@dustDesh a :OreDictionaryEntry . 
 
 :@ingotYellorium a :OreDictionaryEntry . 
 :@ingotYellorium :oreDictContains :item_ingotYellorium . 
@@ -1042,6 +1130,10 @@
 
 :@certusQuartz a :OreDictionaryEntry . 
 
+:@itemSilicon a :OreDictionaryEntry . 
+:@itemSilicon :oreDictContains :enderio_silicon . 
+:@itemSilicon :oreDictContains :AppEng_Materials_Silicon . 
+
 :@foodBatter a :OreDictionaryEntry . 
 :@foodBatter :oreDictContains :item_null_agricultureBatter . 
 
@@ -1162,8 +1254,27 @@
 
 :@dustCelenegil a :OreDictionaryEntry . 
 
-:@dirtyGravelTin a :OreDictionaryEntry . 
-:@dirtyGravelTin :oreDictContains :item_factorization__ore/gravel/TIN . 
+:@cobblestone a :OreDictionaryEntry . 
+:@cobblestone :oreDictContains :tile_stonebrick . 
+:@cobblestone :oreDictContains :tile_RockCobble_0 . 
+:@cobblestone :oreDictContains :tile_RockCobble_1 . 
+:@cobblestone :oreDictContains :tile_RockCobble_2 . 
+:@cobblestone :oreDictContains :tile_RockCobble_3 . 
+:@cobblestone :oreDictContains :tile_RockCobble_4 . 
+:@cobblestone :oreDictContains :tile_RockCobble_5 . 
+:@cobblestone :oreDictContains :tile_RockCobble_6 . 
+:@cobblestone :oreDictContains :tile_RockCobble_7 . 
+:@cobblestone :oreDictContains :tile_RockCobble_8 . 
+:@cobblestone :oreDictContains :tile_RockCobble_9 . 
+:@cobblestone :oreDictContains :tile_RockCobble_10 . 
+:@cobblestone :oreDictContains :tile_RockCobble_11 . 
+:@cobblestone :oreDictContains :tile_RockCobble_12 . 
+:@cobblestone :oreDictContains :tile_RockCobble_13 . 
+:@cobblestone :oreDictContains :tile_RockCobble_14 . 
+:@cobblestone :oreDictContains :tile_RockCobble_15 . 
+:@cobblestone :oreDictContains :tile_RockCobble2_0 . 
+:@cobblestone :oreDictContains :tile_mfr_decorativestone_black_cobble . 
+:@cobblestone :oreDictContains :tile_mfr_decorativestone_white_cobble . 
 
 :@coralRed a :OreDictionaryEntry . 
 :@coralRed :oreDictContains :item_coral_red . 
@@ -1260,8 +1371,8 @@
 
 :@ingotTetrahedrite a :OreDictionaryEntry . 
 
-:@oreNetherSilver a :OreDictionaryEntry . 
-:@oreNetherSilver :oreDictContains :tile_netherores_ore_silver . 
+:@icestone a :OreDictionaryEntry . 
+:@icestone :oreDictContains :tile_extrautils__decorativeBlock1_1 . 
 
 :@rockOpal a :OreDictionaryEntry . 
 :@rockOpal :oreDictContains :tile_SmoothRock2_0 . 
@@ -1342,8 +1453,11 @@
 :@componentMVCapacitor a :OreDictionaryEntry . 
 :@componentMVCapacitor :oreDictContains :item_powerArmorComponent_componentMVCapacitor . 
 
-:@dyeCeramicCyan a :OreDictionaryEntry . 
-:@dyeCeramicCyan :oreDictContains :item_mfr_ceramicdye_cyan . 
+:@dustSulfur a :OreDictionaryEntry . 
+:@dustSulfur :oreDictContains :ic2_itemDustSulfur . 
+:@dustSulfur :oreDictContains :railcraft_dust_sulfur . 
+:@dustSulfur :oreDictContains :item_thermalexpansion_material_dustSulfur . 
+:@dustSulfur :oreDictContains :item_modingots_48 . 
 
 :@ingotNetherBronze a :OreDictionaryEntry . 
 
@@ -1507,8 +1621,6 @@
 :@ingotMeat a :OreDictionaryEntry . 
 :@ingotMeat :oreDictContains :item_mfr_meat_ingot_cooked . 
 
-:@gemTungsten a :OreDictionaryEntry . 
-
 :@foodPastaBurned a :OreDictionaryEntry . 
 :@foodPastaBurned :oreDictContains :item_null_agriculturePastaBurned . 
 
@@ -1608,9 +1720,8 @@
 :@dyeLightGray :oreDictContains :item_TreeDye . 
 :@dyeLightGray :oreDictContains :tile_projectred_exploration_dyesapling|8 . 
 
-:@ingotCobalt a :OreDictionaryEntry . 
-:@ingotCobalt :oreDictContains :item_tconstruct_Materials_CobaltIngot . 
-:@ingotCobalt :oreDictContains :item_modingots_41 . 
+:@ForciciumItem a :OreDictionaryEntry . 
+:@ForciciumItem :oreDictContains :item_modingots_26 . 
 
 :@dustTungstate a :OreDictionaryEntry . 
 
@@ -1715,8 +1826,7 @@
 
 :@ingotImpureCopper a :OreDictionaryEntry . 
 
-:@oreNetherEmerald a :OreDictionaryEntry . 
-:@oreNetherEmerald :oreDictContains :tile_netherores_ore_emerald . 
+:@dustCadmium a :OreDictionaryEntry . 
 
 :@dustHepatizon a :OreDictionaryEntry . 
 
@@ -1930,6 +2040,9 @@
 
 :@blockMithril a :OreDictionaryEntry . 
 
+:@oreNetherSilver a :OreDictionaryEntry . 
+:@oreNetherSilver :oreDictContains :tile_netherores_ore_silver . 
+
 :@componentIonThruster a :OreDictionaryEntry . 
 :@componentIonThruster :oreDictContains :item_powerArmorComponent_componentIonThruster . 
 
@@ -2035,9 +2148,8 @@
 
 :@blockOreTin a :OreDictionaryEntry . 
 
-:@slabCloth a :OreDictionaryEntry . 
-:@slabCloth :oreDictContains :tile_cloth_gray_slab . 
-:@slabCloth :oreDictContains :tile_cloth_black_slab . 
+:@reactorComputerPort a :OreDictionaryEntry . 
+:@reactorComputerPort :oreDictContains :tile_blockReactorPart_5 . 
 
 :@itemEssence a :OreDictionaryEntry . 
 :@itemEssence :oreDictContains :item_modingots_66 . 
@@ -2117,8 +2229,8 @@
 :@clayCup a :OreDictionaryEntry . 
 :@clayCup :oreDictContains :item_null_agricultureClayCup . 
 
-:@stoneBowl a :OreDictionaryEntry . 
-:@stoneBowl :oreDictContains :item_wrcbe_core__stoneBowl . 
+:@dustImpureArdite a :OreDictionaryEntry . 
+:@dustImpureArdite :oreDictContains :item_e_dusts_e_impureArditeDust . 
 
 :@coralGray a :OreDictionaryEntry . 
 :@coralGray :oreDictContains :item_coral_grey . 
@@ -2166,6 +2278,9 @@
 :@oreCelenegil a :OreDictionaryEntry . 
 
 :@apatiteGem a :OreDictionaryEntry . 
+
+:@dyeLightBlueCrystalShard a :OreDictionaryEntry . 
+:@dyeLightBlueCrystalShard :oreDictContains :item_CrystalShard_12 . 
 
 :@quartz a :OreDictionaryEntry . 
 :@quartz :oreDictContains :tile_SmoothRock_10 . 
@@ -2309,6 +2424,9 @@
 :@crystalCinnabar a :OreDictionaryEntry . 
 :@crystalCinnabar :oreDictContains :item_thermalexpansion_material_crystalCinnabar . 
 
+:@dyeGrayCrystal a :OreDictionaryEntry . 
+:@dyeGrayCrystal :oreDictContains :tile_CaveCrystal_8 . 
+
 :@groundArdite a :OreDictionaryEntry . 
 :@groundArdite :oreDictContains :item_e_dusts_e_groundArdite . 
 
@@ -2383,8 +2501,7 @@
 :@nuggetInvar a :OreDictionaryEntry . 
 :@nuggetInvar :oreDictContains :item_thermalexpansion_material_nuggetInvar . 
 
-:@dyeGrayCrystal a :OreDictionaryEntry . 
-:@dyeGrayCrystal :oreDictContains :tile_CaveCrystal_8 . 
+:@gemTungsten a :OreDictionaryEntry . 
 
 :@foodCinnamonToast a :OreDictionaryEntry . 
 :@foodCinnamonToast :oreDictContains :item_null_agricultureCinnamonToast . 
@@ -2448,27 +2565,8 @@
 
 :@ingotLithium a :OreDictionaryEntry . 
 
-:@cobblestone a :OreDictionaryEntry . 
-:@cobblestone :oreDictContains :tile_stonebrick . 
-:@cobblestone :oreDictContains :tile_RockCobble_0 . 
-:@cobblestone :oreDictContains :tile_RockCobble_1 . 
-:@cobblestone :oreDictContains :tile_RockCobble_2 . 
-:@cobblestone :oreDictContains :tile_RockCobble_3 . 
-:@cobblestone :oreDictContains :tile_RockCobble_4 . 
-:@cobblestone :oreDictContains :tile_RockCobble_5 . 
-:@cobblestone :oreDictContains :tile_RockCobble_6 . 
-:@cobblestone :oreDictContains :tile_RockCobble_7 . 
-:@cobblestone :oreDictContains :tile_RockCobble_8 . 
-:@cobblestone :oreDictContains :tile_RockCobble_9 . 
-:@cobblestone :oreDictContains :tile_RockCobble_10 . 
-:@cobblestone :oreDictContains :tile_RockCobble_11 . 
-:@cobblestone :oreDictContains :tile_RockCobble_12 . 
-:@cobblestone :oreDictContains :tile_RockCobble_13 . 
-:@cobblestone :oreDictContains :tile_RockCobble_14 . 
-:@cobblestone :oreDictContains :tile_RockCobble_15 . 
-:@cobblestone :oreDictContains :tile_RockCobble2_0 . 
-:@cobblestone :oreDictContains :tile_mfr_decorativestone_black_cobble . 
-:@cobblestone :oreDictContains :tile_mfr_decorativestone_white_cobble . 
+:@dirtyGravelTin a :OreDictionaryEntry . 
+:@dirtyGravelTin :oreDictContains :item_factorization__ore/gravel/TIN . 
 
 :@stonePeridotite a :OreDictionaryEntry . 
 :@stonePeridotite :oreDictContains :tile_SmoothRock_9 . 
@@ -2502,6 +2600,8 @@
 
 :@clusterSilver a :OreDictionaryEntry . 
 :@clusterSilver :oreDictContains :item_ItemNugget_19 . 
+
+:@crystallineManyullyn a :OreDictionaryEntry . 
 
 :@woodRod a :OreDictionaryEntry . 
 :@woodRod :oreDictContains :item_tconstruct_ToolRod_Wood . 
@@ -2550,8 +2650,8 @@
 
 :@dustMidasium a :OreDictionaryEntry . 
 
-:@dustTinySulfur a :OreDictionaryEntry . 
-:@dustTinySulfur :oreDictContains :ic2_itemDustSulfurSmall . 
+:@dustImpureLead a :OreDictionaryEntry . 
+:@dustImpureLead :oreDictContains :item_e_dusts_e_impureLeadDust . 
 
 :@paperRod a :OreDictionaryEntry . 
 :@paperRod :oreDictContains :item_tconstruct_ToolRod_Paper . 
@@ -2638,8 +2738,7 @@
 :@nuggetElectrumFlux a :OreDictionaryEntry . 
 :@nuggetElectrumFlux :oreDictContains :item_redstonearsenal_material_nuggetElectrumFlux . 
 
-:@oreFirestone a :OreDictionaryEntry . 
-:@oreFirestone :oreDictContains :railcraft_ore_firestone . 
+:@oreSiliconDioxide a :OreDictionaryEntry . 
 
 :@gearInvar a :OreDictionaryEntry . 
 :@gearInvar :oreDictContains :item_thermalexpansion_material_gearInvar . 
@@ -2787,6 +2886,10 @@
 :@burntquartz a :OreDictionaryEntry . 
 :@burntquartz :oreDictContains :tile_extrautils__decorativeBlock1_1 . 
 
+:@slabCloth a :OreDictionaryEntry . 
+:@slabCloth :oreDictContains :tile_cloth_gray_slab . 
+:@slabCloth :oreDictContains :tile_cloth_black_slab . 
+
 :@ingotNetherSulfur a :OreDictionaryEntry . 
 
 :@blockBlack Steel a :OreDictionaryEntry . 
@@ -2908,7 +3011,8 @@
 :@foodPumpkinCookieDough a :OreDictionaryEntry . 
 :@foodPumpkinCookieDough :oreDictContains :item_null_agriculturePumpkinCookieDough . 
 
-:@oreSiliconDioxide a :OreDictionaryEntry . 
+:@oreFirestone a :OreDictionaryEntry . 
+:@oreFirestone :oreDictContains :railcraft_ore_firestone . 
 
 :@glassPanePurple a :OreDictionaryEntry . 
 :@glassPanePurple :oreDictContains :tile_mfr_stainedglass_pane_purple . 
@@ -2925,8 +3029,8 @@
 :@dustSaltpeter :oreDictContains :item_thermalexpansion_material_dustNiter . 
 :@dustSaltpeter :oreDictContains :item_modingots_20 . 
 
-:@dustImpureArdite a :OreDictionaryEntry . 
-:@dustImpureArdite :oreDictContains :item_e_dusts_e_impureArditeDust . 
+:@stoneBowl a :OreDictionaryEntry . 
+:@stoneBowl :oreDictContains :item_wrcbe_core__stoneBowl . 
 
 :@mb.magnet.level8 a :OreDictionaryEntry . 
 :@mb.magnet.level8 :oreDictContains :item_magicbees__mysteriousMagnet . 
@@ -3065,12 +3169,6 @@
 
 :@nuggetMeat a :OreDictionaryEntry . 
 :@nuggetMeat :oreDictContains :item_mfr_meat_nugget_cooked . 
-
-:@dustSulfur a :OreDictionaryEntry . 
-:@dustSulfur :oreDictContains :ic2_itemDustSulfur . 
-:@dustSulfur :oreDictContains :railcraft_dust_sulfur . 
-:@dustSulfur :oreDictContains :item_thermalexpansion_material_dustSulfur . 
-:@dustSulfur :oreDictContains :item_modingots_48 . 
 
 :@blockElectrum a :OreDictionaryEntry . 
 :@blockElectrum :oreDictContains :tile_thermalexpansion_storage_electrum_name . 
@@ -3302,8 +3400,8 @@
 :@thaumiumRod a :OreDictionaryEntry . 
 :@thaumiumRod :oreDictContains :item_tconstruct_ToolRod_Thaumium . 
 
-:@rockSandstone a :OreDictionaryEntry . 
-:@rockSandstone :oreDictContains :tile_SmoothRock_5 . 
+:@dyeGrayCrystalShard a :OreDictionaryEntry . 
+:@dyeGrayCrystalShard :oreDictContains :item_CrystalShard_8 . 
 
 :@foodPB&JSandwichStrawberry a :OreDictionaryEntry . 
 :@foodPB&JSandwichStrawberry :oreDictContains :item_null_agriculturePBJSandwichStrawberry . 
@@ -3485,9 +3583,6 @@
 
 :@oreVinteum a :OreDictionaryEntry . 
 
-:@dyeBlackCrystalShard a :OreDictionaryEntry . 
-:@dyeBlackCrystalShard :oreDictContains :item_CrystalShard_0 . 
-
 :@ingotFzDarkIron a :OreDictionaryEntry . 
 :@ingotFzDarkIron :oreDictContains :item_factorization__dark_iron_ingot . 
 :@ingotFzDarkIron :oreDictContains :item_modingots_71 . 
@@ -3502,13 +3597,15 @@
 :@groundAluminum a :OreDictionaryEntry . 
 :@groundAluminum :oreDictContains :item_e_dusts_e_groundBauxite . 
 
-:@crushedCobalt a :OreDictionaryEntry . 
-:@crushedCobalt :oreDictContains :item_aobd_dustsItem5 . 
+:@oreTinySilver a :OreDictionaryEntry . 
 
 :@cropPomelo a :OreDictionaryEntry . 
 :@cropPomelo :oreDictContains :item_food . 
 
 :@ingotMoonstone a :OreDictionaryEntry . 
+
+:@dyeCeramicCyan a :OreDictionaryEntry . 
+:@dyeCeramicCyan :oreDictContains :item_mfr_ceramicdye_cyan . 
 
 :@ingotNetherIridium a :OreDictionaryEntry . 
 
@@ -3582,6 +3679,8 @@
 :@blockAluminium :oreDictContains :StorageMetals_Aluminum . 
 :@blockAluminium :oreDictContains :tile_oreBlocks_aluminumBlock . 
 
+:@ingotAdamantium a :OreDictionaryEntry . 
+
 :@oreTinyTin a :OreDictionaryEntry . 
 
 :@arditeOre a :OreDictionaryEntry . 
@@ -3607,7 +3706,8 @@
 :@oreYellorite a :OreDictionaryEntry . 
 :@oreYellorite :oreDictContains :tile_brOre_0 . 
 
-:@dustDesh a :OreDictionaryEntry . 
+:@crushedSilver a :OreDictionaryEntry . 
+:@crushedSilver :oreDictContains :ic2_itemCrushedSilverOre . 
 
 :@oreTitanium a :OreDictionaryEntry . 
 
@@ -3757,9 +3857,6 @@
 :@cropButternut :oreDictContains :item_food . 
 
 :@dustTungsten a :OreDictionaryEntry . 
-
-:@dyeGrayCrystalShard a :OreDictionaryEntry . 
-:@dyeGrayCrystalShard :oreDictContains :item_CrystalShard_8 . 
 
 :@oreHaderoth a :OreDictionaryEntry . 
 
@@ -3924,8 +4021,6 @@
 
 :@dyeCeramicOrange a :OreDictionaryEntry . 
 :@dyeCeramicOrange :oreDictContains :item_mfr_ceramicdye_orange . 
-
-:@oreIridium a :OreDictionaryEntry . 
 
 :@foodFriedChicken a :OreDictionaryEntry . 
 :@foodFriedChicken :oreDictContains :item_null_agricultureFriedChicken . 
@@ -4173,8 +4268,8 @@
 :@dustClay a :OreDictionaryEntry . 
 :@dustClay :oreDictContains :ic2_itemDustClay . 
 
-:@cropHops a :OreDictionaryEntry . 
-:@cropHops :oreDictContains :item_misc . 
+:@dustSiliconDioxide a :OreDictionaryEntry . 
+:@dustSiliconDioxide :oreDictContains :ic2_itemDustsilicondioxide . 
 
 :@craftingToolForgeHammer a :OreDictionaryEntry . 
 :@craftingToolForgeHammer :oreDictContains :ic2_itemToolForgeHammer . 
@@ -4262,7 +4357,8 @@
 
 :@blockOsmium a :OreDictionaryEntry . 
 
-:@dustApatite a :OreDictionaryEntry . 
+:@turbinePowerTap a :OreDictionaryEntry . 
+:@turbinePowerTap :oreDictContains :tile_blockTurbinePart_2 . 
 
 :@foodChocolateSauceBurned a :OreDictionaryEntry . 
 :@foodChocolateSauceBurned :oreDictContains :item_null_agricultureChocolateSauceBurned . 
@@ -4301,8 +4397,8 @@
 
 :@oreBlueTopaz a :OreDictionaryEntry . 
 
-:@reactorComputerPort a :OreDictionaryEntry . 
-:@reactorComputerPort :oreDictContains :tile_blockReactorPart_5 . 
+:@itemPollen a :OreDictionaryEntry . 
+:@itemPollen :oreDictContains :item_pollen . 
 
 :@plateDenseGold a :OreDictionaryEntry . 
 :@plateDenseGold :oreDictContains :ic2_itemDensePlateGold . 
@@ -4385,9 +4481,7 @@
 :@gearElectrum a :OreDictionaryEntry . 
 :@gearElectrum :oreDictContains :item_thermalexpansion_material_gearElectrum . 
 
-:@itemSilicon a :OreDictionaryEntry . 
-:@itemSilicon :oreDictContains :enderio_silicon . 
-:@itemSilicon :oreDictContains :AppEng_Materials_Silicon . 
+:@oreIridium a :OreDictionaryEntry . 
 
 :@forceGem a :OreDictionaryEntry . 
 
@@ -4455,11 +4549,6 @@
 
 :@clusterLead a :OreDictionaryEntry . 
 :@clusterLead :oreDictContains :item_ItemNugget_20 . 
-
-:@foodRawFrenchToast a :OreDictionaryEntry . 
-:@foodRawFrenchToast :oreDictContains :item_null_agricultureRawFrenchToast . 
-
-:@ingotStone a :OreDictionaryEntry . 
 
 :@oreNickel a :OreDictionaryEntry . 
 :@oreNickel :oreDictContains :tile_thermalexpansion_ore_nickel_name . 
@@ -4754,95 +4843,6 @@
 :@gearGold a :OreDictionaryEntry . 
 :@gearGold :oreDictContains :item_goldGearItem . 
 
-:@plankWood a :OreDictionaryEntry . 
-:@plankWood :oreDictContains :tile_wood_oak . 
-:@plankWood :oreDictContains :eucalyptusNPlanks . 
-:@plankWood :oreDictContains :sakuraNPlanks . 
-:@plankWood :oreDictContains :ghostNPlanks . 
-:@plankWood :oreDictContains :redwoodNPlanks . 
-:@plankWood :oreDictContains :bushNPlanks . 
-:@plankWood :oreDictContains :mapleNPlanks . 
-:@plankWood :oreDictContains :silverbellNPlanks . 
-:@plankWood :oreDictContains :purpleheartNPlanks . 
-:@plankWood :oreDictContains :tigerNPlanks . 
-:@plankWood :oreDictContains :willowNPlanks . 
-:@plankWood :oreDictContains :darkwoodNPlanks . 
-:@plankWood :oreDictContains :NPlanks . 
-:@plankWood :oreDictContains :tile_bop_planks_acaciaPlank . 
-:@plankWood :oreDictContains :tile_for_planks_32767 . 
-:@plankWood :oreDictContains :tile_for_planks2_32767 . 
-:@plankWood :oreDictContains :tile_blockWoodenDevice_6 . 
-:@plankWood :oreDictContains :tile_blockWoodenDevice_7 . 
-:@plankWood :oreDictContains :tile_planks . 
-:@plankWood :oreDictContains :tile_planks . 
-:@plankWood :oreDictContains :tile_planks . 
-:@plankWood :oreDictContains :tile_planks . 
-:@plankWood :oreDictContains :tile_planks . 
-:@plankWood :oreDictContains :tile_planks . 
-:@plankWood :oreDictContains :tile_planks . 
-:@plankWood :oreDictContains :tile_planks . 
-:@plankWood :oreDictContains :tile_planks . 
-:@plankWood :oreDictContains :tile_planks . 
-:@plankWood :oreDictContains :tile_planks . 
-:@plankWood :oreDictContains :tile_planks . 
-:@plankWood :oreDictContains :tile_planks . 
-:@plankWood :oreDictContains :tile_planks . 
-:@plankWood :oreDictContains :tile_planks . 
-:@plankWood :oreDictContains :tile_planks . 
-:@plankWood :oreDictContains :tile_planks . 
-:@plankWood :oreDictContains :tile_planks . 
-:@plankWood :oreDictContains :tile_planks . 
-:@plankWood :oreDictContains :tile_planks . 
-:@plankWood :oreDictContains :tile_planks . 
-:@plankWood :oreDictContains :tile_planks . 
-:@plankWood :oreDictContains :tile_planks . 
-:@plankWood :oreDictContains :tile_planks . 
-:@plankWood :oreDictContains :tile_planks . 
-:@plankWood :oreDictContains :tile_planks . 
-:@plankWood :oreDictContains :tile_planks . 
-:@plankWood :oreDictContains :tile_planks . 
-:@plankWood :oreDictContains :tile_planks . 
-:@plankWood :oreDictContains :tile_planks . 
-:@plankWood :oreDictContains :tile_planks . 
-:@plankWood :oreDictContains :tile_planks . 
-:@plankWood :oreDictContains :tile_planks . 
-:@plankWood :oreDictContains :tile_planks . 
-:@plankWood :oreDictContains :tile_planks . 
-:@plankWood :oreDictContains :tile_hl_woodPlanks_32767 . 
-:@plankWood :oreDictContains :tile_paintedPlanks_blackPlanks . 
-:@plankWood :oreDictContains :tile_paintedPlanks_redPlanks . 
-:@plankWood :oreDictContains :tile_paintedPlanks_greenPlanks . 
-:@plankWood :oreDictContains :tile_paintedPlanks_brownPlanks . 
-:@plankWood :oreDictContains :tile_paintedPlanks_bluePlanks . 
-:@plankWood :oreDictContains :tile_paintedPlanks_purplePlanks . 
-:@plankWood :oreDictContains :tile_paintedPlanks_cyanPlanks . 
-:@plankWood :oreDictContains :tile_paintedPlanks_lightGrayPlanks . 
-:@plankWood :oreDictContains :tile_paintedPlanks_grayPlanks . 
-:@plankWood :oreDictContains :tile_paintedPlanks_pinkPlanks . 
-:@plankWood :oreDictContains :tile_paintedPlanks_limePlanks . 
-:@plankWood :oreDictContains :tile_paintedPlanks_yellowPlanks . 
-:@plankWood :oreDictContains :tile_paintedPlanks_lightBluePlanks . 
-:@plankWood :oreDictContains :tile_paintedPlanks_magentaPlanks . 
-:@plankWood :oreDictContains :tile_paintedPlanks_orangePlanks . 
-:@plankWood :oreDictContains :tile_paintedPlanks_whitePlanks . 
-:@plankWood :oreDictContains :tile_extrautils__colorWoodPlanks_0 . 
-:@plankWood :oreDictContains :tile_extrautils__colorWoodPlanks_1 . 
-:@plankWood :oreDictContains :tile_extrautils__colorWoodPlanks_2 . 
-:@plankWood :oreDictContains :tile_extrautils__colorWoodPlanks_3 . 
-:@plankWood :oreDictContains :tile_extrautils__colorWoodPlanks_4 . 
-:@plankWood :oreDictContains :tile_extrautils__colorWoodPlanks_5 . 
-:@plankWood :oreDictContains :tile_extrautils__colorWoodPlanks_6 . 
-:@plankWood :oreDictContains :tile_extrautils__colorWoodPlanks_7 . 
-:@plankWood :oreDictContains :tile_extrautils__colorWoodPlanks_8 . 
-:@plankWood :oreDictContains :tile_extrautils__colorWoodPlanks_9 . 
-:@plankWood :oreDictContains :tile_extrautils__colorWoodPlanks_10 . 
-:@plankWood :oreDictContains :tile_extrautils__colorWoodPlanks_11 . 
-:@plankWood :oreDictContains :tile_extrautils__colorWoodPlanks_12 . 
-:@plankWood :oreDictContains :tile_extrautils__colorWoodPlanks_13 . 
-:@plankWood :oreDictContains :tile_extrautils__colorWoodPlanks_14 . 
-:@plankWood :oreDictContains :tile_extrautils__colorWoodPlanks_15 . 
-:@plankWood :oreDictContains :tile_TFTowerStone_32767 . 
-
 :@apatiteOre a :OreDictionaryEntry . 
 
 :@ingotNetherQuartz a :OreDictionaryEntry . 
@@ -4893,7 +4893,8 @@
 
 :@oreNetherAluminumBrass a :OreDictionaryEntry . 
 
-:@oreTinySilver a :OreDictionaryEntry . 
+:@crushedCobalt a :OreDictionaryEntry . 
+:@crushedCobalt :oreDictContains :item_aobd_dustsItem5 . 
 
 :@gearDiamond a :OreDictionaryEntry . 
 :@gearDiamond :oreDictContains :item_diamondGearItem . 
@@ -4959,8 +4960,8 @@
 
 :@ingotPlastic a :OreDictionaryEntry . 
 
-:@dustSiliconDioxide a :OreDictionaryEntry . 
-:@dustSiliconDioxide :oreDictContains :ic2_itemDustsilicondioxide . 
+:@cropHops a :OreDictionaryEntry . 
+:@cropHops :oreDictContains :item_misc . 
 
 :@oreQuicklime a :OreDictionaryEntry . 
 
@@ -5012,16 +5013,12 @@
 
 :@blockManganese a :OreDictionaryEntry . 
 
-:@turbinePowerTap a :OreDictionaryEntry . 
-:@turbinePowerTap :oreDictContains :tile_blockTurbinePart_2 . 
+:@dustApatite a :OreDictionaryEntry . 
 
 :@dustArdite a :OreDictionaryEntry . 
 :@dustArdite :oreDictContains :item_tconstruct_Materials_ArditeDust . 
 
 :@dustNetherAmber a :OreDictionaryEntry . 
-
-:@foodVinegar a :OreDictionaryEntry . 
-:@foodVinegar :oreDictContains :item_null_agricultureVinegar . 
 
 :@componentMagnet a :OreDictionaryEntry . 
 :@componentMagnet :oreDictContains :item_powerArmorComponent_componentMagnet . 
@@ -5051,8 +5048,8 @@
 
 :@oreForce a :OreDictionaryEntry . 
 
-:@dyeLightBlueCrystalShard a :OreDictionaryEntry . 
-:@dyeLightBlueCrystalShard :oreDictContains :item_CrystalShard_12 . 
+:@foodRawFrenchToast a :OreDictionaryEntry . 
+:@foodRawFrenchToast :oreDictContains :item_null_agricultureRawFrenchToast . 
 
 :@dustNetherCinnabar a :OreDictionaryEntry . 
 
@@ -5066,6 +5063,9 @@
 
 :@cropBuddhaHand a :OreDictionaryEntry . 
 :@cropBuddhaHand :oreDictContains :item_food . 
+
+:@dyeCyanCrystal a :OreDictionaryEntry . 
+:@dyeCyanCrystal :oreDictContains :tile_CaveCrystal_6 . 
 
 :@oreCassiterite a :OreDictionaryEntry . 
 
@@ -5134,8 +5134,7 @@
 :@rodIron a :OreDictionaryEntry . 
 :@rodIron :oreDictContains :item_component_ironRod . 
 
-:@dyeCyanCrystal a :OreDictionaryEntry . 
-:@dyeCyanCrystal :oreDictContains :tile_CaveCrystal_6 . 
+:@ingotStone a :OreDictionaryEntry . 
 
 :@gemIron a :OreDictionaryEntry . 
 
