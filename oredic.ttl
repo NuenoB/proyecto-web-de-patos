@@ -1497,9 +1497,9 @@
 :@reducedLead :oreDictContains :item_factorization__ore/reduced/LEAD . 
 
 :@oreMimichite a :OreDictionaryEntry . 
-:@oreMimichite :oreDictContains :tile_Mimichite Ore . 
-:@oreMimichite :oreDictContains :tile_Mimichite Ore . 
-:@oreMimichite :oreDictContains :tile_Mimichite Ore . 
+:@oreMimichite :oreDictContains :tile_Mimichite___Ore . 
+:@oreMimichite :oreDictContains :tile_Mimichite___Ore . 
+:@oreMimichite :oreDictContains :tile_Mimichite___Ore . 
 
 :@foodFrenchFries a :OreDictionaryEntry . 
 :@foodFrenchFries :oreDictContains :item_null_agricultureFrenchFries . 
@@ -4990,7 +4990,7 @@
 :@ingotNetherRutile a :OreDictionaryEntry . 
 
 :@blueslimeRod a :OreDictionaryEntry . 
-:@blueslimeRod :oreDictContains :item_tconstruct_ToolRod_Blue Slime . 
+:@blueslimeRod :oreDictContains :item_tconstruct_ToolRod_Blue___Slime . 
 
 :@dustTetrahedrite a :OreDictionaryEntry . 
 

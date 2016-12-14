@@ -134,7 +134,7 @@
 
 :item_mfr_needlegun_ammo_standard :id "12294"^^xsd:integer . 
 :item_mfr_needlegun_ammo_standard :subId "0"^^xsd:integer . 
-:item_mfr_needlegun_ammo_standard foaf:name "Needlegun Ammo (Needles)" . 
+:item_mfr_needlegun_ammo_standard foaf:name "Needlegun Ammo Needles" . 
 :item_mfr_needlegun_ammo_standard :name_intern "item.mfr.needlegun.ammo.standard" . 
 
 :item_refractoryBiomass :id "13332"^^xsd:integer . 
@@ -469,7 +469,7 @@
 
 :tile_mfr_conveyor_pink :id "3121"^^xsd:integer . 
 :tile_mfr_conveyor_pink :subId "6"^^xsd:integer . 
-:tile_mfr_conveyor_pink foaf:name "Conveyor Belt (Pink)" . 
+:tile_mfr_conveyor_pink foaf:name "Conveyor Belt Pink" . 
 :tile_mfr_conveyor_pink :name_intern "tile.mfr.conveyor.pink" . 
 
 :BaobabMapFrame :id "2369"^^xsd:integer . 
@@ -529,7 +529,7 @@
 
 :item_mfr_upgrade_radius_copper :id "12267"^^xsd:integer . 
 :item_mfr_upgrade_radius_copper :subId "3"^^xsd:integer . 
-:item_mfr_upgrade_radius_copper foaf:name "Upgrade (Copper)" . 
+:item_mfr_upgrade_radius_copper foaf:name "Upgrade Copper" . 
 :item_mfr_upgrade_radius_copper :name_intern "item.mfr.upgrade.radius.copper" . 
 
 :item_PortalGunOrange :id "13458"^^xsd:integer . 
@@ -704,7 +704,7 @@
 
 :item_MagicEssence_med :id "8525"^^xsd:integer . 
 :item_MagicEssence_med :subId "3"^^xsd:integer . 
-:item_MagicEssence_med foaf:name "§5Strong Essence" . 
+:item_MagicEssence_med foaf:name "5Strong Essence" . 
 :item_MagicEssence_med :name_intern "item.MagicEssence.med" . 
 
 :item_factorization__daybarrel :id "9318"^^xsd:integer . 
@@ -929,7 +929,7 @@
 
 :item_mfr_ceramicdye_lime :id "12261"^^xsd:integer . 
 :item_mfr_ceramicdye_lime :subId "5"^^xsd:integer . 
-:item_mfr_ceramicdye_lime foaf:name "Ceramic Dye (Lime)" . 
+:item_mfr_ceramicdye_lime foaf:name "Ceramic Dye Lime" . 
 :item_mfr_ceramicdye_lime :name_intern "item.mfr.ceramicdye.lime" . 
 
 :item_seatBack_OakSeatBack :id "22492"^^xsd:integer . 
@@ -1089,7 +1089,7 @@
 
 :tile_thermalexpansion_device_workbench_name :id "2003"^^xsd:integer . 
 :tile_thermalexpansion_device_workbench_name :subId "0"^^xsd:integer . 
-:tile_thermalexpansion_device_workbench_name foaf:name "Machinist's Workbench" . 
+:tile_thermalexpansion_device_workbench_name foaf:name "Machinists Workbench" . 
 :tile_thermalexpansion_device_workbench_name :name_intern "tile.thermalexpansion.device.workbench.name" . 
 
 :item_factorization__daybarrel :id "9318"^^xsd:integer . 
@@ -1192,10 +1192,10 @@
 :item_factorization__daybarrel foaf:name "Oak Wood Barrel" . 
 :item_factorization__daybarrel :name_intern "item.factorization:daybarrel" . 
 
-:item_paintCan_Light Blue :id "4444"^^xsd:integer . 
-:item_paintCan_Light Blue :subId "0"^^xsd:integer . 
-:item_paintCan_Light Blue foaf:name "Light Blue Spray Paint" . 
-:item_paintCan_Light Blue :name_intern "item.paintCan.Light Blue" . 
+:item_paintCan_Light___Blue :id "4444"^^xsd:integer . 
+:item_paintCan_Light___Blue :subId "0"^^xsd:integer . 
+:item_paintCan_Light___Blue foaf:name "Light Blue Spray Paint" . 
+:item_paintCan_Light___Blue :name_intern "item.paintCan.Light Blue" . 
 
 :tile_RockBrick_13 :id "774"^^xsd:integer . 
 :tile_RockBrick_13 :subId "13"^^xsd:integer . 
@@ -1249,7 +1249,7 @@
 
 :item_upgrade_structural_1 :id "25070"^^xsd:integer . 
 :item_upgrade_structural_1 :subId "0"^^xsd:integer . 
-:item_upgrade_structural_1 foaf:name "Structural MK I (Oak Wood Planks)" . 
+:item_upgrade_structural_1 foaf:name "Structural MK I Oak Wood Planks" . 
 :item_upgrade_structural_1 :name_intern "item.upgrade.structural.1" . 
 
 :item_circuit :id "13429"^^xsd:integer . 
@@ -1464,7 +1464,7 @@
 
 :tile_mfr_stainedglass_pane_cyan :id "3130"^^xsd:integer . 
 :tile_mfr_stainedglass_pane_cyan :subId "9"^^xsd:integer . 
-:tile_mfr_stainedglass_pane_cyan foaf:name "Stained Glass Pane (Cyan)" . 
+:tile_mfr_stainedglass_pane_cyan foaf:name "Stained Glass Pane Cyan" . 
 :tile_mfr_stainedglass_pane_cyan :name_intern "tile.mfr.stainedglass.pane.cyan" . 
 
 :DarkwoodTable :id "2340"^^xsd:integer . 
@@ -1479,7 +1479,7 @@
 
 :item_factorization__tool/wrath_igniter :id "9263"^^xsd:integer . 
 :item_factorization__tool/wrath_igniter :subId "32767"^^xsd:integer . 
-:item_factorization__tool/wrath_igniter foaf:name "Wrath Igniter (Going Away!)" . 
+:item_factorization__tool/wrath_igniter foaf:name "Wrath Igniter Going Away!" . 
 :item_factorization__tool/wrath_igniter :name_intern "item.factorization:tool/wrath_igniter" . 
 
 :tile_bop_flesh :id "174"^^xsd:integer . 
@@ -1589,7 +1589,7 @@
 
 :tile_mfr_stainedglass_pane_lime :id "3130"^^xsd:integer . 
 :tile_mfr_stainedglass_pane_lime :subId "5"^^xsd:integer . 
-:tile_mfr_stainedglass_pane_lime foaf:name "Stained Glass Pane (Lime)" . 
+:tile_mfr_stainedglass_pane_lime foaf:name "Stained Glass Pane Lime" . 
 :tile_mfr_stainedglass_pane_lime :name_intern "tile.mfr.stainedglass.pane.lime" . 
 
 :item_CrystalBloomSeeds_10 :id "10003"^^xsd:integer . 
@@ -1672,10 +1672,10 @@
 :item_thermalexpansion_tool_wrench foaf:name "Crescent Hammer" . 
 :item_thermalexpansion_tool_wrench :name_intern "item.thermalexpansion.tool.wrench" . 
 
-:item_tconstruct_ToolRod_Blue Slime :id "14277"^^xsd:integer . 
-:item_tconstruct_ToolRod_Blue Slime :subId "17"^^xsd:integer . 
-:item_tconstruct_ToolRod_Blue Slime foaf:name "Slime Tool Rod" . 
-:item_tconstruct_ToolRod_Blue Slime :name_intern "item.tconstruct.ToolRod.Blue Slime" . 
+:item_tconstruct_ToolRod_Blue___Slime :id "14277"^^xsd:integer . 
+:item_tconstruct_ToolRod_Blue___Slime :subId "17"^^xsd:integer . 
+:item_tconstruct_ToolRod_Blue___Slime foaf:name "Slime Tool Rod" . 
+:item_tconstruct_ToolRod_Blue___Slime :name_intern "item.tconstruct.ToolRod.Blue Slime" . 
 
 :tile_log :id "3704"^^xsd:integer . 
 :tile_log :subId "30"^^xsd:integer . 
@@ -1699,7 +1699,7 @@
 
 :item_item_slide :id "30781"^^xsd:integer . 
 :item_item_slide :subId "17"^^xsd:integer . 
-:item_item_slide foaf:name "Projector Slide (17)" . 
+:item_item_slide foaf:name "Projector Slide 17" . 
 :item_item_slide :name_intern "item.item.slide" . 
 
 :item_SC2__advanced_thermal_engine :id "29997"^^xsd:integer . 
@@ -1934,7 +1934,7 @@
 
 :tile_mfr_conveyor_cyan :id "3121"^^xsd:integer . 
 :tile_mfr_conveyor_cyan :subId "9"^^xsd:integer . 
-:tile_mfr_conveyor_cyan foaf:name "Conveyor Belt (Cyan)" . 
+:tile_mfr_conveyor_cyan foaf:name "Conveyor Belt Cyan" . 
 :tile_mfr_conveyor_cyan :name_intern "tile.mfr.conveyor.cyan" . 
 
 :item_record :id "2267"^^xsd:integer . 
@@ -2234,7 +2234,7 @@
 
 :item_item_magnet_7 :id "18271"^^xsd:integer . 
 :item_item_magnet_7 :subId "7"^^xsd:integer . 
-:item_item_magnet_7 foaf:name "Permanent Magnet (16.384 T)" . 
+:item_item_magnet_7 foaf:name "Permanent Magnet 16.384 T" . 
 :item_item_magnet_7 :name_intern "item.item.magnet.7" . 
 
 :RedwoodTable :id "2309"^^xsd:integer . 
@@ -2404,7 +2404,7 @@
 
 :tile_for_apiculture_1 :id "1408"^^xsd:integer . 
 :tile_for_apiculture_1 :subId "1"^^xsd:integer . 
-:tile_for_apiculture_1 foaf:name "Apiarist's Chest" . 
+:tile_for_apiculture_1 foaf:name "Apiarists Chest" . 
 :tile_for_apiculture_1 :name_intern "tile.for.apiculture.1" . 
 
 :tile_extrautils__cobblestone_compressed_0 :id "2506"^^xsd:integer . 
@@ -2644,7 +2644,7 @@
 
 :item_itemUpgrade :id "7122"^^xsd:integer . 
 :item_itemUpgrade :subId "0"^^xsd:integer . 
-:item_itemUpgrade foaf:name "Sneaky Upgrade (UP)" . 
+:item_itemUpgrade foaf:name "Sneaky Upgrade UP" . 
 :item_itemUpgrade :name_intern "item.itemUpgrade" . 
 
 :SprucePotionShelf :id "2252"^^xsd:integer . 
@@ -2657,10 +2657,10 @@
 :tile_railcraft_stonelamp_frostbound foaf:name "Frostbound Stone Lamp" . 
 :tile_railcraft_stonelamp_frostbound :name_intern "tile.railcraft.stonelamp.frostbound" . 
 
-:item_Mimic Orb :id "27622"^^xsd:integer . 
-:item_Mimic Orb :subId "0"^^xsd:integer . 
-:item_Mimic Orb foaf:name "§9Mimic Orb" . 
-:item_Mimic Orb :name_intern "item.Mimic Orb" . 
+:item_Mimic___Orb :id "27622"^^xsd:integer . 
+:item_Mimic___Orb :subId "0"^^xsd:integer . 
+:item_Mimic___Orb foaf:name "9Mimic Orb" . 
+:item_Mimic___Orb :name_intern "item.Mimic Orb" . 
 
 :tile_hl_redwoodWood :id "3837"^^xsd:integer . 
 :tile_hl_redwoodWood :subId "2"^^xsd:integer . 
@@ -2929,7 +2929,7 @@
 
 :tile_crafting :id "1183"^^xsd:integer . 
 :tile_crafting :subId "0"^^xsd:integer . 
-:tile_crafting foaf:name "Dimensional Bridge Stabilizer (Empty)" . 
+:tile_crafting foaf:name "Dimensional Bridge Stabilizer Empty" . 
 :tile_crafting :name_intern "tile.crafting" . 
 
 :tile_normalCube_redSandstoneBricks :id "199"^^xsd:integer . 
@@ -2947,10 +2947,10 @@
 :item_seatBack_WhiteWoodSeatBack foaf:name "White Wood Seat Back" . 
 :item_seatBack_WhiteWoodSeatBack :name_intern "item.seatBack.WhiteWoodSeatBack" . 
 
-:tile_Mimikinetic Upheaver :id "2433"^^xsd:integer . 
-:tile_Mimikinetic Upheaver :subId "1"^^xsd:integer . 
-:tile_Mimikinetic Upheaver foaf:name "§9Mimikinetic Upheaver" . 
-:tile_Mimikinetic Upheaver :name_intern "tile.Mimikinetic Upheaver" . 
+:tile_Mimikinetic___Upheaver :id "2433"^^xsd:integer . 
+:tile_Mimikinetic___Upheaver :subId "1"^^xsd:integer . 
+:tile_Mimikinetic___Upheaver foaf:name "9Mimikinetic Upheaver" . 
+:tile_Mimikinetic___Upheaver :name_intern "tile.Mimikinetic Upheaver" . 
 
 :tile_BlockTintedStone :id "3661"^^xsd:integer . 
 :tile_BlockTintedStone :subId "11"^^xsd:integer . 
@@ -3044,7 +3044,7 @@
 
 :item_null_agricultureVanillaIceCreamChocolateSauce :id "20256"^^xsd:integer . 
 :item_null_agricultureVanillaIceCreamChocolateSauce :subId "104"^^xsd:integer . 
-:item_null_agricultureVanillaIceCreamChocolateSauce foaf:name "Vanilla Ice Cream (Chocolate Sauce)" . 
+:item_null_agricultureVanillaIceCreamChocolateSauce foaf:name "Vanilla Ice Cream Chocolate Sauce" . 
 :item_null_agricultureVanillaIceCreamChocolateSauce :name_intern "item.null.agricultureVanillaIceCreamChocolateSauce" . 
 
 :item_thermalexpansion_capacitor_capacitorPotato :id "20261"^^xsd:integer . 
@@ -3079,7 +3079,7 @@
 
 :item_#item_railgun_13 :id "30777"^^xsd:integer . 
 :item_#item_railgun_13 :subId "13"^^xsd:integer . 
-:item_#item_railgun_13 foaf:name "RailGun Ammunition (8192 kg)" . 
+:item_#item_railgun_13 foaf:name "RailGun Ammunition 8192 kg" . 
 :item_#item_railgun_13 :name_intern "item.#item.railgun.13" . 
 
 :tile_mfr_machine_ejector :id "3131"^^xsd:integer . 
@@ -3209,7 +3209,7 @@
 
 :item_#item_railgun_4 :id "30777"^^xsd:integer . 
 :item_#item_railgun_4 :subId "4"^^xsd:integer . 
-:item_#item_railgun_4 foaf:name "RailGun Ammunition (16 kg)" . 
+:item_#item_railgun_4 foaf:name "RailGun Ammunition 16 kg" . 
 :item_#item_railgun_4 :name_intern "item.#item.railgun.4" . 
 
 :item_worked :id "20570"^^xsd:integer . 
@@ -3449,7 +3449,7 @@
 
 :item_mfr_ceramicdye_brown :id "12261"^^xsd:integer . 
 :item_mfr_ceramicdye_brown :subId "12"^^xsd:integer . 
-:item_mfr_ceramicdye_brown foaf:name "Ceramic Dye (Brown)" . 
+:item_mfr_ceramicdye_brown foaf:name "Ceramic Dye Brown" . 
 :item_mfr_ceramicdye_brown :name_intern "item.mfr.ceramicdye.brown" . 
 
 :tile_null :id "3709"^^xsd:integer . 
@@ -3764,7 +3764,7 @@
 
 :item_mfr_upgrade_radius_quartz :id "12267"^^xsd:integer . 
 :item_mfr_upgrade_radius_quartz :subId "7"^^xsd:integer . 
-:item_mfr_upgrade_radius_quartz foaf:name "Upgrade (Quartz)" . 
+:item_mfr_upgrade_radius_quartz foaf:name "Upgrade Quartz" . 
 :item_mfr_upgrade_radius_quartz :name_intern "item.mfr.upgrade.radius.quartz" . 
 
 :item_bucketLava :id "327"^^xsd:integer . 
@@ -3894,7 +3894,7 @@
 
 :item_fishyFood :id "20513"^^xsd:integer . 
 :item_fishyFood :subId "25"^^xsd:integer . 
-:item_fishyFood foaf:name "Raw Siamese Fightin' Fish" . 
+:item_fishyFood foaf:name "Raw Siamese Fightin Fish" . 
 :item_fishyFood :name_intern "item.fishyFood" . 
 
 :item_SC2__ore_extractor :id "29997"^^xsd:integer . 
@@ -3934,7 +3934,7 @@
 
 :item_#item_railgun_6 :id "30777"^^xsd:integer . 
 :item_#item_railgun_6 :subId "6"^^xsd:integer . 
-:item_#item_railgun_6 foaf:name "RailGun Ammunition (64 kg)" . 
+:item_#item_railgun_6 foaf:name "RailGun Ammunition 64 kg" . 
 :item_#item_railgun_6 :name_intern "item.#item.railgun.6" . 
 
 :tile_Tileentity_9 :id "1224"^^xsd:integer . 
@@ -4114,7 +4114,7 @@
 
 :item_expBottle :id "384"^^xsd:integer . 
 :item_expBottle :subId "0"^^xsd:integer . 
-:item_expBottle foaf:name "Bottle o' Enchanting" . 
+:item_expBottle foaf:name "Bottle o Enchanting" . 
 :item_expBottle :name_intern "item.expBottle" . 
 
 :tile_cloth_black_slab :id "3245"^^xsd:integer . 
@@ -4209,7 +4209,7 @@
 
 :tile_extrautils__colorStoneBrick_6 :id "2504"^^xsd:integer . 
 :tile_extrautils__colorStoneBrick_6 :subId "6"^^xsd:integer . 
-:tile_extrautils__colorStoneBrick_6 foaf:name "Colored Bricks (Pink)" . 
+:tile_extrautils__colorStoneBrick_6 foaf:name "Colored Bricks Pink" . 
 :tile_extrautils__colorStoneBrick_6 :name_intern "tile.extrautils:colorStoneBrick.6" . 
 
 :tile_null :id "3710"^^xsd:integer . 
@@ -4252,10 +4252,10 @@
 :tile_null foaf:name "Solid Elder Wood Door" . 
 :tile_null :name_intern "tile.null" . 
 
-:tile_Mimikinetic Upheaver :id "2433"^^xsd:integer . 
-:tile_Mimikinetic Upheaver :subId "3"^^xsd:integer . 
-:tile_Mimikinetic Upheaver foaf:name "§9Mimikinetic Upheaver" . 
-:tile_Mimikinetic Upheaver :name_intern "tile.Mimikinetic Upheaver" . 
+:tile_Mimikinetic___Upheaver :id "2433"^^xsd:integer . 
+:tile_Mimikinetic___Upheaver :subId "3"^^xsd:integer . 
+:tile_Mimikinetic___Upheaver foaf:name "9Mimikinetic Upheaver" . 
+:tile_Mimikinetic___Upheaver :name_intern "tile.Mimikinetic Upheaver" . 
 
 :eucalyptusNPlanks :id "3262"^^xsd:integer . 
 :eucalyptusNPlanks :subId "0"^^xsd:integer . 
@@ -4279,7 +4279,7 @@
 
 :item_item_slide :id "30781"^^xsd:integer . 
 :item_item_slide :subId "15"^^xsd:integer . 
-:item_item_slide foaf:name "Projector Slide (15)" . 
+:item_item_slide foaf:name "Projector Slide 15" . 
 :item_item_slide :name_intern "item.item.slide" . 
 
 :item_factorization__daybarrel :id "9318"^^xsd:integer . 
@@ -4389,7 +4389,7 @@
 
 :item_ElementEssence_air :id "8569"^^xsd:integer . 
 :item_ElementEssence_air :subId "3"^^xsd:integer . 
-:item_ElementEssence_air foaf:name "§5Air Essence" . 
+:item_ElementEssence_air foaf:name "5Air Essence" . 
 :item_ElementEssence_air :name_intern "item.ElementEssence.air" . 
 
 :tile_for_planks_1 :id "1380"^^xsd:integer . 
@@ -4404,7 +4404,7 @@
 
 :item_FoodMobMeat_fruitBlast :id "8596"^^xsd:integer . 
 :item_FoodMobMeat_fruitBlast :subId "2"^^xsd:integer . 
-:item_FoodMobMeat_fruitBlast foaf:name "§5Berry Blast" . 
+:item_FoodMobMeat_fruitBlast foaf:name "5Berry Blast" . 
 :item_FoodMobMeat_fruitBlast :name_intern "item.FoodMobMeat.fruitBlast" . 
 
 :item_seatBack_EucalyptusSeatBack :id "22558"^^xsd:integer . 
@@ -4504,7 +4504,7 @@
 
 :tile_for_lepidopterology_0 :id "1376"^^xsd:integer . 
 :tile_for_lepidopterology_0 :subId "0"^^xsd:integer . 
-:tile_for_lepidopterology_0 foaf:name "Lepidopterist's Chest" . 
+:tile_for_lepidopterology_0 foaf:name "Lepidopterists Chest" . 
 :tile_for_lepidopterology_0 :name_intern "tile.for.lepidopterology.0" . 
 
 :HellBarkLabel :id "2311"^^xsd:integer . 
@@ -4674,7 +4674,7 @@
 
 :item_food_fishNCustard :id "20518"^^xsd:integer . 
 :item_food_fishNCustard :subId "4"^^xsd:integer . 
-:item_food_fishNCustard foaf:name "Fish Fingers 'n Custard" . 
+:item_food_fishNCustard foaf:name "Fish Fingers n Custard" . 
 :item_food_fishNCustard :name_intern "item.food.fishNCustard" . 
 
 :item_itemUpgrade :id "7122"^^xsd:integer . 
@@ -4729,7 +4729,7 @@
 
 :item_upgrade_structural_3 :id "25070"^^xsd:integer . 
 :item_upgrade_structural_3 :subId "2"^^xsd:integer . 
-:item_upgrade_structural_3 foaf:name "Structural MK III (Gold Ingot)" . 
+:item_upgrade_structural_3 foaf:name "Structural MK III Gold Ingot" . 
 :item_upgrade_structural_3 :name_intern "item.upgrade.structural.3" . 
 
 :item_factorization__ore/reduced/COPPER :id "9292"^^xsd:integer . 
@@ -4794,7 +4794,7 @@
 
 :item_itemUpgrade :id "7122"^^xsd:integer . 
 :item_itemUpgrade :subId "14"^^xsd:integer . 
-:item_itemUpgrade foaf:name "Disconnection Upgrade (EAST)" . 
+:item_itemUpgrade foaf:name "Disconnection Upgrade EAST" . 
 :item_itemUpgrade :name_intern "item.itemUpgrade" . 
 
 :AppEng_Materials_MEBlankPattern :id "4362"^^xsd:integer . 
@@ -4854,7 +4854,7 @@
 
 :item_item_firelauncher :id "30770"^^xsd:integer . 
 :item_item_firelauncher :subId "0"^^xsd:integer . 
-:item_item_firelauncher foaf:name "Fireball Launcher (0 kJ)" . 
+:item_item_firelauncher foaf:name "Fireball Launcher 0 kJ" . 
 :item_item_firelauncher :name_intern "item.item.firelauncher" . 
 
 :tile_mfr_decorativestone_black_smooth :id "3134"^^xsd:integer . 
@@ -4929,7 +4929,7 @@
 
 :item_CropEssence_redstone :id "8523"^^xsd:integer . 
 :item_CropEssence_redstone :subId "1"^^xsd:integer . 
-:item_CropEssence_redstone foaf:name "§4Redstone Essence" . 
+:item_CropEssence_redstone foaf:name "4Redstone Essence" . 
 :item_CropEssence_redstone :name_intern "item.CropEssence.redstone" . 
 
 :railcraft_part_plate_iron :id "7802"^^xsd:integer . 
@@ -5034,7 +5034,7 @@
 
 :tile_extrautils__extractor_base_remote_6 :id "2528"^^xsd:integer . 
 :tile_extrautils__extractor_base_remote_6 :subId "6"^^xsd:integer . 
-:tile_extrautils__extractor_base_remote_6 foaf:name "Retrieval Node (Liquids)" . 
+:tile_extrautils__extractor_base_remote_6 foaf:name "Retrieval Node Liquids" . 
 :tile_extrautils__extractor_base_remote_6 :name_intern "tile.extrautils:extractor_base_remote.6" . 
 
 :tile_DecoBlocks_1 :id "773"^^xsd:integer . 
@@ -5214,7 +5214,7 @@
 
 :item_mfr_laserfocus_white :id "12289"^^xsd:integer . 
 :item_mfr_laserfocus_white :subId "0"^^xsd:integer . 
-:item_mfr_laserfocus_white foaf:name "Laser Focus (White)" . 
+:item_mfr_laserfocus_white foaf:name "Laser Focus White" . 
 :item_mfr_laserfocus_white :name_intern "item.mfr.laserfocus.white" . 
 
 :item_painting :id "321"^^xsd:integer . 
@@ -5364,7 +5364,7 @@
 
 :item_CropEssence_xp :id "8523"^^xsd:integer . 
 :item_CropEssence_xp :subId "12"^^xsd:integer . 
-:item_CropEssence_xp foaf:name "§2EXP Essence" . 
+:item_CropEssence_xp foaf:name "2EXP Essence" . 
 :item_CropEssence_xp :name_intern "item.CropEssence.xp" . 
 
 :ic2_itemPlateIron :id "30041"^^xsd:integer . 
@@ -5384,7 +5384,7 @@
 
 :tile_extrautils__decorativeBlock1_7 :id "2523"^^xsd:integer . 
 :tile_extrautils__decorativeBlock1_7 :subId "7"^^xsd:integer . 
-:tile_extrautils__decorativeBlock1_7 foaf:name "Border Stone (Alternate)" . 
+:tile_extrautils__decorativeBlock1_7 foaf:name "Border Stone Alternate" . 
 :tile_extrautils__decorativeBlock1_7 :name_intern "tile.extrautils:decorativeBlock1.7" . 
 
 :tile_stairs :id "3702"^^xsd:integer . 
@@ -5424,7 +5424,7 @@
 
 :item_null_agricultureFrenchToastBurned :id "20256"^^xsd:integer . 
 :item_null_agricultureFrenchToastBurned :subId "130"^^xsd:integer . 
-:item_null_agricultureFrenchToastBurned foaf:name "French Toast (Burned)" . 
+:item_null_agricultureFrenchToastBurned foaf:name "French Toast Burned" . 
 :item_null_agricultureFrenchToastBurned :name_intern "item.null.agricultureFrenchToastBurned" . 
 
 :tile_blockCandle_4 :id "2411"^^xsd:integer . 
@@ -5454,7 +5454,7 @@
 
 :item_sojournerStaff :id "27481"^^xsd:integer . 
 :item_sojournerStaff :subId "0"^^xsd:integer . 
-:item_sojournerStaff foaf:name "Sojourner's Staff" . 
+:item_sojournerStaff foaf:name "Sojourners Staff" . 
 :item_sojournerStaff :name_intern "item.sojournerStaff" . 
 
 :item_wrench :id "10286"^^xsd:integer . 
@@ -5479,7 +5479,7 @@
 
 :item_null_agricultureShortcakeBurned :id "20256"^^xsd:integer . 
 :item_null_agricultureShortcakeBurned :subId "139"^^xsd:integer . 
-:item_null_agricultureShortcakeBurned foaf:name "Shortcake (Burned)" . 
+:item_null_agricultureShortcakeBurned foaf:name "Shortcake Burned" . 
 :item_null_agricultureShortcakeBurned :name_intern "item.null.agricultureShortcakeBurned" . 
 
 :item_SC2__generic_engine :id "2668"^^xsd:integer . 
@@ -5499,7 +5499,7 @@
 
 :item_null_agricultureStrawberryJellyCookieBurned :id "20256"^^xsd:integer . 
 :item_null_agricultureStrawberryJellyCookieBurned :subId "141"^^xsd:integer . 
-:item_null_agricultureStrawberryJellyCookieBurned foaf:name "Strawberry Jelly Cookie (Burned)" . 
+:item_null_agricultureStrawberryJellyCookieBurned foaf:name "Strawberry Jelly Cookie Burned" . 
 :item_null_agricultureStrawberryJellyCookieBurned :name_intern "item.null.agricultureStrawberryJellyCookieBurned" . 
 
 :item_helmetChain :id "302"^^xsd:integer . 
@@ -5679,7 +5679,7 @@
 
 :railcraft_cube_brick_sandy :id "457"^^xsd:integer . 
 :railcraft_cube_brick_sandy :subId "5"^^xsd:integer . 
-:railcraft_cube_brick_sandy foaf:name "Sandy Brick (Obsolete)" . 
+:railcraft_cube_brick_sandy foaf:name "Sandy Brick Obsolete" . 
 :railcraft_cube_brick_sandy :name_intern "railcraft.cube.brick.sandy" . 
 
 :item_null_agricultureSugarCookieDough :id "20256"^^xsd:integer . 
@@ -5829,7 +5829,7 @@
 
 :item_null_agriculturePBJSandwichStrawberry :id "20256"^^xsd:integer . 
 :item_null_agriculturePBJSandwichStrawberry :subId "25"^^xsd:integer . 
-:item_null_agriculturePBJSandwichStrawberry foaf:name "PB&J Sandwich (Strawberry)" . 
+:item_null_agriculturePBJSandwichStrawberry foaf:name "PB&J Sandwich Strawberry" . 
 :item_null_agriculturePBJSandwichStrawberry :name_intern "item.null.agriculturePBJSandwichStrawberry" . 
 
 :item_projectred_illumination_fixture|11 :id "9035"^^xsd:integer . 
@@ -6339,7 +6339,7 @@
 
 :tile_extrautils__colorStoneBrick_7 :id "2504"^^xsd:integer . 
 :tile_extrautils__colorStoneBrick_7 :subId "7"^^xsd:integer . 
-:tile_extrautils__colorStoneBrick_7 foaf:name "Colored Bricks (Gray)" . 
+:tile_extrautils__colorStoneBrick_7 foaf:name "Colored Bricks Gray" . 
 :tile_extrautils__colorStoneBrick_7 :name_intern "tile.extrautils:colorStoneBrick.7" . 
 
 :item_misc :id "8829"^^xsd:integer . 
@@ -6384,7 +6384,7 @@
 
 :item_ElementEssence_earth :id "8569"^^xsd:integer . 
 :item_ElementEssence_earth :subId "2"^^xsd:integer . 
-:item_ElementEssence_earth foaf:name "§2Earth Essence" . 
+:item_ElementEssence_earth foaf:name "2Earth Essence" . 
 :item_ElementEssence_earth :name_intern "item.ElementEssence.earth" . 
 
 :item_tconstruct_ToolRod_Netherrack :id "14277"^^xsd:integer . 
@@ -6439,7 +6439,7 @@
 
 :item_thermalexpansion_material_dustBronze :id "20264"^^xsd:integer . 
 :item_thermalexpansion_material_dustBronze :subId "40"^^xsd:integer . 
-:item_thermalexpansion_material_dustBronze foaf:name "Tinker's Alloy Blend" . 
+:item_thermalexpansion_material_dustBronze foaf:name "Tinkers Alloy Blend" . 
 :item_thermalexpansion_material_dustBronze :name_intern "item.thermalexpansion.material.dustBronze" . 
 
 :tile_null :id "3710"^^xsd:integer . 
@@ -6524,7 +6524,7 @@
 
 :item_mfr_upgrade_radius_bronze :id "12267"^^xsd:integer . 
 :item_mfr_upgrade_radius_bronze :subId "4"^^xsd:integer . 
-:item_mfr_upgrade_radius_bronze foaf:name "Upgrade (Bronze)" . 
+:item_mfr_upgrade_radius_bronze foaf:name "Upgrade Bronze" . 
 :item_mfr_upgrade_radius_bronze :name_intern "item.mfr.upgrade.radius.bronze" . 
 
 :item_fishyFood :id "20513"^^xsd:integer . 
@@ -6579,7 +6579,7 @@
 
 :tile_mfr_conveyor_magenta :id "3121"^^xsd:integer . 
 :tile_mfr_conveyor_magenta :subId "2"^^xsd:integer . 
-:tile_mfr_conveyor_magenta foaf:name "Conveyor Belt (Magenta)" . 
+:tile_mfr_conveyor_magenta foaf:name "Conveyor Belt Magenta" . 
 :tile_mfr_conveyor_magenta :name_intern "tile.mfr.conveyor.magenta" . 
 
 :item_e_ingot_e_ingotBronze :id "13440"^^xsd:integer . 
@@ -6664,7 +6664,7 @@
 
 :item_mfr_laserfocus_black :id "12289"^^xsd:integer . 
 :item_mfr_laserfocus_black :subId "15"^^xsd:integer . 
-:item_mfr_laserfocus_black foaf:name "Laser Focus (Black)" . 
+:item_mfr_laserfocus_black foaf:name "Laser Focus Black" . 
 :item_mfr_laserfocus_black :name_intern "item.mfr.laserfocus.black" . 
 
 :item_tconstruct_bucket_Ardite :id "14357"^^xsd:integer . 
@@ -6774,7 +6774,7 @@
 
 :item_mfr_ceramicdye_magenta :id "12261"^^xsd:integer . 
 :item_mfr_ceramicdye_magenta :subId "2"^^xsd:integer . 
-:item_mfr_ceramicdye_magenta foaf:name "Ceramic Dye (Magenta)" . 
+:item_mfr_ceramicdye_magenta foaf:name "Ceramic Dye Magenta" . 
 :item_mfr_ceramicdye_magenta :name_intern "item.mfr.ceramicdye.magenta" . 
 
 :tile_trapdoor_maple :id "3323"^^xsd:integer . 
@@ -6849,7 +6849,7 @@
 
 :item_mfr_ceramicdye_pink :id "12261"^^xsd:integer . 
 :item_mfr_ceramicdye_pink :subId "6"^^xsd:integer . 
-:item_mfr_ceramicdye_pink foaf:name "Ceramic Dye (Pink)" . 
+:item_mfr_ceramicdye_pink foaf:name "Ceramic Dye Pink" . 
 :item_mfr_ceramicdye_pink :name_intern "item.mfr.ceramicdye.pink" . 
 
 :railcraft_wall_abyssal_brick :id "463"^^xsd:integer . 
@@ -6859,7 +6859,7 @@
 
 :tile_mfr_stainedglass_block_lightgray :id "3129"^^xsd:integer . 
 :tile_mfr_stainedglass_block_lightgray :subId "8"^^xsd:integer . 
-:tile_mfr_stainedglass_block_lightgray foaf:name "Stained Glass (Light Gray)" . 
+:tile_mfr_stainedglass_block_lightgray foaf:name "Stained Glass Light Gray" . 
 :tile_mfr_stainedglass_block_lightgray :name_intern "tile.mfr.stainedglass.block.lightgray" . 
 
 :tile_null :id "3707"^^xsd:integer . 
@@ -7079,7 +7079,7 @@
 
 :item_wraithEye :id "27485"^^xsd:integer . 
 :item_wraithEye :subId "0"^^xsd:integer . 
-:item_wraithEye foaf:name "Wraith's Eye" . 
+:item_wraithEye foaf:name "Wraiths Eye" . 
 :item_wraithEye :name_intern "item.wraithEye" . 
 
 :item_factorization__daybarrel :id "9318"^^xsd:integer . 
@@ -7109,7 +7109,7 @@
 
 :item_mfr_ceramicdye_purple :id "12261"^^xsd:integer . 
 :item_mfr_ceramicdye_purple :subId "10"^^xsd:integer . 
-:item_mfr_ceramicdye_purple foaf:name "Ceramic Dye (Purple)" . 
+:item_mfr_ceramicdye_purple foaf:name "Ceramic Dye Purple" . 
 :item_mfr_ceramicdye_purple :name_intern "item.mfr.ceramicdye.purple" . 
 
 :item_blockReplacer :id "7008"^^xsd:integer . 
@@ -7554,7 +7554,7 @@
 
 :tile_extrautils__colorWoodPlanks_11 :id "2519"^^xsd:integer . 
 :tile_extrautils__colorWoodPlanks_11 :subId "11"^^xsd:integer . 
-:tile_extrautils__colorWoodPlanks_11 foaf:name "Colored Wood Planks (Blue)" . 
+:tile_extrautils__colorWoodPlanks_11 foaf:name "Colored Wood Planks Blue" . 
 :tile_extrautils__colorWoodPlanks_11 :name_intern "tile.extrautils:colorWoodPlanks.11" . 
 
 :item_seatBack_BloodwoodSeatBack :id "22558"^^xsd:integer . 
@@ -7954,7 +7954,7 @@
 
 :item_CropEssence_nature :id "8523"^^xsd:integer . 
 :item_CropEssence_nature :subId "0"^^xsd:integer . 
-:item_CropEssence_nature foaf:name "§2Nature Essence" . 
+:item_CropEssence_nature foaf:name "2Nature Essence" . 
 :item_CropEssence_nature :name_intern "item.CropEssence.nature" . 
 
 :item_misc :id "8829"^^xsd:integer . 
@@ -8034,7 +8034,7 @@
 
 :item_null_agricultureSnickerDoodleBurned :id "20256"^^xsd:integer . 
 :item_null_agricultureSnickerDoodleBurned :subId "140"^^xsd:integer . 
-:item_null_agricultureSnickerDoodleBurned foaf:name "Snickerdoodle (Burned)" . 
+:item_null_agricultureSnickerDoodleBurned foaf:name "Snickerdoodle Burned" . 
 :item_null_agricultureSnickerDoodleBurned :name_intern "item.null.agricultureSnickerDoodleBurned" . 
 
 :tile_for_log6_3 :id "1412"^^xsd:integer . 
@@ -8054,7 +8054,7 @@
 
 :tile_extrautils__colorStoneBrick_11 :id "2504"^^xsd:integer . 
 :tile_extrautils__colorStoneBrick_11 :subId "11"^^xsd:integer . 
-:tile_extrautils__colorStoneBrick_11 foaf:name "Colored Bricks (Blue)" . 
+:tile_extrautils__colorStoneBrick_11 foaf:name "Colored Bricks Blue" . 
 :tile_extrautils__colorStoneBrick_11 :name_intern "tile.extrautils:colorStoneBrick.11" . 
 
 :tile_railcraft_brick_infernal_4 :id "467"^^xsd:integer . 
@@ -8149,7 +8149,7 @@
 
 :item_null_agricultureSugarCookieBurned :id "20256"^^xsd:integer . 
 :item_null_agricultureSugarCookieBurned :subId "143"^^xsd:integer . 
-:item_null_agricultureSugarCookieBurned foaf:name "Sugar Cookie (Burned)" . 
+:item_null_agricultureSugarCookieBurned foaf:name "Sugar Cookie Burned" . 
 :item_null_agricultureSugarCookieBurned :name_intern "item.null.agricultureSugarCookieBurned" . 
 
 :item_socket_module_81 :id "4426"^^xsd:integer . 
@@ -8224,7 +8224,7 @@
 
 :item_itemUpgrade :id "7122"^^xsd:integer . 
 :item_itemUpgrade :subId "13"^^xsd:integer . 
-:item_itemUpgrade foaf:name "Disconnection Upgrade (SOUTH)" . 
+:item_itemUpgrade foaf:name "Disconnection Upgrade SOUTH" . 
 :item_itemUpgrade :name_intern "item.itemUpgrade" . 
 
 :item_factorization__daybarrel :id "9318"^^xsd:integer . 
@@ -8289,7 +8289,7 @@
 
 :tile_mfr_stainedglass_block_red :id "3129"^^xsd:integer . 
 :tile_mfr_stainedglass_block_red :subId "14"^^xsd:integer . 
-:tile_mfr_stainedglass_block_red foaf:name "Stained Glass (Red)" . 
+:tile_mfr_stainedglass_block_red foaf:name "Stained Glass Red" . 
 :tile_mfr_stainedglass_block_red :name_intern "tile.mfr.stainedglass.block.red" . 
 
 :item_factorization__daybarrel :id "9318"^^xsd:integer . 
@@ -8454,7 +8454,7 @@
 
 :tile_extrautils__colorStoneBrick_5 :id "2504"^^xsd:integer . 
 :tile_extrautils__colorStoneBrick_5 :subId "5"^^xsd:integer . 
-:tile_extrautils__colorStoneBrick_5 foaf:name "Colored Bricks (Lime)" . 
+:tile_extrautils__colorStoneBrick_5 foaf:name "Colored Bricks Lime" . 
 :tile_extrautils__colorStoneBrick_5 :name_intern "tile.extrautils:colorStoneBrick.5" . 
 
 :tile_multiblock_injector :id "2026"^^xsd:integer . 
@@ -8484,7 +8484,7 @@
 
 :item_emperorChalice :id "27464"^^xsd:integer . 
 :item_emperorChalice :subId "0"^^xsd:integer . 
-:item_emperorChalice foaf:name "Emperor's Chalice" . 
+:item_emperorChalice foaf:name "Emperors Chalice" . 
 :item_emperorChalice :name_intern "item.emperorChalice" . 
 
 :tile_chestTrap :id "146"^^xsd:integer . 
@@ -8807,10 +8807,10 @@
 :tile_brMetal_2 foaf:name "Graphite Block" . 
 :tile_brMetal_2 :name_intern "tile.brMetal.2" . 
 
-:tile_Mimichite Ore :id "2431"^^xsd:integer . 
-:tile_Mimichite Ore :subId "2"^^xsd:integer . 
-:tile_Mimichite Ore foaf:name "Mimichite Ore" . 
-:tile_Mimichite Ore :name_intern "tile.Mimichite Ore" . 
+:tile_Mimichite___Ore :id "2431"^^xsd:integer . 
+:tile_Mimichite___Ore :subId "2"^^xsd:integer . 
+:tile_Mimichite___Ore foaf:name "Mimichite Ore" . 
+:tile_Mimichite___Ore :name_intern "tile.Mimichite Ore" . 
 
 :item_seatBack_PopularSeatBack :id "22571"^^xsd:integer . 
 :item_seatBack_PopularSeatBack :subId "18"^^xsd:integer . 
@@ -8929,7 +8929,7 @@
 
 :tile_extrautils__colorStoneBrick_3 :id "2504"^^xsd:integer . 
 :tile_extrautils__colorStoneBrick_3 :subId "3"^^xsd:integer . 
-:tile_extrautils__colorStoneBrick_3 foaf:name "Colored Bricks (Light Blue)" . 
+:tile_extrautils__colorStoneBrick_3 foaf:name "Colored Bricks Light Blue" . 
 :tile_extrautils__colorStoneBrick_3 :name_intern "tile.extrautils:colorStoneBrick.3" . 
 
 :item_waxCapsuleIce :id "13377"^^xsd:integer . 
@@ -9199,7 +9199,7 @@
 
 :item_EssenceCoal_strong :id "4420"^^xsd:integer . 
 :item_EssenceCoal_strong :subId "3"^^xsd:integer . 
-:item_EssenceCoal_strong foaf:name "§5Infused Coal" . 
+:item_EssenceCoal_strong foaf:name "5Infused Coal" . 
 :item_EssenceCoal_strong :name_intern "item.EssenceCoal.strong" . 
 
 :item_food :id "14258"^^xsd:integer . 
@@ -9344,7 +9344,7 @@
 
 :item_mfr_ceramicdye_white :id "12261"^^xsd:integer . 
 :item_mfr_ceramicdye_white :subId "0"^^xsd:integer . 
-:item_mfr_ceramicdye_white foaf:name "Ceramic Dye (White)" . 
+:item_mfr_ceramicdye_white foaf:name "Ceramic Dye White" . 
 :item_mfr_ceramicdye_white :name_intern "item.mfr.ceramicdye.white" . 
 
 :item_SC2__enchanter :id "29997"^^xsd:integer . 
@@ -9414,12 +9414,12 @@
 
 :item_null_agricultureApplePieBurned :id "20256"^^xsd:integer . 
 :item_null_agricultureApplePieBurned :subId "122"^^xsd:integer . 
-:item_null_agricultureApplePieBurned foaf:name "Apple Pie (Burned)" . 
+:item_null_agricultureApplePieBurned foaf:name "Apple Pie Burned" . 
 :item_null_agricultureApplePieBurned :name_intern "item.null.agricultureApplePieBurned" . 
 
 :item_item_pellet_0 :id "18273"^^xsd:integer . 
 :item_item_pellet_0 :subId "0"^^xsd:integer . 
-:item_item_pellet_0 foaf:name "TRISO Fuel Pellet (Fresh)" . 
+:item_item_pellet_0 foaf:name "TRISO Fuel Pellet Fresh" . 
 :item_item_pellet_0 :name_intern "item.item.pellet.0" . 
 
 :tile_trap_barricade_oak :id "1469"^^xsd:integer . 
@@ -9514,7 +9514,7 @@
 
 :tile_pressurePlate_MOSSY_hidden :id "1555"^^xsd:integer . 
 :tile_pressurePlate_MOSSY_hidden :subId "12"^^xsd:integer . 
-:tile_pressurePlate_MOSSY_hidden foaf:name "Pressure Plate (Shrouded)" . 
+:tile_pressurePlate_MOSSY_hidden foaf:name "Pressure Plate Shrouded" . 
 :tile_pressurePlate_MOSSY_hidden :name_intern "tile.pressurePlate.MOSSY.hidden" . 
 
 :BloodwoodLabel :id "2342"^^xsd:integer . 
@@ -9649,7 +9649,7 @@
 
 :item_mfr_upgrade_radius_silver :id "12267"^^xsd:integer . 
 :item_mfr_upgrade_radius_silver :subId "5"^^xsd:integer . 
-:item_mfr_upgrade_radius_silver foaf:name "Upgrade (Silver)" . 
+:item_mfr_upgrade_radius_silver foaf:name "Upgrade Silver" . 
 :item_mfr_upgrade_radius_silver :name_intern "item.mfr.upgrade.radius.silver" . 
 
 :BlackLinedPapayaCase :id "2319"^^xsd:integer . 
@@ -9669,12 +9669,12 @@
 
 :tile_extrautils__colorWoodPlanks_10 :id "2519"^^xsd:integer . 
 :tile_extrautils__colorWoodPlanks_10 :subId "10"^^xsd:integer . 
-:tile_extrautils__colorWoodPlanks_10 foaf:name "Colored Wood Planks (Purple)" . 
+:tile_extrautils__colorWoodPlanks_10 foaf:name "Colored Wood Planks Purple" . 
 :tile_extrautils__colorWoodPlanks_10 :name_intern "tile.extrautils:colorWoodPlanks.10" . 
 
 :item_item_slide :id "30781"^^xsd:integer . 
 :item_item_slide :subId "5"^^xsd:integer . 
-:item_item_slide foaf:name "Projector Slide (5)" . 
+:item_item_slide foaf:name "Projector Slide 5" . 
 :item_item_slide :name_intern "item.item.slide" . 
 
 :item_mffs__modeCube :id "11389"^^xsd:integer . 
@@ -9714,7 +9714,7 @@
 
 :item_CropEssence_diamond :id "8523"^^xsd:integer . 
 :item_CropEssence_diamond :subId "3"^^xsd:integer . 
-:item_CropEssence_diamond foaf:name "§9Diamond Essence" . 
+:item_CropEssence_diamond foaf:name "9Diamond Essence" . 
 :item_CropEssence_diamond :name_intern "item.CropEssence.diamond" . 
 
 :item_factorization__daybarrel :id "9318"^^xsd:integer . 
@@ -9944,7 +9944,7 @@
 
 :tile_extrautils__colorWoodPlanks_7 :id "2519"^^xsd:integer . 
 :tile_extrautils__colorWoodPlanks_7 :subId "7"^^xsd:integer . 
-:tile_extrautils__colorWoodPlanks_7 foaf:name "Colored Wood Planks (Gray)" . 
+:tile_extrautils__colorWoodPlanks_7 foaf:name "Colored Wood Planks Gray" . 
 :tile_extrautils__colorWoodPlanks_7 :name_intern "tile.extrautils:colorWoodPlanks.7" . 
 
 :tile_pearlBrick_white :id "1042"^^xsd:integer . 
@@ -10009,7 +10009,7 @@
 
 :item_factorization__tool/wrath_igniter :id "9263"^^xsd:integer . 
 :item_factorization__tool/wrath_igniter :subId "0"^^xsd:integer . 
-:item_factorization__tool/wrath_igniter foaf:name "Wrath Igniter (Going Away!)" . 
+:item_factorization__tool/wrath_igniter foaf:name "Wrath Igniter Going Away!" . 
 :item_factorization__tool/wrath_igniter :name_intern "item.factorization:tool/wrath_igniter" . 
 
 :item_mffs__moduleAntiHostile :id "11414"^^xsd:integer . 
@@ -10084,7 +10084,7 @@
 
 :tile_thermalexpansion_conduit_itemFastOpaque :id "20278"^^xsd:integer . 
 :tile_thermalexpansion_conduit_itemFastOpaque :subId "4099"^^xsd:integer . 
-:tile_thermalexpansion_conduit_itemFastOpaque foaf:name "Impulse Itemduct (Opaque)" . 
+:tile_thermalexpansion_conduit_itemFastOpaque foaf:name "Impulse Itemduct Opaque" . 
 :tile_thermalexpansion_conduit_itemFastOpaque :name_intern "tile.thermalexpansion.conduit.itemFastOpaque" . 
 
 :MagicPotionShelf :id "2307"^^xsd:integer . 
@@ -10167,10 +10167,10 @@
 :tile_multiblock_heater foaf:name "Preheater Unit Housing Edge" . 
 :tile_multiblock_heater :name_intern "tile.multiblock.heater" . 
 
-:tile_Mimichite Ore :id "2431"^^xsd:integer . 
-:tile_Mimichite Ore :subId "0"^^xsd:integer . 
-:tile_Mimichite Ore foaf:name "Mimichite Ore" . 
-:tile_Mimichite Ore :name_intern "tile.Mimichite Ore" . 
+:tile_Mimichite___Ore :id "2431"^^xsd:integer . 
+:tile_Mimichite___Ore :subId "0"^^xsd:integer . 
+:tile_Mimichite___Ore foaf:name "Mimichite Ore" . 
+:tile_Mimichite___Ore :name_intern "tile.Mimichite Ore" . 
 
 :item_ironwoodHoe :id "28927"^^xsd:integer . 
 :item_ironwoodHoe :subId "0"^^xsd:integer . 
@@ -10179,7 +10179,7 @@
 
 :item_salamanderEye :id "27477"^^xsd:integer . 
 :item_salamanderEye :subId "0"^^xsd:integer . 
-:item_salamanderEye foaf:name "Salamander's Eye" . 
+:item_salamanderEye foaf:name "Salamanders Eye" . 
 :item_salamanderEye :name_intern "item.salamanderEye" . 
 
 :enderio_blockFusedQuartz_fusedGlass :id "704"^^xsd:integer . 
@@ -10469,7 +10469,7 @@
 
 :railcraft_machine_beta_engine_steam_hobby :id "452"^^xsd:integer . 
 :railcraft_machine_beta_engine_steam_hobby :subId "7"^^xsd:integer . 
-:railcraft_machine_beta_engine_steam_hobby foaf:name "Hobbyist's Steam Engine" . 
+:railcraft_machine_beta_engine_steam_hobby foaf:name "Hobbyists Steam Engine" . 
 :railcraft_machine_beta_engine_steam_hobby :name_intern "railcraft.machine.beta.engine.steam.hobby" . 
 
 :tile_null :id "3709"^^xsd:integer . 
@@ -10764,7 +10764,7 @@
 
 :item_hammer :id "20564"^^xsd:integer . 
 :item_hammer :subId "0"^^xsd:integer . 
-:item_hammer foaf:name "Blacksmith's Hammer" . 
+:item_hammer foaf:name "Blacksmiths Hammer" . 
 :item_hammer :name_intern "item.hammer" . 
 
 :item_natura_axe_bloodwood :id "12685"^^xsd:integer . 
@@ -11049,7 +11049,7 @@
 
 :item_#item_railgun_15 :id "30777"^^xsd:integer . 
 :item_#item_railgun_15 :subId "15"^^xsd:integer . 
-:item_#item_railgun_15 foaf:name "RailGun Ammunition (32768 kg)" . 
+:item_#item_railgun_15 foaf:name "RailGun Ammunition 32768 kg" . 
 :item_#item_railgun_15 :name_intern "item.#item.railgun.15" . 
 
 :gendustry_upgrades_hell :id "5410"^^xsd:integer . 
@@ -11574,7 +11574,7 @@
 
 :tile_extrautils__colorStoneBrick_14 :id "2504"^^xsd:integer . 
 :tile_extrautils__colorStoneBrick_14 :subId "14"^^xsd:integer . 
-:tile_extrautils__colorStoneBrick_14 foaf:name "Colored Bricks (Red)" . 
+:tile_extrautils__colorStoneBrick_14 foaf:name "Colored Bricks Red" . 
 :tile_extrautils__colorStoneBrick_14 :name_intern "tile.extrautils:colorStoneBrick.14" . 
 
 :tile_planks :id "3700"^^xsd:integer . 
@@ -11599,7 +11599,7 @@
 
 :item_null_agricultureChocolateIceCreamChocolateSauce :id "20256"^^xsd:integer . 
 :item_null_agricultureChocolateIceCreamChocolateSauce :subId "91"^^xsd:integer . 
-:item_null_agricultureChocolateIceCreamChocolateSauce foaf:name "Chocolate Ice Cream (Chocolate Sauce)" . 
+:item_null_agricultureChocolateIceCreamChocolateSauce foaf:name "Chocolate Ice Cream Chocolate Sauce" . 
 :item_null_agricultureChocolateIceCreamChocolateSauce :name_intern "item.null.agricultureChocolateIceCreamChocolateSauce" . 
 
 :item_factorization__daybarrel :id "9318"^^xsd:integer . 
@@ -11669,7 +11669,7 @@
 
 :tile_litpumpkin :id "91"^^xsd:integer . 
 :tile_litpumpkin :subId "0"^^xsd:integer . 
-:tile_litpumpkin foaf:name "Jack o'Lantern" . 
+:tile_litpumpkin foaf:name "Jack oLantern" . 
 :tile_litpumpkin :name_intern "tile.litpumpkin" . 
 
 :item_modingots_74 :id "30901"^^xsd:integer . 
@@ -11754,7 +11754,7 @@
 
 :tile_mfr_stainedglass_pane_lightgray :id "3130"^^xsd:integer . 
 :tile_mfr_stainedglass_pane_lightgray :subId "8"^^xsd:integer . 
-:tile_mfr_stainedglass_pane_lightgray foaf:name "Stained Glass Pane (Light Gray)" . 
+:tile_mfr_stainedglass_pane_lightgray foaf:name "Stained Glass Pane Light Gray" . 
 :tile_mfr_stainedglass_pane_lightgray :name_intern "tile.mfr.stainedglass.pane.lightgray" . 
 
 :item_mSeedsArdite :id "8550"^^xsd:integer . 
@@ -11844,7 +11844,7 @@
 
 :tile_mfr_stainedglass_block_blue :id "3129"^^xsd:integer . 
 :tile_mfr_stainedglass_block_blue :subId "11"^^xsd:integer . 
-:tile_mfr_stainedglass_block_blue foaf:name "Stained Glass (Blue)" . 
+:tile_mfr_stainedglass_block_blue foaf:name "Stained Glass Blue" . 
 :tile_mfr_stainedglass_block_blue :name_intern "tile.mfr.stainedglass.block.blue" . 
 
 :item_factorization__daybarrel :id "9318"^^xsd:integer . 
@@ -11859,7 +11859,7 @@
 
 :tile_mfr_road_light_inverted_on :id "3132"^^xsd:integer . 
 :tile_mfr_road_light_inverted_on :subId "4"^^xsd:integer . 
-:tile_mfr_road_light_inverted_on foaf:name "Road Light (Inverted)" . 
+:tile_mfr_road_light_inverted_on foaf:name "Road Light Inverted" . 
 :tile_mfr_road_light_inverted_on :name_intern "tile.mfr.road.light.inverted.on" . 
 
 :block_slime_congealed_blue :id "3237"^^xsd:integer . 
@@ -12069,7 +12069,7 @@
 
 :item_mfr_laserfocus_gray :id "12289"^^xsd:integer . 
 :item_mfr_laserfocus_gray :subId "7"^^xsd:integer . 
-:item_mfr_laserfocus_gray foaf:name "Laser Focus (Gray)" . 
+:item_mfr_laserfocus_gray foaf:name "Laser Focus Gray" . 
 :item_mfr_laserfocus_gray :name_intern "item.mfr.laserfocus.gray" . 
 
 :item_PipePowerStone :id "19458"^^xsd:integer . 
@@ -12334,7 +12334,7 @@
 
 :item_foresterBag :id "13307"^^xsd:integer . 
 :item_foresterBag :subId "0"^^xsd:integer . 
-:item_foresterBag foaf:name "Forester's Backpack" . 
+:item_foresterBag foaf:name "Foresters Backpack" . 
 :item_foresterBag :name_intern "item.foresterBag" . 
 
 :item_mfr_fertilizer :id "12248"^^xsd:integer . 
@@ -12414,7 +12414,7 @@
 
 :item_#item_spring_0 :id "30764"^^xsd:integer . 
 :item_#item_spring_0 :subId "0"^^xsd:integer . 
-:item_#item_spring_0 foaf:name "Wind Spring (0 kJ)" . 
+:item_#item_spring_0 foaf:name "Wind Spring 0 kJ" . 
 :item_#item_spring_0 :name_intern "item.#item.spring.0" . 
 
 :item_ingotBronze :id "31972"^^xsd:integer . 
@@ -12489,7 +12489,7 @@
 
 :item_item_slide :id "30781"^^xsd:integer . 
 :item_item_slide :subId "8"^^xsd:integer . 
-:item_item_slide foaf:name "Projector Slide (8)" . 
+:item_item_slide foaf:name "Projector Slide 8" . 
 :item_item_slide :name_intern "item.item.slide" . 
 
 :item_seatBack_PurpleheartSeatBack :id "22556"^^xsd:integer . 
@@ -12569,7 +12569,7 @@
 
 :item_builderBackpack :id "13362"^^xsd:integer . 
 :item_builderBackpack :subId "0"^^xsd:integer . 
-:item_builderBackpack foaf:name "Builder's Backpack" . 
+:item_builderBackpack foaf:name "Builders Backpack" . 
 :item_builderBackpack :name_intern "item.builderBackpack" . 
 
 :tile_DyeBlock :id "2203"^^xsd:integer . 
@@ -12759,7 +12759,7 @@
 
 :item_#item_railgun_3 :id "30777"^^xsd:integer . 
 :item_#item_railgun_3 :subId "3"^^xsd:integer . 
-:item_#item_railgun_3 foaf:name "RailGun Ammunition (8 kg)" . 
+:item_#item_railgun_3 foaf:name "RailGun Ammunition 8 kg" . 
 :item_#item_railgun_3 :name_intern "item.#item.railgun.3" . 
 
 :item_modextracts_239 :id "30900"^^xsd:integer . 
@@ -12919,7 +12919,7 @@
 
 :item_openblocks_assistant_base :id "15232"^^xsd:integer . 
 :item_openblocks_assistant_base :subId "9"^^xsd:integer . 
-:item_openblocks_assistant_base foaf:name "Assistant's base" . 
+:item_openblocks_assistant_base foaf:name "Assistants base" . 
 :item_openblocks_assistant_base :name_intern "item.openblocks.assistant_base" . 
 
 :item_liquidContainer :id "14260"^^xsd:integer . 
@@ -12999,7 +12999,7 @@
 
 :ic2_itemrawcrystalmemory :id "30038"^^xsd:integer . 
 :ic2_itemrawcrystalmemory :subId "4"^^xsd:integer . 
-:ic2_itemrawcrystalmemory foaf:name "Crystal Memory (raw)" . 
+:ic2_itemrawcrystalmemory foaf:name "Crystal Memory raw" . 
 :ic2_itemrawcrystalmemory :name_intern "ic2.itemrawcrystalmemory" . 
 
 :item_worked :id "20570"^^xsd:integer . 
@@ -13259,7 +13259,7 @@
 
 :item_syringeBloody :id "31319"^^xsd:integer . 
 :item_syringeBloody :subId "0"^^xsd:integer . 
-:item_syringeBloody foaf:name "Syringe (Filled)" . 
+:item_syringeBloody foaf:name "Syringe Filled" . 
 :item_syringeBloody :name_intern "item.syringeBloody" . 
 
 :tile_BlockInfusedClay :id "3684"^^xsd:integer . 
@@ -13289,7 +13289,7 @@
 
 :item_mfr_ceramicdye_cyan :id "12261"^^xsd:integer . 
 :item_mfr_ceramicdye_cyan :subId "9"^^xsd:integer . 
-:item_mfr_ceramicdye_cyan foaf:name "Ceramic Dye (Cyan)" . 
+:item_mfr_ceramicdye_cyan foaf:name "Ceramic Dye Cyan" . 
 :item_mfr_ceramicdye_cyan :name_intern "item.mfr.ceramicdye.cyan" . 
 
 :item_factorization__daybarrel :id "9318"^^xsd:integer . 
@@ -13504,7 +13504,7 @@
 
 :item_mfr_meat_nugget_cooked :id "12284"^^xsd:integer . 
 :item_mfr_meat_nugget_cooked :subId "0"^^xsd:integer . 
-:item_mfr_meat_nugget_cooked foaf:name "Cooked "Meat" Nugget" . 
+:item_mfr_meat_nugget_cooked foaf:name "Cooked Meat Nugget" . 
 :item_mfr_meat_nugget_cooked :name_intern "item.mfr.meat.nugget.cooked" . 
 
 :tile_mfr_decorativebrick_snow_large :id "3133"^^xsd:integer . 
@@ -13639,7 +13639,7 @@
 
 :item_mfr_laserfocus_lightgray :id "12289"^^xsd:integer . 
 :item_mfr_laserfocus_lightgray :subId "8"^^xsd:integer . 
-:item_mfr_laserfocus_lightgray foaf:name "Laser Focus (Light Gray)" . 
+:item_mfr_laserfocus_lightgray foaf:name "Laser Focus Light Gray" . 
 :item_mfr_laserfocus_lightgray :name_intern "item.mfr.laserfocus.lightgray" . 
 
 :item_worked :id "20570"^^xsd:integer . 
@@ -13694,7 +13694,7 @@
 
 :item_thermalexpansion_component_tesseractFrameFull :id "20263"^^xsd:integer . 
 :item_thermalexpansion_component_tesseractFrameFull :subId "129"^^xsd:integer . 
-:item_thermalexpansion_component_tesseractFrameFull foaf:name "Tesseract Frame (Full)" . 
+:item_thermalexpansion_component_tesseractFrameFull foaf:name "Tesseract Frame Full" . 
 :item_thermalexpansion_component_tesseractFrameFull :name_intern "item.thermalexpansion.component.tesseractFrameFull" . 
 
 :tile_thermalexpansion_machine_assembler_name :id "2002"^^xsd:integer . 
@@ -13814,7 +13814,7 @@
 
 :item_item_slide :id "30781"^^xsd:integer . 
 :item_item_slide :subId "10"^^xsd:integer . 
-:item_item_slide foaf:name "Projector Slide (10)" . 
+:item_item_slide foaf:name "Projector Slide 10" . 
 :item_item_slide :name_intern "item.item.slide" . 
 
 :extrabees_block_geneticMachine :id "1369"^^xsd:integer . 
@@ -13914,7 +13914,7 @@
 
 :item_tconstruct_bucket_Cow :id "14357"^^xsd:integer . 
 :item_tconstruct_bucket_Cow :subId "16"^^xsd:integer . 
-:item_tconstruct_bucket_Cow foaf:name "Bucket o' Blood" . 
+:item_tconstruct_bucket_Cow foaf:name "Bucket o Blood" . 
 :item_tconstruct_bucket_Cow :name_intern "item.tconstruct.bucket.Cow" . 
 
 :tile_log :id "3704"^^xsd:integer . 
@@ -14049,7 +14049,7 @@
 
 :item_mfr_upgrade_radius_diamond :id "12267"^^xsd:integer . 
 :item_mfr_upgrade_radius_diamond :subId "8"^^xsd:integer . 
-:item_mfr_upgrade_radius_diamond foaf:name "Upgrade (Diamond)" . 
+:item_mfr_upgrade_radius_diamond foaf:name "Upgrade Diamond" . 
 :item_mfr_upgrade_radius_diamond :name_intern "item.mfr.upgrade.radius.diamond" . 
 
 :item_factorization__daybarrel :id "9318"^^xsd:integer . 
@@ -14664,7 +14664,7 @@
 
 :item_null_agricultureAppleCinnamonCookieBurned :id "20256"^^xsd:integer . 
 :item_null_agricultureAppleCinnamonCookieBurned :subId "121"^^xsd:integer . 
-:item_null_agricultureAppleCinnamonCookieBurned foaf:name "Apple Cinnamon Cooke (Burned)" . 
+:item_null_agricultureAppleCinnamonCookieBurned foaf:name "Apple Cinnamon Cooke Burned" . 
 :item_null_agricultureAppleCinnamonCookieBurned :name_intern "item.null.agricultureAppleCinnamonCookieBurned" . 
 
 :item_worked :id "20570"^^xsd:integer . 
@@ -14674,7 +14674,7 @@
 
 :tile_extrautils__colorWoodPlanks_8 :id "2519"^^xsd:integer . 
 :tile_extrautils__colorWoodPlanks_8 :subId "8"^^xsd:integer . 
-:tile_extrautils__colorWoodPlanks_8 foaf:name "Colored Wood Planks (Light Gray)" . 
+:tile_extrautils__colorWoodPlanks_8 foaf:name "Colored Wood Planks Light Gray" . 
 :tile_extrautils__colorWoodPlanks_8 :name_intern "tile.extrautils:colorWoodPlanks.8" . 
 
 :item_openblocks_golden_eye :id "15251"^^xsd:integer . 
@@ -14784,7 +14784,7 @@
 
 :tile_mfr_stainedglass_block_purple :id "3129"^^xsd:integer . 
 :tile_mfr_stainedglass_block_purple :subId "10"^^xsd:integer . 
-:tile_mfr_stainedglass_block_purple foaf:name "Stained Glass (Purple)" . 
+:tile_mfr_stainedglass_block_purple foaf:name "Stained Glass Purple" . 
 :tile_mfr_stainedglass_block_purple :name_intern "tile.mfr.stainedglass.block.purple" . 
 
 :item_thermalexpansion_component_machineFrame :id "20263"^^xsd:integer . 
@@ -14999,7 +14999,7 @@
 
 :item_null_agriculturePastaBurned :id "20256"^^xsd:integer . 
 :item_null_agriculturePastaBurned :subId "134"^^xsd:integer . 
-:item_null_agriculturePastaBurned foaf:name "Pasta (Burned)" . 
+:item_null_agriculturePastaBurned foaf:name "Pasta Burned" . 
 :item_null_agriculturePastaBurned :name_intern "item.null.agriculturePastaBurned" . 
 
 :tile_planks :id "3700"^^xsd:integer . 
@@ -15284,7 +15284,7 @@
 
 :item_mfr_laserfocus_magenta :id "12289"^^xsd:integer . 
 :item_mfr_laserfocus_magenta :subId "2"^^xsd:integer . 
-:item_mfr_laserfocus_magenta foaf:name "Laser Focus (Magenta)" . 
+:item_mfr_laserfocus_magenta foaf:name "Laser Focus Magenta" . 
 :item_mfr_laserfocus_magenta :name_intern "item.mfr.laserfocus.magenta" . 
 
 :tile_railcraft_post_metal_purple :id "460"^^xsd:integer . 
@@ -15514,12 +15514,12 @@
 
 :tile_thermalexpansion_conduit_itemFastOpaque_name :id "2008"^^xsd:integer . 
 :tile_thermalexpansion_conduit_itemFastOpaque_name :subId "8"^^xsd:integer . 
-:tile_thermalexpansion_conduit_itemFastOpaque_name foaf:name "Impulse Itemduct (Opaque)" . 
+:tile_thermalexpansion_conduit_itemFastOpaque_name foaf:name "Impulse Itemduct Opaque" . 
 :tile_thermalexpansion_conduit_itemFastOpaque_name :name_intern "tile.thermalexpansion.conduit.itemFastOpaque.name" . 
 
 :item_thermalexpansion_component_conduitEnergyReinforcedEmpty :id "20263"^^xsd:integer . 
 :item_thermalexpansion_component_conduitEnergyReinforcedEmpty :subId "96"^^xsd:integer . 
-:item_thermalexpansion_component_conduitEnergyReinforcedEmpty foaf:name "Redstone Energy Conduit (Empty)" . 
+:item_thermalexpansion_component_conduitEnergyReinforcedEmpty foaf:name "Redstone Energy Conduit Empty" . 
 :item_thermalexpansion_component_conduitEnergyReinforcedEmpty :name_intern "item.thermalexpansion.component.conduitEnergyReinforcedEmpty" . 
 
 :item_SC2__wooden_wheels :id "29998"^^xsd:integer . 
@@ -16114,7 +16114,7 @@
 
 :item_mfr_laserfocus_blue :id "12289"^^xsd:integer . 
 :item_mfr_laserfocus_blue :subId "11"^^xsd:integer . 
-:item_mfr_laserfocus_blue foaf:name "Laser Focus (Blue)" . 
+:item_mfr_laserfocus_blue foaf:name "Laser Focus Blue" . 
 :item_mfr_laserfocus_blue :name_intern "item.mfr.laserfocus.blue" . 
 
 :SilverbellPotionShelf :id "2338"^^xsd:integer . 
@@ -16159,7 +16159,7 @@
 
 :tile_mfr_conveyor_white :id "3121"^^xsd:integer . 
 :tile_mfr_conveyor_white :subId "0"^^xsd:integer . 
-:tile_mfr_conveyor_white foaf:name "Conveyor Belt (White)" . 
+:tile_mfr_conveyor_white foaf:name "Conveyor Belt White" . 
 :tile_mfr_conveyor_white :name_intern "tile.mfr.conveyor.white" . 
 
 :CitrusSeat :id "2367"^^xsd:integer . 
@@ -16224,7 +16224,7 @@
 
 :item_SC2__steves_arcade :id "29997"^^xsd:integer . 
 :item_SC2__steves_arcade :subId "78"^^xsd:integer . 
-:item_SC2__steves_arcade foaf:name "Steve's Arcade" . 
+:item_SC2__steves_arcade foaf:name "Steves Arcade" . 
 :item_SC2__steves_arcade :name_intern "item.SC2:steves_arcade" . 
 
 :tile_lampsOn_red :id "1053"^^xsd:integer . 
@@ -16329,7 +16329,7 @@
 
 :item_EssenceCoal_extreme :id "4420"^^xsd:integer . 
 :item_EssenceCoal_extreme :subId "4"^^xsd:integer . 
-:item_EssenceCoal_extreme foaf:name "§6Infused Coal" . 
+:item_EssenceCoal_extreme foaf:name "6Infused Coal" . 
 :item_EssenceCoal_extreme :name_intern "item.EssenceCoal.extreme" . 
 
 :item_projectred_illumination_fixture|2 :id "9035"^^xsd:integer . 
@@ -16354,7 +16354,7 @@
 
 :item_diggerBag :id "13306"^^xsd:integer . 
 :item_diggerBag :subId "0"^^xsd:integer . 
-:item_diggerBag foaf:name "Digger's Backpack" . 
+:item_diggerBag foaf:name "Diggers Backpack" . 
 :item_diggerBag :name_intern "item.diggerBag" . 
 
 :tile_railcraft_stonelamp_stone :id "479"^^xsd:integer . 
@@ -16399,7 +16399,7 @@
 
 :item_ladle :id "20562"^^xsd:integer . 
 :item_ladle :subId "0"^^xsd:integer . 
-:item_ladle foaf:name "§6Ladle" . 
+:item_ladle foaf:name "6Ladle" . 
 :item_ladle :name_intern "item.ladle" . 
 
 :tile_PotionCrystal_13 :id "777"^^xsd:integer . 
@@ -16569,7 +16569,7 @@
 
 :tile_tankBlocks_normal :id "1078"^^xsd:integer . 
 :tile_tankBlocks_normal :subId "0"^^xsd:integer . 
-:tile_tankBlocks_normal foaf:name "§6Fluid Tank" . 
+:tile_tankBlocks_normal foaf:name "6Fluid Tank" . 
 :tile_tankBlocks_normal :name_intern "tile.tankBlocks.normal" . 
 
 :item_worked :id "20570"^^xsd:integer . 
@@ -16604,7 +16604,7 @@
 
 :tile_effectJar :id "1753"^^xsd:integer . 
 :tile_effectJar :subId "0"^^xsd:integer . 
-:tile_effectJar foaf:name "Bee Collector's Jar" . 
+:tile_effectJar foaf:name "Bee Collectors Jar" . 
 :tile_effectJar :name_intern "tile.effectJar" . 
 
 :item_apple :id "260"^^xsd:integer . 
@@ -16819,7 +16819,7 @@
 
 :item_magicInfusionStone_master :id "8605"^^xsd:integer . 
 :item_magicInfusionStone_master :subId "4"^^xsd:integer . 
-:item_magicInfusionStone_master foaf:name "§6Master Infusion Stone" . 
+:item_magicInfusionStone_master foaf:name "6Master Infusion Stone" . 
 :item_magicInfusionStone_master :name_intern "item.magicInfusionStone.master" . 
 
 :item_backpack_brown :id "18586"^^xsd:integer . 
@@ -16869,7 +16869,7 @@
 
 :item_null_agriculturePumpkinCookieBurned :id "20256"^^xsd:integer . 
 :item_null_agriculturePumpkinCookieBurned :subId "136"^^xsd:integer . 
-:item_null_agriculturePumpkinCookieBurned foaf:name "Pumpkin Cookie (Burned)" . 
+:item_null_agriculturePumpkinCookieBurned foaf:name "Pumpkin Cookie Burned" . 
 :item_null_agriculturePumpkinCookieBurned :name_intern "item.null.agriculturePumpkinCookieBurned" . 
 
 :tile_pearlBlock_gold :id "1056"^^xsd:integer . 
@@ -16969,7 +16969,7 @@
 
 :tile_mfr_conveyor_gray :id "3121"^^xsd:integer . 
 :tile_mfr_conveyor_gray :subId "7"^^xsd:integer . 
-:tile_mfr_conveyor_gray foaf:name "Conveyor Belt (Gray)" . 
+:tile_mfr_conveyor_gray foaf:name "Conveyor Belt Gray" . 
 :tile_mfr_conveyor_gray :name_intern "tile.mfr.conveyor.gray" . 
 
 :item_liquidContainer :id "8766"^^xsd:integer . 
@@ -17069,7 +17069,7 @@
 
 :item_Chisel__ballomoss :id "8070"^^xsd:integer . 
 :item_Chisel__ballomoss :subId "0"^^xsd:integer . 
-:item_Chisel__ballomoss foaf:name "Ball O' Moss" . 
+:item_Chisel__ballomoss foaf:name "Ball O Moss" . 
 :item_Chisel__ballomoss :name_intern "item.Chisel:ballomoss" . 
 
 :item_SC2__blade_arm :id "29998"^^xsd:integer . 
@@ -17154,7 +17154,7 @@
 
 :item_itemUpgrade :id "7122"^^xsd:integer . 
 :item_itemUpgrade :subId "10"^^xsd:integer . 
-:item_itemUpgrade foaf:name "Disconnection Upgrade (UP)" . 
+:item_itemUpgrade foaf:name "Disconnection Upgrade UP" . 
 :item_itemUpgrade :name_intern "item.itemUpgrade" . 
 
 :tile_blockRedstone :id "152"^^xsd:integer . 
@@ -17269,7 +17269,7 @@
 
 :tile_extrautils__colorWoodPlanks_4 :id "2519"^^xsd:integer . 
 :tile_extrautils__colorWoodPlanks_4 :subId "4"^^xsd:integer . 
-:tile_extrautils__colorWoodPlanks_4 foaf:name "Colored Wood Planks (Yellow)" . 
+:tile_extrautils__colorWoodPlanks_4 foaf:name "Colored Wood Planks Yellow" . 
 :tile_extrautils__colorWoodPlanks_4 :name_intern "tile.extrautils:colorWoodPlanks.4" . 
 
 :item_factorization__daybarrel :id "9318"^^xsd:integer . 
@@ -17284,7 +17284,7 @@
 
 :item_upgrade_structural_2 :id "25070"^^xsd:integer . 
 :item_upgrade_structural_2 :subId "1"^^xsd:integer . 
-:item_upgrade_structural_2 foaf:name "Structural MK II (Iron Ingot)" . 
+:item_upgrade_structural_2 foaf:name "Structural MK II Iron Ingot" . 
 :item_upgrade_structural_2 :name_intern "item.upgrade.structural.2" . 
 
 :item_portalModule_3 :id "10294"^^xsd:integer . 
@@ -17309,7 +17309,7 @@
 
 :item_#item_railgun_1 :id "30777"^^xsd:integer . 
 :item_#item_railgun_1 :subId "1"^^xsd:integer . 
-:item_#item_railgun_1 foaf:name "RailGun Ammunition (2 kg)" . 
+:item_#item_railgun_1 foaf:name "RailGun Ammunition 2 kg" . 
 :item_#item_railgun_1 :name_intern "item.#item.railgun.1" . 
 
 :item_powerArmorComponent_componentComputerChip :id "25026"^^xsd:integer . 
@@ -17409,7 +17409,7 @@
 
 :tile_mfr_stainedglass_block_black :id "3129"^^xsd:integer . 
 :tile_mfr_stainedglass_block_black :subId "15"^^xsd:integer . 
-:tile_mfr_stainedglass_block_black foaf:name "Stained Glass (Black)" . 
+:tile_mfr_stainedglass_block_black foaf:name "Stained Glass Black" . 
 :tile_mfr_stainedglass_block_black :name_intern "tile.mfr.stainedglass.block.black" . 
 
 :item_factorization__ore/gravel/SILVER :id "9290"^^xsd:integer . 
@@ -17554,7 +17554,7 @@
 
 :tile_extrautils__extractor_base_12 :id "2513"^^xsd:integer . 
 :tile_extrautils__extractor_base_12 :subId "12"^^xsd:integer . 
-:tile_extrautils__extractor_base_12 foaf:name "Transfer Node (Energy)" . 
+:tile_extrautils__extractor_base_12 foaf:name "Transfer Node Energy" . 
 :tile_extrautils__extractor_base_12 :name_intern "tile.extrautils:extractor_base.12" . 
 
 :item_thermalexpansion_tool_invarShovel :id "20270"^^xsd:integer . 
@@ -17627,10 +17627,10 @@
 :item_e_dusts_e_impureArditeDust foaf:name "Impure Ardite Dust" . 
 :item_e_dusts_e_impureArditeDust :name_intern "item.e_dusts.e_impureArditeDust" . 
 
-:tile_Mimic Block :id "2432"^^xsd:integer . 
-:tile_Mimic Block :subId "32767"^^xsd:integer . 
-:tile_Mimic Block foaf:name "§9Mimic Block" . 
-:tile_Mimic Block :name_intern "tile.Mimic Block" . 
+:tile_Mimic___Block :id "2432"^^xsd:integer . 
+:tile_Mimic___Block :subId "32767"^^xsd:integer . 
+:tile_Mimic___Block foaf:name "9Mimic Block" . 
+:tile_Mimic___Block :name_intern "tile.Mimic Block" . 
 
 :tile_netherores_ore_saltpeter :id "1442"^^xsd:integer . 
 :tile_netherores_ore_saltpeter :subId "14"^^xsd:integer . 
@@ -17834,7 +17834,7 @@
 
 :item_railcraft_backpack_trackman_t1 :id "7764"^^xsd:integer . 
 :item_railcraft_backpack_trackman_t1 :subId "0"^^xsd:integer . 
-:item_railcraft_backpack_trackman_t1 foaf:name "Trackman's Backpack" . 
+:item_railcraft_backpack_trackman_t1 foaf:name "Trackmans Backpack" . 
 :item_railcraft_backpack_trackman_t1 :name_intern "item.railcraft.backpack.trackman.t1" . 
 
 :item_worked :id "20570"^^xsd:integer . 
@@ -17924,7 +17924,7 @@
 
 :tile_mfr_stainedglass_pane_white :id "3130"^^xsd:integer . 
 :tile_mfr_stainedglass_pane_white :subId "0"^^xsd:integer . 
-:tile_mfr_stainedglass_pane_white foaf:name "Stained Glass Pane (White)" . 
+:tile_mfr_stainedglass_pane_white foaf:name "Stained Glass Pane White" . 
 :tile_mfr_stainedglass_pane_white :name_intern "tile.mfr.stainedglass.pane.white" . 
 
 :tile_dnaInsulator :id "997"^^xsd:integer . 
@@ -17984,7 +17984,7 @@
 
 :item_item_gravelgun :id "30769"^^xsd:integer . 
 :item_item_gravelgun :subId "0"^^xsd:integer . 
-:item_item_gravelgun foaf:name "Gravel Gun (0 kJ)" . 
+:item_item_gravelgun foaf:name "Gravel Gun 0 kJ" . 
 :item_item_gravelgun :name_intern "item.item.gravelgun" . 
 
 :item_projectred_exploration_backpack_bporange :id "9004"^^xsd:integer . 
@@ -18224,7 +18224,7 @@
 
 :item_thermalexpansion_material_gearBronze :id "20264"^^xsd:integer . 
 :item_thermalexpansion_material_gearBronze :subId "228"^^xsd:integer . 
-:item_thermalexpansion_material_gearBronze foaf:name "Tinker's Alloy Gear" . 
+:item_thermalexpansion_material_gearBronze foaf:name "Tinkers Alloy Gear" . 
 :item_thermalexpansion_material_gearBronze :name_intern "item.thermalexpansion.material.gearBronze" . 
 
 :item_mSeedsXP :id "8532"^^xsd:integer . 
@@ -18299,7 +18299,7 @@
 
 :item_CropEssence_glowstone :id "8523"^^xsd:integer . 
 :item_CropEssence_glowstone :subId "2"^^xsd:integer . 
-:item_CropEssence_glowstone foaf:name "§EGlowstone Essence" . 
+:item_CropEssence_glowstone foaf:name "EGlowstone Essence" . 
 :item_CropEssence_glowstone :name_intern "item.CropEssence.glowstone" . 
 
 :item_ironwoodBoots :id "28925"^^xsd:integer . 
@@ -18339,7 +18339,7 @@
 
 :tile_mfr_stainedglass_block_orange :id "3129"^^xsd:integer . 
 :tile_mfr_stainedglass_block_orange :subId "1"^^xsd:integer . 
-:tile_mfr_stainedglass_block_orange foaf:name "Stained Glass (Orange)" . 
+:tile_mfr_stainedglass_block_orange foaf:name "Stained Glass Orange" . 
 :tile_mfr_stainedglass_block_orange :name_intern "tile.mfr.stainedglass.block.orange" . 
 
 :tile_log :id "3704"^^xsd:integer . 
@@ -18399,13 +18399,13 @@
 
 :item_mirror_magic :id "20521"^^xsd:integer . 
 :item_mirror_magic :subId "0"^^xsd:integer . 
-:item_mirror_magic foaf:name "Magic Mirror (3)" . 
+:item_mirror_magic foaf:name "Magic Mirror 3" . 
 :item_mirror_magic :name_intern "item.mirror.magic" . 
 
-:tile_Mimic Block :id "2432"^^xsd:integer . 
-:tile_Mimic Block :subId "0"^^xsd:integer . 
-:tile_Mimic Block foaf:name "§9Mimic Block" . 
-:tile_Mimic Block :name_intern "tile.Mimic Block" . 
+:tile_Mimic___Block :id "2432"^^xsd:integer . 
+:tile_Mimic___Block :subId "0"^^xsd:integer . 
+:tile_Mimic___Block foaf:name "9Mimic Block" . 
+:tile_Mimic___Block :name_intern "tile.Mimic Block" . 
 
 :AppEng_Materials_AdvancedProcessorAssembly :id "4362"^^xsd:integer . 
 :AppEng_Materials_AdvancedProcessorAssembly :subId "21"^^xsd:integer . 
@@ -18419,12 +18419,12 @@
 
 :item_mfr_laserfocus_pink :id "12289"^^xsd:integer . 
 :item_mfr_laserfocus_pink :subId "6"^^xsd:integer . 
-:item_mfr_laserfocus_pink foaf:name "Laser Focus (Pink)" . 
+:item_mfr_laserfocus_pink foaf:name "Laser Focus Pink" . 
 :item_mfr_laserfocus_pink :name_intern "item.mfr.laserfocus.pink" . 
 
 :item_#item_railgun_11 :id "30777"^^xsd:integer . 
 :item_#item_railgun_11 :subId "11"^^xsd:integer . 
-:item_#item_railgun_11 foaf:name "RailGun Ammunition (2048 kg)" . 
+:item_#item_railgun_11 foaf:name "RailGun Ammunition 2048 kg" . 
 :item_#item_railgun_11 :name_intern "item.#item.railgun.11" . 
 
 :tile_CrystalLamp_4 :id "772"^^xsd:integer . 
@@ -18549,7 +18549,7 @@
 
 :item_MagicEssence_ess :id "8525"^^xsd:integer . 
 :item_MagicEssence_ess :subId "1"^^xsd:integer . 
-:item_MagicEssence_ess foaf:name "§2Weak Essence" . 
+:item_MagicEssence_ess foaf:name "2Weak Essence" . 
 :item_MagicEssence_ess :name_intern "item.MagicEssence.ess" . 
 
 :tile_musicBlock :id "25"^^xsd:integer . 
@@ -18759,7 +18759,7 @@
 
 :item_thermalexpansion_material_nuggetBronze :id "20264"^^xsd:integer . 
 :item_thermalexpansion_material_nuggetBronze :subId "104"^^xsd:integer . 
-:item_thermalexpansion_material_nuggetBronze foaf:name "Tinker's Alloy Nugget" . 
+:item_thermalexpansion_material_nuggetBronze foaf:name "Tinkers Alloy Nugget" . 
 :item_thermalexpansion_material_nuggetBronze :name_intern "item.thermalexpansion.material.nuggetBronze" . 
 
 :item_beefCooked :id "364"^^xsd:integer . 
@@ -18859,7 +18859,7 @@
 
 :item_thermalexpansion_component_cellReinforcedFrameEmpty :id "20263"^^xsd:integer . 
 :item_thermalexpansion_component_cellReinforcedFrameEmpty :subId "72"^^xsd:integer . 
-:item_thermalexpansion_component_cellReinforcedFrameEmpty foaf:name "Redstone Energy Cell Frame (Empty)" . 
+:item_thermalexpansion_component_cellReinforcedFrameEmpty foaf:name "Redstone Energy Cell Frame Empty" . 
 :item_thermalexpansion_component_cellReinforcedFrameEmpty :name_intern "item.thermalexpansion.component.cellReinforcedFrameEmpty" . 
 
 :item_natura_shovel_fusewood :id "12692"^^xsd:integer . 
@@ -18889,7 +18889,7 @@
 
 :item_item_slide :id "30781"^^xsd:integer . 
 :item_item_slide :subId "19"^^xsd:integer . 
-:item_item_slide foaf:name "Projector Slide (19)" . 
+:item_item_slide foaf:name "Projector Slide 19" . 
 :item_item_slide :name_intern "item.item.slide" . 
 
 :tile_ToolForge :id "1468"^^xsd:integer . 
@@ -18989,7 +18989,7 @@
 
 :tile_extrautils__colorWoodPlanks_12 :id "2519"^^xsd:integer . 
 :tile_extrautils__colorWoodPlanks_12 :subId "12"^^xsd:integer . 
-:tile_extrautils__colorWoodPlanks_12 foaf:name "Colored Wood Planks (Brown)" . 
+:tile_extrautils__colorWoodPlanks_12 foaf:name "Colored Wood Planks Brown" . 
 :tile_extrautils__colorWoodPlanks_12 :name_intern "tile.extrautils:colorWoodPlanks.12" . 
 
 :item_PipeItemsCrossover :id "10561"^^xsd:integer . 
@@ -19349,12 +19349,12 @@
 
 :item_apiaristLegs :id "13358"^^xsd:integer . 
 :item_apiaristLegs :subId "0"^^xsd:integer . 
-:item_apiaristLegs foaf:name "Apiarist's Pants" . 
+:item_apiaristLegs foaf:name "Apiarists Pants" . 
 :item_apiaristLegs :name_intern "item.apiaristLegs" . 
 
 :tile_mfr_stainedglass_pane_magenta :id "3130"^^xsd:integer . 
 :tile_mfr_stainedglass_pane_magenta :subId "2"^^xsd:integer . 
-:tile_mfr_stainedglass_pane_magenta foaf:name "Stained Glass Pane (Magenta)" . 
+:tile_mfr_stainedglass_pane_magenta foaf:name "Stained Glass Pane Magenta" . 
 :tile_mfr_stainedglass_pane_magenta :name_intern "tile.mfr.stainedglass.pane.magenta" . 
 
 :tile_null :id "3710"^^xsd:integer . 
@@ -19539,7 +19539,7 @@
 
 :tile_extrautils__colorStoneBrick_15 :id "2504"^^xsd:integer . 
 :tile_extrautils__colorStoneBrick_15 :subId "15"^^xsd:integer . 
-:tile_extrautils__colorStoneBrick_15 foaf:name "Colored Bricks (Black)" . 
+:tile_extrautils__colorStoneBrick_15 foaf:name "Colored Bricks Black" . 
 :tile_extrautils__colorStoneBrick_15 :name_intern "tile.extrautils:colorStoneBrick.15" . 
 
 :item_factorization__daybarrel :id "9318"^^xsd:integer . 
@@ -19859,7 +19859,7 @@
 
 :item_apiaristHelmet :id "13356"^^xsd:integer . 
 :item_apiaristHelmet :subId "0"^^xsd:integer . 
-:item_apiaristHelmet foaf:name "Apiarist's Hat" . 
+:item_apiaristHelmet foaf:name "Apiarists Hat" . 
 :item_apiaristHelmet :name_intern "item.apiaristHelmet" . 
 
 :item_null :id "27462"^^xsd:integer . 
@@ -20004,7 +20004,7 @@
 
 :item_mfr_ceramicdye_blue :id "12261"^^xsd:integer . 
 :item_mfr_ceramicdye_blue :subId "11"^^xsd:integer . 
-:item_mfr_ceramicdye_blue foaf:name "Ceramic Dye (Blue)" . 
+:item_mfr_ceramicdye_blue foaf:name "Ceramic Dye Blue" . 
 :item_mfr_ceramicdye_blue :name_intern "item.mfr.ceramicdye.blue" . 
 
 :AppEng_Blocks_TransitionPlane :id "853"^^xsd:integer . 
@@ -20054,7 +20054,7 @@
 
 :item_item_slide :id "30781"^^xsd:integer . 
 :item_item_slide :subId "23"^^xsd:integer . 
-:item_item_slide foaf:name "Projector Slide (23)" . 
+:item_item_slide foaf:name "Projector Slide 23" . 
 :item_item_slide :name_intern "item.item.slide" . 
 
 :railcraft_slab_infernal_cobble :id "465"^^xsd:integer . 
@@ -20439,7 +20439,7 @@
 
 :tile_weightedPlate_heavy :id "148"^^xsd:integer . 
 :tile_weightedPlate_heavy :subId "32767"^^xsd:integer . 
-:tile_weightedPlate_heavy foaf:name "Weighted Pressure Plate (Heavy)" . 
+:tile_weightedPlate_heavy foaf:name "Weighted Pressure Plate Heavy" . 
 :tile_weightedPlate_heavy :name_intern "tile.weightedPlate_heavy" . 
 
 :item_SC2__entity_analyzer :id "29998"^^xsd:integer . 
@@ -20459,7 +20459,7 @@
 
 :tile_thermalexpansion_storage_bronze_name :id "2012"^^xsd:integer . 
 :tile_thermalexpansion_storage_bronze_name :subId "8"^^xsd:integer . 
-:tile_thermalexpansion_storage_bronze_name foaf:name "Tinker's Alloy Block" . 
+:tile_thermalexpansion_storage_bronze_name foaf:name "Tinkers Alloy Block" . 
 :tile_thermalexpansion_storage_bronze_name :name_intern "tile.thermalexpansion.storage.bronze.name" . 
 
 :item_factorization__daybarrel :id "9318"^^xsd:integer . 
@@ -20469,7 +20469,7 @@
 
 :item_itemUpgrade :id "7122"^^xsd:integer . 
 :item_itemUpgrade :subId "5"^^xsd:integer . 
-:item_itemUpgrade foaf:name "Sneaky Upgrade (WEST)" . 
+:item_itemUpgrade foaf:name "Sneaky Upgrade WEST" . 
 :item_itemUpgrade :name_intern "item.itemUpgrade" . 
 
 :tile_netherores_ore_iron :id "1440"^^xsd:integer . 
@@ -20489,7 +20489,7 @@
 
 :tile_extrautils__filing_1 :id "2524"^^xsd:integer . 
 :tile_extrautils__filing_1 :subId "1"^^xsd:integer . 
-:tile_extrautils__filing_1 foaf:name "Filing Cabinet (Advanced)" . 
+:tile_extrautils__filing_1 foaf:name "Filing Cabinet Advanced" . 
 :tile_extrautils__filing_1 :name_intern "tile.extrautils:filing.1" . 
 
 :item_modingots_52 :id "30901"^^xsd:integer . 
@@ -20564,7 +20564,7 @@
 
 :item_null_agricultureButterCookieBurned :id "20256"^^xsd:integer . 
 :item_null_agricultureButterCookieBurned :subId "125"^^xsd:integer . 
-:item_null_agricultureButterCookieBurned foaf:name "Butter Cookie (Burned)" . 
+:item_null_agricultureButterCookieBurned foaf:name "Butter Cookie Burned" . 
 :item_null_agricultureButterCookieBurned :name_intern "item.null.agricultureButterCookieBurned" . 
 
 :tile_RockBrick_12 :id "774"^^xsd:integer . 
@@ -20719,7 +20719,7 @@
 
 :tile_mfr_conveyor_yellow :id "3121"^^xsd:integer . 
 :tile_mfr_conveyor_yellow :subId "4"^^xsd:integer . 
-:tile_mfr_conveyor_yellow foaf:name "Conveyor Belt (Yellow)" . 
+:tile_mfr_conveyor_yellow foaf:name "Conveyor Belt Yellow" . 
 :tile_mfr_conveyor_yellow :name_intern "tile.mfr.conveyor.yellow" . 
 
 :item_projectred_core_part_partglowsiliconcomp :id "9005"^^xsd:integer . 
@@ -20764,7 +20764,7 @@
 
 :item_ElementEssence_fire :id "8569"^^xsd:integer . 
 :item_ElementEssence_fire :subId "1"^^xsd:integer . 
-:item_ElementEssence_fire foaf:name "§EFire Essence" . 
+:item_ElementEssence_fire foaf:name "EFire Essence" . 
 :item_ElementEssence_fire :name_intern "item.ElementEssence.fire" . 
 
 :item_railcraft_fluid_creosote_bottle :id "7789"^^xsd:integer . 
@@ -20879,7 +20879,7 @@
 
 :tile_weightedPlate_light :id "147"^^xsd:integer . 
 :tile_weightedPlate_light :subId "32767"^^xsd:integer . 
-:tile_weightedPlate_light foaf:name "Weighted Pressure Plate (Light)" . 
+:tile_weightedPlate_light foaf:name "Weighted Pressure Plate Light" . 
 :tile_weightedPlate_light :name_intern "tile.weightedPlate_light" . 
 
 :tile_bop_holyStone_holystone :id "254"^^xsd:integer . 
@@ -21004,7 +21004,7 @@
 
 :item_#item_railgun_7 :id "30777"^^xsd:integer . 
 :item_#item_railgun_7 :subId "7"^^xsd:integer . 
-:item_#item_railgun_7 foaf:name "RailGun Ammunition (128 kg)" . 
+:item_#item_railgun_7 foaf:name "RailGun Ammunition 128 kg" . 
 :item_#item_railgun_7 :name_intern "item.#item.railgun.7" . 
 
 :tile_null :id "3710"^^xsd:integer . 
@@ -21069,7 +21069,7 @@
 
 :tile_mfr_stainedglass_pane_orange :id "3130"^^xsd:integer . 
 :tile_mfr_stainedglass_pane_orange :subId "1"^^xsd:integer . 
-:tile_mfr_stainedglass_pane_orange foaf:name "Stained Glass Pane (Orange)" . 
+:tile_mfr_stainedglass_pane_orange foaf:name "Stained Glass Pane Orange" . 
 :tile_mfr_stainedglass_pane_orange :name_intern "tile.mfr.stainedglass.pane.orange" . 
 
 :item_misccraft_crafting_aiming :id "30884"^^xsd:integer . 
@@ -21179,7 +21179,7 @@
 
 :item_item_magnet_6 :id "18271"^^xsd:integer . 
 :item_item_magnet_6 :subId "6"^^xsd:integer . 
-:item_item_magnet_6 foaf:name "Permanent Magnet (4.096 T)" . 
+:item_item_magnet_6 foaf:name "Permanent Magnet 4.096 T" . 
 :item_item_magnet_6 :name_intern "item.item.magnet.6" . 
 
 :item_mirror_basic :id "20503"^^xsd:integer . 
@@ -21189,7 +21189,7 @@
 
 :tile_pressurePlate_MOSSY_both :id "1555"^^xsd:integer . 
 :tile_pressurePlate_MOSSY_both :subId "14"^^xsd:integer . 
-:tile_pressurePlate_MOSSY_both foaf:name "Pressure Plate (Shrouded, Silent)" . 
+:tile_pressurePlate_MOSSY_both foaf:name "Pressure Plate Shrouded, Silent" . 
 :tile_pressurePlate_MOSSY_both :name_intern "tile.pressurePlate.MOSSY.both" . 
 
 :tile_InscribedStone_15 :id "730"^^xsd:integer . 
@@ -21274,7 +21274,7 @@
 
 :item_item_slide :id "30781"^^xsd:integer . 
 :item_item_slide :subId "11"^^xsd:integer . 
-:item_item_slide foaf:name "Projector Slide (11)" . 
+:item_item_slide foaf:name "Projector Slide 11" . 
 :item_item_slide :name_intern "item.item.slide" . 
 
 :tile_stairs :id "3702"^^xsd:integer . 
@@ -21429,7 +21429,7 @@
 
 :tile_thermalexpansion_conduit_fluidOpaque_name :id "2008"^^xsd:integer . 
 :tile_thermalexpansion_conduit_fluidOpaque_name :subId "4"^^xsd:integer . 
-:tile_thermalexpansion_conduit_fluidOpaque_name foaf:name "Fluiduct (Opaque)" . 
+:tile_thermalexpansion_conduit_fluidOpaque_name foaf:name "Fluiduct Opaque" . 
 :tile_thermalexpansion_conduit_fluidOpaque_name :name_intern "tile.thermalexpansion.conduit.fluidOpaque.name" . 
 
 :item_projectred_core_part_upgrd_rz :id "9005"^^xsd:integer . 
@@ -21837,10 +21837,10 @@
 :tile_thermalexpansion_storage_platinum_name foaf:name "Shiny Block" . 
 :tile_thermalexpansion_storage_platinum_name :name_intern "tile.thermalexpansion.storage.platinum.name" . 
 
-:tile_Mimikinetic Upheaver :id "2433"^^xsd:integer . 
-:tile_Mimikinetic Upheaver :subId "2"^^xsd:integer . 
-:tile_Mimikinetic Upheaver foaf:name "§9Mimikinetic Upheaver" . 
-:tile_Mimikinetic Upheaver :name_intern "tile.Mimikinetic Upheaver" . 
+:tile_Mimikinetic___Upheaver :id "2433"^^xsd:integer . 
+:tile_Mimikinetic___Upheaver :subId "2"^^xsd:integer . 
+:tile_Mimikinetic___Upheaver foaf:name "9Mimikinetic Upheaver" . 
+:tile_Mimikinetic___Upheaver :name_intern "tile.Mimikinetic Upheaver" . 
 
 :tile_TFFireJet_8 :id "3504"^^xsd:integer . 
 :tile_TFFireJet_8 :subId "8"^^xsd:integer . 
@@ -21884,7 +21884,7 @@
 
 :item_mfr_needlegun_ammo_lava :id "12295"^^xsd:integer . 
 :item_mfr_needlegun_ammo_lava :subId "0"^^xsd:integer . 
-:item_mfr_needlegun_ammo_lava foaf:name "Needlegun Ammo (Lava)" . 
+:item_mfr_needlegun_ammo_lava foaf:name "Needlegun Ammo Lava" . 
 :item_mfr_needlegun_ammo_lava :name_intern "item.mfr.needlegun.ammo.lava" . 
 
 :item_tile_blockMarbleStairs_5_0 :id "2757"^^xsd:integer . 
@@ -22114,7 +22114,7 @@
 
 :item_upgrade_structural_7 :id "25070"^^xsd:integer . 
 :item_upgrade_structural_7 :subId "6"^^xsd:integer . 
-:item_upgrade_structural_7 foaf:name "Structural MK VII (Emerald)" . 
+:item_upgrade_structural_7 foaf:name "Structural MK VII Emerald" . 
 :item_upgrade_structural_7 :name_intern "item.upgrade.structural.7" . 
 
 :item_BiblioDrill :id "22486"^^xsd:integer . 
@@ -22144,7 +22144,7 @@
 
 :item_tfFeather :id "28913"^^xsd:integer . 
 :item_tfFeather :subId "0"^^xsd:integer . 
-:item_tfFeather foaf:name "Raven's Feather" . 
+:item_tfFeather foaf:name "Ravens Feather" . 
 :item_tfFeather :name_intern "item.tfFeather" . 
 
 :item_factorization__daybarrel :id "9318"^^xsd:integer . 
@@ -22204,7 +22204,7 @@
 
 :item_item_stungun :id "30768"^^xsd:integer . 
 :item_item_stungun :subId "0"^^xsd:integer . 
-:item_item_stungun foaf:name "Knockback Gun (0 kJ)" . 
+:item_item_stungun foaf:name "Knockback Gun 0 kJ" . 
 :item_item_stungun :name_intern "item.item.stungun" . 
 
 :PlumDesk :id "2315"^^xsd:integer . 
@@ -22229,7 +22229,7 @@
 
 :item_railcraft_backpack_iceman_t1 :id "7762"^^xsd:integer . 
 :item_railcraft_backpack_iceman_t1 :subId "0"^^xsd:integer . 
-:item_railcraft_backpack_iceman_t1 foaf:name "Iceman's Backpack" . 
+:item_railcraft_backpack_iceman_t1 foaf:name "Icemans Backpack" . 
 :item_railcraft_backpack_iceman_t1 :name_intern "item.railcraft.backpack.iceman.t1" . 
 
 :SakuraCase :id "2336"^^xsd:integer . 
@@ -22304,7 +22304,7 @@
 
 :item_bronzePickaxe :id "13261"^^xsd:integer . 
 :item_bronzePickaxe :subId "0"^^xsd:integer . 
-:item_bronzePickaxe foaf:name "Survivalist's Pickaxe" . 
+:item_bronzePickaxe foaf:name "Survivalists Pickaxe" . 
 :item_bronzePickaxe :name_intern "item.bronzePickaxe" . 
 
 :tile_railcraft_detector_locomotive :id "450"^^xsd:integer . 
@@ -22314,7 +22314,7 @@
 
 :item_mirror_celestial :id "20506"^^xsd:integer . 
 :item_mirror_celestial :subId "0"^^xsd:integer . 
-:item_mirror_celestial foaf:name "Celestial Mirror (33)" . 
+:item_mirror_celestial foaf:name "Celestial Mirror 33" . 
 :item_mirror_celestial :name_intern "item.mirror.celestial" . 
 
 :tile_BlockCarvedStone :id "3659"^^xsd:integer . 
@@ -22734,7 +22734,7 @@
 
 :item_item_slide :id "30781"^^xsd:integer . 
 :item_item_slide :subId "7"^^xsd:integer . 
-:item_item_slide foaf:name "Projector Slide (7)" . 
+:item_item_slide foaf:name "Projector Slide 7" . 
 :item_item_slide :name_intern "item.item.slide" . 
 
 :ic2_itemPurifiedCrushedLeadOre :id "30063"^^xsd:integer . 
@@ -22859,7 +22859,7 @@
 
 :item_mfr_laserfocus_red :id "12289"^^xsd:integer . 
 :item_mfr_laserfocus_red :subId "14"^^xsd:integer . 
-:item_mfr_laserfocus_red foaf:name "Laser Focus (Red)" . 
+:item_mfr_laserfocus_red foaf:name "Laser Focus Red" . 
 :item_mfr_laserfocus_red :name_intern "item.mfr.laserfocus.red" . 
 
 :item_ItemResearchNotes :id "25256"^^xsd:integer . 
@@ -22919,7 +22919,7 @@
 
 :item_#item_railgun_14 :id "30777"^^xsd:integer . 
 :item_#item_railgun_14 :subId "14"^^xsd:integer . 
-:item_#item_railgun_14 foaf:name "RailGun Ammunition (16384 kg)" . 
+:item_#item_railgun_14 foaf:name "RailGun Ammunition 16384 kg" . 
 :item_#item_railgun_14 :name_intern "item.#item.railgun.14" . 
 
 :HopseedCase :id "2335"^^xsd:integer . 
@@ -22964,7 +22964,7 @@
 
 :item_magicInfusionStone_regular :id "8605"^^xsd:integer . 
 :item_magicInfusionStone_regular :subId "1"^^xsd:integer . 
-:item_magicInfusionStone_regular foaf:name "§2Regular Infusion Stone" . 
+:item_magicInfusionStone_regular foaf:name "2Regular Infusion Stone" . 
 :item_magicInfusionStone_regular :name_intern "item.magicInfusionStone.regular" . 
 
 :KapokBookcase :id "2312"^^xsd:integer . 
@@ -23242,10 +23242,10 @@
 :item_aobd_dustsItem6 foaf:name "Crushed Ardite Ore" . 
 :item_aobd_dustsItem6 :name_intern "item.aobd.dustsItem6" . 
 
-:tile_Mimikinetic Upheaver :id "2433"^^xsd:integer . 
-:tile_Mimikinetic Upheaver :subId "0"^^xsd:integer . 
-:tile_Mimikinetic Upheaver foaf:name "§9Mimikinetic Upheaver" . 
-:tile_Mimikinetic Upheaver :name_intern "tile.Mimikinetic Upheaver" . 
+:tile_Mimikinetic___Upheaver :id "2433"^^xsd:integer . 
+:tile_Mimikinetic___Upheaver :subId "0"^^xsd:integer . 
+:tile_Mimikinetic___Upheaver foaf:name "9Mimikinetic Upheaver" . 
+:tile_Mimikinetic___Upheaver :name_intern "tile.Mimikinetic Upheaver" . 
 
 :item_factorization__daybarrel :id "9318"^^xsd:integer . 
 :item_factorization__daybarrel :subId "6114"^^xsd:integer . 
@@ -23359,7 +23359,7 @@
 
 :tile_extrautils__colorWoodPlanks_0 :id "2519"^^xsd:integer . 
 :tile_extrautils__colorWoodPlanks_0 :subId "0"^^xsd:integer . 
-:tile_extrautils__colorWoodPlanks_0 foaf:name "Colored Wood Planks (White)" . 
+:tile_extrautils__colorWoodPlanks_0 foaf:name "Colored Wood Planks White" . 
 :tile_extrautils__colorWoodPlanks_0 :name_intern "tile.extrautils:colorWoodPlanks.0" . 
 
 :tile_blockLapis :id "22"^^xsd:integer . 
@@ -23577,10 +23577,10 @@
 :item_ironGearItem foaf:name "Iron Gear" . 
 :item_ironGearItem :name_intern "item.ironGearItem" . 
 
-:dynamictanks_items_Basic Upgrade§c (Unusable)§r :id "16968"^^xsd:integer . 
-:dynamictanks_items_Basic Upgrade§c (Unusable)§r :subId "0"^^xsd:integer . 
-:dynamictanks_items_Basic Upgrade§c (Unusable)§r foaf:name "Basic Upgrade§c (Unusable)§r" . 
-:dynamictanks_items_Basic Upgrade§c (Unusable)§r :name_intern "dynamictanks.items.Basic Upgrade§c (Unusable)§r" . 
+:dynamictanks_items_Basic___Upgradec___Unusabler :id "16968"^^xsd:integer . 
+:dynamictanks_items_Basic___Upgradec___Unusabler :subId "0"^^xsd:integer . 
+:dynamictanks_items_Basic___Upgradec___Unusabler foaf:name "Basic Upgradec Unusabler" . 
+:dynamictanks_items_Basic___Upgradec___Unusabler :name_intern "dynamictanks.items.Basic Upgradec Unusabler" . 
 
 :GreenLinedPopularCase :id "2320"^^xsd:integer . 
 :GreenLinedPopularCase :subId "10"^^xsd:integer . 
@@ -23674,7 +23674,7 @@
 
 :item_item_slide :id "30781"^^xsd:integer . 
 :item_item_slide :subId "16"^^xsd:integer . 
-:item_item_slide foaf:name "Projector Slide (16)" . 
+:item_item_slide foaf:name "Projector Slide 16" . 
 :item_item_slide :name_intern "item.item.slide" . 
 
 :tile_chickenChunkLoader|1 :id "243"^^xsd:integer . 
@@ -24119,7 +24119,7 @@
 
 :item_CropEssence_iron :id "8523"^^xsd:integer . 
 :item_CropEssence_iron :subId "4"^^xsd:integer . 
-:item_CropEssence_iron foaf:name "§8Iron Essence" . 
+:item_CropEssence_iron foaf:name "8Iron Essence" . 
 :item_CropEssence_iron :name_intern "item.CropEssence.iron" . 
 
 :item_skull_char :id "397"^^xsd:integer . 
@@ -24189,7 +24189,7 @@
 
 :item_mfr_upgrade_radius_gold :id "12267"^^xsd:integer . 
 :item_mfr_upgrade_radius_gold :subId "6"^^xsd:integer . 
-:item_mfr_upgrade_radius_gold foaf:name "Upgrade (Gold)" . 
+:item_mfr_upgrade_radius_gold foaf:name "Upgrade Gold" . 
 :item_mfr_upgrade_radius_gold :name_intern "item.mfr.upgrade.radius.gold" . 
 
 :item_waxCapsuleJuice :id "13323"^^xsd:integer . 
@@ -24209,7 +24209,7 @@
 
 :tile_pressurePlate_OBSIDIAN_hidden :id "1555"^^xsd:integer . 
 :tile_pressurePlate_OBSIDIAN_hidden :subId "8"^^xsd:integer . 
-:tile_pressurePlate_OBSIDIAN_hidden foaf:name "Pressure Plate (Shrouded)" . 
+:tile_pressurePlate_OBSIDIAN_hidden foaf:name "Pressure Plate Shrouded" . 
 :tile_pressurePlate_OBSIDIAN_hidden :name_intern "tile.pressurePlate.OBSIDIAN.hidden" . 
 
 :BirchMapFrame :id "2290"^^xsd:integer . 
@@ -24319,7 +24319,7 @@
 
 :item_mfr_ceramicdye_gray :id "12261"^^xsd:integer . 
 :item_mfr_ceramicdye_gray :subId "7"^^xsd:integer . 
-:item_mfr_ceramicdye_gray foaf:name "Ceramic Dye (Gray)" . 
+:item_mfr_ceramicdye_gray foaf:name "Ceramic Dye Gray" . 
 :item_mfr_ceramicdye_gray :name_intern "item.mfr.ceramicdye.gray" . 
 
 :upgrade_lock :id "31959"^^xsd:integer . 
@@ -24394,7 +24394,7 @@
 
 :item_mfr_needlegun_ammo_fire :id "12298"^^xsd:integer . 
 :item_mfr_needlegun_ammo_fire :subId "0"^^xsd:integer . 
-:item_mfr_needlegun_ammo_fire foaf:name "Needlegun Ammo (Fire)" . 
+:item_mfr_needlegun_ammo_fire foaf:name "Needlegun Ammo Fire" . 
 :item_mfr_needlegun_ammo_fire :name_intern "item.mfr.needlegun.ammo.fire" . 
 
 :tile_BlockInfusedWool :id "3632"^^xsd:integer . 
@@ -24549,7 +24549,7 @@
 
 :item_mfr_ceramicdye_red :id "12261"^^xsd:integer . 
 :item_mfr_ceramicdye_red :subId "14"^^xsd:integer . 
-:item_mfr_ceramicdye_red foaf:name "Ceramic Dye (Red)" . 
+:item_mfr_ceramicdye_red foaf:name "Ceramic Dye Red" . 
 :item_mfr_ceramicdye_red :name_intern "item.mfr.ceramicdye.red" . 
 
 :tile_paintedPlanks_pinkPlanks :id "4072"^^xsd:integer . 
@@ -24719,7 +24719,7 @@
 
 :tile_mfr_conveyor_lime :id "3121"^^xsd:integer . 
 :tile_mfr_conveyor_lime :subId "5"^^xsd:integer . 
-:tile_mfr_conveyor_lime foaf:name "Conveyor Belt (Lime)" . 
+:tile_mfr_conveyor_lime foaf:name "Conveyor Belt Lime" . 
 :tile_mfr_conveyor_lime :name_intern "tile.mfr.conveyor.lime" . 
 
 :tile_railcraft_brick_nether_4 :id "475"^^xsd:integer . 
@@ -24784,7 +24784,7 @@
 
 :item_ttinkerer__infusedInkwell :id "22424"^^xsd:integer . 
 :item_ttinkerer__infusedInkwell :subId "32767"^^xsd:integer . 
-:item_ttinkerer__infusedInkwell foaf:name "Infused Scribing Tools (NYI)" . 
+:item_ttinkerer__infusedInkwell foaf:name "Infused Scribing Tools NYI" . 
 :item_ttinkerer__infusedInkwell :name_intern "item.ttinkerer:infusedInkwell" . 
 
 :item_itemModule :id "7127"^^xsd:integer . 
@@ -24814,7 +24814,7 @@
 
 :item_null_agricultureLoafOfBreadBurned :id "20256"^^xsd:integer . 
 :item_null_agricultureLoafOfBreadBurned :subId "133"^^xsd:integer . 
-:item_null_agricultureLoafOfBreadBurned foaf:name "Loaf of Bread (Burned)" . 
+:item_null_agricultureLoafOfBreadBurned foaf:name "Loaf of Bread Burned" . 
 :item_null_agricultureLoafOfBreadBurned :name_intern "item.null.agricultureLoafOfBreadBurned" . 
 
 :tile_log_oak :id "17"^^xsd:integer . 
@@ -24854,12 +24854,12 @@
 
 :tile_extrautils__colorWoodPlanks_3 :id "2519"^^xsd:integer . 
 :tile_extrautils__colorWoodPlanks_3 :subId "3"^^xsd:integer . 
-:tile_extrautils__colorWoodPlanks_3 foaf:name "Colored Wood Planks (Light Blue)" . 
+:tile_extrautils__colorWoodPlanks_3 foaf:name "Colored Wood Planks Light Blue" . 
 :tile_extrautils__colorWoodPlanks_3 :name_intern "tile.extrautils:colorWoodPlanks.3" . 
 
 :item_null_agricultureStrawberryIceCreamChocolateSauce :id "20256"^^xsd:integer . 
 :item_null_agricultureStrawberryIceCreamChocolateSauce :subId "100"^^xsd:integer . 
-:item_null_agricultureStrawberryIceCreamChocolateSauce foaf:name "Strawberry Ice Cream (Chocolate Sauce)" . 
+:item_null_agricultureStrawberryIceCreamChocolateSauce foaf:name "Strawberry Ice Cream Chocolate Sauce" . 
 :item_null_agricultureStrawberryIceCreamChocolateSauce :name_intern "item.null.agricultureStrawberryIceCreamChocolateSauce" . 
 
 :tile_tconstruct_meatblock :id "3242"^^xsd:integer . 
@@ -24909,7 +24909,7 @@
 
 :item_null_agriculturePBJSandwichApple :id "20256"^^xsd:integer . 
 :item_null_agriculturePBJSandwichApple :subId "24"^^xsd:integer . 
-:item_null_agriculturePBJSandwichApple foaf:name "PB&J Sandwich (Apple)" . 
+:item_null_agriculturePBJSandwichApple foaf:name "PB&J Sandwich Apple" . 
 :item_null_agriculturePBJSandwichApple :name_intern "item.null.agriculturePBJSandwichApple" . 
 
 :item_tile_iceStairs_1_0 :id "2774"^^xsd:integer . 
@@ -25019,7 +25019,7 @@
 
 :tile_mfr_stainedglass_pane_pink :id "3130"^^xsd:integer . 
 :tile_mfr_stainedglass_pane_pink :subId "6"^^xsd:integer . 
-:tile_mfr_stainedglass_pane_pink foaf:name "Stained Glass Pane (Pink)" . 
+:tile_mfr_stainedglass_pane_pink foaf:name "Stained Glass Pane Pink" . 
 :tile_mfr_stainedglass_pane_pink :name_intern "tile.mfr.stainedglass.pane.pink" . 
 
 :item_thermalexpansion_tool_invarAxe :id "20272"^^xsd:integer . 
@@ -25049,7 +25049,7 @@
 
 :item_mfr_ceramicdye_lightgray :id "12261"^^xsd:integer . 
 :item_mfr_ceramicdye_lightgray :subId "8"^^xsd:integer . 
-:item_mfr_ceramicdye_lightgray foaf:name "Ceramic Dye (Light Gray)" . 
+:item_mfr_ceramicdye_lightgray foaf:name "Ceramic Dye Light Gray" . 
 :item_mfr_ceramicdye_lightgray :name_intern "item.mfr.ceramicdye.lightgray" . 
 
 :item_aobd_dustsItem13 :id "31999"^^xsd:integer . 
@@ -25144,7 +25144,7 @@
 
 :tile_extrautils__colorStoneBrick_13 :id "2504"^^xsd:integer . 
 :tile_extrautils__colorStoneBrick_13 :subId "13"^^xsd:integer . 
-:tile_extrautils__colorStoneBrick_13 foaf:name "Colored Bricks (Green)" . 
+:tile_extrautils__colorStoneBrick_13 foaf:name "Colored Bricks Green" . 
 :tile_extrautils__colorStoneBrick_13 :name_intern "tile.extrautils:colorStoneBrick.13" . 
 
 :item_CrystalBloomSeeds_11 :id "10003"^^xsd:integer . 
@@ -25194,7 +25194,7 @@
 
 :item_CropEssence_ender :id "8523"^^xsd:integer . 
 :item_CropEssence_ender :subId "9"^^xsd:integer . 
-:item_CropEssence_ender foaf:name "§AEnder Essence" . 
+:item_CropEssence_ender foaf:name "AEnder Essence" . 
 :item_CropEssence_ender :name_intern "item.CropEssence.ender" . 
 
 :item_mazeMap :id "28947"^^xsd:integer . 
@@ -25284,7 +25284,7 @@
 
 :tile_extrautils__budoff_3 :id "2501"^^xsd:integer . 
 :tile_extrautils__budoff_3 :subId "3"^^xsd:integer . 
-:tile_extrautils__budoff_3 foaf:name "Block Update Detector (Advanced)" . 
+:tile_extrautils__budoff_3 foaf:name "Block Update Detector Advanced" . 
 :tile_extrautils__budoff_3 :name_intern "tile.extrautils:budoff.3" . 
 
 :item_paintCan_Magenta :id "4445"^^xsd:integer . 
@@ -25319,7 +25319,7 @@
 
 :item_item_slide :id "30781"^^xsd:integer . 
 :item_item_slide :subId "9"^^xsd:integer . 
-:item_item_slide foaf:name "Projector Slide (9)" . 
+:item_item_slide foaf:name "Projector Slide 9" . 
 :item_item_slide :name_intern "item.item.slide" . 
 
 :tile_hl_woodPlanks_32767 :id "3819"^^xsd:integer . 
@@ -25359,7 +25359,7 @@
 
 :tile_extrautils__colorWoodPlanks_6 :id "2519"^^xsd:integer . 
 :tile_extrautils__colorWoodPlanks_6 :subId "6"^^xsd:integer . 
-:tile_extrautils__colorWoodPlanks_6 foaf:name "Colored Wood Planks (Pink)" . 
+:tile_extrautils__colorWoodPlanks_6 foaf:name "Colored Wood Planks Pink" . 
 :tile_extrautils__colorWoodPlanks_6 :name_intern "tile.extrautils:colorWoodPlanks.6" . 
 
 :SpruceLabel :id "2251"^^xsd:integer . 
@@ -25479,7 +25479,7 @@
 
 :item_mfr_laserfocus_lime :id "12289"^^xsd:integer . 
 :item_mfr_laserfocus_lime :subId "5"^^xsd:integer . 
-:item_mfr_laserfocus_lime foaf:name "Laser Focus (Lime)" . 
+:item_mfr_laserfocus_lime foaf:name "Laser Focus Lime" . 
 :item_mfr_laserfocus_lime :name_intern "item.mfr.laserfocus.lime" . 
 
 :item_powder_misc_flour :id "30891"^^xsd:integer . 
@@ -25674,7 +25674,7 @@
 
 :tile_extrautils__extractor_base_remote_0 :id "2528"^^xsd:integer . 
 :tile_extrautils__extractor_base_remote_0 :subId "0"^^xsd:integer . 
-:tile_extrautils__extractor_base_remote_0 foaf:name "Retrieval Node (Items)" . 
+:tile_extrautils__extractor_base_remote_0 foaf:name "Retrieval Node Items" . 
 :tile_extrautils__extractor_base_remote_0 :name_intern "tile.extrautils:extractor_base_remote.0" . 
 
 :tile_hl_poplarWood :id "3832"^^xsd:integer . 
@@ -25974,7 +25974,7 @@
 
 :tile_extrautils__colorWoodPlanks_9 :id "2519"^^xsd:integer . 
 :tile_extrautils__colorWoodPlanks_9 :subId "9"^^xsd:integer . 
-:tile_extrautils__colorWoodPlanks_9 foaf:name "Colored Wood Planks (Cyan)" . 
+:tile_extrautils__colorWoodPlanks_9 foaf:name "Colored Wood Planks Cyan" . 
 :tile_extrautils__colorWoodPlanks_9 :name_intern "tile.extrautils:colorWoodPlanks.9" . 
 
 :item_stamps :id "13372"^^xsd:integer . 
@@ -26044,7 +26044,7 @@
 
 :item_mfr_upgrade_radius_cobble :id "12267"^^xsd:integer . 
 :item_mfr_upgrade_radius_cobble :subId "11"^^xsd:integer . 
-:item_mfr_upgrade_radius_cobble foaf:name "Upgrade (Cobble)" . 
+:item_mfr_upgrade_radius_cobble foaf:name "Upgrade Cobble" . 
 :item_mfr_upgrade_radius_cobble :name_intern "item.mfr.upgrade.radius.cobble" . 
 
 :extrabees_block_geneticMachine :id "1369"^^xsd:integer . 
@@ -26229,7 +26229,7 @@
 
 :item_#item_railgun_8 :id "30777"^^xsd:integer . 
 :item_#item_railgun_8 :subId "8"^^xsd:integer . 
-:item_#item_railgun_8 foaf:name "RailGun Ammunition (256 kg)" . 
+:item_#item_railgun_8 foaf:name "RailGun Ammunition 256 kg" . 
 :item_#item_railgun_8 :name_intern "item.#item.railgun.8" . 
 
 :tile_daylightDetector :id "151"^^xsd:integer . 
@@ -26242,10 +26242,10 @@
 :GreenheartToolrack foaf:name "Greenheart Tool Rack" . 
 :GreenheartToolrack :name_intern "GreenheartToolrack" . 
 
-:item_SC2__glass_o'magic :id "29998"^^xsd:integer . 
-:item_SC2__glass_o'magic :subId "5"^^xsd:integer . 
-:item_SC2__glass_o'magic foaf:name "Glass o'Magic" . 
-:item_SC2__glass_o'magic :name_intern "item.SC2:glass_o'magic" . 
+:item_SC2__glass_omagic :id "29998"^^xsd:integer . 
+:item_SC2__glass_omagic :subId "5"^^xsd:integer . 
+:item_SC2__glass_omagic foaf:name "Glass oMagic" . 
+:item_SC2__glass_omagic :name_intern "item.SC2:glass_omagic" . 
 
 :DiscRack :id "2242"^^xsd:integer . 
 :DiscRack :subId "3"^^xsd:integer . 
@@ -26299,7 +26299,7 @@
 
 :item_ElementEssence_water :id "8569"^^xsd:integer . 
 :item_ElementEssence_water :subId "0"^^xsd:integer . 
-:item_ElementEssence_water foaf:name "§1Water Essence" . 
+:item_ElementEssence_water foaf:name "1Water Essence" . 
 :item_ElementEssence_water :name_intern "item.ElementEssence.water" . 
 
 :item_tile_sandstoneScribbles_2 :id "2789"^^xsd:integer . 
@@ -26324,7 +26324,7 @@
 
 :item_mfr_ceramicdye_yellow :id "12261"^^xsd:integer . 
 :item_mfr_ceramicdye_yellow :subId "4"^^xsd:integer . 
-:item_mfr_ceramicdye_yellow foaf:name "Ceramic Dye (Yellow)" . 
+:item_mfr_ceramicdye_yellow foaf:name "Ceramic Dye Yellow" . 
 :item_mfr_ceramicdye_yellow :name_intern "item.mfr.ceramicdye.yellow" . 
 
 :item_frameResilient :id "26101"^^xsd:integer . 
@@ -26359,7 +26359,7 @@
 
 :item_itemUpgrade :id "7122"^^xsd:integer . 
 :item_itemUpgrade :subId "4"^^xsd:integer . 
-:item_itemUpgrade foaf:name "Sneaky Upgrade (EAST)" . 
+:item_itemUpgrade foaf:name "Sneaky Upgrade EAST" . 
 :item_itemUpgrade :name_intern "item.itemUpgrade" . 
 
 :item_factorization__daybarrel :id "9318"^^xsd:integer . 
@@ -26409,7 +26409,7 @@
 
 :item_item_slide :id "30781"^^xsd:integer . 
 :item_item_slide :subId "20"^^xsd:integer . 
-:item_item_slide foaf:name "Projector Slide (20)" . 
+:item_item_slide foaf:name "Projector Slide 20" . 
 :item_item_slide :name_intern "item.item.slide" . 
 
 :tile_railcraft_brick_frostbound_5 :id "472"^^xsd:integer . 
@@ -26604,7 +26604,7 @@
 
 :item_null_agricultureBaconBurned :id "20256"^^xsd:integer . 
 :item_null_agricultureBaconBurned :subId "123"^^xsd:integer . 
-:item_null_agricultureBaconBurned foaf:name "Bacon (Burned)" . 
+:item_null_agricultureBaconBurned foaf:name "Bacon Burned" . 
 :item_null_agricultureBaconBurned :name_intern "item.null.agricultureBaconBurned" . 
 
 :item_upgrade_networkInterface :id "10295"^^xsd:integer . 
@@ -27074,7 +27074,7 @@
 
 :tile_extrautils__extractor_base_0 :id "2513"^^xsd:integer . 
 :tile_extrautils__extractor_base_0 :subId "0"^^xsd:integer . 
-:tile_extrautils__extractor_base_0 foaf:name "Transfer Node (Items)" . 
+:tile_extrautils__extractor_base_0 foaf:name "Transfer Node Items" . 
 :tile_extrautils__extractor_base_0 :name_intern "tile.extrautils:extractor_base.0" . 
 
 :item_seatBack_ChestnutSeatBack :id "22570"^^xsd:integer . 
@@ -27094,7 +27094,7 @@
 
 :tile_mfr_stainedglass_block_pink :id "3129"^^xsd:integer . 
 :tile_mfr_stainedglass_block_pink :subId "6"^^xsd:integer . 
-:tile_mfr_stainedglass_block_pink foaf:name "Stained Glass (Pink)" . 
+:tile_mfr_stainedglass_block_pink foaf:name "Stained Glass Pink" . 
 :tile_mfr_stainedglass_block_pink :name_intern "tile.mfr.stainedglass.block.pink" . 
 
 :tile_railcraft_glasscolor_purple :id "474"^^xsd:integer . 
@@ -27289,7 +27289,7 @@
 
 :tile_mfr_stainedglass_block_lightblue :id "3129"^^xsd:integer . 
 :tile_mfr_stainedglass_block_lightblue :subId "3"^^xsd:integer . 
-:tile_mfr_stainedglass_block_lightblue foaf:name "Stained Glass (Light Blue)" . 
+:tile_mfr_stainedglass_block_lightblue foaf:name "Stained Glass Light Blue" . 
 :tile_mfr_stainedglass_block_lightblue :name_intern "tile.mfr.stainedglass.block.lightblue" . 
 
 :tile_Tileentity_8 :id "1224"^^xsd:integer . 
@@ -27374,7 +27374,7 @@
 
 :item_mfr_needlegun_ammo_anvil :id "12299"^^xsd:integer . 
 :item_mfr_needlegun_ammo_anvil :subId "0"^^xsd:integer . 
-:item_mfr_needlegun_ammo_anvil foaf:name "Needlegun Ammo (Anvil)" . 
+:item_mfr_needlegun_ammo_anvil foaf:name "Needlegun Ammo Anvil" . 
 :item_mfr_needlegun_ammo_anvil :name_intern "item.mfr.needlegun.ammo.anvil" . 
 
 :item_seatBack_YellowWoodSeatBack :id "22578"^^xsd:integer . 
@@ -27464,7 +27464,7 @@
 
 :item_mfr_safarinet_reusable :id "12260"^^xsd:integer . 
 :item_mfr_safarinet_reusable :subId "0"^^xsd:integer . 
-:item_mfr_safarinet_reusable foaf:name "Safari Net (Reusable)" . 
+:item_mfr_safarinet_reusable foaf:name "Safari Net Reusable" . 
 :item_mfr_safarinet_reusable :name_intern "item.mfr.safarinet.reusable" . 
 
 :item_mfr_armor_boots_plastic :id "12306"^^xsd:integer . 
@@ -27479,7 +27479,7 @@
 
 :tile_extrautils__colorWoodPlanks_14 :id "2519"^^xsd:integer . 
 :tile_extrautils__colorWoodPlanks_14 :subId "14"^^xsd:integer . 
-:tile_extrautils__colorWoodPlanks_14 foaf:name "Colored Wood Planks (Red)" . 
+:tile_extrautils__colorWoodPlanks_14 foaf:name "Colored Wood Planks Red" . 
 :tile_extrautils__colorWoodPlanks_14 :name_intern "tile.extrautils:colorWoodPlanks.14" . 
 
 :tile_for_fences_12 :id "1394"^^xsd:integer . 
@@ -27509,7 +27509,7 @@
 
 :item_null_agricultureStrawberryPieBurned :id "20256"^^xsd:integer . 
 :item_null_agricultureStrawberryPieBurned :subId "142"^^xsd:integer . 
-:item_null_agricultureStrawberryPieBurned foaf:name "Strawberry Pie (Burned)" . 
+:item_null_agricultureStrawberryPieBurned foaf:name "Strawberry Pie Burned" . 
 :item_null_agricultureStrawberryPieBurned :name_intern "item.null.agricultureStrawberryPieBurned" . 
 
 :tile_multiblock_solenoid :id "2027"^^xsd:integer . 
@@ -27634,7 +27634,7 @@
 
 :item_mfr_upgrade_radius_lapis :id "12267"^^xsd:integer . 
 :item_mfr_upgrade_radius_lapis :subId "0"^^xsd:integer . 
-:item_mfr_upgrade_radius_lapis foaf:name "Upgrade (Lapis)" . 
+:item_mfr_upgrade_radius_lapis foaf:name "Upgrade Lapis" . 
 :item_mfr_upgrade_radius_lapis :name_intern "item.mfr.upgrade.radius.lapis" . 
 
 :item_gearunits_wood4xgearunit :id "30897"^^xsd:integer . 
@@ -27739,12 +27739,12 @@
 
 :item_apiaristBag :id "13304"^^xsd:integer . 
 :item_apiaristBag :subId "0"^^xsd:integer . 
-:item_apiaristBag foaf:name "Apiarist's Backpack" . 
+:item_apiaristBag foaf:name "Apiarists Backpack" . 
 :item_apiaristBag :name_intern "item.apiaristBag" . 
 
 :item_mfr_laserfocus_cyan :id "12289"^^xsd:integer . 
 :item_mfr_laserfocus_cyan :subId "9"^^xsd:integer . 
-:item_mfr_laserfocus_cyan foaf:name "Laser Focus (Cyan)" . 
+:item_mfr_laserfocus_cyan foaf:name "Laser Focus Cyan" . 
 :item_mfr_laserfocus_cyan :name_intern "item.mfr.laserfocus.cyan" . 
 
 :tile_TFLog_15 :id "2163"^^xsd:integer . 
@@ -27814,12 +27814,12 @@
 
 :item_item_vacuum :id "30767"^^xsd:integer . 
 :item_item_vacuum :subId "0"^^xsd:integer . 
-:item_item_vacuum foaf:name "Vacuum (0 kJ)" . 
+:item_item_vacuum foaf:name "Vacuum 0 kJ" . 
 :item_item_vacuum :name_intern "item.item.vacuum" . 
 
 :item_null_agricultureBeefJerkeyBurned :id "20256"^^xsd:integer . 
 :item_null_agricultureBeefJerkeyBurned :subId "124"^^xsd:integer . 
-:item_null_agricultureBeefJerkeyBurned foaf:name "Beef Jerkey (Burned)" . 
+:item_null_agricultureBeefJerkeyBurned foaf:name "Beef Jerkey Burned" . 
 :item_null_agricultureBeefJerkeyBurned :name_intern "item.null.agricultureBeefJerkeyBurned" . 
 
 :tile_hl_poplarWood :id "3832"^^xsd:integer . 
@@ -28229,7 +28229,7 @@
 
 :item_PortalFizzler :id "13462"^^xsd:integer . 
 :item_PortalFizzler :subId "14"^^xsd:integer . 
-:item_PortalFizzler foaf:name "Material Emancipation Grill (Unfinished! Do not use!)" . 
+:item_PortalFizzler foaf:name "Material Emancipation Grill Unfinished! Do not use!" . 
 :item_PortalFizzler :name_intern "item.PortalFizzler" . 
 
 :tile_railcraft_stonelamp_infernal :id "479"^^xsd:integer . 
@@ -28544,7 +28544,7 @@
 
 :item_itemUpgrade :id "7122"^^xsd:integer . 
 :item_itemUpgrade :subId "1"^^xsd:integer . 
-:item_itemUpgrade foaf:name "Sneaky Upgrade (DOWN)" . 
+:item_itemUpgrade foaf:name "Sneaky Upgrade DOWN" . 
 :item_itemUpgrade :name_intern "item.itemUpgrade" . 
 
 :item_misc :id "8829"^^xsd:integer . 
@@ -28664,7 +28664,7 @@
 
 :item_adventurerBackpack :id "13352"^^xsd:integer . 
 :item_adventurerBackpack :subId "0"^^xsd:integer . 
-:item_adventurerBackpack foaf:name "Adventurer's Backpack" . 
+:item_adventurerBackpack foaf:name "Adventurers Backpack" . 
 :item_adventurerBackpack :name_intern "item.adventurerBackpack" . 
 
 :SearedBlock_Table :id "1477"^^xsd:integer . 
@@ -28879,7 +28879,7 @@
 
 :item_item_fuel_0 :id "18257"^^xsd:integer . 
 :item_item_fuel_0 :subId "0"^^xsd:integer . 
-:item_item_fuel_0 foaf:name "Uranium Fuel Pellet (Fresh)" . 
+:item_item_fuel_0 foaf:name "Uranium Fuel Pellet Fresh" . 
 :item_item_fuel_0 :name_intern "item.item.fuel.0" . 
 
 :item_RawMaterials_2 :id "18261"^^xsd:integer . 
@@ -28904,7 +28904,7 @@
 
 :tile_mfr_stainedglass_block_lime :id "3129"^^xsd:integer . 
 :tile_mfr_stainedglass_block_lime :subId "5"^^xsd:integer . 
-:tile_mfr_stainedglass_block_lime foaf:name "Stained Glass (Lime)" . 
+:tile_mfr_stainedglass_block_lime foaf:name "Stained Glass Lime" . 
 :tile_mfr_stainedglass_block_lime :name_intern "tile.mfr.stainedglass.block.lime" . 
 
 :tile_button :id "77"^^xsd:integer . 
@@ -28964,7 +28964,7 @@
 
 :item_null_agricultureHamburgerPattyBurned :id "20256"^^xsd:integer . 
 :item_null_agricultureHamburgerPattyBurned :subId "132"^^xsd:integer . 
-:item_null_agricultureHamburgerPattyBurned foaf:name "Hambuerger Patty (Burned)" . 
+:item_null_agricultureHamburgerPattyBurned foaf:name "Hambuerger Patty Burned" . 
 :item_null_agricultureHamburgerPattyBurned :name_intern "item.null.agricultureHamburgerPattyBurned" . 
 
 :item_null_agricultureSugarCookie :id "20256"^^xsd:integer . 
@@ -28984,12 +28984,12 @@
 
 :tile_thermalexpansion_conduit_fluidOpaque :id "20278"^^xsd:integer . 
 :tile_thermalexpansion_conduit_fluidOpaque :subId "2049"^^xsd:integer . 
-:tile_thermalexpansion_conduit_fluidOpaque foaf:name "Fluiduct (Opaque)" . 
+:tile_thermalexpansion_conduit_fluidOpaque foaf:name "Fluiduct Opaque" . 
 :tile_thermalexpansion_conduit_fluidOpaque :name_intern "tile.thermalexpansion.conduit.fluidOpaque" . 
 
 :item_upgrade_structural_4 :id "25070"^^xsd:integer . 
 :item_upgrade_structural_4 :subId "3"^^xsd:integer . 
-:item_upgrade_structural_4 foaf:name "Structural MK IV (Industrial Diamond)" . 
+:item_upgrade_structural_4 foaf:name "Structural MK IV Industrial Diamond" . 
 :item_upgrade_structural_4 :name_intern "item.upgrade.structural.4" . 
 
 :ic2_itemGlassCable :id "30184"^^xsd:integer . 
@@ -29089,7 +29089,7 @@
 
 :item_thermalexpansion_florb_florb :id "20260"^^xsd:integer . 
 :item_thermalexpansion_florb_florb :subId "0"^^xsd:integer . 
-:item_thermalexpansion_florb_florb foaf:name "Florb (Empty§r)" . 
+:item_thermalexpansion_florb_florb foaf:name "Florb Emptyr" . 
 :item_thermalexpansion_florb_florb :name_intern "item.thermalexpansion.florb.florb" . 
 
 :item_e_dusts_e_groundArdite :id "4448"^^xsd:integer . 
@@ -29309,7 +29309,7 @@
 
 :item_Mimichite :id "27621"^^xsd:integer . 
 :item_Mimichite :subId "0"^^xsd:integer . 
-:item_Mimichite foaf:name "§9Mimichite" . 
+:item_Mimichite foaf:name "9Mimichite" . 
 :item_Mimichite :name_intern "item.Mimichite" . 
 
 :item_food :id "14258"^^xsd:integer . 
@@ -29389,7 +29389,7 @@
 
 :tile_mfr_stainedglass_pane_purple :id "3130"^^xsd:integer . 
 :tile_mfr_stainedglass_pane_purple :subId "10"^^xsd:integer . 
-:tile_mfr_stainedglass_pane_purple foaf:name "Stained Glass Pane (Purple)" . 
+:tile_mfr_stainedglass_pane_purple foaf:name "Stained Glass Pane Purple" . 
 :tile_mfr_stainedglass_pane_purple :name_intern "tile.mfr.stainedglass.pane.purple" . 
 
 :item_SC2__wooden_hull :id "29997"^^xsd:integer . 
@@ -29429,7 +29429,7 @@
 
 :item_MagicEssence_small :id "8525"^^xsd:integer . 
 :item_MagicEssence_small :subId "2"^^xsd:integer . 
-:item_MagicEssence_small foaf:name "§1Regular Essence" . 
+:item_MagicEssence_small foaf:name "1Regular Essence" . 
 :item_MagicEssence_small :name_intern "item.MagicEssence.small" . 
 
 :item_magicbees__mysteriousMagnet :id "26121"^^xsd:integer . 
@@ -29624,7 +29624,7 @@
 
 :item_mfr_needlegun_ammo_sludge :id "12296"^^xsd:integer . 
 :item_mfr_needlegun_ammo_sludge :subId "0"^^xsd:integer . 
-:item_mfr_needlegun_ammo_sludge foaf:name "Needlegun Ammo (Sludge)" . 
+:item_mfr_needlegun_ammo_sludge foaf:name "Needlegun Ammo Sludge" . 
 :item_mfr_needlegun_ammo_sludge :name_intern "item.mfr.needlegun.ammo.sludge" . 
 
 :tile_extrautils__drum :id "2527"^^xsd:integer . 
@@ -29674,7 +29674,7 @@
 
 :item_lepidopteristBag :id "13343"^^xsd:integer . 
 :item_lepidopteristBag :subId "0"^^xsd:integer . 
-:item_lepidopteristBag foaf:name "Lepidopterist's Backpack" . 
+:item_lepidopteristBag foaf:name "Lepidopterists Backpack" . 
 :item_lepidopteristBag :name_intern "item.lepidopteristBag" . 
 
 :item_thermalexpansion_tool_invarBattleWrench :id "20277"^^xsd:integer . 
@@ -29829,7 +29829,7 @@
 
 :tile_mfr_stainedglass_pane_red :id "3130"^^xsd:integer . 
 :tile_mfr_stainedglass_pane_red :subId "14"^^xsd:integer . 
-:tile_mfr_stainedglass_pane_red foaf:name "Stained Glass Pane (Red)" . 
+:tile_mfr_stainedglass_pane_red foaf:name "Stained Glass Pane Red" . 
 :tile_mfr_stainedglass_pane_red :name_intern "tile.mfr.stainedglass.pane.red" . 
 
 :item_itemModule :id "7127"^^xsd:integer . 
@@ -29914,7 +29914,7 @@
 
 :item_mfr_laserfocus_green :id "12289"^^xsd:integer . 
 :item_mfr_laserfocus_green :subId "13"^^xsd:integer . 
-:item_mfr_laserfocus_green foaf:name "Laser Focus (Green)" . 
+:item_mfr_laserfocus_green foaf:name "Laser Focus Green" . 
 :item_mfr_laserfocus_green :name_intern "item.mfr.laserfocus.green" . 
 
 :block_searedstone_slab_fancy :id "3230"^^xsd:integer . 
@@ -29924,7 +29924,7 @@
 
 :item_upgrade_structural_5 :id "25070"^^xsd:integer . 
 :item_upgrade_structural_5 :subId "4"^^xsd:integer . 
-:item_upgrade_structural_5 foaf:name "Structural MK V (Obsidian)" . 
+:item_upgrade_structural_5 foaf:name "Structural MK V Obsidian" . 
 :item_upgrade_structural_5 :name_intern "item.upgrade.structural.5" . 
 
 :enderio_enderCapacitor :id "8802"^^xsd:integer . 
@@ -29954,7 +29954,7 @@
 
 :item_mfr_ceramicdye_lightblue :id "12261"^^xsd:integer . 
 :item_mfr_ceramicdye_lightblue :subId "3"^^xsd:integer . 
-:item_mfr_ceramicdye_lightblue foaf:name "Ceramic Dye (Light Blue)" . 
+:item_mfr_ceramicdye_lightblue foaf:name "Ceramic Dye Light Blue" . 
 :item_mfr_ceramicdye_lightblue :name_intern "item.mfr.ceramicdye.lightblue" . 
 
 :item_factorization__daybarrel :id "9318"^^xsd:integer . 
@@ -29989,7 +29989,7 @@
 
 :item_item_slide :id "30781"^^xsd:integer . 
 :item_item_slide :subId "4"^^xsd:integer . 
-:item_item_slide foaf:name "Projector Slide (4)" . 
+:item_item_slide foaf:name "Projector Slide 4" . 
 :item_item_slide :name_intern "item.item.slide" . 
 
 :RedLinedSequoiaCase :id "2320"^^xsd:integer . 
@@ -30104,7 +30104,7 @@
 
 :tile_pressurePlate_OBSIDIAN_both :id "1555"^^xsd:integer . 
 :tile_pressurePlate_OBSIDIAN_both :subId "10"^^xsd:integer . 
-:tile_pressurePlate_OBSIDIAN_both foaf:name "Pressure Plate (Shrouded, Silent)" . 
+:tile_pressurePlate_OBSIDIAN_both foaf:name "Pressure Plate Shrouded, Silent" . 
 :tile_pressurePlate_OBSIDIAN_both :name_intern "tile.pressurePlate.OBSIDIAN.both" . 
 
 :item_reliquaryPotion :id "27467"^^xsd:integer . 
@@ -30309,7 +30309,7 @@
 
 :item_eng_wrench :id "4429"^^xsd:integer . 
 :item_eng_wrench :subId "0"^^xsd:integer . 
-:item_eng_wrench foaf:name "Engineer's Wrench" . 
+:item_eng_wrench foaf:name "Engineers Wrench" . 
 :item_eng_wrench :name_intern "item.eng_wrench" . 
 
 :item_thermalexpansion_material_nuggetSilver :id "20264"^^xsd:integer . 
@@ -30359,7 +30359,7 @@
 
 :item_CropEssence_nether :id "8523"^^xsd:integer . 
 :item_CropEssence_nether :subId "14"^^xsd:integer . 
-:item_CropEssence_nether foaf:name "§4Nether Essence" . 
+:item_CropEssence_nether foaf:name "4Nether Essence" . 
 :item_CropEssence_nether :name_intern "item.CropEssence.nether" . 
 
 :item_netherStar :id "399"^^xsd:integer . 
@@ -30499,7 +30499,7 @@
 
 :item_item_motion :id "30766"^^xsd:integer . 
 :item_item_motion :subId "0"^^xsd:integer . 
-:item_item_motion foaf:name "Motion Tracker (0 kJ)" . 
+:item_item_motion foaf:name "Motion Tracker 0 kJ" . 
 :item_item_motion :name_intern "item.item.motion" . 
 
 :tile_null :id "3710"^^xsd:integer . 
@@ -30549,7 +30549,7 @@
 
 :item_null_agricultureToastBurned :id "20256"^^xsd:integer . 
 :item_null_agricultureToastBurned :subId "144"^^xsd:integer . 
-:item_null_agricultureToastBurned foaf:name "Toast (Burned)" . 
+:item_null_agricultureToastBurned foaf:name "Toast Burned" . 
 :item_null_agricultureToastBurned :name_intern "item.null.agricultureToastBurned" . 
 
 :item_SC2__module_input :id "2668"^^xsd:integer . 
@@ -30704,7 +30704,7 @@
 
 :item_itemUpgrade :id "7122"^^xsd:integer . 
 :item_itemUpgrade :subId "11"^^xsd:integer . 
-:item_itemUpgrade foaf:name "Disconnection Upgrade (DOWN)" . 
+:item_itemUpgrade foaf:name "Disconnection Upgrade DOWN" . 
 :item_itemUpgrade :name_intern "item.itemUpgrade" . 
 
 :EucalyptusSeat :id "2361"^^xsd:integer . 
@@ -30784,7 +30784,7 @@
 
 :item_CropEssence_obs :id "8523"^^xsd:integer . 
 :item_CropEssence_obs :subId "10"^^xsd:integer . 
-:item_CropEssence_obs foaf:name "§5Obsidian Essence" . 
+:item_CropEssence_obs foaf:name "5Obsidian Essence" . 
 :item_CropEssence_obs :name_intern "item.CropEssence.obs" . 
 
 :item_honeydew :id "13289"^^xsd:integer . 
@@ -30834,7 +30834,7 @@
 
 :item_itemUpgrade :id "7122"^^xsd:integer . 
 :item_itemUpgrade :subId "2"^^xsd:integer . 
-:item_itemUpgrade foaf:name "Sneaky Upgrade (NORTH)" . 
+:item_itemUpgrade foaf:name "Sneaky Upgrade NORTH" . 
 :item_itemUpgrade :name_intern "item.itemUpgrade" . 
 
 :item_projectred_exploration_backpack_bpblue :id "9004"^^xsd:integer . 
@@ -31099,7 +31099,7 @@
 
 :item_#item_railgun_9 :id "30777"^^xsd:integer . 
 :item_#item_railgun_9 :subId "9"^^xsd:integer . 
-:item_#item_railgun_9 foaf:name "RailGun Ammunition (512 kg)" . 
+:item_#item_railgun_9 foaf:name "RailGun Ammunition 512 kg" . 
 :item_#item_railgun_9 :name_intern "item.#item.railgun.9" . 
 
 :item_mfr_xpextractor :id "12274"^^xsd:integer . 
@@ -31409,7 +31409,7 @@
 
 :item_mfr_ceramicdye_green :id "12261"^^xsd:integer . 
 :item_mfr_ceramicdye_green :subId "13"^^xsd:integer . 
-:item_mfr_ceramicdye_green foaf:name "Ceramic Dye (Green)" . 
+:item_mfr_ceramicdye_green foaf:name "Ceramic Dye Green" . 
 :item_mfr_ceramicdye_green :name_intern "item.mfr.ceramicdye.green" . 
 
 :tile_BlockInfusedWood :id "3631"^^xsd:integer . 
@@ -31424,7 +31424,7 @@
 
 :item_item_slide :id "30781"^^xsd:integer . 
 :item_item_slide :subId "0"^^xsd:integer . 
-:item_item_slide foaf:name "Projector Slide (0)" . 
+:item_item_slide foaf:name "Projector Slide 0" . 
 :item_item_slide :name_intern "item.item.slide" . 
 
 :AppEng_Materials_ConversionMatrix :id "4362"^^xsd:integer . 
@@ -31479,7 +31479,7 @@
 
 :tile_extrautils__dark_portal :id "2526"^^xsd:integer . 
 :tile_extrautils__dark_portal :subId "0"^^xsd:integer . 
-:tile_extrautils__dark_portal foaf:name "Portal to the 'Deep Dark'" . 
+:tile_extrautils__dark_portal foaf:name "Portal to the Deep Dark" . 
 :tile_extrautils__dark_portal :name_intern "tile.extrautils:dark_portal" . 
 
 :item_tconstruct_manual_smeltery :id "14274"^^xsd:integer . 
@@ -31489,7 +31489,7 @@
 
 :tile_mfr_conveyor_lightgray :id "3121"^^xsd:integer . 
 :tile_mfr_conveyor_lightgray :subId "8"^^xsd:integer . 
-:tile_mfr_conveyor_lightgray foaf:name "Conveyor Belt (Light Gray)" . 
+:tile_mfr_conveyor_lightgray foaf:name "Conveyor Belt Light Gray" . 
 :tile_mfr_conveyor_lightgray :name_intern "tile.mfr.conveyor.lightgray" . 
 
 :tile_clayHardenedStained_cyan :id "159"^^xsd:integer . 
@@ -31664,7 +31664,7 @@
 
 :tile_extrautils__colorStoneBrick_2 :id "2504"^^xsd:integer . 
 :tile_extrautils__colorStoneBrick_2 :subId "2"^^xsd:integer . 
-:tile_extrautils__colorStoneBrick_2 foaf:name "Colored Bricks (Magenta)" . 
+:tile_extrautils__colorStoneBrick_2 foaf:name "Colored Bricks Magenta" . 
 :tile_extrautils__colorStoneBrick_2 :name_intern "tile.extrautils:colorStoneBrick.2" . 
 
 :item_factorization__daybarrel :id "9318"^^xsd:integer . 
@@ -31809,7 +31809,7 @@
 
 :tile_extrautils__extractor_base_6 :id "2513"^^xsd:integer . 
 :tile_extrautils__extractor_base_6 :subId "6"^^xsd:integer . 
-:tile_extrautils__extractor_base_6 foaf:name "Transfer Node (Liquids)" . 
+:tile_extrautils__extractor_base_6 foaf:name "Transfer Node Liquids" . 
 :tile_extrautils__extractor_base_6 :name_intern "tile.extrautils:extractor_base.6" . 
 
 :item_PipeItemsCraftingLogisticsMk2 :id "7143"^^xsd:integer . 
@@ -31904,7 +31904,7 @@
 
 :tile_mfr_conveyor_black :id "3121"^^xsd:integer . 
 :tile_mfr_conveyor_black :subId "15"^^xsd:integer . 
-:tile_mfr_conveyor_black foaf:name "Conveyor Belt (Black)" . 
+:tile_mfr_conveyor_black foaf:name "Conveyor Belt Black" . 
 :tile_mfr_conveyor_black :name_intern "tile.mfr.conveyor.black" . 
 
 :item_paintCan_Black :id "4432"^^xsd:integer . 
@@ -31944,7 +31944,7 @@
 
 :item_apiaristBoots :id "13359"^^xsd:integer . 
 :item_apiaristBoots :subId "0"^^xsd:integer . 
-:item_apiaristBoots foaf:name "Apiarist's Shoes" . 
+:item_apiaristBoots foaf:name "Apiarists Shoes" . 
 :item_apiaristBoots :name_intern "item.apiaristBoots" . 
 
 :tile_BlockInfusedClay :id "3684"^^xsd:integer . 
@@ -32109,7 +32109,7 @@
 
 :item_#item_strongcoil_0 :id "30798"^^xsd:integer . 
 :item_#item_strongcoil_0 :subId "0"^^xsd:integer . 
-:item_#item_strongcoil_0 foaf:name "High-Strength Spring (0 kJ)" . 
+:item_#item_strongcoil_0 foaf:name "High-Strength Spring 0 kJ" . 
 :item_#item_strongcoil_0 :name_intern "item.#item.strongcoil.0" . 
 
 :item_craftingItems_plastic :id "20519"^^xsd:integer . 
@@ -32279,7 +32279,7 @@
 
 :item_item_slide :id "30781"^^xsd:integer . 
 :item_item_slide :subId "3"^^xsd:integer . 
-:item_item_slide foaf:name "Projector Slide (3)" . 
+:item_item_slide foaf:name "Projector Slide 3" . 
 :item_item_slide :name_intern "item.item.slide" . 
 
 :item_tile_blockLimestoneStairs_2_8 :id "2740"^^xsd:integer . 
@@ -32287,10 +32287,10 @@
 :item_tile_blockLimestoneStairs_2_8 foaf:name "Limestone Stairs" . 
 :item_tile_blockLimestoneStairs_2_8 :name_intern "item.tile.blockLimestoneStairs.2.8" . 
 
-:dynamictanks_items_Storage Upgrade :id "16968"^^xsd:integer . 
-:dynamictanks_items_Storage Upgrade :subId "1"^^xsd:integer . 
-:dynamictanks_items_Storage Upgrade foaf:name "Storage Upgrade" . 
-:dynamictanks_items_Storage Upgrade :name_intern "dynamictanks.items.Storage Upgrade" . 
+:dynamictanks_items_Storage___Upgrade :id "16968"^^xsd:integer . 
+:dynamictanks_items_Storage___Upgrade :subId "1"^^xsd:integer . 
+:dynamictanks_items_Storage___Upgrade foaf:name "Storage Upgrade" . 
+:dynamictanks_items_Storage___Upgrade :name_intern "dynamictanks.items.Storage Upgrade" . 
 
 :item_SC2__fuse :id "29998"^^xsd:integer . 
 :item_SC2__fuse :subId "43"^^xsd:integer . 
@@ -32369,7 +32369,7 @@
 
 :tile_mfr_stainedglass_block_green :id "3129"^^xsd:integer . 
 :tile_mfr_stainedglass_block_green :subId "13"^^xsd:integer . 
-:tile_mfr_stainedglass_block_green foaf:name "Stained Glass (Green)" . 
+:tile_mfr_stainedglass_block_green foaf:name "Stained Glass Green" . 
 :tile_mfr_stainedglass_block_green :name_intern "tile.mfr.stainedglass.block.green" . 
 
 :item_SC2__galgadorian_wheels :id "29998"^^xsd:integer . 
@@ -32464,7 +32464,7 @@
 
 :item_#item_railgun_5 :id "30777"^^xsd:integer . 
 :item_#item_railgun_5 :subId "5"^^xsd:integer . 
-:item_#item_railgun_5 foaf:name "RailGun Ammunition (32 kg)" . 
+:item_#item_railgun_5 foaf:name "RailGun Ammunition 32 kg" . 
 :item_#item_railgun_5 :name_intern "item.#item.railgun.5" . 
 
 :item_factorization__daybarrel :id "9318"^^xsd:integer . 
@@ -32619,7 +32619,7 @@
 
 :item_magicInfusionStone_extreme :id "8605"^^xsd:integer . 
 :item_magicInfusionStone_extreme :subId "3"^^xsd:integer . 
-:item_magicInfusionStone_extreme foaf:name "§5Extreme Infusion Stone" . 
+:item_magicInfusionStone_extreme foaf:name "5Extreme Infusion Stone" . 
 :item_magicInfusionStone_extreme :name_intern "item.magicInfusionStone.extreme" . 
 
 :item_tconstruct_Materials_IronNugget :id "14276"^^xsd:integer . 
@@ -32679,7 +32679,7 @@
 
 :tile_extrautils__colorStoneBrick_8 :id "2504"^^xsd:integer . 
 :tile_extrautils__colorStoneBrick_8 :subId "8"^^xsd:integer . 
-:tile_extrautils__colorStoneBrick_8 foaf:name "Colored Bricks (Light Gray)" . 
+:tile_extrautils__colorStoneBrick_8 foaf:name "Colored Bricks Light Gray" . 
 :tile_extrautils__colorStoneBrick_8 :name_intern "tile.extrautils:colorStoneBrick.8" . 
 
 :tile_cobbleWall_normal :id "139"^^xsd:integer . 
@@ -32914,7 +32914,7 @@
 
 :item_null_agricultureRoastedPeanutsBurned :id "20256"^^xsd:integer . 
 :item_null_agricultureRoastedPeanutsBurned :subId "138"^^xsd:integer . 
-:item_null_agricultureRoastedPeanutsBurned foaf:name "Roasted Peanuts (Burned)" . 
+:item_null_agricultureRoastedPeanutsBurned foaf:name "Roasted Peanuts Burned" . 
 :item_null_agricultureRoastedPeanutsBurned :name_intern "item.null.agricultureRoastedPeanutsBurned" . 
 
 :DinnerPlate :id "2242"^^xsd:integer . 
@@ -33024,7 +33024,7 @@
 
 :tile_extrautils__colorWoodPlanks_5 :id "2519"^^xsd:integer . 
 :tile_extrautils__colorWoodPlanks_5 :subId "5"^^xsd:integer . 
-:tile_extrautils__colorWoodPlanks_5 foaf:name "Colored Wood Planks (Lime)" . 
+:tile_extrautils__colorWoodPlanks_5 foaf:name "Colored Wood Planks Lime" . 
 :tile_extrautils__colorWoodPlanks_5 :name_intern "tile.extrautils:colorWoodPlanks.5" . 
 
 :tile_mfr_decorativestone_white_paved :id "3134"^^xsd:integer . 
@@ -33109,7 +33109,7 @@
 
 :tile_mfr_stainedglass_pane_yellow :id "3130"^^xsd:integer . 
 :tile_mfr_stainedglass_pane_yellow :subId "4"^^xsd:integer . 
-:tile_mfr_stainedglass_pane_yellow foaf:name "Stained Glass Pane (Yellow)" . 
+:tile_mfr_stainedglass_pane_yellow foaf:name "Stained Glass Pane Yellow" . 
 :tile_mfr_stainedglass_pane_yellow :name_intern "tile.mfr.stainedglass.pane.yellow" . 
 
 :tile_blockTurbineRotorPart_1 :id "1761"^^xsd:integer . 
@@ -33184,7 +33184,7 @@
 
 :item_#item_railgun_2 :id "30777"^^xsd:integer . 
 :item_#item_railgun_2 :subId "2"^^xsd:integer . 
-:item_#item_railgun_2 foaf:name "RailGun Ammunition (4 kg)" . 
+:item_#item_railgun_2 foaf:name "RailGun Ammunition 4 kg" . 
 :item_#item_railgun_2 :name_intern "item.#item.railgun.2" . 
 
 :tile_hl_mangroveSapling :id "3827"^^xsd:integer . 
@@ -33264,7 +33264,7 @@
 
 :item_mfr_laserfocus_brown :id "12289"^^xsd:integer . 
 :item_mfr_laserfocus_brown :subId "12"^^xsd:integer . 
-:item_mfr_laserfocus_brown foaf:name "Laser Focus (Brown)" . 
+:item_mfr_laserfocus_brown foaf:name "Laser Focus Brown" . 
 :item_mfr_laserfocus_brown :name_intern "item.mfr.laserfocus.brown" . 
 
 :item_beeNugget :id "26120"^^xsd:integer . 
@@ -33294,7 +33294,7 @@
 
 :item_item_breeder_0 :id "18269"^^xsd:integer . 
 :item_item_breeder_0 :subId "0"^^xsd:integer . 
-:item_item_breeder_0 foaf:name "Breeder Reactor Fuel (0% Converted)" . 
+:item_item_breeder_0 foaf:name "Breeder Reactor Fuel 0% Converted" . 
 :item_item_breeder_0 :name_intern "item.item.breeder.0" . 
 
 :item_factorization__daybarrel :id "9318"^^xsd:integer . 
@@ -33319,7 +33319,7 @@
 
 :item_mfr_upgrade_radius_iron :id "12267"^^xsd:integer . 
 :item_mfr_upgrade_radius_iron :subId "1"^^xsd:integer . 
-:item_mfr_upgrade_radius_iron foaf:name "Upgrade (Iron)" . 
+:item_mfr_upgrade_radius_iron foaf:name "Upgrade Iron" . 
 :item_mfr_upgrade_radius_iron :name_intern "item.mfr.upgrade.radius.iron" . 
 
 :tile_bop_flowers2_lavender :id "1983"^^xsd:integer . 
@@ -33419,7 +33419,7 @@
 
 :item_CropEssence_blaze :id "8523"^^xsd:integer . 
 :item_CropEssence_blaze :subId "7"^^xsd:integer . 
-:item_CropEssence_blaze foaf:name "§EBlaze Essence" . 
+:item_CropEssence_blaze foaf:name "EBlaze Essence" . 
 :item_CropEssence_blaze :name_intern "item.CropEssence.blaze" . 
 
 :item_tile_sandstoneScribbles_13 :id "2789"^^xsd:integer . 
@@ -33529,7 +33529,7 @@
 
 :item_mfr_upgrade_radius_tin :id "12267"^^xsd:integer . 
 :item_mfr_upgrade_radius_tin :subId "2"^^xsd:integer . 
-:item_mfr_upgrade_radius_tin foaf:name "Upgrade (Tin)" . 
+:item_mfr_upgrade_radius_tin foaf:name "Upgrade Tin" . 
 :item_mfr_upgrade_radius_tin :name_intern "item.mfr.upgrade.radius.tin" . 
 
 :item_tile_ice_11 :id "2805"^^xsd:integer . 
@@ -33714,12 +33714,12 @@
 
 :tile_extrautils__colorWoodPlanks_13 :id "2519"^^xsd:integer . 
 :tile_extrautils__colorWoodPlanks_13 :subId "13"^^xsd:integer . 
-:tile_extrautils__colorWoodPlanks_13 foaf:name "Colored Wood Planks (Green)" . 
+:tile_extrautils__colorWoodPlanks_13 foaf:name "Colored Wood Planks Green" . 
 :tile_extrautils__colorWoodPlanks_13 :name_intern "tile.extrautils:colorWoodPlanks.13" . 
 
 :item_null_agricultureCarrotCakeBurned :id "20256"^^xsd:integer . 
 :item_null_agricultureCarrotCakeBurned :subId "127"^^xsd:integer . 
-:item_null_agricultureCarrotCakeBurned foaf:name "Carrot Cake (Burned)" . 
+:item_null_agricultureCarrotCakeBurned foaf:name "Carrot Cake Burned" . 
 :item_null_agricultureCarrotCakeBurned :name_intern "item.null.agricultureCarrotCakeBurned" . 
 
 :tile_thermalexpansion_glass_name :id "2013"^^xsd:integer . 
@@ -33749,7 +33749,7 @@
 
 :item_magicInfusionStone_strong :id "8605"^^xsd:integer . 
 :item_magicInfusionStone_strong :subId "2"^^xsd:integer . 
-:item_magicInfusionStone_strong foaf:name "§1Strong Infusion Stone" . 
+:item_magicInfusionStone_strong foaf:name "1Strong Infusion Stone" . 
 :item_magicInfusionStone_strong :name_intern "item.magicInfusionStone.strong" . 
 
 :WillowSeat :id "2368"^^xsd:integer . 
@@ -33984,7 +33984,7 @@
 
 :item_null_agriculturePeanutButterCookieBurned :id "20256"^^xsd:integer . 
 :item_null_agriculturePeanutButterCookieBurned :subId "135"^^xsd:integer . 
-:item_null_agriculturePeanutButterCookieBurned foaf:name "Peanut Butter Cookie (Burned)" . 
+:item_null_agriculturePeanutButterCookieBurned foaf:name "Peanut Butter Cookie Burned" . 
 :item_null_agriculturePeanutButterCookieBurned :name_intern "item.null.agriculturePeanutButterCookieBurned" . 
 
 :tile_mfr_machine_fertilizer :id "3120"^^xsd:integer . 
@@ -34004,7 +34004,7 @@
 
 :tile_pressurePlate_MOSSY_silent :id "1555"^^xsd:integer . 
 :tile_pressurePlate_MOSSY_silent :subId "6"^^xsd:integer . 
-:tile_pressurePlate_MOSSY_silent foaf:name "Pressure Plate (Silent)" . 
+:tile_pressurePlate_MOSSY_silent foaf:name "Pressure Plate Silent" . 
 :tile_pressurePlate_MOSSY_silent :name_intern "tile.pressurePlate.MOSSY.silent" . 
 
 :item_natura_pickaxe_netherquartz :id "12695"^^xsd:integer . 
@@ -34514,7 +34514,7 @@
 
 :item_CropEssence_gold :id "8523"^^xsd:integer . 
 :item_CropEssence_gold :subId "5"^^xsd:integer . 
-:item_CropEssence_gold foaf:name "§6Gold Essence" . 
+:item_CropEssence_gold foaf:name "6Gold Essence" . 
 :item_CropEssence_gold :name_intern "item.CropEssence.gold" . 
 
 :item_mffs__moduleShock :id "11404"^^xsd:integer . 
@@ -34574,7 +34574,7 @@
 
 :item_EssenceCoal_weak :id "4420"^^xsd:integer . 
 :item_EssenceCoal_weak :subId "1"^^xsd:integer . 
-:item_EssenceCoal_weak foaf:name "§2Infused Coal" . 
+:item_EssenceCoal_weak foaf:name "2Infused Coal" . 
 :item_EssenceCoal_weak :name_intern "item.EssenceCoal.weak" . 
 
 :tile_null :id "3709"^^xsd:integer . 
@@ -34744,7 +34744,7 @@
 
 :item_mfr_laserfocus_yellow :id "12289"^^xsd:integer . 
 :item_mfr_laserfocus_yellow :subId "4"^^xsd:integer . 
-:item_mfr_laserfocus_yellow foaf:name "Laser Focus (Yellow)" . 
+:item_mfr_laserfocus_yellow foaf:name "Laser Focus Yellow" . 
 :item_mfr_laserfocus_yellow :name_intern "item.mfr.laserfocus.yellow" . 
 
 :tile_bop_cherryStairs :id "1953"^^xsd:integer . 
@@ -34999,7 +34999,7 @@
 
 :item_item_slide :id "30781"^^xsd:integer . 
 :item_item_slide :subId "14"^^xsd:integer . 
-:item_item_slide foaf:name "Projector Slide (14)" . 
+:item_item_slide foaf:name "Projector Slide 14" . 
 :item_item_slide :name_intern "item.item.slide" . 
 
 :AppEng_Blocks_ExportBus :id "853"^^xsd:integer . 
@@ -35449,7 +35449,7 @@
 
 :item_CropEssence_coal :id "8523"^^xsd:integer . 
 :item_CropEssence_coal :subId "11"^^xsd:integer . 
-:item_CropEssence_coal foaf:name "§8Coal Essence" . 
+:item_CropEssence_coal foaf:name "8Coal Essence" . 
 :item_CropEssence_coal :name_intern "item.CropEssence.coal" . 
 
 :tile_fence :id "3701"^^xsd:integer . 
@@ -35629,7 +35629,7 @@
 
 :tile_extrautils__colorStoneBrick_10 :id "2504"^^xsd:integer . 
 :tile_extrautils__colorStoneBrick_10 :subId "10"^^xsd:integer . 
-:tile_extrautils__colorStoneBrick_10 foaf:name "Colored Bricks (Purple)" . 
+:tile_extrautils__colorStoneBrick_10 foaf:name "Colored Bricks Purple" . 
 :tile_extrautils__colorStoneBrick_10 :name_intern "tile.extrautils:colorStoneBrick.10" . 
 
 :tile_blockCandle_0 :id "2411"^^xsd:integer . 
@@ -36199,7 +36199,7 @@
 
 :item_PipeItemsPropolis :id "14256"^^xsd:integer . 
 :item_PipeItemsPropolis :subId "0"^^xsd:integer . 
-:item_PipeItemsPropolis foaf:name "Apiarist's Pipe" . 
+:item_PipeItemsPropolis foaf:name "Apiarists Pipe" . 
 :item_PipeItemsPropolis :name_intern "item.PipeItemsPropolis" . 
 
 :item_backpack_big_pink :id "18586"^^xsd:integer . 
@@ -36299,7 +36299,7 @@
 
 :tile_mfr_conveyor_brown :id "3121"^^xsd:integer . 
 :tile_mfr_conveyor_brown :subId "12"^^xsd:integer . 
-:tile_mfr_conveyor_brown foaf:name "Conveyor Belt (Brown)" . 
+:tile_mfr_conveyor_brown foaf:name "Conveyor Belt Brown" . 
 :tile_mfr_conveyor_brown :name_intern "tile.mfr.conveyor.brown" . 
 
 :tile_thermalexpansion_storage_electrum_name :id "2012"^^xsd:integer . 
@@ -36309,7 +36309,7 @@
 
 :tile_extrautils__colorStoneBrick_1 :id "2504"^^xsd:integer . 
 :tile_extrautils__colorStoneBrick_1 :subId "1"^^xsd:integer . 
-:tile_extrautils__colorStoneBrick_1 foaf:name "Colored Bricks (Orange)" . 
+:tile_extrautils__colorStoneBrick_1 foaf:name "Colored Bricks Orange" . 
 :tile_extrautils__colorStoneBrick_1 :name_intern "tile.extrautils:colorStoneBrick.1" . 
 
 :item_mffs__moduleStabilize :id "11407"^^xsd:integer . 
@@ -36334,7 +36334,7 @@
 
 :tile_thermalexpansion_conduit_itemOpaque :id "20278"^^xsd:integer . 
 :tile_thermalexpansion_conduit_itemOpaque :subId "4097"^^xsd:integer . 
-:tile_thermalexpansion_conduit_itemOpaque foaf:name "Itemduct (Opaque)" . 
+:tile_thermalexpansion_conduit_itemOpaque foaf:name "Itemduct Opaque" . 
 :tile_thermalexpansion_conduit_itemOpaque :name_intern "tile.thermalexpansion.conduit.itemOpaque" . 
 
 :tile_projectred_exploration_ore_oreruby :id "2130"^^xsd:integer . 
@@ -36419,7 +36419,7 @@
 
 :tile_mfr_conveyor_orange :id "3121"^^xsd:integer . 
 :tile_mfr_conveyor_orange :subId "1"^^xsd:integer . 
-:tile_mfr_conveyor_orange foaf:name "Conveyor Belt (Orange)" . 
+:tile_mfr_conveyor_orange foaf:name "Conveyor Belt Orange" . 
 :tile_mfr_conveyor_orange :name_intern "tile.mfr.conveyor.orange" . 
 
 :item_factorization__daybarrel :id "9318"^^xsd:integer . 
@@ -36584,7 +36584,7 @@
 
 :item_railcraft_armor_overalls :id "7757"^^xsd:integer . 
 :item_railcraft_armor_overalls :subId "0"^^xsd:integer . 
-:item_railcraft_armor_overalls foaf:name "Engineer's Overalls" . 
+:item_railcraft_armor_overalls foaf:name "Engineers Overalls" . 
 :item_railcraft_armor_overalls :name_intern "item.railcraft.armor.overalls" . 
 
 :tile_railcraft_stair_sandy_fitted :id "464"^^xsd:integer . 
@@ -36639,7 +36639,7 @@
 
 :item_null_agricultureToastedPBSandwichBurned :id "20256"^^xsd:integer . 
 :item_null_agricultureToastedPBSandwichBurned :subId "147"^^xsd:integer . 
-:item_null_agricultureToastedPBSandwichBurned foaf:name "Toasted PB Sandwich (Burned)" . 
+:item_null_agricultureToastedPBSandwichBurned foaf:name "Toasted PB Sandwich Burned" . 
 :item_null_agricultureToastedPBSandwichBurned :name_intern "item.null.agricultureToastedPBSandwichBurned" . 
 
 :tile_hl_leafyFern :id "3824"^^xsd:integer . 
@@ -36659,7 +36659,7 @@
 
 :item_item_slide :id "30781"^^xsd:integer . 
 :item_item_slide :subId "13"^^xsd:integer . 
-:item_item_slide foaf:name "Projector Slide (13)" . 
+:item_item_slide foaf:name "Projector Slide 13" . 
 :item_item_slide :name_intern "item.item.slide" . 
 
 :item_factorization__ore/gravel/GALENA :id "9290"^^xsd:integer . 
@@ -37049,7 +37049,7 @@
 
 :item_hunterBag :id "13308"^^xsd:integer . 
 :item_hunterBag :subId "0"^^xsd:integer . 
-:item_hunterBag foaf:name "Hunter's Backpack" . 
+:item_hunterBag foaf:name "Hunters Backpack" . 
 :item_hunterBag :name_intern "item.hunterBag" . 
 
 :railcraft_machine_beta_boiler_tank_pressure_high :id "452"^^xsd:integer . 
@@ -37109,7 +37109,7 @@
 
 :item_itemUpgrade :id "7122"^^xsd:integer . 
 :item_itemUpgrade :subId "15"^^xsd:integer . 
-:item_itemUpgrade foaf:name "Disconnection Upgrade (WEST)" . 
+:item_itemUpgrade foaf:name "Disconnection Upgrade WEST" . 
 :item_itemUpgrade :name_intern "item.itemUpgrade" . 
 
 :tile_thermalexpansion_storage_enderium_name :id "2012"^^xsd:integer . 
@@ -37284,7 +37284,7 @@
 
 :item_EssenceCoal_regular :id "4420"^^xsd:integer . 
 :item_EssenceCoal_regular :subId "2"^^xsd:integer . 
-:item_EssenceCoal_regular foaf:name "§1Infused Coal" . 
+:item_EssenceCoal_regular foaf:name "1Infused Coal" . 
 :item_EssenceCoal_regular :name_intern "item.EssenceCoal.regular" . 
 
 :tile_lampsOn_silver :id "1053"^^xsd:integer . 
@@ -37334,7 +37334,7 @@
 
 :tile_mfr_stainedglass_pane_black :id "3130"^^xsd:integer . 
 :tile_mfr_stainedglass_pane_black :subId "15"^^xsd:integer . 
-:tile_mfr_stainedglass_pane_black foaf:name "Stained Glass Pane (Black)" . 
+:tile_mfr_stainedglass_pane_black foaf:name "Stained Glass Pane Black" . 
 :tile_mfr_stainedglass_pane_black :name_intern "tile.mfr.stainedglass.pane.black" . 
 
 :tile_CrystalLamp_10 :id "772"^^xsd:integer . 
@@ -37369,7 +37369,7 @@
 
 :item_mfr_upgrade_radius_platinum :id "12267"^^xsd:integer . 
 :item_mfr_upgrade_radius_platinum :subId "9"^^xsd:integer . 
-:item_mfr_upgrade_radius_platinum foaf:name "Upgrade (Platinum)" . 
+:item_mfr_upgrade_radius_platinum foaf:name "Upgrade Platinum" . 
 :item_mfr_upgrade_radius_platinum :name_intern "item.mfr.upgrade.radius.platinum" . 
 
 :multiBlock_524__8 :id "524"^^xsd:integer . 
@@ -37509,7 +37509,7 @@
 
 :tile_mfr_stainedglass_pane_gray :id "3130"^^xsd:integer . 
 :tile_mfr_stainedglass_pane_gray :subId "7"^^xsd:integer . 
-:tile_mfr_stainedglass_pane_gray foaf:name "Stained Glass Pane (Gray)" . 
+:tile_mfr_stainedglass_pane_gray foaf:name "Stained Glass Pane Gray" . 
 :tile_mfr_stainedglass_pane_gray :name_intern "tile.mfr.stainedglass.pane.gray" . 
 
 :HolyBookcase :id "2301"^^xsd:integer . 
@@ -37539,7 +37539,7 @@
 
 :item_upgrade_structural_6 :id "25070"^^xsd:integer . 
 :item_upgrade_structural_6 :subId "5"^^xsd:integer . 
-:item_upgrade_structural_6 foaf:name "Structural MK VI (End Stone)" . 
+:item_upgrade_structural_6 foaf:name "Structural MK VI End Stone" . 
 :item_upgrade_structural_6 :name_intern "item.upgrade.structural.6" . 
 
 :AppEng_Blocks_Cable :id "851"^^xsd:integer . 
@@ -37639,7 +37639,7 @@
 
 :item_item_slide :id "30781"^^xsd:integer . 
 :item_item_slide :subId "1"^^xsd:integer . 
-:item_item_slide foaf:name "Projector Slide (1)" . 
+:item_item_slide foaf:name "Projector Slide 1" . 
 :item_item_slide :name_intern "item.item.slide" . 
 
 :item_fishyFood :id "20513"^^xsd:integer . 
@@ -37854,7 +37854,7 @@
 
 :item_MagicEssence_large :id "8525"^^xsd:integer . 
 :item_MagicEssence_large :subId "4"^^xsd:integer . 
-:item_MagicEssence_large foaf:name "§6Extreme Essence" . 
+:item_MagicEssence_large foaf:name "6Extreme Essence" . 
 :item_MagicEssence_large :name_intern "item.MagicEssence.large" . 
 
 :item_magicbees__mysteriousMagnet :id "26121"^^xsd:integer . 
@@ -38069,7 +38069,7 @@
 
 :tile_mfr_stainedglass_pane_blue :id "3130"^^xsd:integer . 
 :tile_mfr_stainedglass_pane_blue :subId "11"^^xsd:integer . 
-:tile_mfr_stainedglass_pane_blue foaf:name "Stained Glass Pane (Blue)" . 
+:tile_mfr_stainedglass_pane_blue foaf:name "Stained Glass Pane Blue" . 
 :tile_mfr_stainedglass_pane_blue :name_intern "tile.mfr.stainedglass.pane.blue" . 
 
 :BlackLinedMangroveCase :id "2305"^^xsd:integer . 
@@ -38224,7 +38224,7 @@
 
 :item_item_handpump :id "30800"^^xsd:integer . 
 :item_item_handpump :subId "0"^^xsd:integer . 
-:item_item_handpump foaf:name "Spring-Powered Pump (0 kJ)" . 
+:item_item_handpump foaf:name "Spring-Powered Pump 0 kJ" . 
 :item_item_handpump :name_intern "item.item.handpump" . 
 
 :tile_frame_energy :id "1181"^^xsd:integer . 
@@ -38604,7 +38604,7 @@
 
 :item_null_agricultureCaramelBurned :id "20256"^^xsd:integer . 
 :item_null_agricultureCaramelBurned :subId "126"^^xsd:integer . 
-:item_null_agricultureCaramelBurned foaf:name "Caramel (Burned)" . 
+:item_null_agricultureCaramelBurned foaf:name "Caramel Burned" . 
 :item_null_agricultureCaramelBurned :name_intern "item.null.agricultureCaramelBurned" . 
 
 :item_emptyOreMap :id "28911"^^xsd:integer . 
@@ -38639,7 +38639,7 @@
 
 :item_extrautils__watering_can_empty :id "10269"^^xsd:integer . 
 :item_extrautils__watering_can_empty :subId "1"^^xsd:integer . 
-:item_extrautils__watering_can_empty foaf:name "Watering Can (Empty)" . 
+:item_extrautils__watering_can_empty foaf:name "Watering Can Empty" . 
 :item_extrautils__watering_can_empty :name_intern "item.extrautils:watering_can.empty" . 
 
 :item_projectred_exploration_sicklediamond :id "9000"^^xsd:integer . 
@@ -38724,7 +38724,7 @@
 
 :item_railcraft_armor_goggles :id "7756"^^xsd:integer . 
 :item_railcraft_armor_goggles :subId "0"^^xsd:integer . 
-:item_railcraft_armor_goggles foaf:name "Trackman's Goggles" . 
+:item_railcraft_armor_goggles foaf:name "Trackmans Goggles" . 
 :item_railcraft_armor_goggles :name_intern "item.railcraft.armor.goggles" . 
 
 :tile_null :id "123"^^xsd:integer . 
@@ -38734,7 +38734,7 @@
 
 :tile_mfr_stainedglass_block_gray :id "3129"^^xsd:integer . 
 :tile_mfr_stainedglass_block_gray :subId "7"^^xsd:integer . 
-:tile_mfr_stainedglass_block_gray foaf:name "Stained Glass (Gray)" . 
+:tile_mfr_stainedglass_block_gray foaf:name "Stained Glass Gray" . 
 :tile_mfr_stainedglass_block_gray :name_intern "tile.mfr.stainedglass.block.gray" . 
 
 :tile_detectorRail :id "28"^^xsd:integer . 
@@ -38764,7 +38764,7 @@
 
 :item_item_slide :id "30781"^^xsd:integer . 
 :item_item_slide :subId "18"^^xsd:integer . 
-:item_item_slide foaf:name "Projector Slide (18)" . 
+:item_item_slide foaf:name "Projector Slide 18" . 
 :item_item_slide :name_intern "item.item.slide" . 
 
 :item_backpack_big_purple :id "18586"^^xsd:integer . 
@@ -38824,7 +38824,7 @@
 
 :item_item_slide :id "30781"^^xsd:integer . 
 :item_item_slide :subId "24"^^xsd:integer . 
-:item_item_slide foaf:name "Projector Slide (Custom)" . 
+:item_item_slide foaf:name "Projector Slide Custom" . 
 :item_item_slide :name_intern "item.item.slide" . 
 
 :item_CrystalShard_14 :id "10001"^^xsd:integer . 
@@ -39069,7 +39069,7 @@
 
 :item_null_agricultureRoastedMarshmellowsBurned :id "20256"^^xsd:integer . 
 :item_null_agricultureRoastedMarshmellowsBurned :subId "137"^^xsd:integer . 
-:item_null_agricultureRoastedMarshmellowsBurned foaf:name "Roasted Marshmellows (Burned)" . 
+:item_null_agricultureRoastedMarshmellowsBurned foaf:name "Roasted Marshmellows Burned" . 
 :item_null_agricultureRoastedMarshmellowsBurned :name_intern "item.null.agricultureRoastedMarshmellowsBurned" . 
 
 :item_mfr_upgrade_logic_300 :id "12277"^^xsd:integer . 
@@ -39289,7 +39289,7 @@
 
 :tile_bop_flowers2_minersdelight :id "1983"^^xsd:integer . 
 :tile_bop_flowers2_minersdelight :subId "6"^^xsd:integer . 
-:tile_bop_flowers2_minersdelight foaf:name "Miner's Delight" . 
+:tile_bop_flowers2_minersdelight foaf:name "Miners Delight" . 
 :tile_bop_flowers2_minersdelight :name_intern "tile.bop.flowers2.minersdelight" . 
 
 :enderio_itemRedstoneConduit :id "8783"^^xsd:integer . 
@@ -39314,7 +39314,7 @@
 
 :tile_extrautils__colorStoneBrick_9 :id "2504"^^xsd:integer . 
 :tile_extrautils__colorStoneBrick_9 :subId "9"^^xsd:integer . 
-:tile_extrautils__colorStoneBrick_9 foaf:name "Colored Bricks (Cyan)" . 
+:tile_extrautils__colorStoneBrick_9 foaf:name "Colored Bricks Cyan" . 
 :tile_extrautils__colorStoneBrick_9 :name_intern "tile.extrautils:colorStoneBrick.9" . 
 
 :item_factorization__ore/reduced/GALENA :id "9292"^^xsd:integer . 
@@ -39619,7 +39619,7 @@
 
 :tile_pressurePlate_OBSIDIAN_silent :id "1555"^^xsd:integer . 
 :tile_pressurePlate_OBSIDIAN_silent :subId "2"^^xsd:integer . 
-:tile_pressurePlate_OBSIDIAN_silent foaf:name "Pressure Plate (Silent)" . 
+:tile_pressurePlate_OBSIDIAN_silent foaf:name "Pressure Plate Silent" . 
 :tile_pressurePlate_OBSIDIAN_silent :name_intern "tile.pressurePlate.OBSIDIAN.silent" . 
 
 :item_seatBack_SilverbellSeatBack :id "22555"^^xsd:integer . 
@@ -39849,7 +39849,7 @@
 
 :tile_extrautils__colorWoodPlanks_15 :id "2519"^^xsd:integer . 
 :tile_extrautils__colorWoodPlanks_15 :subId "15"^^xsd:integer . 
-:tile_extrautils__colorWoodPlanks_15 foaf:name "Colored Wood Planks (Black)" . 
+:tile_extrautils__colorWoodPlanks_15 foaf:name "Colored Wood Planks Black" . 
 :tile_extrautils__colorWoodPlanks_15 :name_intern "tile.extrautils:colorWoodPlanks.15" . 
 
 :tile_pearlBrick_brown :id "1042"^^xsd:integer . 
@@ -39979,7 +39979,7 @@
 
 :tile_extrautils__colorWoodPlanks_2 :id "2519"^^xsd:integer . 
 :tile_extrautils__colorWoodPlanks_2 :subId "2"^^xsd:integer . 
-:tile_extrautils__colorWoodPlanks_2 foaf:name "Colored Wood Planks (Magenta)" . 
+:tile_extrautils__colorWoodPlanks_2 foaf:name "Colored Wood Planks Magenta" . 
 :tile_extrautils__colorWoodPlanks_2 :name_intern "tile.extrautils:colorWoodPlanks.2" . 
 
 :item_dyePowder_orange :id "351"^^xsd:integer . 
@@ -40079,7 +40079,7 @@
 
 :tile_mfr_stainedglass_block_magenta :id "3129"^^xsd:integer . 
 :tile_mfr_stainedglass_block_magenta :subId "2"^^xsd:integer . 
-:tile_mfr_stainedglass_block_magenta foaf:name "Stained Glass (Magenta)" . 
+:tile_mfr_stainedglass_block_magenta foaf:name "Stained Glass Magenta" . 
 :tile_mfr_stainedglass_block_magenta :name_intern "tile.mfr.stainedglass.block.magenta" . 
 
 :item_e_dusts_e_pureSilverDust :id "4448"^^xsd:integer . 
@@ -40119,7 +40119,7 @@
 
 :railcraft_cube_brick_infernal :id "457"^^xsd:integer . 
 :railcraft_cube_brick_infernal :subId "3"^^xsd:integer . 
-:railcraft_cube_brick_infernal foaf:name "Infernal Brick (Obsolete)" . 
+:railcraft_cube_brick_infernal foaf:name "Infernal Brick Obsolete" . 
 :railcraft_cube_brick_infernal :name_intern "railcraft.cube.brick.infernal" . 
 
 :item_projectred_illumination_lightbutton|1 :id "9037"^^xsd:integer . 
@@ -40189,7 +40189,7 @@
 
 :item_apiaristChest :id "13357"^^xsd:integer . 
 :item_apiaristChest :subId "0"^^xsd:integer . 
-:item_apiaristChest foaf:name "Apiarist's Shirt" . 
+:item_apiaristChest foaf:name "Apiarists Shirt" . 
 :item_apiaristChest :name_intern "item.apiaristChest" . 
 
 :multiBlock_519__14 :id "519"^^xsd:integer . 
@@ -40364,7 +40364,7 @@
 
 :item_null_agricultureToastedPBJSandwichStrawberry :id "20256"^^xsd:integer . 
 :item_null_agricultureToastedPBJSandwichStrawberry :subId "60"^^xsd:integer . 
-:item_null_agricultureToastedPBJSandwichStrawberry foaf:name "Toasted PB&J Sandwich (Strawberry)" . 
+:item_null_agricultureToastedPBJSandwichStrawberry foaf:name "Toasted PB&J Sandwich Strawberry" . 
 :item_null_agricultureToastedPBJSandwichStrawberry :name_intern "item.null.agricultureToastedPBJSandwichStrawberry" . 
 
 :tile_BlockEssenceBrick :id "3633"^^xsd:integer . 
@@ -40382,10 +40382,10 @@
 :tile_log foaf:name "Alder Wood" . 
 :tile_log :name_intern "tile.log" . 
 
-:tile_Mimichite Ore :id "2431"^^xsd:integer . 
-:tile_Mimichite Ore :subId "1"^^xsd:integer . 
-:tile_Mimichite Ore foaf:name "Mimichite Ore" . 
-:tile_Mimichite Ore :name_intern "tile.Mimichite Ore" . 
+:tile_Mimichite___Ore :id "2431"^^xsd:integer . 
+:tile_Mimichite___Ore :subId "1"^^xsd:integer . 
+:tile_Mimichite___Ore foaf:name "Mimichite Ore" . 
+:tile_Mimichite___Ore :name_intern "tile.Mimichite Ore" . 
 
 :tile_FittedRock_11 :id "727"^^xsd:integer . 
 :tile_FittedRock_11 :subId "11"^^xsd:integer . 
@@ -40594,7 +40594,7 @@
 
 :item_ttinkerer__infusedInkwell :id "22424"^^xsd:integer . 
 :item_ttinkerer__infusedInkwell :subId "0"^^xsd:integer . 
-:item_ttinkerer__infusedInkwell foaf:name "Infused Scribing Tools (NYI)" . 
+:item_ttinkerer__infusedInkwell foaf:name "Infused Scribing Tools NYI" . 
 :item_ttinkerer__infusedInkwell :name_intern "item.ttinkerer:infusedInkwell" . 
 
 :tile_netherores_ore_redstone :id "1440"^^xsd:integer . 
@@ -40674,7 +40674,7 @@
 
 :item_thermalexpansion_component_cellReinforcedFrameFull :id "20263"^^xsd:integer . 
 :item_thermalexpansion_component_cellReinforcedFrameFull :subId "73"^^xsd:integer . 
-:item_thermalexpansion_component_cellReinforcedFrameFull foaf:name "Redstone Energy Cell Frame (Full)" . 
+:item_thermalexpansion_component_cellReinforcedFrameFull foaf:name "Redstone Energy Cell Frame Full" . 
 :item_thermalexpansion_component_cellReinforcedFrameFull :name_intern "item.thermalexpansion.component.cellReinforcedFrameFull" . 
 
 :tile_planks :id "3700"^^xsd:integer . 
@@ -40829,7 +40829,7 @@
 
 :tile_extrautils__colorWoodPlanks_1 :id "2519"^^xsd:integer . 
 :tile_extrautils__colorWoodPlanks_1 :subId "1"^^xsd:integer . 
-:tile_extrautils__colorWoodPlanks_1 foaf:name "Colored Wood Planks (Orange)" . 
+:tile_extrautils__colorWoodPlanks_1 foaf:name "Colored Wood Planks Orange" . 
 :tile_extrautils__colorWoodPlanks_1 :name_intern "tile.extrautils:colorWoodPlanks.1" . 
 
 :tile_snow :id "78"^^xsd:integer . 
@@ -40869,7 +40869,7 @@
 
 :item_thermalexpansion_component_tesseractFrameEmpty :id "20263"^^xsd:integer . 
 :item_thermalexpansion_component_tesseractFrameEmpty :subId "128"^^xsd:integer . 
-:item_thermalexpansion_component_tesseractFrameEmpty foaf:name "Tesseract Frame (Empty)" . 
+:item_thermalexpansion_component_tesseractFrameEmpty foaf:name "Tesseract Frame Empty" . 
 :item_thermalexpansion_component_tesseractFrameEmpty :name_intern "item.thermalexpansion.component.tesseractFrameEmpty" . 
 
 :tile_enderchest|0 :id "241"^^xsd:integer . 
@@ -40974,12 +40974,12 @@
 
 :item_item_slide :id "30781"^^xsd:integer . 
 :item_item_slide :subId "6"^^xsd:integer . 
-:item_item_slide foaf:name "Projector Slide (6)" . 
+:item_item_slide foaf:name "Projector Slide 6" . 
 :item_item_slide :name_intern "item.item.slide" . 
 
 :item_CropEssence_dye :id "8523"^^xsd:integer . 
 :item_CropEssence_dye :subId "13"^^xsd:integer . 
-:item_CropEssence_dye foaf:name "§4Dye §AEssence" . 
+:item_CropEssence_dye foaf:name "4Dye AEssence" . 
 :item_CropEssence_dye :name_intern "item.CropEssence.dye" . 
 
 :item_socket_module_15 :id "4426"^^xsd:integer . 
@@ -41384,7 +41384,7 @@
 
 :tile_mfr_stainedglass_block_white :id "3129"^^xsd:integer . 
 :tile_mfr_stainedglass_block_white :subId "0"^^xsd:integer . 
-:tile_mfr_stainedglass_block_white foaf:name "Stained Glass (White)" . 
+:tile_mfr_stainedglass_block_white foaf:name "Stained Glass White" . 
 :tile_mfr_stainedglass_block_white :name_intern "tile.mfr.stainedglass.block.white" . 
 
 :item_betterstorage_cardboardShovel :id "27427"^^xsd:integer . 
@@ -41549,7 +41549,7 @@
 
 :item_mfr_laserfocus_purple :id "12289"^^xsd:integer . 
 :item_mfr_laserfocus_purple :subId "10"^^xsd:integer . 
-:item_mfr_laserfocus_purple foaf:name "Laser Focus (Purple)" . 
+:item_mfr_laserfocus_purple foaf:name "Laser Focus Purple" . 
 :item_mfr_laserfocus_purple :name_intern "item.mfr.laserfocus.purple" . 
 
 :item_projectred_core_part_illumar12 :id "9005"^^xsd:integer . 
@@ -41664,7 +41664,7 @@
 
 :item_openblocks_miracle_magnet :id "15232"^^xsd:integer . 
 :item_openblocks_miracle_magnet :subId "4"^^xsd:integer . 
-:item_openblocks_miracle_magnet foaf:name "§5Miracle Magnet§r" . 
+:item_openblocks_miracle_magnet foaf:name "5Miracle Magnetr" . 
 :item_openblocks_miracle_magnet :name_intern "item.openblocks.miracle_magnet" . 
 
 :item_fluidContainer :id "8656"^^xsd:integer . 
@@ -41674,7 +41674,7 @@
 
 :item_reliquaryHandgun :id "27472"^^xsd:integer . 
 :item_reliquaryHandgun :subId "0"^^xsd:integer . 
-:item_reliquaryHandgun foaf:name "Hunter's Handgun" . 
+:item_reliquaryHandgun foaf:name "Hunters Handgun" . 
 :item_reliquaryHandgun :name_intern "item.reliquaryHandgun" . 
 
 :item_itemModule :id "7127"^^xsd:integer . 
@@ -41714,7 +41714,7 @@
 
 :item_#item_railgun_0 :id "30777"^^xsd:integer . 
 :item_#item_railgun_0 :subId "0"^^xsd:integer . 
-:item_#item_railgun_0 foaf:name "RailGun Ammunition (1 kg)" . 
+:item_#item_railgun_0 foaf:name "RailGun Ammunition 1 kg" . 
 :item_#item_railgun_0 :name_intern "item.#item.railgun.0" . 
 
 :item_ItemInkwell :id "25257"^^xsd:integer . 
@@ -42054,7 +42054,7 @@
 
 :item_mfr_ceramicdye_black :id "12261"^^xsd:integer . 
 :item_mfr_ceramicdye_black :subId "15"^^xsd:integer . 
-:item_mfr_ceramicdye_black foaf:name "Ceramic Dye (Black)" . 
+:item_mfr_ceramicdye_black foaf:name "Ceramic Dye Black" . 
 :item_mfr_ceramicdye_black :name_intern "item.mfr.ceramicdye.black" . 
 
 :item_seatBack_MahoeSeatBack :id "22574"^^xsd:integer . 
@@ -42252,10 +42252,10 @@
 :YellowWoodCase foaf:name "Yellow Wood Case" . 
 :YellowWoodCase :name_intern "YellowWoodCase" . 
 
-:item_paintCan_Light Gray :id "4439"^^xsd:integer . 
-:item_paintCan_Light Gray :subId "0"^^xsd:integer . 
-:item_paintCan_Light Gray foaf:name "Light Gray Spray Paint" . 
-:item_paintCan_Light Gray :name_intern "item.paintCan.Light Gray" . 
+:item_paintCan_Light___Gray :id "4439"^^xsd:integer . 
+:item_paintCan_Light___Gray :subId "0"^^xsd:integer . 
+:item_paintCan_Light___Gray foaf:name "Light Gray Spray Paint" . 
+:item_paintCan_Light___Gray :name_intern "item.paintCan.Light Gray" . 
 
 :tile_blockEmerald :id "133"^^xsd:integer . 
 :tile_blockEmerald :subId "0"^^xsd:integer . 
@@ -42299,7 +42299,7 @@
 
 :tile_weightedPlate_heavy :id "148"^^xsd:integer . 
 :tile_weightedPlate_heavy :subId "0"^^xsd:integer . 
-:tile_weightedPlate_heavy foaf:name "Weighted Pressure Plate (Heavy)" . 
+:tile_weightedPlate_heavy foaf:name "Weighted Pressure Plate Heavy" . 
 :tile_weightedPlate_heavy :name_intern "tile.weightedPlate_heavy" . 
 
 :item_tile_blockMarbleStairs_0_0 :id "2752"^^xsd:integer . 
@@ -42514,7 +42514,7 @@
 
 :tile_thermalexpansion_conduit_itemOpaque_name :id "2008"^^xsd:integer . 
 :tile_thermalexpansion_conduit_itemOpaque_name :subId "6"^^xsd:integer . 
-:tile_thermalexpansion_conduit_itemOpaque_name foaf:name "Itemduct (Opaque)" . 
+:tile_thermalexpansion_conduit_itemOpaque_name foaf:name "Itemduct Opaque" . 
 :tile_thermalexpansion_conduit_itemOpaque_name :name_intern "tile.thermalexpansion.conduit.itemOpaque.name" . 
 
 :item_EnhancedCrystalPendant_3 :id "10005"^^xsd:integer . 
@@ -42614,7 +42614,7 @@
 
 :item_null_agricultureToastedPBJSandwichApple :id "20256"^^xsd:integer . 
 :item_null_agricultureToastedPBJSandwichApple :subId "59"^^xsd:integer . 
-:item_null_agricultureToastedPBJSandwichApple foaf:name "Toasted PB&J Sandwich (Apple)" . 
+:item_null_agricultureToastedPBJSandwichApple foaf:name "Toasted PB&J Sandwich Apple" . 
 :item_null_agricultureToastedPBJSandwichApple :name_intern "item.null.agricultureToastedPBJSandwichApple" . 
 
 :item_SC2__chest_pane :id "29998"^^xsd:integer . 
@@ -42794,7 +42794,7 @@
 
 :tile_extrautils__colorStoneBrick_0 :id "2504"^^xsd:integer . 
 :tile_extrautils__colorStoneBrick_0 :subId "0"^^xsd:integer . 
-:tile_extrautils__colorStoneBrick_0 foaf:name "Colored Bricks (White)" . 
+:tile_extrautils__colorStoneBrick_0 foaf:name "Colored Bricks White" . 
 :tile_extrautils__colorStoneBrick_0 :name_intern "tile.extrautils:colorStoneBrick.0" . 
 
 :tile_emasher_MJ_adapter :id "4078"^^xsd:integer . 
@@ -42804,7 +42804,7 @@
 
 :item_null_agricultureToastedPBJSandwichStrawberryBurned :id "20256"^^xsd:integer . 
 :item_null_agricultureToastedPBJSandwichStrawberryBurned :subId "146"^^xsd:integer . 
-:item_null_agricultureToastedPBJSandwichStrawberryBurned foaf:name "Toasted PB&J Sabdwich (Strawberry) (Burned)" . 
+:item_null_agricultureToastedPBJSandwichStrawberryBurned foaf:name "Toasted PB&J Sabdwich Strawberry Burned" . 
 :item_null_agricultureToastedPBJSandwichStrawberryBurned :name_intern "item.null.agricultureToastedPBJSandwichStrawberryBurned" . 
 
 :tile_SC2__BlockCartAssembler :id "2661"^^xsd:integer . 
@@ -42884,7 +42884,7 @@
 
 :tile_mfr_stainedglass_block_yellow :id "3129"^^xsd:integer . 
 :tile_mfr_stainedglass_block_yellow :subId "4"^^xsd:integer . 
-:tile_mfr_stainedglass_block_yellow foaf:name "Stained Glass (Yellow)" . 
+:tile_mfr_stainedglass_block_yellow foaf:name "Stained Glass Yellow" . 
 :tile_mfr_stainedglass_block_yellow :name_intern "tile.mfr.stainedglass.block.yellow" . 
 
 :tile_log :id "3704"^^xsd:integer . 
@@ -42934,7 +42934,7 @@
 
 :tile_mfr_stainedglass_pane_green :id "3130"^^xsd:integer . 
 :tile_mfr_stainedglass_pane_green :subId "13"^^xsd:integer . 
-:tile_mfr_stainedglass_pane_green foaf:name "Stained Glass Pane (Green)" . 
+:tile_mfr_stainedglass_pane_green foaf:name "Stained Glass Pane Green" . 
 :tile_mfr_stainedglass_pane_green :name_intern "tile.mfr.stainedglass.pane.green" . 
 
 :item_factorization__daybarrel :id "9318"^^xsd:integer . 
@@ -43074,7 +43074,7 @@
 
 :item_thermalexpansion_material_ingotBronze :id "20264"^^xsd:integer . 
 :item_thermalexpansion_material_ingotBronze :subId "72"^^xsd:integer . 
-:item_thermalexpansion_material_ingotBronze foaf:name "Tinker's Alloy Ingot" . 
+:item_thermalexpansion_material_ingotBronze foaf:name "Tinkers Alloy Ingot" . 
 :item_thermalexpansion_material_ingotBronze :name_intern "item.thermalexpansion.material.ingotBronze" . 
 
 :item_modextracts_275 :id "30900"^^xsd:integer . 
@@ -43264,7 +43264,7 @@
 
 :tile_mfr_conveyor_lightblue :id "3121"^^xsd:integer . 
 :tile_mfr_conveyor_lightblue :subId "3"^^xsd:integer . 
-:tile_mfr_conveyor_lightblue foaf:name "Conveyor Belt (Light Blue)" . 
+:tile_mfr_conveyor_lightblue foaf:name "Conveyor Belt Light Blue" . 
 :tile_mfr_conveyor_lightblue :name_intern "tile.mfr.conveyor.lightblue" . 
 
 :tile_TFFireflyJar :id "2168"^^xsd:integer . 
@@ -43384,7 +43384,7 @@
 
 :tile_mfr_stainedglass_pane_lightblue :id "3130"^^xsd:integer . 
 :tile_mfr_stainedglass_pane_lightblue :subId "3"^^xsd:integer . 
-:tile_mfr_stainedglass_pane_lightblue foaf:name "Stained Glass Pane (Light Blue)" . 
+:tile_mfr_stainedglass_pane_lightblue foaf:name "Stained Glass Pane Light Blue" . 
 :tile_mfr_stainedglass_pane_lightblue :name_intern "tile.mfr.stainedglass.pane.lightblue" . 
 
 :tile_e_ore_e_oreSapphire :id "3172"^^xsd:integer . 
@@ -43704,7 +43704,7 @@
 
 :tile_extrautils__colorStoneBrick_12 :id "2504"^^xsd:integer . 
 :tile_extrautils__colorStoneBrick_12 :subId "12"^^xsd:integer . 
-:tile_extrautils__colorStoneBrick_12 foaf:name "Colored Bricks (Brown)" . 
+:tile_extrautils__colorStoneBrick_12 foaf:name "Colored Bricks Brown" . 
 :tile_extrautils__colorStoneBrick_12 :name_intern "tile.extrautils:colorStoneBrick.12" . 
 
 :item_factorization__daybarrel :id "9318"^^xsd:integer . 
@@ -43884,7 +43884,7 @@
 
 :item_itemUpgrade :id "7122"^^xsd:integer . 
 :item_itemUpgrade :subId "12"^^xsd:integer . 
-:item_itemUpgrade foaf:name "Disconnection Upgrade (NORTH)" . 
+:item_itemUpgrade foaf:name "Disconnection Upgrade NORTH" . 
 :item_itemUpgrade :name_intern "item.itemUpgrade" . 
 
 :tile_railcraft_detector_villager :id "450"^^xsd:integer . 
@@ -43979,7 +43979,7 @@
 
 :tile_mfr_conveyor_red :id "3121"^^xsd:integer . 
 :tile_mfr_conveyor_red :subId "14"^^xsd:integer . 
-:tile_mfr_conveyor_red foaf:name "Conveyor Belt (Red)" . 
+:tile_mfr_conveyor_red foaf:name "Conveyor Belt Red" . 
 :tile_mfr_conveyor_red :name_intern "tile.mfr.conveyor.red" . 
 
 :item_factorization__daybarrel :id "9318"^^xsd:integer . 
@@ -43994,7 +43994,7 @@
 
 :item_#item_railgun_12 :id "30777"^^xsd:integer . 
 :item_#item_railgun_12 :subId "12"^^xsd:integer . 
-:item_#item_railgun_12 foaf:name "RailGun Ammunition (4096 kg)" . 
+:item_#item_railgun_12 foaf:name "RailGun Ammunition 4096 kg" . 
 :item_#item_railgun_12 :name_intern "item.#item.railgun.12" . 
 
 :tile_null :id "3707"^^xsd:integer . 
@@ -44004,7 +44004,7 @@
 
 :tile_mfr_conveyor_blue :id "3121"^^xsd:integer . 
 :tile_mfr_conveyor_blue :subId "11"^^xsd:integer . 
-:tile_mfr_conveyor_blue foaf:name "Conveyor Belt (Blue)" . 
+:tile_mfr_conveyor_blue foaf:name "Conveyor Belt Blue" . 
 :tile_mfr_conveyor_blue :name_intern "tile.mfr.conveyor.blue" . 
 
 :tile_null :id "3710"^^xsd:integer . 
@@ -44104,7 +44104,7 @@
 
 :item_bronzeShovel :id "13264"^^xsd:integer . 
 :item_bronzeShovel :subId "0"^^xsd:integer . 
-:item_bronzeShovel foaf:name "Survivalist's Shovel" . 
+:item_bronzeShovel foaf:name "Survivalists Shovel" . 
 :item_bronzeShovel :name_intern "item.bronzeShovel" . 
 
 :item_seatBack_PalmSeatBack :id "22572"^^xsd:integer . 
@@ -44114,7 +44114,7 @@
 
 :tile_mfr_conveyor_green :id "3121"^^xsd:integer . 
 :tile_mfr_conveyor_green :subId "13"^^xsd:integer . 
-:tile_mfr_conveyor_green foaf:name "Conveyor Belt (Green)" . 
+:tile_mfr_conveyor_green foaf:name "Conveyor Belt Green" . 
 :tile_mfr_conveyor_green :name_intern "tile.mfr.conveyor.green" . 
 
 :item_liquidContainer :id "14260"^^xsd:integer . 
@@ -44379,7 +44379,7 @@
 
 :item_null_agricultureToastedPBJSandwichAppleBurned :id "20256"^^xsd:integer . 
 :item_null_agricultureToastedPBJSandwichAppleBurned :subId "145"^^xsd:integer . 
-:item_null_agricultureToastedPBJSandwichAppleBurned foaf:name "Toasted PB&J Sandwich (Apple) (Burned)" . 
+:item_null_agricultureToastedPBJSandwichAppleBurned foaf:name "Toasted PB&J Sandwich Apple Burned" . 
 :item_null_agricultureToastedPBJSandwichAppleBurned :name_intern "item.null.agricultureToastedPBJSandwichAppleBurned" . 
 
 :tile_for_slabs2_3 :id "1387"^^xsd:integer . 
@@ -44444,7 +44444,7 @@
 
 :item_#item_railgun_10 :id "30777"^^xsd:integer . 
 :item_#item_railgun_10 :subId "10"^^xsd:integer . 
-:item_#item_railgun_10 foaf:name "RailGun Ammunition (1024 kg)" . 
+:item_#item_railgun_10 foaf:name "RailGun Ammunition 1024 kg" . 
 :item_#item_railgun_10 :name_intern "item.#item.railgun.10" . 
 
 :tile_BlockCarvedStone :id "3659"^^xsd:integer . 
@@ -44489,7 +44489,7 @@
 
 :item_null_agricultureGrilledCheeseBurned :id "20256"^^xsd:integer . 
 :item_null_agricultureGrilledCheeseBurned :subId "131"^^xsd:integer . 
-:item_null_agricultureGrilledCheeseBurned foaf:name "Grilled Cheese (Burned)" . 
+:item_null_agricultureGrilledCheeseBurned foaf:name "Grilled Cheese Burned" . 
 :item_null_agricultureGrilledCheeseBurned :name_intern "item.null.agricultureGrilledCheeseBurned" . 
 
 :item_natura_pickaxe_darkwood :id "12687"^^xsd:integer . 
@@ -44514,7 +44514,7 @@
 
 :item_extrautils__builderswand :id "10259"^^xsd:integer . 
 :item_extrautils__builderswand :subId "0"^^xsd:integer . 
-:item_extrautils__builderswand foaf:name "Builder's Wand" . 
+:item_extrautils__builderswand foaf:name "Builders Wand" . 
 :item_extrautils__builderswand :name_intern "item.extrautils:builderswand" . 
 
 :block_log_fusewood :id "3271"^^xsd:integer . 
@@ -44734,7 +44734,7 @@
 
 :tile_mfr_stainedglass_block_brown :id "3129"^^xsd:integer . 
 :tile_mfr_stainedglass_block_brown :subId "12"^^xsd:integer . 
-:tile_mfr_stainedglass_block_brown foaf:name "Stained Glass (Brown)" . 
+:tile_mfr_stainedglass_block_brown foaf:name "Stained Glass Brown" . 
 :tile_mfr_stainedglass_block_brown :name_intern "tile.mfr.stainedglass.block.brown" . 
 
 :item_bread :id "297"^^xsd:integer . 
@@ -44754,7 +44754,7 @@
 
 :tile_customBlocks_anvil :id "1058"^^xsd:integer . 
 :tile_customBlocks_anvil :subId "7"^^xsd:integer . 
-:tile_customBlocks_anvil foaf:name "Blacksmith's Anvil" . 
+:tile_customBlocks_anvil foaf:name "Blacksmiths Anvil" . 
 :tile_customBlocks_anvil :name_intern "tile.customBlocks.anvil" . 
 
 :item_projectred_transmission_wire|24 :id "9046"^^xsd:integer . 
@@ -44769,7 +44769,7 @@
 
 :tile_mfr_conveyor_purple :id "3121"^^xsd:integer . 
 :tile_mfr_conveyor_purple :subId "10"^^xsd:integer . 
-:tile_mfr_conveyor_purple foaf:name "Conveyor Belt (Purple)" . 
+:tile_mfr_conveyor_purple foaf:name "Conveyor Belt Purple" . 
 :tile_mfr_conveyor_purple :name_intern "tile.mfr.conveyor.purple" . 
 
 :tile_sapling_jungle :id "6"^^xsd:integer . 
@@ -44844,7 +44844,7 @@
 
 :item_minerBag :id "13305"^^xsd:integer . 
 :item_minerBag :subId "0"^^xsd:integer . 
-:item_minerBag foaf:name "Miner's Backpack" . 
+:item_minerBag foaf:name "Miners Backpack" . 
 :item_minerBag :name_intern "item.minerBag" . 
 
 :item_mfr_pinkslimeball :id "12287"^^xsd:integer . 
@@ -45024,7 +45024,7 @@
 
 :item_item_slide :id "30781"^^xsd:integer . 
 :item_item_slide :subId "22"^^xsd:integer . 
-:item_item_slide foaf:name "Projector Slide (22)" . 
+:item_item_slide foaf:name "Projector Slide 22" . 
 :item_item_slide :name_intern "item.item.slide" . 
 
 :tile_bop_flowers_daffodil :id "1921"^^xsd:integer . 
@@ -45299,7 +45299,7 @@
 
 :item_mfr_meat_nugget_raw :id "12283"^^xsd:integer . 
 :item_mfr_meat_nugget_raw :subId "0"^^xsd:integer . 
-:item_mfr_meat_nugget_raw foaf:name "Raw "Meat" Nugget" . 
+:item_mfr_meat_nugget_raw foaf:name "Raw Meat Nugget" . 
 :item_mfr_meat_nugget_raw :name_intern "item.mfr.meat.nugget.raw" . 
 
 :tile_blockReactorPart_1 :id "2145"^^xsd:integer . 
@@ -45434,7 +45434,7 @@
 
 :item_CropEssence_em :id "8523"^^xsd:integer . 
 :item_CropEssence_em :subId "8"^^xsd:integer . 
-:item_CropEssence_em foaf:name "§AEmerald Essence" . 
+:item_CropEssence_em foaf:name "AEmerald Essence" . 
 :item_CropEssence_em :name_intern "item.CropEssence.em" . 
 
 :tile_enderchest|0 :id "241"^^xsd:integer . 
@@ -45489,7 +45489,7 @@
 
 :item_mfr_upgrade_radius_emerald :id "12267"^^xsd:integer . 
 :item_mfr_upgrade_radius_emerald :subId "10"^^xsd:integer . 
-:item_mfr_upgrade_radius_emerald foaf:name "Upgrade (Emerald)" . 
+:item_mfr_upgrade_radius_emerald foaf:name "Upgrade Emerald" . 
 :item_mfr_upgrade_radius_emerald :name_intern "item.mfr.upgrade.radius.emerald" . 
 
 :item_component_padlock :id "31953"^^xsd:integer . 
@@ -45504,7 +45504,7 @@
 
 :item_null_agricultureChocolateSauceBurned :id "20256"^^xsd:integer . 
 :item_null_agricultureChocolateSauceBurned :subId "129"^^xsd:integer . 
-:item_null_agricultureChocolateSauceBurned foaf:name "Chocolate Sauce (Burned)" . 
+:item_null_agricultureChocolateSauceBurned foaf:name "Chocolate Sauce Burned" . 
 :item_null_agricultureChocolateSauceBurned :name_intern "item.null.agricultureChocolateSauceBurned" . 
 
 :tile_mfr_machine_rednote :id "3146"^^xsd:integer . 
@@ -45524,7 +45524,7 @@
 
 :item_null_agricultureChocolateChipCookieBurned :id "20256"^^xsd:integer . 
 :item_null_agricultureChocolateChipCookieBurned :subId "128"^^xsd:integer . 
-:item_null_agricultureChocolateChipCookieBurned foaf:name "Chocolate Chip Cookie (Burned)" . 
+:item_null_agricultureChocolateChipCookieBurned foaf:name "Chocolate Chip Cookie Burned" . 
 :item_null_agricultureChocolateChipCookieBurned :name_intern "item.null.agricultureChocolateChipCookieBurned" . 
 
 :item_PipeFluidBasic :id "7158"^^xsd:integer . 
@@ -45609,7 +45609,7 @@
 
 :item_mfr_safarinet_jailer :id "12288"^^xsd:integer . 
 :item_mfr_safarinet_jailer :subId "0"^^xsd:integer . 
-:item_mfr_safarinet_jailer foaf:name "Jailer's Safari Net" . 
+:item_mfr_safarinet_jailer foaf:name "Jailers Safari Net" . 
 :item_mfr_safarinet_jailer :name_intern "item.mfr.safarinet.jailer" . 
 
 :BlueLinedKapokCase :id "2318"^^xsd:integer . 
@@ -45734,7 +45734,7 @@
 
 :item_mfr_laserfocus_lightblue :id "12289"^^xsd:integer . 
 :item_mfr_laserfocus_lightblue :subId "3"^^xsd:integer . 
-:item_mfr_laserfocus_lightblue foaf:name "Laser Focus (Light Blue)" . 
+:item_mfr_laserfocus_lightblue foaf:name "Laser Focus Light Blue" . 
 :item_mfr_laserfocus_lightblue :name_intern "item.mfr.laserfocus.lightblue" . 
 
 :tile_BlockInfusedWool :id "3632"^^xsd:integer . 
@@ -45799,7 +45799,7 @@
 
 :tile_mfr_stainedglass_block_cyan :id "3129"^^xsd:integer . 
 :tile_mfr_stainedglass_block_cyan :subId "9"^^xsd:integer . 
-:tile_mfr_stainedglass_block_cyan foaf:name "Stained Glass (Cyan)" . 
+:tile_mfr_stainedglass_block_cyan foaf:name "Stained Glass Cyan" . 
 :tile_mfr_stainedglass_block_cyan :name_intern "tile.mfr.stainedglass.block.cyan" . 
 
 :tile_null :id "3710"^^xsd:integer . 
@@ -45889,7 +45889,7 @@
 
 :item_thermalexpansion_florb_florbMagmatic :id "20260"^^xsd:integer . 
 :item_thermalexpansion_florb_florbMagmatic :subId "1"^^xsd:integer . 
-:item_thermalexpansion_florb_florbMagmatic foaf:name "Magmatic Florb (Empty§r)" . 
+:item_thermalexpansion_florb_florbMagmatic foaf:name "Magmatic Florb Emptyr" . 
 :item_thermalexpansion_florb_florbMagmatic :name_intern "item.thermalexpansion.florb.florbMagmatic" . 
 
 :item_upgrade_coolingUlt :id "20557"^^xsd:integer . 
@@ -46019,7 +46019,7 @@
 
 :item_item_ultrasound :id "30765"^^xsd:integer . 
 :item_item_ultrasound :subId "0"^^xsd:integer . 
-:item_item_ultrasound foaf:name "Ultrasound (0 kJ)" . 
+:item_item_ultrasound foaf:name "Ultrasound 0 kJ" . 
 :item_item_ultrasound :name_intern "item.item.ultrasound" . 
 
 :tile_null :id "3709"^^xsd:integer . 
@@ -46049,7 +46049,7 @@
 
 :tile_mfr_stainedglass_pane_brown :id "3130"^^xsd:integer . 
 :tile_mfr_stainedglass_pane_brown :subId "12"^^xsd:integer . 
-:tile_mfr_stainedglass_pane_brown foaf:name "Stained Glass Pane (Brown)" . 
+:tile_mfr_stainedglass_pane_brown foaf:name "Stained Glass Pane Brown" . 
 :tile_mfr_stainedglass_pane_brown :name_intern "tile.mfr.stainedglass.pane.brown" . 
 
 :item_modextracts_255 :id "30900"^^xsd:integer . 
@@ -46059,7 +46059,7 @@
 
 :tile_weightedPlate_light :id "147"^^xsd:integer . 
 :tile_weightedPlate_light :subId "0"^^xsd:integer . 
-:tile_weightedPlate_light foaf:name "Weighted Pressure Plate (Light)" . 
+:tile_weightedPlate_light foaf:name "Weighted Pressure Plate Light" . 
 :tile_weightedPlate_light :name_intern "tile.weightedPlate_light" . 
 
 :tile_log :id "3704"^^xsd:integer . 
@@ -46194,7 +46194,7 @@
 
 :item_mfr_ceramicdye_orange :id "12261"^^xsd:integer . 
 :item_mfr_ceramicdye_orange :subId "1"^^xsd:integer . 
-:item_mfr_ceramicdye_orange foaf:name "Ceramic Dye (Orange)" . 
+:item_mfr_ceramicdye_orange foaf:name "Ceramic Dye Orange" . 
 :item_mfr_ceramicdye_orange :name_intern "item.mfr.ceramicdye.orange" . 
 
 :item_TreeDye :id "13056"^^xsd:integer . 
@@ -46349,7 +46349,7 @@
 
 :item_mfr_needlegun_ammo_sewage :id "12297"^^xsd:integer . 
 :item_mfr_needlegun_ammo_sewage :subId "0"^^xsd:integer . 
-:item_mfr_needlegun_ammo_sewage foaf:name "Needlegun Ammo (Sewage)" . 
+:item_mfr_needlegun_ammo_sewage foaf:name "Needlegun Ammo Sewage" . 
 :item_mfr_needlegun_ammo_sewage :name_intern "item.mfr.needlegun.ammo.sewage" . 
 
 :tile_null :id "3709"^^xsd:integer . 
@@ -46479,7 +46479,7 @@
 
 :item_item_slide :id "30781"^^xsd:integer . 
 :item_item_slide :subId "21"^^xsd:integer . 
-:item_item_slide foaf:name "Projector Slide (21)" . 
+:item_item_slide foaf:name "Projector Slide 21" . 
 :item_item_slide :name_intern "item.item.slide" . 
 
 :item_fluidContainer :id "8656"^^xsd:integer . 
@@ -46809,12 +46809,12 @@
 
 :item_item_slide :id "30781"^^xsd:integer . 
 :item_item_slide :subId "12"^^xsd:integer . 
-:item_item_slide foaf:name "Projector Slide (12)" . 
+:item_item_slide foaf:name "Projector Slide 12" . 
 :item_item_slide :name_intern "item.item.slide" . 
 
 :tile_extrautils__colorStoneBrick_4 :id "2504"^^xsd:integer . 
 :tile_extrautils__colorStoneBrick_4 :subId "4"^^xsd:integer . 
-:tile_extrautils__colorStoneBrick_4 foaf:name "Colored Bricks (Yellow)" . 
+:tile_extrautils__colorStoneBrick_4 foaf:name "Colored Bricks Yellow" . 
 :tile_extrautils__colorStoneBrick_4 :name_intern "tile.extrautils:colorStoneBrick.4" . 
 
 :item_null_agricultureToast :id "20256"^^xsd:integer . 
@@ -47089,7 +47089,7 @@
 
 :item_CropEssence_lapis :id "8523"^^xsd:integer . 
 :item_CropEssence_lapis :subId "6"^^xsd:integer . 
-:item_CropEssence_lapis foaf:name "§1Lapis Lazuli Essence" . 
+:item_CropEssence_lapis foaf:name "1Lapis Lazuli Essence" . 
 :item_CropEssence_lapis :name_intern "item.CropEssence.lapis" . 
 
 :TigerCase :id "2336"^^xsd:integer . 
@@ -47199,7 +47199,7 @@
 
 :item_mfr_laserfocus_orange :id "12289"^^xsd:integer . 
 :item_mfr_laserfocus_orange :subId "1"^^xsd:integer . 
-:item_mfr_laserfocus_orange foaf:name "Laser Focus (Orange)" . 
+:item_mfr_laserfocus_orange foaf:name "Laser Focus Orange" . 
 :item_mfr_laserfocus_orange :name_intern "item.mfr.laserfocus.orange" . 
 
 :tile_railcraft_stair_frostbound_cobble :id "464"^^xsd:integer . 
@@ -47289,7 +47289,7 @@
 
 :item_itemUpgrade :id "7122"^^xsd:integer . 
 :item_itemUpgrade :subId "3"^^xsd:integer . 
-:item_itemUpgrade foaf:name "Sneaky Upgrade (SOUTH)" . 
+:item_itemUpgrade foaf:name "Sneaky Upgrade SOUTH" . 
 :item_itemUpgrade :name_intern "item.itemUpgrade" . 
 
 :tile_energy_pipe :id "4077"^^xsd:integer . 
@@ -47464,7 +47464,7 @@
 
 :item_titaniumBucket :id "20569"^^xsd:integer . 
 :item_titaniumBucket :subId "0"^^xsd:integer . 
-:item_titaniumBucket foaf:name "§6Titanium Bucket" . 
+:item_titaniumBucket foaf:name "6Titanium Bucket" . 
 :item_titaniumBucket :name_intern "item.titaniumBucket" . 
 
 :tile_alveary_0 :id "1382"^^xsd:integer . 
@@ -47554,7 +47554,7 @@
 
 :item_item_slide :id "30781"^^xsd:integer . 
 :item_item_slide :subId "2"^^xsd:integer . 
-:item_item_slide foaf:name "Projector Slide (2)" . 
+:item_item_slide foaf:name "Projector Slide 2" . 
 :item_item_slide :name_intern "item.item.slide" . 
 
 :tile_railcraft_glasscolor_yellow :id "474"^^xsd:integer . 
@@ -47589,7 +47589,7 @@
 
 :item_mfr_safarinet_singleuse :id "12264"^^xsd:integer . 
 :item_mfr_safarinet_singleuse :subId "0"^^xsd:integer . 
-:item_mfr_safarinet_singleuse foaf:name "Safari Net (Single-Use)" . 
+:item_mfr_safarinet_singleuse foaf:name "Safari Net Single-Use" . 
 :item_mfr_safarinet_singleuse :name_intern "item.mfr.safarinet.singleuse" . 
 
 :item_factorization__daybarrel :id "9318"^^xsd:integer . 
