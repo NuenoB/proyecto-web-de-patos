@@ -98,60 +98,62 @@ def main():
           outfile.write ("@prefix : <http://example.com/> .")
           writeline()
           writeline()
+          i = 0
           for raw,dict in recipies:
-                to_turtle (outfile ,dict,raw)
+                to_turtle(outfile, dict, raw, "recipe"+i)
+                i += 1
 
 
 
-def to_turtle(out,recipie,raw):
+def to_turtle(out,recipie,raw, recipeId):
     raw = raw[13:-1]
-    def writethe9Ingredients(out,recipie,raw):
-        out.write (":" + recipie['upperleft'] + " :upperLeftIngredientOf " + ":" + raw +".\n"  )
-        out.write (":" + recipie['middleleft'] + " :middleLeftIngredientOf " + ":" + raw +".\n"  )
-        out.write (":" + recipie['lowleft'] + " :lowLeftIngredientOf " + ":" + raw +".\n"  )
-        out.write (":" + recipie['uppermiddle'] + " :upperMiddleIngredientOf " + ":" + raw +".\n"  )
-        out.write (":" + recipie['middlemiddle'] + " :middleMiddleIngredientOf " + ":" + raw +".\n"  )
-        out.write (":" + recipie['lowmiddle'] + " :lowMiddleIngredientOf " + ":" + raw +".\n"  )
-        out.write (":" + recipie['upperright'] + " :upperRightIngredientOf " + ":" + raw +".\n"  )
-        out.write (":" + recipie['middleright'] + " :middleRightIngredientOf " + ":" + raw +".\n"  )
-        out.write (":" + recipie['lowright'] + " :lowRightIngredientOf " + ":" + raw +".\n"  )
+    def writethe9Ingredients(out,recipie,recipeId):
+        out.write (":" + recipie['upperleft'] + " :upperLeftIngredientOf " + ":" + recipeId +".\n"  )
+        out.write (":" + recipie['middleleft'] + " :middleLeftIngredientOf " + ":" + recipeId +".\n"  )
+        out.write (":" + recipie['lowleft'] + " :lowLeftIngredientOf " + ":" + recipeId +".\n"  )
+        out.write (":" + recipie['uppermiddle'] + " :upperMiddleIngredientOf " + ":" + recipeId +".\n"  )
+        out.write (":" + recipie['middlemiddle'] + " :middleMiddleIngredientOf " + ":" + recipeId +".\n"  )
+        out.write (":" + recipie['lowmiddle'] + " :lowMiddleIngredientOf " + ":" + recipeId +".\n"  )
+        out.write (":" + recipie['upperright'] + " :upperRightIngredientOf " + ":" + recipeId +".\n"  )
+        out.write (":" + recipie['middleright'] + " :middleRightIngredientOf " + ":" + recipeId +".\n"  )
+        out.write (":" + recipie['lowright'] + " :lowRightIngredientOf " + ":" + recipeId +".\n"  )
 
-    def writeonlynotNull(out,recipie,raw):
+    def writeonlynotNull(out,recipie,recipeId):
         if recipie['upperleft'] != "(None)":
-            out.write (":" + recipie['upperleft'] + " :upperLeftIngredientOf " + ":" + raw +".\n"  )
+            out.write (":" + recipie['upperleft'] + " :ingredientOf " + ":" + recipeId +".\n"  )
         if recipie['middleleft'] != "(None)":
-            out.write (":" + recipie['middleleft'] + " :middleLeftIngredientOf " + ":" + raw +".\n"  )
+            out.write (":" + recipie['middleleft'] + " :ingredientOf " + ":" + recipeId +".\n"  )
         if recipie['lowleft'] != "(None)":
-            out.write (":" + recipie['lowleft'] + " :lowLeftIngredientOf " + ":" + raw +".\n"  )
+            out.write (":" + recipie['lowleft'] + " :ingredientOf " + ":" + recipeId +".\n"  )
         if recipie['uppermiddle'] != "(None)":
-            out.write (":" + recipie['uppermiddle'] + " :upperMiddleIngredientOf " + ":" + raw +".\n"  )
+            out.write (":" + recipie['uppermiddle'] + " :ingredientOf " + ":" + recipeId +".\n"  )
         if recipie['middlemiddle'] != "(None)":
-            out.write (":" + recipie['middlemiddle'] + " :middleMiddleIngredientOf " + ":" + raw +".\n"  )
+            out.write (":" + recipie['middlemiddle'] + " :ingredientOf " + ":" + recipeId +".\n"  )
         if recipie['lowmiddle'] != "(None)":
-            out.write (":" + recipie['lowmiddle'] + " :lowMiddleIngredientOf " + ":" + raw +".\n"  )
+            out.write (":" + recipie['lowmiddle'] + " :ingredientOf " + ":" + recipeId +".\n"  )
         if recipie['upperright'] != "(None)":
-            out.write (":" + recipie['upperright'] + " :upperRightIngredientOf " + ":" + raw +".\n"  )
+            out.write (":" + recipie['upperright'] + " :ingredientOf " + ":" + recipeId +".\n"  )
         if recipie['middleright'] != "(None)":
-            out.write (":" + recipie['middleright'] + " :middleRightIngredientOf " + ":" + raw +".\n"  )
+            out.write (":" + recipie['middleright'] + " :ingredientOf " + ":" + recipeId +".\n"  )
         if recipie['lowright'] != "(None)":
-            out.write (":" + recipie['lowright'] + " :lowRightIngredientOf " + ":" + raw +".\n"  )
+            out.write (":" + recipie['lowright'] + " :ingredientOf " + ":" + recipeId +".\n"  )
 
     if recipie['type'] == "shaped":
-            out.write (":" + raw + " a :ShapedRecipe .\n"  )
-            writethe9Ingredients(out,recipie,raw)
+            out.write (":" + recipeId + " a :ShapedRecipe .\n"  )
+            writethe9Ingredients(out,recipie,recipeId)
     elif recipie['type'] == "shapeless":
-            out.write (":" + raw + " a :ShapelessRecipe .\n"  )
-            writeonlynotNull(out,recipie,raw)
+            out.write (":" + recipeId + " a :ShapelessRecipe .\n"  )
+            writeonlynotNull(out,recipie,recipeId)
     elif recipie['type'] == "shapelessore":
-            out.write (":" + raw + " a :ShapelessOreRecipe .\n"  )
-            writeonlynotNull(out,recipie,raw)
+            out.write (":" + recipeId + " a :ShapelessOreRecipe .\n"  )
+            writeonlynotNull(out,recipie,recipeId)
     elif recipie['type'] == "shapedore":
-            out.write (":" + raw + " a :ShapedOreRecipe .\n"  )
-            writethe9Ingredients(out,recipie,raw)
+            out.write (":" + recipeId + " a :ShapedOreRecipe .\n"  )
+            writethe9Ingredients(out,recipie,recipeId)
     elif recipie['type'] == "furnace":
-            out.write (":" + raw + " a :FurnaceRecipe .\n"  )
-            writeonlynotNull(out,recipie,raw)
-    out.write (":"+ recipie['result'] + " :productOf " +":" + raw + ".\n" )
+            out.write (":" + recipeId + " a :FurnaceRecipe .\n"  )
+            writeonlynotNull(out,recipie,recipeId)
+    out.write (":"+ recipie['result'] + " :productOf " +":" + recipeId + ".\n" )
     out.write("\n" )
     out.write("\n" )
 
