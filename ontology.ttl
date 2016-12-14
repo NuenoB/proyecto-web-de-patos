@@ -2,7 +2,8 @@
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
-@prefix rdfs: <http://www.w3.org/2000/01/rdf‐schema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix : <http://example.org/> .
 
 :Recipe a rdfs:Class .
@@ -18,7 +19,7 @@
 
 :ingredientOf a rdfs:Property .
 :ingredientOf rdfs:domain :Ingredient .
-:ingredientOf rdfs:range :Recipe
+:ingredientOf rdfs:range :Recipe .
 
 :upperLeftIngredientOf rdfs:subpropertyOf :ingredientOf .
 :upperMiddleIngredientOf rdfs:subpropertyOf :ingredientOf .
@@ -41,11 +42,11 @@
 :oreDictContains rdfs:range :Items .
 
 :id a rdf:Property .
-:oreDictContains rdfs:domain :Items .
-:oreDictContains rdfs:range xsd:integer .
+:id rdfs:domain :Items .
+:id rdfs:range xsd:integer .
 
 :subId a rdf:Property .
-:oreDictContains rdfs:domain :Items .
-:oreDictContains rdfs:range xsd:integer .
+:subId rdfs:domain :Items .
+:subId rdfs:range xsd:integer .
 
 :name_intern rdfs:subPropertyOf foaf:name .
