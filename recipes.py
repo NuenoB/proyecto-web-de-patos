@@ -100,7 +100,7 @@ def main():
           writeline()
           i = 0
           for raw,dict in recipies:
-                to_turtle(outfile, dict, raw, "recipe"+i)
+                to_turtle(outfile, dict, raw, "recipe"+str(i))
                 i += 1
 
 
